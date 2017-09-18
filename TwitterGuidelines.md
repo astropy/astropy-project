@@ -1,6 +1,7 @@
 Guidelines for tweeting from the [@astropy](https://twitter.com/astropy) account.
 # General
 - Use "we"
+- Use a general voice and avoid personal pronouns, e.g., "you"
 
 # Announcements 
 - Share information related to version releases
