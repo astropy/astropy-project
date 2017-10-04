@@ -7,6 +7,8 @@ Guidelines for tweeting from the [@astropy](https://twitter.com/astropy) account
 - Share information related to version releases
 - Promote milestones in the project
 - Advertise activities at workshops, conferences, Google Summer of Code
+- Give a shoutout when people get their first PR merged.
+- Highlight specific people when there are new releases or big PRs merged.
 
 Examples:
 - *We’re 2 new committers away from 200 contributors - come join the comunity! Check here for open, low-effort issues https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3AEffort-low*
