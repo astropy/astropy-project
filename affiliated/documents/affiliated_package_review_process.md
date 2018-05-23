@@ -8,7 +8,7 @@ on proposing an affiliated package, see **Becoming an Affiliated Package** on
 
 ### Proposing an affiliated package
 
-*These are written as if to the affiliated package author*
+*Note that this section is written as if to the affiliated package author*
 
 Once you believe your package is ready to submit for review by the
 Astropy project, you should open a pull request to the
@@ -79,4 +79,38 @@ package, then click on **Create pull request**:
 Once this is done, send an email to https://groups.google.com/forum/#!forum/astropy-dev
 (which is the main developer list) to introduce your package and say that
 you would like it to be considered as an affiliated package. Make sure you
-include a link to the pull request you opened above.
+include a link to the pull request you opened above. Once you've done this,
+you're all set! The next steps are the review, for which the results will be
+posted on the pull request and also in a reply to your email.
+
+### Reviewing affiliated packages
+
+One of the coordination committee members will be in charge of the review
+process (not necessarily the same person for each package). This coordination
+committee member (hereafter the *coordinator* will find someone to carry out
+the main review of the package (hereafter the *reviewer*).
+The pool of available reviewers will be anyone who has an official 'role'
+on [this page](http://www.astropy.org/team.html).
+
+The coordinator sends out an email to possible reviewers
+one at a time to find someone who is willing to review the package (template at the bottom of this document). Let them
+know at this point that the coordinator will also be doing a review and
+synthesizing the results into a single review. Once a reviewer
+accepts, the coordinator sends them an email with
+detailed review instructions (template at the bottom of this document). The coordinator then leaves a message on
+the pull request saying:
+
+*Thank you for proposing this package as an affiliated package! I'm happy to
+confirm that your package is now under review and we'll post the results of
+the review here and on the mailing list.*
+
+Once the reviewer has finished, they send their review back by email to the
+coordinator, who then does their own review and then writes up a review
+using the review template which includes a table with badges (template at the bottom of this document).
+They then share it with the other coordination committee members to 
+check for consensus. The review including the final decision (accept or reject) is then posted on the original pull
+request. If the package is rejected, the original author has a week to respond to any of the points in the review, and the coordinator may decide to change the decision.
+
+Once a final decision has been made, the coordinator sends a reply to the astropy-dev email to confirm the decision.
+
+If the package is accepted, the coordinator also edits the pull request to add the results to the review to the JSON file. Once the continuous integration passes, the pull request is merged.
