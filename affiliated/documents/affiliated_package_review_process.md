@@ -1,4 +1,4 @@
-## Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
+# Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
 
 This document describes the procedure for proposing, reviewing, and making a
 decision about Astropy-affiliated packages. This is meant as a record of the
@@ -6,7 +6,7 @@ procedure and not the first place people should go to for - for instructions
 on proposing an affiliated package, see **Becoming an Affiliated Package** on
 [this](http://www.astropy.org/affiliated/index.html) page.
 
-### Proposing an affiliated package
+## Proposing an affiliated package
 
 *Note that this section is written as if to the affiliated package author*
 
@@ -83,7 +83,7 @@ include a link to the pull request you opened above. Once you've done this,
 you're all set! The next steps are the review, for which the results will be
 posted on the pull request and also in a reply to your email.
 
-### Reviewing affiliated packages
+## Reviewing affiliated packages
 
 *These instructions are intended for coordinators and reviewers*
 
@@ -120,3 +120,11 @@ astropy-dev email to confirm the decision. If the package is accepted, the
 coordinator then also edits the pull request to add the results to the review to
 the JSON file. Once the continuous integration passes, the pull request is
 merged.
+
+## Templates
+
+### Template email with review request
+
+### Template email with review instructions
+
+### Template review markdown
