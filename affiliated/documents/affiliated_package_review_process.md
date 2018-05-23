@@ -85,6 +85,8 @@ posted on the pull request and also in a reply to your email.
 
 ### Reviewing affiliated packages
 
+*These instructions are intended for coordinators and reviewers*
+
 One of the coordination committee members will be in charge of the review
 process (not necessarily the same person for each package). This coordination
 committee member (hereafter the *coordinator* will find someone to carry out the
