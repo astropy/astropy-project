@@ -44,8 +44,8 @@ details:
          "devstatus": "To be filled out by the reviewer",
          "python3": "To be filled out by the reviewer",
          "last-updated": "To be filled out by the reviewer"
-     }
-   },
+      }
+    },
 
 then add it at the top of the ``registry.json`` file, starting on line 3,
 after:
