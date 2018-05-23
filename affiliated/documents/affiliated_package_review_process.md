@@ -21,7 +21,9 @@ which takes you directly to an editor. If you get a message saying **You need
 to fork this repository to propose changes** then click on the green button
 to confirm the forking:
 
-![commit](images/propose_fork.png)
+<p align="center">
+  <img src="images/propose_fork.png" alt="fork" width="600">
+</p>
 
 Copy the following template entry and fill out the
 details:
@@ -55,18 +57,24 @@ Once this is done, under **Propose file change** you can enter a short
 description for the commit then click on the green **Propose file change**
 button:
 
-![commit](images/propose_commit.png)
+<p align="center">
+  <img src="images/propose_commit.png" alt="commit" width="650">
+</p>
 
 On the next screen, check the changes you made, and click on the green
 **Create pull request** button:
 
-![commit](images/propose_create_1.png)
+<p align="center">
+  <img src="images/propose_create_1.png" alt="create_1" width="600">
+</p>
 
 Finally, give a title to the pull request such as **Proposed affiliated
 package: your package name** and include a short description of the
 package, then click on **Create pull request**:
 
-![commit](images/propose_create_2.png)
+<p align="center">
+  <img src="images/propose_create_2.png" alt="create_2" width="600">
+</p>
 
 Once this is done, send an email to https://groups.google.com/forum/#!forum/astropy-dev
 (which is the main developer list) to introduce your package and say that
