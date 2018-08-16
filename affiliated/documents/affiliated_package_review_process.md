@@ -89,18 +89,18 @@ posted on the pull request and also in a reply to your email.
 
 One of the coordination committee members will be in charge of the review
 process (not necessarily the same person for each package). This coordination
-committee member (hereafter the *coordinator* will find someone to carry out the
+committee member (hereafter the *coordinator*) will find someone to carry out the
 main review of the package (hereafter the *reviewer*). The pool of available
-reviewers will be anyone who has an official 'role' on [this
-page](http://www.astropy.org/team.html).
+reviewers will be anyone who has an official role on
+[the Astropy team](http://www.astropy.org/team.html).
 
 The coordinator sends out an email to possible reviewers one at a time to find
-someone who is willing to review the package (template at the bottom of this
-document). Let them know at this point that the coordinator will also be doing a
-review and synthesizing the results into a single review. Once a reviewer
-accepts, the coordinator sends them an email with detailed review instructions
-(template at the bottom of this document). The coordinator then leaves a message
-on the pull request saying:
+someone who is willing to review the package, using the template at the bottom
+of this document. Let them know at this point that the coordinator will also be
+doing a review and synthesizing the results into a single review. Once a
+reviewer accepts, the coordinator sends them an email with detailed review
+instructions, using the template at the bottom of this document. The coordinator
+then leaves a message on the pull request saying:
 
 *Thank you for proposing this package as an affiliated package! I'm happy to
 confirm that your package is now under review and we'll post the results of
@@ -112,14 +112,16 @@ the review template which includes a table with badges (template at the bottom
 of this document). They then share it with the other coordination committee
 members to check for consensus. The review including the final decision (accept
 or reject) is then posted on the original pull request. If the package is
-rejected, the original author has a week to respond to any of the points in the
+rejected, the original author has a month to respond to any of the points in the
 review, and the coordinator may decide to change the decision.
 
-Once a final decision has been made, the coordinator sends a reply to the
-astropy-dev email to confirm the decision. If the package is accepted, the
-coordinator then also edits the pull request to add the results to the review to
-the JSON file. Once the continuous integration passes, the pull request is
-merged.
+If the package is accepted, the coordinator sends a reply to the astropy-dev
+email to publish the decision, then also edits the pull request to add the
+results to the review to the JSON file. Once the continuous integration passes,
+the pull request is merged.
+
+If the package is rejected, the decision is posted to the pull request, and the
+pull request is closed.
 
 ## Templates
 
