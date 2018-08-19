@@ -1,22 +1,25 @@
-# Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
+ # Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
 
 This document describes the procedure for proposing, reviewing, and making a
 decision about Astropy-affiliated packages. This is meant as a record of the
 procedure and not the first place people should go to for - for instructions
-on proposing an affiliated package, see 
-[**Becoming an Affiliated Package**](http://www.astropy.org/affiliated/index.html#affiliated-instructions).
+on proposing an affiliated package, see **Becoming an Affiliated Package** on
+[this](http://www.astropy.org/affiliated/index.html) page.
 
 ## Proposing an affiliated package
-*Instructions for the package author*
+
+*Note that this section is written as if to the affiliated package author*
 
 Once you believe your package is ready to submit for review by the
-Astropy project, open a pull request to the
+Astropy project, you should open a pull request to the
 [astropy.github.com](https://github.com/astropy/astropy.github.com)
 repository, modifying the ``affiliated/registry.json`` file to add details
-about your own package. If you are not comfortable with git, you can do this by 
-[editing the file directly](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json). 
-If you get a message saying **You need to fork this repository to propose changes** 
-then click on the green button to confirm the forking:
+about your own package. If you are not comfortable with git, you can do this
+easily by accessing [this
+link](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json)
+which takes you directly to an editor. If you get a message saying **You need
+to fork this repository to propose changes** then click on the green button
+to confirm the forking:
 
 <p align="center">
   <img src="images/propose_fork.png" alt="fork" width="600">
@@ -50,15 +53,15 @@ after:
     {
       "packages": [
 
-Next, under **Propose file change**, enter a short
-description for the commit and then click on the green **Propose file change**
+Once this is done, under **Propose file change** you can enter a short
+description for the commit then click on the green **Propose file change**
 button:
 
 <p align="center">
   <img src="images/propose_commit.png" alt="commit" width="650">
 </p>
 
-On the next screen, check the changes you made, and if all is well, click on the green
+On the next screen, check the changes you made, and click on the green
 **Create pull request** button:
 
 <p align="center">
@@ -73,16 +76,16 @@ package, then click on **Create pull request**:
   <img src="images/propose_create_2.png" alt="create_2" width="600">
 </p>
 
-Finally, once the Pull Request is created, send an email to 
-https://groups.google.com/forum/#!forum/astropy-dev
-(which is the main developer list) to introduce your package and ask that 
-it be considered as an affiliated package. Make sure you
+Once this is done, send an email to https://groups.google.com/forum/#!forum/astropy-dev
+(which is the main developer list) to introduce your package and say that
+you would like it to be considered as an affiliated package. Make sure you
 include a link to the pull request you opened above. Once you've done this,
-you're all set! After the review is complete, the results will be
-posted on the pull request and in a reply to your email.
+you're all set! The next steps are the review, for which the results will be
+posted on the pull request and also in a reply to your email.
 
 ## Reviewing affiliated packages
-*Instructions for the coordinators and reviewers*
+
+*These instructions are intended for coordinators and reviewers*
 
 One of the coordination committee members will be in charge of the review
 process (not necessarily the same person for each package). This coordination
@@ -101,7 +104,7 @@ then leaves a message on the pull request saying:
 
 *Thank you for proposing this package as an affiliated package! I'm happy to
 confirm that your package is now under review and we'll post the results of
-the review here and on the astropy-dev mailing list.*
+the review here and on the mailing list.*
 
 Once the reviewer has finished, they send their review back by email to the
 coordinator, who then does their own review and then writes up a review using
@@ -124,6 +127,46 @@ pull request is closed.
 
 ### Template email with review request
 
+Dear/Hi <potential reviewer>
+
+The Astropy project has received a request to consider the following as an
+affiliated package:
+
+Name:
+Description:
+Repository:
+
+I am reaching out to ask whether you would be happy to review this package for
+us?
+
+To provide some background, an affiliated package is an astronomy-related Python
+package that is not part of the astropy core package, but is part of the Astropy
+Project community. Such as package demonstrate a commitment to Astropy’s goals
+of improving reuse, interoperability, and interface standards for Python
+astronomy and astrophysics packages.
+
+Reviewing a package involves reading over the documentation, having a look at
+the code to assess for example readability (but not read it line by line), as
+well as checking how well the package is tested. Most packages can be reviewed
+within an hour. If you accept this review, we will send you a detailed list of
+criteria to check for the package as well as how to submit your review.
+
+Could you reply to this email to let us know if you would be happy to review
+this package?
+
+Thanks!
+<coordinator name>
+
 ### Template email with review instructions
+
+Dear/Hi <review name>,
+
+Thank you for accepting to review the following package for the Astropy project:
+
+Name:
+Description:
+Repository:
+
+<review guidelines here>
 
 ### Template review markdown
