@@ -8,10 +8,10 @@ on proposing an affiliated package, see **Becoming an Affiliated Package** on
 
 ## Proposing an affiliated package
 
-*Note that this section is written as if to the affiliated package author*
+*Note that tthis section is for affiliated package authors*
 
-Once you believe your package is ready to submit for review by the
-Astropy project, you should open a pull request to the
+Once you believe your package is ready to be reviewed by the
+Astropy Project, you should open a pull request to the
 [astropy.github.com](https://github.com/astropy/astropy.github.com)
 repository, modifying the ``affiliated/registry.json`` file to add details
 about your own package. If you are not comfortable with git, you can do this
@@ -85,13 +85,17 @@ posted on the pull request and also in a reply to your email.
 
 ## Reviewing affiliated packages
 
-*These instructions are intended for coordinators and reviewers*
+*These instructions are for coordinators and reviewers*
 
 One of the coordination committee members will be in charge of the review
 process (not necessarily the same person for each package). This coordination
-committee member (hereafter the *coordinator*) will find someone to carry out the
-main review of the package (hereafter the *reviewer*). The pool of available
-reviewers will be anyone who has an official role on
+committee member (hereafter the *coordinator*) will find someone to carry out
+the main review of the package (hereafter the *reviewer*). In this sense the
+role  of the coordinator is similar to that of a journal editor.  However
+this is only partially true, because the coordinator (speaking for the
+coordination committee as a whole) may add their views to the review, unlike a
+journal editor who is often strictly impartial on the review itself.
+The pool of available reviewers will be anyone who has an official role on
 [the Astropy team](http://www.astropy.org/team.html).
 
 The coordinator sends out an email to possible reviewers one at a time to find
@@ -136,8 +140,7 @@ Name:
 Description:
 Repository:
 
-I am reaching out to ask whether you would be happy to review this package for
-us?
+I am reaching out to ask whether you would be willing to review this package.
 
 To provide some background, an affiliated package is an astronomy-related Python
 package that is not part of the astropy core package, but is part of the Astropy
@@ -146,8 +149,9 @@ of improving reuse, interoperability, and interface standards for Python
 astronomy and astrophysics packages.
 
 Reviewing a package involves reading over the documentation, having a look at
-the code to assess for example readability (but not read it line by line), as
-well as checking how well the package is tested. Most packages can be reviewed
+the code to assess for example readability (but not read it line by line),
+checking how well the package is tested, as well as assessing its integration
+with the Astropy and wider astronomy ecosystem. Most packages can be reviewed
 within an hour. If you accept this review, we will send you a detailed list of
 criteria to check for the package as well as how to submit your review.
 
@@ -167,6 +171,6 @@ Name:
 Description:
 Repository:
 
-<review guidelines here>
+<review guidelines from https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md here>
 
 ### Template review markdown
