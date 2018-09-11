@@ -3,21 +3,18 @@
 This document describes the procedure for proposing, reviewing, and making a
 decision about Astropy-affiliated packages. This is meant as a record of the
 procedure and not the first place people should go to for - for instructions
-on proposing an affiliated package, see **Becoming an Affiliated Package** on
-[this](http://www.astropy.org/affiliated/index.html) page.
+on proposing an affiliated package, see [**Becoming an Affiliated Package**](http://www.astropy.org/affiliated/index.html).
 
 ## Proposing an affiliated package
 
-*Note that tthis section is for affiliated package authors*
+*These instructions are for affiliated package authors*
 
 Once you believe your package is ready to be reviewed by the
-Astropy Project, you should open a pull request to the
+Astropy Project, open a pull request to the
 [astropy.github.com](https://github.com/astropy/astropy.github.com)
 repository, modifying the ``affiliated/registry.json`` file to add details
-about your own package. If you are not comfortable with git, you can do this
-easily by accessing [this
-link](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json)
-which takes you directly to an editor. If you get a message saying **You need
+about your own package. If you are not comfortable with git, you can do this by using [an editor](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json).
+If you get a message saying **You need
 to fork this repository to propose changes** then click on the green button
 to confirm the forking:
 
@@ -155,7 +152,7 @@ with the Astropy and wider astronomy ecosystem. Most packages can be reviewed
 within an hour. If you accept this review, we will send you a detailed list of
 criteria to check for the package as well as how to submit your review.
 
-Could you reply to this email to let us know if you would be happy to review
+Could you reply to this email to let us know if you would be willing to review
 this package?
 
 Thanks!
