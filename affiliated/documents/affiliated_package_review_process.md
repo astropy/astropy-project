@@ -168,6 +168,108 @@ Name:
 Description:
 Repository:
 
-<review guidelines from https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md here>
+You can find our review guidelines at the following address:
+
+  https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
+
+Thanks!
+<coordinator name>
 
 ### Template review markdown
+
+This package has been reviewed for inclusion in the Astropy affiliated package
+ecosystem by a member of the Astropy community as well as myself, and I have
+synthesized the results of the review here.
+
+You can find out more about our review criteria in
+[Reviewing affiliated packages](https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md)
+For each of the review categories below we have listed the score and have
+included some comments when the score is not green.
+
+*Remove the badges that aren't needed:*
+
+<table>
+<tr><td><b>Functionality/Scope</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#functionality-functionality">
+<img src="https://img.shields.io/badge/Out%20of%20scope-red.svg" alt="Out of scope">
+<img src="https://img.shields.io/badge/Specialized%20package-brightgreen.svg" alt="Specialized package">
+<img src="https://img.shields.io/badge/General%20package-brightgreen.svg" alt="General package">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+<tr><td><b>Integration with Astropy ecosystem</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#integration-with-astropy-ecosystem--ecointegration">
+<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
+<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+<tr><td><b>Documentation</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#documentation-documentation">
+<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
+<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+<tr><td><b>Testing</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#testing-testing">
+<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
+<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+<tr><td><b>Development status</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#development-status-devstatus">
+<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Heavy%20development-orange.svg" alt="Heavy Development">
+<img src="https://img.shields.io/badge/Functional%20but%20unmaintained-orange.svg" alt="Functional but unmaintained">
+<img src="https://img.shields.io/badge/Functional%20but%20low%20activity-orange.svg" alt="Functional but low activity">
+<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+<tr><td><b>Python 3 compatibility</b></td><td>
+<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#python-3-compatibility-python3">
+<img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
+<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
+<img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
+</a></td></tr>
+
+<tr><td colspan=2><i>No further comments</i></td></tr>
+
+</table>
+
+*If accepted with all green:*
+
+**Summary/Decision**: Everything looks great, and we're happy to confirm that
+this package is accepted as an affiliated package! :trophy:
+
+*If accepted with some orange:*
+
+**Summary/Decision**: This package meets the review criteria for affiliated
+packages, so we are happy to confirm that we'll be listing your package as an
+affiliated package! Keep up the good work, and we encourage you to improve on
+the areas above that weren't “green” yet.
+
+*If there is any red:*
+
+**Summary/Decision**: Thanks for your work on this package! At the moment, we
+found some issues in some of the review areas. As per the review guidelines, we
+therefore won't be able to accept this package as an affiliated package yet.
+We will leave this pull request open for a month in case you would like to
+respond to the comments and/or address any of them.
+
+*In all cases:*
+
+If you have any follow-up questions or disagree with any of the comments above,
+leave a comment and we can discuss it here. At any point in future you can
+request a re-review of the package if you believe any of the scores should be
+updated - contact the coordination committee, and we’ll do a new review.
