@@ -134,7 +134,9 @@ The Astropy project has received a request to consider the following as an
 affiliated package:
 
 Name:
+
 Description:
+
 Repository:
 
 I am reaching out to ask whether you would be willing to review this package.
@@ -165,7 +167,9 @@ Dear/Hi *reviewer name*,
 Thank you for accepting to review the following package for the Astropy project:
 
 Name:
+
 Description:
+
 Repository:
 
 You can find our review guidelines at the following address:
