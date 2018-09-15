@@ -128,7 +128,7 @@ pull request is closed.
 
 ### Template email with review request
 
-Dear/Hi <potential reviewer>
+Dear/Hi *potential reviewer*,
 
 The Astropy project has received a request to consider the following as an
 affiliated package:
@@ -160,7 +160,7 @@ Thanks!
 
 ### Template email with review instructions
 
-Dear/Hi <review name>,
+Dear/Hi *reviewer name*,
 
 Thank you for accepting to review the following package for the Astropy project:
 
@@ -177,6 +177,7 @@ Thanks!
 
 ### Template review markdown
 
+```
 This package has been reviewed for inclusion in the Astropy affiliated package
 ecosystem by a member of the Astropy community as well as myself, and I have
 synthesized the results of the review here.
@@ -273,3 +274,4 @@ If you have any follow-up questions or disagree with any of the comments above,
 leave a comment and we can discuss it here. At any point in future you can
 request a re-review of the package if you believe any of the scores should be
 updated - contact the coordination committee, and we’ll do a new review.
+```
