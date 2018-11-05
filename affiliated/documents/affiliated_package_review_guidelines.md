@@ -113,7 +113,7 @@ it exists) and see how the package fares:
 
 In our terminology, “tests” refer to those that can be run in an automated way,
 and we do not consider examples that need to be run and/or checked manually to
-be acceptable as “tests”
+be acceptable as the primary way of satisfying “tests”
 
 <table>
 <tr>
