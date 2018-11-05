@@ -1,9 +1,22 @@
 # Reviewing affiliated packages
 
-This document describes the set of review criteria for packages applying to
-become Astropy affiliated.
+If you are reading this because you have accepted to review an affiliated
+package submission, thank you for taking the time to do this!
 
-Note that we use the following color-coding, which also determines if a package is accepted after its first review:
+Note that unlike for a paper where the reviews from the referee are passed on to
+the authors, one of the coordinators will also review the package and will
+create a combined report, so the report you write will not be seen by the
+authors as-is. Reports should be emailed privately back to the coordinator that
+contacted you.
+
+Reviewing a package involves assessing how well the package does in several
+areas, which we outline below. However, feel free to bring up any other aspect
+which you think is important. For the categories below, you can let us know
+which of the 'traffic light' levels you think the package should be rated as, in
+addition to providing comments in cases where things aren't perfect.
+
+In general we use the following color-coding, which also determines if a package
+is accepted after its first review:
 
 <table>
 <tr>
@@ -22,7 +35,7 @@ Note that we use the following color-coding, which also determines if a package 
 
 The document also includes ``monospaced keywords`` for the categories and levels.  These are the keywords and values to be used in the [registry.json](http://www.astropy.org/affiliated/registry.json) file that is the canonical source for affiliated package information.
 
-The categories and levels are the following:
+The categories in which we assess the package are the following:
 
 * Functionality (``'functionality'``)
 * Integration with Astropy ecosystem  (``'ecointegration'``)
@@ -54,6 +67,9 @@ Note that general is not necessary better than specific, it’s just a way to ma
 
 ### Integration with Astropy ecosystem  ('ecointegration')
 
+Next up, we need to check how well the package fits in to the existing Astropy
+ecosystem - does it make use of existing functionality, or does it duplicate it?
+
 <table>
 <tr>
 <td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
@@ -70,6 +86,9 @@ Note that general is not necessary better than specific, it’s just a way to ma
 </table>
 
 ### Documentation ('documentation')
+
+No code is complete without documentation! Take a look at the documentation (if
+it exists) and see how the package fares:
 
 <table>
 <tr>
@@ -88,7 +107,9 @@ Note that general is not necessary better than specific, it’s just a way to ma
 
 ### Testing ('testing')
 
-Note: In our terminology, “tests” refer to those that can be run in an automated way, and we do not consider examples that need to be run and/or checked manually to be acceptable as “tests”
+In our terminology, “tests” refer to those that can be run in an automated way,
+and we do not consider examples that need to be run and/or checked manually to
+be acceptable as “tests”
 
 <table>
 <tr>
@@ -105,7 +126,9 @@ Note: In our terminology, “tests” refer to those that can be run in an autom
 </tr>
 </table>
 
-Note that test coverage can be tricky to measure, so this will be carefully assessed for each package. We will not publish coverage percentages but rather indicate use the badges above to indicate whether it it low, medium or high compared to what one might realistically achieve.
+Test coverage can be tricky to measure, so this will be carefully assessed for
+each package. The main idea is to determine whether it is low, medium or high
+compared to what one might realistically achieve.
 
 ### Development status ('devstatus')
 

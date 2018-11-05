@@ -128,16 +128,17 @@ pull request is closed.
 
 ### Template email with review request
 
+Subject: Reviewing an Astropy-affiliated package submission
+
 Dear/Hi *potential reviewer*,
 
 The Astropy project has received a request to consider the following as an
 affiliated package:
 
 Name:
-
 Description:
-
 Repository:
+Documentation:
 
 I am reaching out to ask whether you would be willing to review this package.
 
@@ -151,14 +152,15 @@ Reviewing a package involves reading over the documentation, having a look at
 the code to assess for example readability (but not read it line by line),
 checking how well the package is tested, as well as assessing its integration
 with the Astropy and wider astronomy ecosystem. Most packages can be reviewed
-within an hour. If you accept this review, we will send you a detailed list of
-criteria to check for the package as well as how to submit your review.
+within an hour and reviews are anonymous by default. If you accept this review,
+we will send you a detailed list of criteria to check for the package as well as
+how to submit your review.
 
 Could you reply to this email to let us know if you would be willing to review
 this package?
 
 Thanks!
-<coordinator name>
+*coordinator name*
 
 ### Template email with review instructions
 
@@ -172,12 +174,12 @@ Description:
 
 Repository:
 
-You can find our review guidelines at the following address:
+You can find our review guidelines and instructions at the following address:
 
   https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
 
 Thanks!
-<coordinator name>
+*coordinator name*
 
 ### Template review markdown
 
