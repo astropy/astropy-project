@@ -160,7 +160,7 @@ Could you reply to this email to let us know if you would be willing to review
 this package?
 
 Thanks!
-*coordinator name*
+{coordinator_name}
 
 ### Template email with review instructions
 
