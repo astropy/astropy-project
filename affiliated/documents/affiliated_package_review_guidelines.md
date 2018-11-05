@@ -1,23 +1,24 @@
 # Reviewing affiliated packages
 
+This document describes the set of review criteria for packages applying to
+become Astropy-affiliated, and is intended for reviewers.
+
 If you are reading this because you have accepted to review an affiliated
 package submission, thank you for taking the time to do this!
 
 Note that unlike for a paper where the reviews from the referee are passed on to
 the authors, one of the coordinators will also review the package and will
-create a combined report, so the report you write will not be seen by the
+create a combined report, so the report you write may not be seen by the
 authors as-is. Reports should be emailed privately back to the coordinator that
 contacted you.
 
 Reviewing a package involves assessing how well the package does in several
 areas, which we outline below. As a reviewer it is is expected that you review
-on these criteria, and it is sufficient to *solely* use these criteria .  However, feel
-free to bring up any other aspect
-
-
-which you think is important. For the categories below, you can let us know
-which of the 'traffic light' levels you think the package should be rated as, in
-addition to providing comments in cases where things aren't perfect.
+on these criteria, and it is sufficient to *solely* use these criteria .
+However, feel free to bring up any other aspect which you think is important.
+For the categories below, you can let us know which of the 'traffic light'
+levels you think the package should be rated as, in addition to providing
+comments in cases where things aren't perfect.
 
 In general we use the following color-coding, which also determines if a package
 is accepted after its first review:

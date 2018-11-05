@@ -130,7 +130,7 @@ pull request is closed.
 
 Subject: Reviewing an Astropy-affiliated package submission
 
-Dear/Hi *potential reviewer*,
+Dear/Hi {potential reviewer},
 
 The Astropy project has received a request to consider the following as an
 affiliated package:
@@ -164,7 +164,7 @@ Thanks!
 
 ### Template email with review instructions
 
-Dear/Hi *reviewer name*,
+Dear/Hi {reviewer name},
 
 Thank you for accepting to review the following package for the Astropy project:
 
@@ -179,7 +179,7 @@ You can find our review guidelines and instructions at the following address:
   https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
 
 Thanks!
-*coordinator name*
+{coordinator name}
 
 ### Template review markdown
 
