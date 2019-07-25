@@ -189,7 +189,7 @@ ecosystem by a member of the Astropy community as well as myself, and I have
 synthesized the results of the review here.
 
 You can find out more about our review criteria in
-[Reviewing affiliated packages](https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md)
+[Reviewing affiliated packages](https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md).
 For each of the review categories below we have listed the score and have
 included some comments when the score is not green.
 
