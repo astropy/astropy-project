@@ -1,3 +1,5 @@
+**This is the working draft of the text of the Astropy Project Code of Conduct. The current code of conduct lives at [http://www.astropy.org/code_of_conduct.html](http://www.astropy.org/code_of_conduct.html). Changes hashed out here will get migrated there.**
+
 The community of participants in open source Astronomy projects is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences success and continued growth. We expect everyone in our community to follow these guidelines when interacting with others both inside and outside of our community. Our goal is to keep ours a positive, inclusive, successful, and growing community.
 
 As members of the community,
