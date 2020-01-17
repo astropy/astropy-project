@@ -1,0 +1,32 @@
+Dear [INSERT CONTACT AT MOORE FOUNDATION],
+
+thank you so much for giving the grant "Sustaining and Growing the Astropy
+Project" to us. As you know from the grant application, we are still working
+out a formal government and management structure, because the astropy project
+has not received grants like this before.
+
+However, many astropy members are used to government issued contracts and
+grants (e.g. NSF, NASA) from their non-astropy science work, where every grant
+comes with a separate set of rules.
+
+We'd thus like to clarify a few points about timeline and spending about the
+Moore grant early on - in particular since you awarded us more money than we
+originally budgeted and we are trying to decide now, how that extra money will
+benefit the project most.
+
+- We proposed work over three years of time. When did the clock for that
+  formally start?  
+
+- We are keen to get the work done, but if we don't spend
+  the money as fast as we thought we would, could the grant period be extended,
+  e.g. by another year?  
+
+- For the application, we estimated a budget and broke that down into different
+  sub-categories. Obviously, the costs won't come in exactly like that to the
+  cent. Do you have a guideline for us like "if you shift more than XX k$ from
+  category A to category B, please check with us in advance"?
+
+
+Yours sincerely,
+
+[NAME HERE]
