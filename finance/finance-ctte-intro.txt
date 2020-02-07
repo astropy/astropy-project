@@ -1,0 +1,51 @@
+Dear all,
+
+As Erik announced back in December [1], the Coordination Committee has
+established a new Interim Finance Committee. The new committee is charged with
+overseeing the distribution of Astropy's funds. The idea is that this committee
+is temporary, and will be replaced when the project decides on a new governance
+structure.
+
+This committee has now been convened with the following membership:
+
+- Kelle Cruz
+- Moritz Guenther
+- John Swinbank
+- Erik Tollerud
+- Steve Crawford (Ombudsperson)
+
+We think it's important that this new committee be open and transparent about
+its business. To that end, we wanted to take a moment to fill you in on how the
+committee is going about its business, and how you can follow along and provide
+comments and suggestions.
+
+First, we've established a wiki page:
+
+  https://github.com/astropy/project/wiki/Financial-Management
+
+That page has the full charge to and membership of the committee, as well as
+links to key resources and information about how to contact us. We'll make sure
+it's kept up to date as and when any of this changes.
+
+The committee meets weekly. We keep running notes on those meetings, which are
+publicly available — we welcome your comments on them:
+
+  https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
+
+We track the committee's business in the astropy/project repository. You can see
+what we're working on, or file issues for us to think about, here:
+
+  https://github.com/astropy/project/issues?q=is%3Aissue+is%3Aopen+label%3A%22finance+%3Amoneybag%3A%22
+
+Finally, you can get in touch with is directly in #finance-committee on Slack,
+or by sending mail to finance@astropy.org.
+
+We're excited to be able to help out Astropy in this way, and we'd love to hear
+your feedback.
+
+Cheers,
+
+John
+On behalf of the Interim Finance Committee
+
+[1] https://groups.google.com/forum/#!msg/astropy-dev/7xBxEYQjD5o/8RWovfKEAgAJ
