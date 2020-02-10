@@ -37,6 +37,9 @@ what we're working on, or file issues for us to think about, here:
 
   https://github.com/astropy/project/issues?q=is%3Aissue+is%3Aopen+label%3A%22finance+%3Amoneybag%3A%22
 
+We will also aim to send a very brief summary of our activities and approved
+expenditures to the astropy-dev list every couple of months.
+
 Finally, you can get in touch with is directly in #finance-committee on Slack,
 or by sending mail to finance@astropy.org.
 
