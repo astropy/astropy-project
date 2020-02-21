@@ -10,6 +10,8 @@ If you have questions on how to apply the rules, please email finance@astropy.or
 
 ## Travel
 
+Travel requests should be made as early as possible and at least 1 month before travel.   Requests made less than 1 month before the travel is to occur will still be considered but should include a justification for the timing.  
+
 1. Send an email to finance@astropy.org with the following information:
 * Name
 * Description
@@ -17,14 +19,22 @@ If you have questions on how to apply the rules, please email finance@astropy.or
 * Itemized Budget
 * Advance needed
 
-Costs for per diem can use the [US Government per diem rates | https://www.gsa.gov/travel/plan-book/per-diem-rates].   
+Costs for per diem can use the [US Government per diem rates | https://www.gsa.gov/travel/plan-book/per-diem-rates].  These should be considered maximum values for the trips and request less than that amount can be submitted for reimbursement.
 
-Flights above $175 x length of flight in hours should provide justification for the additional costs.  Within these costs, we encourage developers to optimize their travel for productivity.   Medical reasons are acceptable justification for higher costs.   
+Flights should be booked in economy class.   If the flight is over 4 hours
+and the additional cost is less than 20%, a higher class of seating may be
+booked.  We encourage travel plans to be optimize their travel for
+productivity.   If additional costs are required, a justification should be 
+submitted for approval.  Medical reasons are an acceptable justification 
+for higher costs.   
+
+In general, contributors should attempt to minimize the environmental impact
+of their travel. 
 
 2. The interim finance committee will aim to provide approval within 1 week of the request.
 
 
-3.  Travel occurs
+3.  Travel occurs.
 
 4.  Preferable within two weeks of completing the trip, travel costs are submitted via the [NumFOCUS Rocket form | https://numfocus.org/rocket]
 
@@ -43,7 +53,7 @@ This document describes how the process has been handled in the past, when fundi
 
 2.  If the request is not coming from the coordination committee, the finance committee will seek approval for this contract from the Coordination Committee   
 
-3.  The terms of the contract work are negotiated (by FC? by NumFOCUS?)  
+3.  The terms of the contract work are negotiated.
 
 4.  The contract is approved by a majority (>50%) of the finance committee.  In cases where a substantial portion of the committee is conflicted on the decision, approval requires unanimous approval of the unconflicted members.
 
