@@ -70,7 +70,7 @@ This document describes how the process has been handled in the past, when fundi
 
 ## Any other requests for funding
 
-Any other requests for funding should be made via an email to finance@astropy.org.   Please include your name, an explanation of the funding being requested, and a budget.
+Any other requests for funding should be made via an email to finance@astropy.org.   Please include your name, an explanation of the funding being requested, and a budget.   Funding requests will be reviewed for approval by the Interim Finance Committee and feedback will be provided including the next steps if appropriate. 
 
 
 ## General policies
