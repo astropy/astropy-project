@@ -21,4 +21,4 @@ Context
 =======
 
 This is the first part time job ad / call for work proposals funded from a grant from the Moore foundation to the Astropy project (and administered by NumFOCUS). One purpose of this grant is to make life easier for all the volunteers who do the hard work of developing the Astropy Project by providing salary for some work that is very important for the project as a whole, but requires time commitments that are unreasonable to expect from volunteer contributors. This job is not intended to replace current volunteer efforts, but to help out with it and ensure that someone will do the work described below even if volunteers are not available.
-If you have suggestions on the process of job ads and spending grant money in general, please contact the interim finance committee at  finance@astropy.org or use the issue tracker of astropy/project.
+If you have suggestions on the process of job ads and spending grant money in general, please contact the interim finance committee at finance@astropy.org or use the issue tracker of astropy/project.
