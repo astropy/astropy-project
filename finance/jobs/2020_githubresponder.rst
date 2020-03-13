@@ -8,7 +8,7 @@ This role includes monitoring the astropy issue tracker, add labels to new issue
 
 We expect a commitment of about 8-10 hours/week for 12 months. The Astropy Project can pay inside or outside of the US. Compensation could be provided as a consulting fee or as a subaward. This is a remote-only position.
 
-Please send a short (one paragraph) email to finance@astropy.org with a description of your interest in the role, your qualifications, and any relevant experience.  If possible, please provide links to a few examples of issues/PRs where you have been involved as a fist and/or last responder.
+Please send a short (one paragraph) email to finance@astropy.org with a description of your interest in the role, your qualifications, and any relevant experience.  If possible, please provide links to a few examples of issues/PRs where you have been involved as a first and/or last responder.
 
 The Astropy project is committed to fostering an inclusive community. The community of participants in open source Astronomy projects is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences success and continued growth. See https://www.astropy.org/code_of_conduct.html for details.
 
