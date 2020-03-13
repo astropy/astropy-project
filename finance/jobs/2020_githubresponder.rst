@@ -12,7 +12,7 @@ Please send a short (one paragraph) email to finance@astropy.org with a descript
 
 The Astropy project is committed to fostering an inclusive community. The community of participants in open source Astronomy projects is made up of members from around the globe with a diverse set of skills, personalities, and experiences. It is through these differences that our community experiences success and continued growth. See https://www.astropy.org/code_of_conduct.html for details.
 
-The Astropy Project specfically encourages underrepresented parts of the community to apply.
+The Astropy Project specifically encourages underrepresented parts of the community to apply.
 
 All applications received less than four weeks after this PR is merged will receive full considerations, but you can apply until the position is filled.
 
