@@ -4,7 +4,7 @@ GitHub First/Last Responder
 The Astropy Project is looking to hire a Github first responder / last responder. The overarching goal of this position is to improve the first time contributor experience, reduce the technical barriers to contributions, reduce the number of open issues, and increase the number of merged pull requests. This is not intended to cover all issues and PRs opened in astropy, but rather to support and lighten the load on the rest of the volunteer community.
 An ideal candidate would be familiar with the Astropy project ecosystem and capabilities, comfortable with its Github Development workflow, and has experience providing supportive feedback and technical advice in online environments.
 
-This role includes  monitoring  the astropy issue tracker, add labels to new issues, provide a friendly welcome message on issues and pull requests, and give starting points for how to resolve the issue or move the pull request forward. The “last responder” aspect of the role includes helping to close out issues and PRs, helping with rebasing, and troubleshooting failing tests.
+This role includes monitoring the astropy issue tracker, add labels to new issues, provide a friendly welcome message on issues and pull requests, and give starting pointers for how to resolve the issue or move the pull request forward. The “last responder” aspect of the role includes helping to close out issues and PRs, helping with rebasing, and troubleshooting failing tests.
 
 We expect a commitment of about 8-10 hours/week for 12 months. The Astropy Project can pay inside or outside of the US. Compensation could be provided as a consulting fee or as a subaward. This is a remote-only position.
 
