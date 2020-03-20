@@ -1,8 +1,8 @@
-GitHub First/Last Responder
-===========================
+Astropy Software Operational Support Specialist
+===============================================
 
-The Astropy Project is looking to hire a Github first responder / last
-responder. The overarching goal of this position is to improve the
+The Astropy Project is looking to hire a software operational support
+specialist.  The overarching goal of this position is to improve the
 first time contributor experience, reduce the technical barriers to
 contributions, reduce the number of open issues, and increase the
 number of merged pull requests. This is not intended to cover all
@@ -13,27 +13,25 @@ comfortable with its Github Development workflow, and has experience
 providing supportive feedback and technical advice in online
 environments.
 
-This role includes monitoring the astropy issue tracker, add labels to
-new issues, provide a friendly welcome message on issues and pull
-requests, and give starting pointers for how to resolve the issue or
-move the pull request forward. The “last responder” aspect of the role
-includes helping to close out issues and PRs, helping with rebasing,
-and troubleshooting failing tests.
+This role includes monitoring the astropy issue tracker, adding labels
+to new issues, providing a friendly welcome message on issues and pull
+requests, and giving starting pointers for how to resolve the issue or
+move the pull request forward. This role also includes helping to
+close out issues and PRs, helping with rebasing, and troubleshooting
+failing tests. To be effective, we epxect regular attendance of
+Astropy development telecons.
 
-We expect a commitment of about 8-10 hours/week for 12 months. We aim
-for an equitable pay with a total cost (incl. overhead, fringe etc.)
-<= 150 $/h to the project.
-Compensation could be provided as a consulting fee or as a subaward
-and since overheads and fringe benefits are handled differently in
-these cases, the exact rate will be set to account for that.
-The Astropy Project can pay inside or outside of the US. This is a
-remote-only position.
+We expect a commitment of up to 10 hours per week with a total cost
+compensation rate (which includes overhead and fringe) up to 150 $ per
+hour.  Compensation could be provided as a consulting fee or as a
+subaward.  The Astropy Project can pay inside or outside of the
+US. This is a remote-only position.
 
 Please send a short (one paragraph) email to finance@astropy.org with
-a description of your interest in the role, your qualifications, and
-any relevant experience.  If possible, please provide links to a few
-examples of issues/PRs where you have been involved as a first and/or
-last responder.
+a description of your interest in the role, your qualifications, any
+relevant experience, and attach a CV.  If possible, please provide
+links to a few examples of issues/PRs where you have been involved in
+a way similar to this role.
 
 The Astropy project is committed to fostering an inclusive
 community. The community of participants in open source Astronomy
