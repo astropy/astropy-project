@@ -43,9 +43,8 @@ growth. See https://www.astropy.org/code_of_conduct.html for details.
 The Astropy Project specifically encourages underrepresented parts of
 the community to apply.
 
-All applications received less than four weeks after this PR is merged
-will receive full considerations, but you can apply until the position
-is filled.
+All applications received before the end of April 2020 will receive
+full considerations, but you can apply until the position is filled.
 
 
 Context
