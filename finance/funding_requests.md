@@ -38,7 +38,7 @@ of their travel.
 
 5. NumFOCUS provides the information for approval to the Finance Committee.
 
-6. At least, one member of the finance committee provides approval for the payment.
+6. At least one member of the finance committee provides approval for the payment.
 
 7. Payment is made by NumFocus, typically within 30 days.
 
