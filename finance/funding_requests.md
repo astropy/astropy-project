@@ -57,7 +57,7 @@ The intent in the future is to build this into a process that allows both existi
 
 3.  The terms of the contract work are negotiated.
 
-4.  The contract is approved by a majority (>50%) of the finance committee.  In cases where a substantial portion of the committee is conflicted on the decision, approval requires unanimous approval of the unconflicted members.
+4.  The contract is approved by a majority (>50%) of the finance committee.  In cases where a substantial portion of the committee has a conflict of interest on the decision, approval requires unanimous approval of the unconflicted members.
 
 5.  The contract begins.  Hours worked are reported through the [NumFOCUS Rocket form | https://numfocus.org/rocket]. 
 
