@@ -19,7 +19,7 @@ Travel requests should be made as early as possible and at least 1 month before 
 
 If using per diem, the requestor can use the [US Government per diem rates | https://www.gsa.gov/travel/plan-book/per-diem-rates].  These should be considered maximum values for the trips and requests less than that amount can be submitted for reimbursement.
 
-Flights should be booked in economy class.   If the flight is over 4 hours
+In general, flights should be booked in economy class.   If the flight is over 4 hours
 and the additional cost is less than 20%, a higher class of seating may be
 booked.  We encourage travel plans to be optimize their travel for
 productivity.   If additional costs are required, a justification should be 
