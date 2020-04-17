@@ -67,7 +67,7 @@ The intent in the future is to build this into a process that allows both existi
 
 8.   Payment is made to the contractor.
 
-9.   Contracts should be reviewed yearly.   If necessary, renewals or extensions can be requested via email to finance@astropy.org.
+9.   Contracts should be reviewed at least yearly.   If necessary, renewals or extensions can be requested via email to finance@astropy.org.
 
 
 ## Any other requests for funding
