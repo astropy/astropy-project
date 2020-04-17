@@ -53,7 +53,7 @@ The intent in the future is to build this into a process that allows both existi
 
 1.  A request for contract work should be made via email to finance@astropy.org.
 
-2.  If the request is not coming from the coordination committee, the finance committee will seek approval for this contract from the Coordination Committee   
+2.  If the request is not coming from or already solicited by the coordination committee, the finance committee will seek approval for this contract from the Coordination Committee   
 
 3.  The terms of the contract work are negotiated.
 
