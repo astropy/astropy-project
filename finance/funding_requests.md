@@ -47,7 +47,11 @@ of their travel.
 
 ## Contractor Work
 
-This document describes how the process has been handled in the past, when funding was available through specific grants for very well defined tasks. The interim finance committee and the community as a whole are engaging in a discussion how to handle this going forward.
+This document is a first iteration - the interim finance committee and the community as a whole are engaging in a discussion how to develop this process further.
+ 
+In its current form, this document describes how the process has been handled in the past, when funding was available only through specific grants for very well defined tasks. So this process will be used initially for existing contributors who require support for priorities already identified by the Astropy coordination committee (as charged by the participants of the 2019 coordination meeting).
+
+The intent in the future is to build this into a process that allows both existing and potential new contributors to propose ideas for funding by the Astropy community.  But this requires balancing different priorities for limited funding.  To give time to develop a process for that, this portion of the document is not currently intended for unsolicited proposals, but that is an eventual goal as this process is developed further.
 
 1.  A request for contract work should be made via email to finance@astropy.org.
 
@@ -78,4 +82,3 @@ Any other requests for funding should be made via an email to finance@astropy.or
 The interim finance committee may need to revise this policy on an a case-by-case basis as needed and will make every effort to revise this policy as needed.
 
 If you have suggestions to improve these policies, please open an issue or pull request in https://github.com/astropy/project/ . 
-
