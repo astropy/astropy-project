@@ -1,6 +1,4 @@
-
-
-The Astropy project wants to make life easy for all the volunteers and people working towards our shared goal; on the other hand, we also need to make sure we spend grant money in a fiscally responsible way and as allowed by donors or funding agencies. This policy thus aims to strike a balance between as little bureaucracy as possible while also ensuring that money is spend responsibly and that Astropy has all the documentation that we required for any of the grants given to Astropy.
+The Astropy project wants to make life easy for all the volunteers and people working towards our shared goal; on the other hand, we also need to make sure we spend grant money in a fiscally responsible way and as allowed by donors or funding agencies. This policy thus aims to strike a balance between as little bureaucracy as possible while also ensuring that money is spend responsibly and that Astropy has all the documentation that are required for any of the grants given to Astropy.
 
 
 
