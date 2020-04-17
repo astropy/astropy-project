@@ -5,7 +5,7 @@ The Astropy project wants to make life easy for all the volunteers and people wo
 
 
 Funding requests can be made to the Interim Astropy Finance Committee.  The following provides a description for how to obtain funding for different types of activities. 
-If you have questions on how to apply the rules, please email finance@astropy.org .
+If you have questions on how to apply this process, please email finance@astropy.org .
 
 
 ## Travel
