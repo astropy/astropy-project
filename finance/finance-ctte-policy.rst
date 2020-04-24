@@ -14,7 +14,7 @@ Role and responsibilities of the Committee
 
    (Agreed `2020-02-07`__.)
 
-__ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
 
 #. The Committee should notify the Coordination Committee where they believe the priorities set by the latter may not be aligned with the views of the wider community.
    This is particularly important when members of the Committee may, as part of Committee business, have access to information which is not available to the community at large.
