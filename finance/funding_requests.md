@@ -1,6 +1,8 @@
 While the Astropy project wants to make life easy for all the volunteers and people working towards our shared goal we need to make sure we spend grant money in a fiscally responsible way. This policy thus aims to strike a balance between as little bureaucracy as possible and ensuring that Astropy has all the documentation required by funders supporting Astropy.
 
-The following provides a description for how to obtain funding for different types of activities. All funding requests should be made to the Astropy Finance Committee. If you have questions on how to apply this process, please email finance@astropy.org.
+*This document is a first iteration - the Finance Committee and the community as a whole are engaging in a discussion how to develop this process further.*
+
+The following provides a description for how to obtain funding for different types of activities. All funding requests should be made to the Astropy Finance Committee. If you have questions on how to apply this process please email finance@astropy.org or open an issue.
 
 ## Travel
 
@@ -30,11 +32,9 @@ Within two weeks of completing your trip you should submit your reimbursement re
 
 You should notify the Finance Committee that you have input a request via email so that the payment can be approved. A member of the Finance Committee will review the request and provide approval to NumFOCUS for the payment.
 
-Payment will be made to you directly from  NumFocus, typically within 30 days after approval.
+Payment will be made to you directly from  NumFOCUS, typically within 30 days after approval.
 
 ## Contract Work
-
-*This document is a first iteration - the Finance Committee and the community as a whole are engaging in a discussion how to develop this process further.*
 
 *Our intent is to build this into a process that allows both existing and potential new contributors to propose ideas for funding by the Astropy community but this requires time to develop a process for balancing different priorities for limited funding. In its current form, this document describes how the process has been handled in the past, when funding was available only through specific grants for very well defined tasks, so it will be used only for existing contributors who require support for priorities already identified by the Astropy Coordination Committee (as charged by the participants of the 2019 coordination meeting).* 
 
