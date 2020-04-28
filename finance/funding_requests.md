@@ -26,7 +26,7 @@ The Finance Committee will aim to provide approval within 1 week of the request.
 
 ### After Travel
 
-Wthin two weeks of completing your trip you should submit your reimbursment request via the [NumFOCUS Rocket form | https://numfocus.typeform.com/to/oTBLP2] You will need to include itemized receipts for all travel costst. You will also need to provide information for your prefered payment method i.e. back account and routing number, paypal account, etc. 
+Within two weeks of completing your trip you should submit your reimbursement request via the [NumFOCUS Rocket form | https://numfocus.typeform.com/to/oTBLP2] You will need to include itemized receipts for all travel costs. You will also need to provide information for your preferred payment method i.e. back account and routing number, paypal account, etc. 
 
 You should notify the Finance Committee that you have input a request via email so that the payment can be approved. A member of the Finance Committee will review the request and provide approval to NumFOCUS for the payment.
 
