@@ -3,6 +3,7 @@ Interim Finance Committee Policies
 ##################################
 
 This document records policies adopted by the `Astropy Interim Finance Committee`_ (hereafter “the Committee”).
+It is a “living document” which is expected to evolve over time.
 
 .. _Astropy Interim Finance Committee: https://github.com/astropy/project/wiki/Financial-Management#interim-finance-committee
 
