@@ -21,7 +21,7 @@ Role and responsibilities of the Committee
 
    (Agreed `2020-02-07`__.)
 
-__ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
 
 Conduct of meetings
 ===================
@@ -36,7 +36,7 @@ Conduct of meetings
 
    (Agreed `2019-12-20`__.)
 
-__ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.gv1zreh6ej2c
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.gv1zreh6ej2c
 
 Privacy and Confidentiality
 ===========================
@@ -47,7 +47,7 @@ Privacy and Confidentiality
 
    (Agreed `2019-12-20`__.)
 
-__ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.1icpiwkv43cw
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.1icpiwkv43cw
 
 #. Names of individuals to whom the Committee have authorized payment should be public.
 
@@ -55,4 +55,4 @@ __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2et
 
    (Agreed `2020-02-14`__.)
 
-__ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fc8ery3m4vzk
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fc8ery3m4vzk
