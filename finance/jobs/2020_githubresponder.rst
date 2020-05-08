@@ -18,7 +18,7 @@ to new issues, providing a friendly welcome message on issues and pull
 requests, and giving starting pointers for how to resolve the issue or
 move the pull request forward. This role also includes helping to
 close out issues and PRs, helping with rebasing, and troubleshooting
-failing tests. To be effective, we epxect regular attendance of
+failing tests. To be effective, we expect regular attendance of
 Astropy development telecons.
 
 We expect a commitment of up to 10 hours per week with a total cost
