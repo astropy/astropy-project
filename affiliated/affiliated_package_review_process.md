@@ -82,41 +82,46 @@ posted on the pull request and also in a reply to your email.
 
 ## Reviewing affiliated packages
 
-*These instructions are for coordinators and reviewers*
+*These instructions are for editors and reviewers*
 
-One of the coordination committee members will be in charge of the review
-process (not necessarily the same person for each package). This coordination
-committee member (hereafter the *coordinator*) will find someone to carry out
-the main review of the package (hereafter the *reviewer*). In this sense the
-role  of the coordinator is similar to that of a journal editor.  However
-this is only partially true, because the coordinator (speaking for the
-coordination committee as a whole) may add their views to the review, unlike a
-journal editor who is often strictly impartial on the review itself.
-The pool of available reviewers will be anyone who has an official role on
-[the Astropy team](http://www.astropy.org/team.html).
+The review process will be overseen and coordinated by individuals that are in
+the *Affiliated package review editor* role (hereafter the *editors*). The
+editors will start off by finding someone to carry out the main review of the
+package (hereafter the *reviewer*). In this sense the role of the editor is
+similar to that of a journal editor (and hence the role name). However this is
+only partially true, because the editor may add their views to the review,
+unlike a journal editor who is often strictly impartial on the review itself.
+The pool of available reviewers will be anyone who has an official role on [the
+Astropy team](http://www.astropy.org/team.html) or anyone who has participated
+in the project enough to be familiar with the project guidelines and requirements.
+In some cases, it may be necessary to have multiple reviewers depending on the
+expertise required, and if scientific or algorithmic expertise is needed which
+is not available in the project, reviewers can be requested from outside the
+project.
 
-The coordinator sends out an email to possible reviewers one at a time to find
+The editor sends out an email to possible reviewers one at a time to find
 someone who is willing to review the package, using the template at the bottom
-of this document. Let them know at this point that the coordinator will also be
-doing a review and synthesizing the results into a single review. Once a
-reviewer accepts, the coordinator sends them an email with detailed review
-instructions, using the template at the bottom of this document. The coordinator
-then leaves a message on the pull request saying:
+of this document. They should let them know at this point that the editor may
+also be doing a review and synthesizing the results into a single review. Once a
+reviewer accepts, the editor sends them an email with detailed review
+instructions, using the template at the bottom of this document. The editor then
+leaves a message on the pull request proposing the affiliated package saying:
 
 *Thank you for proposing this package as an affiliated package! I'm happy to
 confirm that your package is now under review and we'll post the results of
 the review here and on the mailing list.*
 
 Once the reviewer has finished, they send their review back by email to the
-coordinator, who then does their own review and then writes up a review using
-the review template which includes a table with badges (template at the bottom
-of this document). They then share it with the other coordination committee
-members to check for consensus. The review including the final decision (accept
-or reject) is then posted on the original pull request. If the package is
+editor, who then does their own review if needed and then writes up a review
+using the review template which includes a table with badges (template at the
+bottom of this document). At this point, the editors make a decision to access
+or reject the package based on the results of the review. If no objections or
+concerns are raised, the editors then post the review including the final
+decision (accept or reject) on the original pull request. If the package is
 rejected, the original author has a month to respond to any of the points in the
-review, and the coordinator may decide to change the decision.
+review, and the editor may decide to change the decision.
 
-If the package is accepted, the coordinator sends a reply to the astropy-dev
+If the package is accepted, the editor sends a reply to the astropy-dev
 email to publish the decision, then also edits the pull request to add the
 results to the review to the JSON file. Once the continuous integration passes,
 the pull request is merged.
@@ -160,7 +165,7 @@ Could you reply to this email to let us know if you would be willing to review
 this package?
 
 Thanks!
-{coordinator_name}
+{editor name}
 
 ### Template email with review instructions
 
@@ -179,7 +184,7 @@ You can find our review guidelines and instructions at the following address:
   https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
 
 Thanks!
-{coordinator name}
+{editor name}
 
 ### Template review markdown
 
