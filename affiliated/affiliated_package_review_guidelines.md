@@ -164,10 +164,6 @@ compared to what one might realistically achieve.
 <table>
 <tr>
 <td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
-<td>Nothing is currently 'unacceptable'. Starting 1 January 2020, 'Not compatible with Python 3' will be red.</td>
-</tr>
-<tr>
-<td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
 <td>Not compatible with Python 3</td>
 </tr>
 <tr>
