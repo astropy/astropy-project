@@ -102,12 +102,14 @@ expertise required, and if scientific or algorithmic expertise is needed which
 is not available in the project, reviewers can be requested from outside the
 project at the editor's discretion.
 
-The editor sends out an email to possible reviewers, individually, to find
-someone who is willing to review the package, using the template at the bottom
-of this document. They should let the potential reviewer know at this point that
-the editor may also be doing a review and synthesizing the results into a
-single review. Once a reviewer accepts, the editor send them an email with
-detailed review instructions (which includes a link to the `review guidelines
+The editor sends out an email to possible reviewers to find someone who is
+willing to review the package, using the template at the bottom of this
+document. Emails should only be sent to the next potential reviewer(s) - not
+many possible reviewers at the same time. The editor should let the potential
+reviewer know at this point that the editor may also be doing a review and
+synthesizing the results into a single review. Once a reviewer accepts, the
+editor send them an email with detailed review instructions (which includes a
+link to the `review guidelines
 <https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>`_),
 using the template at the bottom of this document. The editor then leaves a
 message on the pull request proposing the affiliated package saying:
