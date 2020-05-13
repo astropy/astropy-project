@@ -78,7 +78,7 @@ ecosystem - does it make use of existing functionality, or does it duplicate it?
 <table>
 <tr>
 <td width=150><img src="https://img.shields.io/badge/Red-red.svg" alt="Red"></td>
-<td>Does not use Astropy or other affiliated packages anywhere where it should be possible, and/or uses other libraries instead.</td>
+<td>Does not use Astropy or other affiliated packages anywhere where it should be possible, and/or uses other libraries instead, or duplicates functionality found in Astropy or other affiliated packages.</td>
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange"></td>
