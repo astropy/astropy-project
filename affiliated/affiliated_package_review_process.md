@@ -82,7 +82,7 @@ posted on the pull request and also in a reply to your email.
 
 ## Reviewing affiliated packages
 
-*These instructions are for editors and reviewers*
+*These instructions are for editors and reviewers.*
 
 The review process will be overseen and coordinated by individuals that are in
 the *Affiliated package review editor* role (hereafter the *editors*). The
@@ -93,13 +93,13 @@ only partially true, because the editor may add their views to the review,
 unlike a journal editor who is often strictly impartial on the review itself.
 The pool of available reviewers will be anyone who has an official role on [the
 Astropy team](http://www.astropy.org/team.html) or anyone who has participated
-in the project enough to be familiar with the project guidelines and requirements.
+in the Astropy project enough to be familiar with the project guidelines and requirements.
 In some cases, it may be necessary to have multiple reviewers depending on the
 expertise required, and if scientific or algorithmic expertise is needed which
 is not available in the project, reviewers can be requested from outside the
 project.
 
-The editor sends out an email to possible reviewers one at a time to find
+The editor sends out an email to possible reviewers, one at a time, to find
 someone who is willing to review the package, using the template at the bottom
 of this document. They should let them know at this point that the editor may
 also be doing a review and synthesizing the results into a single review. Once a
@@ -114,7 +114,7 @@ the review here and on the mailing list.*
 Once the reviewer has finished, they send their review back by email to the
 editor, who then does their own review if needed and then writes up a review
 using the review template which includes a table with badges (template at the
-bottom of this document). At this point, the editors make a decision to access
+bottom of this document). At this point, the editors make a decision to accept
 or reject the package based on the results of the review. If no objections or
 concerns are raised, the editors then post the review including the final
 decision (accept or reject) on the original pull request. If the package is
@@ -181,7 +181,7 @@ Repository:
 
 You can find our review guidelines and instructions at the following address:
 
-  https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
+  https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md
 
 Thanks!
 {editor name}
