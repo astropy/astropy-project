@@ -2,7 +2,7 @@
 
 This document describes the procedure for proposing, reviewing, and making a
 decision about Astropy-affiliated packages. This is meant as a record of the
-procedure and not the first place people should go to for - for instructions
+procedure and not the first place people should go to - for instructions
 on proposing an affiliated package, see [**Becoming an Affiliated Package**](http://www.astropy.org/affiliated/index.html).
 
 ## Proposing an affiliated package
@@ -82,41 +82,53 @@ posted on the pull request and also in a reply to your email.
 
 ## Reviewing affiliated packages
 
-*These instructions are for coordinators and reviewers*
+*These instructions are for editors and reviewers.*
 
-One of the coordination committee members will be in charge of the review
-process (not necessarily the same person for each package). This coordination
-committee member (hereafter the *coordinator*) will find someone to carry out
-the main review of the package (hereafter the *reviewer*). In this sense the
-role  of the coordinator is similar to that of a journal editor.  However
-this is only partially true, because the coordinator (speaking for the
-coordination committee as a whole) may add their views to the review, unlike a
-journal editor who is often strictly impartial on the review itself.
-The pool of available reviewers will be anyone who has an official role on
-[the Astropy team](http://www.astropy.org/team.html).
+The review process will be overseen and coordinated by the individuals that are in
+the *Affiliated package review editor* role. This role
+may be filled by one or more individuals. For the rest of this section, we
+use the singular term *editor*, although multiple people may share this role
+(and it is at their discretion to decide how to divide up work). The
+editor will start off by finding someone to carry out the main review of the
+package (hereafter the *reviewer*). In this sense the role of the editor is
+similar to that of a journal editor (and hence the role name). However this analogy
+is only partially accurate, because here the editor may add their views to the review,
+unlike a journal editor who is often strictly impartial on the review itself.
+The pool of available reviewers will be anyone who has an official role on [the
+Astropy team](http://www.astropy.org/team.html) or anyone who has participated
+in the Astropy project enough to be familiar with the project guidelines and requirements.
+In some cases, it may be necessary to have multiple reviewers depending on the
+expertise required, and if scientific or algorithmic expertise is needed which
+is not available in the project, reviewers can be requested from outside the
+project at the editor's discretion.
 
-The coordinator sends out an email to possible reviewers one at a time to find
-someone who is willing to review the package, using the template at the bottom
-of this document. Let them know at this point that the coordinator will also be
-doing a review and synthesizing the results into a single review. Once a
-reviewer accepts, the coordinator sends them an email with detailed review
-instructions, using the template at the bottom of this document. The coordinator
-then leaves a message on the pull request saying:
+The editor sends out an email to possible reviewers to find someone who is
+willing to review the package, using the template at the bottom of this
+document. Emails should only be sent to the next potential reviewer(s) - not
+many possible reviewers at the same time. The editor should let the potential
+reviewer know at this point that the editor may also be doing a review and
+synthesizing the results into a single review. Once a reviewer accepts, the
+editor sends them an email with detailed review instructions (which includes a
+link to the `review guidelines
+<https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>`_),
+using the template at the bottom of this document. The editor then leaves a
+message on the pull request proposing the affiliated package saying:
 
 *Thank you for proposing this package as an affiliated package! I'm happy to
 confirm that your package is now under review and we'll post the results of
 the review here and on the mailing list.*
 
 Once the reviewer has finished, they send their review back by email to the
-coordinator, who then does their own review and then writes up a review using
-the review template which includes a table with badges (template at the bottom
-of this document). They then share it with the other coordination committee
-members to check for consensus. The review including the final decision (accept
-or reject) is then posted on the original pull request. If the package is
+editor, who then does their own review if needed and then writes up a review
+using the review template which includes a table with badges (template at the
+bottom of this document). At this point, the editor makes a decision to accept
+or reject the package based on the results of the review. If no objections or
+concerns are raised, the editor then posts the review including the final
+decision (accept or reject) on the original pull request. If the package is
 rejected, the original author has a month to respond to any of the points in the
-review, and the coordinator may decide to change the decision.
+review, and the editor may decide to change the decision.
 
-If the package is accepted, the coordinator sends a reply to the astropy-dev
+If the package is accepted, the editor sends a reply to the astropy-dev
 email to publish the decision, then also edits the pull request to add the
 results to the review to the JSON file. Once the continuous integration passes,
 the pull request is merged.
@@ -130,14 +142,17 @@ pull request is closed.
 
 Subject: Reviewing an Astropy-affiliated package submission
 
-Dear/Hi {potential reviewer},
+Hi {potential reviewer},
 
 The Astropy project has received a request to consider the following as an
 affiliated package:
 
 Name:
+
 Description:
+
 Repository:
+
 Documentation:
 
 I am reaching out to ask whether you would be willing to review this package.
@@ -152,19 +167,21 @@ Reviewing a package involves reading over the documentation, having a look at
 the code to assess for example readability (but not read it line by line),
 checking how well the package is tested, as well as assessing its integration
 with the Astropy and wider astronomy ecosystem. Most packages can be reviewed
-within an hour and reviews are anonymous by default. If you accept this review,
+within an hour and reviews are anonymous by default (unless you indicate that you
+are happy for your identity to be revealed). If you accept this review,
 we will send you a detailed list of criteria to check for the package as well as
 how to submit your review.
 
 Could you reply to this email to let us know if you would be willing to review
-this package?
+this package? Please also let us know if you feel you may have a conflict of
+interest in reviewing this package.
 
 Thanks!
-{coordinator_name}
+{editor name}
 
 ### Template email with review instructions
 
-Dear/Hi {reviewer name},
+Hi {reviewer name},
 
 Thank you for accepting to review the following package for the Astropy project:
 
@@ -176,10 +193,10 @@ Repository:
 
 You can find our review guidelines and instructions at the following address:
 
-  https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md
+  https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md
 
 Thanks!
-{coordinator name}
+{editor name}
 
 ### Template review markdown
 
