@@ -84,15 +84,15 @@ posted on the pull request and also in a reply to your email.
 
 *These instructions are for editors and reviewers.*
 
-The review process will be overseen and coordinated by individuals that are in
+The review process will be overseen and coordinated by the individuals that are in
 the *Affiliated package review editor* role. This role
 may be filled by one or more individuals. For the rest of this section, we
 use the singular term *editor*, although multiple people may share this role
-(and choose how to do this). The
+(and it is at their discretion to decide how to divide up work). The
 editor will start off by finding someone to carry out the main review of the
 package (hereafter the *reviewer*). In this sense the role of the editor is
-similar to that of a journal editor (and hence the role name). However this is
-only partially true, because here the editor may add their views to the review,
+similar to that of a journal editor (and hence the role name). However this analogy
+is only partially accurate, because here the editor may add their views to the review,
 unlike a journal editor who is often strictly impartial on the review itself.
 The pool of available reviewers will be anyone who has an official role on [the
 Astropy team](http://www.astropy.org/team.html) or anyone who has participated
@@ -108,7 +108,7 @@ document. Emails should only be sent to the next potential reviewer(s) - not
 many possible reviewers at the same time. The editor should let the potential
 reviewer know at this point that the editor may also be doing a review and
 synthesizing the results into a single review. Once a reviewer accepts, the
-editor send them an email with detailed review instructions (which includes a
+editor sends them an email with detailed review instructions (which includes a
 link to the `review guidelines
 <https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>`_),
 using the template at the bottom of this document. The editor then leaves a
