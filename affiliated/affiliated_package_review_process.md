@@ -1,9 +1,21 @@
- # Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
+<a name="top"/>
+
+# Procedure for the proposal, review, and acceptance of Astropy-affiliated packages
 
 This document describes the procedure for proposing, reviewing, and making a
 decision about Astropy-affiliated packages. This is meant as a record of the
 procedure and not the first place people should go to - for instructions
-on proposing an affiliated package, see [**Becoming an Affiliated Package**](http://www.astropy.org/affiliated/index.html).
+on proposing an affiliated package, see
+[**Becoming an Affiliated Package**](http://www.astropy.org/affiliated/index.html).
+
+* [Proposing an affiliated package](#proposing)
+* [Reviewing affiliated packages](#reviewing)
+* [Templates](#templates)
+    * [Template email with review request](#templatereviewrequest)
+    * [Template email with review instructions](#templatereviewinstructions")
+    * [Template markdown with review result](#templatereviewresult)
+
+<a name="proposing"/>
 
 ## Proposing an affiliated package
 
@@ -13,7 +25,8 @@ Once you believe your package is ready to be reviewed by the
 Astropy Project, open a pull request to the
 [astropy.github.com](https://github.com/astropy/astropy.github.com)
 repository, modifying the ``affiliated/registry.json`` file to add details
-about your own package. If you are not comfortable with git, you can do this by using [an editor](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json).
+about your own package. If you are not comfortable with git, you can do this by using
+[an editor](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json).
 If you get a message saying **You need
 to fork this repository to propose changes** then click on the green button
 to confirm the forking:
@@ -80,6 +93,10 @@ include a link to the pull request you opened above. Once you've done this,
 you're all set! The next steps are the review, for which the results will be
 posted on the pull request and also in a reply to your email.
 
+<a href="#top">Back to top</a>
+
+<a name="reviewing"/>
+
 ## Reviewing affiliated packages
 
 *These instructions are for editors and reviewers.*
@@ -108,9 +125,8 @@ document. Emails should only be sent to the next potential reviewer(s) - not
 many possible reviewers at the same time. The editor should let the potential
 reviewer know at this point that the editor may also be doing a review and
 synthesizing the results into a single review. Once a reviewer accepts, the
-editor sends them an email with detailed review instructions (which includes a
-link to the `review guidelines
-<https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>`_),
+editor sends them an email with detailed review instructions (which includes a link to the
+[review guidelines](https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>)),
 using the template at the bottom of this document. The editor then leaves a
 message on the pull request proposing the affiliated package saying:
 
@@ -136,7 +152,13 @@ the pull request is merged.
 If the package is rejected, the decision is posted to the pull request, and the
 pull request is closed.
 
+<a href="#top">Back to top</a>
+
+<a name="templates"/>
+
 ## Templates
+
+<a name="templatereviewrequest"/>
 
 ### Template email with review request
 
@@ -177,7 +199,12 @@ this package? Please also let us know if you feel you may have a conflict of
 interest in reviewing this package.
 
 Thanks!
+
 {editor name}
+
+<a href="#top">Back to top</a>
+
+<a name="templatereviewinstructions"/>
 
 ### Template email with review instructions
 
@@ -196,9 +223,14 @@ You can find our review guidelines and instructions at the following address:
   https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md
 
 Thanks!
+
 {editor name}
 
-### Template review markdown
+<a href="#top">Back to top</a>
+
+<a name="templatereviewresult"/>
+
+### Template markdown with review result
 
 ```
 This package has been reviewed for inclusion in the Astropy affiliated package
@@ -300,3 +332,5 @@ leave a comment and we can discuss it here. At any point in future you can
 request a re-review of the package if you believe any of the scores should be
 updated - contact the coordination committee, and we’ll do a new review.
 ```
+
+<a href="#top">Back to top</a>
