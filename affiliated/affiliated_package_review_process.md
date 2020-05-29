@@ -19,7 +19,7 @@ on proposing an affiliated package, see
 
 ## Proposing an affiliated package
 
-*These instructions are for affiliated package authors*
+*These instructions are for affiliated package authors.*
 
 Once you believe your package is ready to be reviewed by the
 Astropy Project, open a pull request to the
@@ -295,7 +295,6 @@ included some comments when the score is not green.
 <tr><td><b>Python 3 compatibility</b></td><td>
 <a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#python-3-compatibility-python3">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
-<img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
 <img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
 </a></td></tr>
 
