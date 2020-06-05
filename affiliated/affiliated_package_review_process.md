@@ -144,9 +144,8 @@ use the singular term *editor*, although multiple people may share this role
    using the review template, which includes a table with badges
    ([template](#templatereviewresult) at the bottom of this document).
    At this point, the editor makes a decision to accept or reject the package
-   based on the results of the review. If no objections or concerns are raised,
-   the editor then posts the review including the final decision (accept or reject)
-   on the original pull request.
+   based on the results of the review. The editor then posts the review
+   including the final decision (accept or reject) on the original pull request.
 
    * If the package is rejected:
        * The original author has a month to respond to any of the points in the review,
@@ -154,7 +153,12 @@ use the singular term *editor*, although multiple people may share this role
        * If decision to reject stands after a month, the decision is posted to the pull request
          and it is closed.
    * If the package is accepted:
-       * The editor sends a reply to the astropy-dev email to publish the decision.
+       * The editor sends a reply to the astropy-dev email to publish the decision:
+
+         *We are happy to announce that {package} has been accepted as an
+         Astropy affiliated package. Thank you to those who were involved.
+         Congratulations! -- {editor name}*
+
        * The editor edits the pull request to add the results to the review to the JSON file.
        * Once the continuous integration passes, the editor merges the pull request.
 
