@@ -2,10 +2,11 @@
 **This list of recommendations was provided to volunteers for the 
 NumFOCUS booth at AAS 235.**
 
-The code of conduct sets the ground state for professionalism, but
-there are many ways to inadvertently cause harm during interactions
-with users. This short guide offers a few tips for communicating
-effectively and respectfully.
+The Astropy code of conduct (CoC) seeks to create a welcoming 
+environment for all. This short guide focuses on common missteps 
+in user interaction that can lead to a poor user experience. The
+example cases and their complementary responses are meant to train effective 
+and respectful communication that adheres to the spirit of the Astropy CoC.
 
 1. No code bashing, directly or indirectly. No scoffing, rolling your
 eyes, or questioning users' choices. Everyone chooses different tools
