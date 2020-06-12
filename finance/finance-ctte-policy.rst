@@ -30,7 +30,7 @@ Role and responsibilities of the Committee
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
 
-#. The Committee will consider funding requests submitted according to the policy documented at https://github.com/astropy/project/blob/master/finance/funding_requests.md.
+#. The Committee will allocate funding as recommended by the Astropy Coordination Committee, and will consider funding requests submitted according to the policy documented at https://github.com/astropy/project/blob/master/finance/funding_requests.md.
    This policy may be evolve over time.
 
    (Agreed `2020-04-24`__.)
