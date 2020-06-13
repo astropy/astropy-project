@@ -339,7 +339,9 @@ respond to the comments and/or address any of them.
 If you have any follow-up questions or disagree with any of the comments above,
 leave a comment and we can discuss it here. At any point in future you can
 request a re-review of the package if you believe any of the scores should be
-updated - contact the coordination committee, and we’ll do a new review.
+updated - contact the affiliated package editors
+[listed on the Astropy team page](https://www.astropy.org/team),
+and we’ll do a new review.
 ```
 
 <a href="#top">Back to top</a>
