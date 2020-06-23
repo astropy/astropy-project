@@ -16,7 +16,7 @@ In the astropy core package the requirements are as follows:
     at the line-by-line level.  Formatting and style are acceptable points for
     comment, in particular to maintain the existing coding style of a package and to
     maintain readability of the code base for future developers.
-  - Maintainer(s) of subpackages that the contribution affects is required to
+  - Maintainer(s) of subpackages that the contribution affects are required to
     approve the pull request for changes that require specific knowledge of a
     subpackage.  Other less complex cases, for example a documentation
     improvement, may be reviewed by any astropy core package maintainer.
