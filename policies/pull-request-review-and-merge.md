@@ -29,7 +29,7 @@ In the astropy core package the requirements are as follows:
 - A release manager or maintainer checks that the selected release
   milestone is suitable for the scope of the change.  In particular bug-fix
   backports are considered where feasible and sensible.
-  Documentation is usually backported. API change or new feature
+  Documentation is usually backported. API change or new feature changes
   are not backported unless under special circumstances.
 - A matrix of CI checks ensure that all existing tests pass on supported
   platforms. Even the CI job that is allowed to fail should pass unless
