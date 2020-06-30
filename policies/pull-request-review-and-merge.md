@@ -1,65 +1,54 @@
-# Policy on pull request review and merging in the Astropy Project
+# Astropy Project Pull Request Review & Merging Policy 
 
-## Astropy core
+## Astropy Core Package
 
-In the astropy core package the requirements are as follows:
+When submitting a pull request (PR) in the Astropy core package the following process must take place before it can be accepted. If the pull request fails any of the reviews or
+checks it must be amended and undergo additional review before being accepted. 
 
-- At least one contributor with relevant expertise must review the pull request
-  in detail.
-  - New or updated code is logically correct and achieves the desired effect of
-    either fixing a bug or making an enhancement.
+### Review & Approval
+
+All pull requests will be reviewed by at least one contributor with relevant expertise to ensure that:
+
+  - New or updated code is logically correct and achieves the desired effect of either fixing a bug or making an enhancement.
   - New tests or modifications to tests are adequate to cover the code changes.
-    Tests for edge cases exist, if applicable.
-  - There are no API changes or the API changes are well-understood and
-    acceptable and beneficial on the whole to the astropy user community.
-  - The expected level of review is detailed, including review and suggestions
-    at the line-by-line level.  Formatting and style are acceptable points for
-    comment, in particular to maintain the existing coding style of a package and to
-    maintain readability of the code base for future developers.
-  - Maintainer(s) of subpackages that the contribution affects are required to
-    approve the pull request for changes that require specific knowledge of a
-    subpackage.  Other less complex cases, for example a documentation
-    improvement, may be reviewed by any astropy core package maintainer.
-  - While a maintainer does not have to be the one doing the detailed review, if
-    the detailed review is by someone else, the maintainer is responsible for
-    ensuring the contributor review is sufficiently detailed and follows these
-    guidelines.
-  - Following a successful review, maintainers should formally approve the pull
-    request.
-- A release manager or maintainer checks that the selected release
-  milestone is suitable for the scope of the change.  In particular bug-fix
-  backports are considered where feasible and sensible.
-  Documentation is usually backported. API change or new feature changes
-  are not backported unless under special circumstances.
-- A matrix of CI checks ensure that all existing tests pass on supported
-  platforms. Even the CI job that is allowed to fail should pass unless
-  an known and unrelated failure occurs; i.e., look at the logs even in
-  the event of green check mark.
-- A bot checks that the change log mentions the change and PR number and that the change log
-  section used matches the selected release milestone set by the maintainer.
-- Merging the pull request can be done by any core package maintainer once
-  approved by relevant maintainers (as described above).  In practice this is
-  sometimes the PR developer and sometimes the reviewer.
+  - There are no API changes or the API changes are well-understood and acceptable and beneficial on the whole to the Astropy user community.
+  - Formatting and style maintain the existing style of a package and readability of the code base for future developers.
+  
+Reviews will be detailed and should include review and suggestions at the line-by-line level.
 
-## Astropy coordinated and infrastructure packages
+For pull requests that require specific knowledge of a sub-package a maintainer of the sub-package that the contribution affects is required to approve. For other less complex
+cases, for example a documentation improvement, review may be conducted by any Astropy core package maintainer.
 
-The process should in general be similar to the core package, although since a
-number of coordinated and infrastructure packages have fewer maintainers, the
-concept of subpackages is not relevant. Nevertheless, all coordinated and
-infrastructure packages should have at least two maintainers with push access.
-All changes to these packages should be done via pull requests, and approved by
-at least one of the other maintainers (any maintainer can then merge the pull
-request provided it is approved).
+While a core package maintainer does not have to be the one performing the review, if the review is performed by someone else, that maintainer is responsible for ensuring the
+contributor review is sufficiently detailed and follows these guidelines.
 
-## Astropy affiliated packages
+After successful review, the maintainer(s) will formally approve the pull request.
 
-The change process required by the Astropy Project for affiliated packages are
-substantially less rigid than in the Astropy core package. However, each
-affiliated package may make their requirements as rigorous as they’d like.
-- It is required to maintain the code under version control on a publicly
-  available site.
-- In most cases packages are hosted on GitHub or GitLab and updated via pull
-  requests, but this is not a requirement.
-- Independent review is encouraged but is at the discretion of the package
-  maintainer(s).  In particular some packages may be largely developed by a
-  single maintainer.
+### Additional Checks
+
+Additional checks will be performed to verify that there are no other issues with the pull request, for example:
+
+  - A release manager or maintainer will check that the selected release milestone is suitable for the scope of the change. In particular bug-fix backports are considered where
+    feasible and sensible. Documentation is usually backported. API changes or new feature changes are not backported unless under special circumstances.
+  - A matrix of CI checks will be run to ensure that all existing tests pass on supported platforms. Even the CI job that is allowed to fail should pass unless a known and
+    unrelated failure occurs; i.e., look at the logs even in the event of a green check mark.
+  - A bot will check that the change log mentions the change and PR number and that the change log section used matches the selected release milestone set by the maintainer.
+
+### Merging
+
+The pull request will be merged once it is approved by relevant maintainers (as described above) and has passed all necessary checks. This can be done by any core package
+maintainer. In practice this is sometimes the PR developer and sometimes the reviewer.
+
+## Astropy Coordinated & Infrastructure Packages
+
+The process of PR approval for coordinated and infrastructure packages should be the same as the process for the core package except that reviews and approvals can be done by
+any maintainer. Coordinated and infrastructure packages should have at least two maintainers with push access and all PRs should be approved by at least one of the other
+maintainers. Any maintainer can then merge the pull request once it is approved.
+
+## Astropy Affiliated Packages
+
+The change process for affiliated packages is largely at the discretion of the package maintainers. Affiliated packages may make their requirements as rigorous or as lenient as
+they like. However, the Astropy Project does require that affiliated packages maintain the code under version control on a publicly available site. 
+
+In most cases packages are hosted on GitHub or GitLab and updated via pull requests, but this is not a requirement. Independent review is encouraged but is at the discretion of
+the package maintainer(s) as some packages may be largely developed by a single maintainer. Please see the affiliated package’s documentation for more information.
