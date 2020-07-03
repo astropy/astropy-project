@@ -40,7 +40,7 @@ Payment will be made to you directly from  NumFOCUS, typically within 30 days af
  and potential new contributors to propose ideas for funding by the
  Astropy community but this requires time to develop a process for
  balancing different priorities for limited funding.  In 2020, funding
- was offered to current astropy team members and no more funding is
+ a fixed amount of funding, not based on numbers of hours worked, was offered to current astropy maintainers and no more funding is
  available for the 2019-2020 budget year. In later years, the funding
  will be distributed in other ways, and the interim finance committee
  is working out a fair and open process. The committee welcomes input
