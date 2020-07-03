@@ -36,7 +36,18 @@ Payment will be made to you directly from  NumFOCUS, typically within 30 days af
 
 ## Contract Work
 
-*Our intent is to build this into a process that allows both existing and potential new contributors to propose ideas for funding by the Astropy community but this requires time to develop a process for balancing different priorities for limited funding. In its current form, this document describes how the process has been handled in the past, when funding was available only through specific grants for very well defined tasks, so it will be used only for existing contributors who require support for priorities already identified by the Astropy Coordination Committee (as charged by the participants of the 2019 coordination meeting).* 
+*Our intent is to build this into a process that allows both existing
+ and potential new contributors to propose ideas for funding by the
+ Astropy community but this requires time to develop a process for
+ balancing different priorities for limited funding.  In 2020, funding
+ a fixed amount of funding, not based on numbers of hours worked, was offered to current Astropy maintainers and no more funding is
+ available for the 2019-2020 budget year. In later years, the funding
+ will be distributed in other ways, and the Interim Finance Committee
+ is working out a fair and open process. The committee welcomes input
+ on project goals and processes that should be funded.*
+
+The text below describes how the current contracts were handled and
+how current contractors should report expenses and invoices.
 
 ### Contracts
 To request a contract send an email to finance@astropy.org with the subject line "Request for Contract" and include the following information:
