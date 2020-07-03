@@ -37,6 +37,13 @@ Role and responsibilities of the Committee
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.6yhnj6jbgbhf
 
+#. The scope of the Committee is not limited to any particular source of funding; rather, the Committee is charged with maintaining an oversight on — and, where appropriate, direct management of — all Astropy-controlled funding instruments.
+   In the event that external bodies wish to provide support to Astropy that is not directly financial (for example, by employing somebody to work on Astropy), the Committee need not be consulted or otherwise involved, but will be available to assist with the process upon request.
+
+   (Agreed `2020-06-26`__.)
+
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.3kev1rmgdwu
+
 Conduct of meetings
 ===================
 
@@ -86,3 +93,13 @@ Tracking work in progress
    (Agreed `2020-03-06`__.)
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.4jdhskegwqo5
+
+Access to project resources
+===========================
+
+#. Astropy is expected to maintain an account with an online password management service, which will include an area for recording account details relevant to the Committee.
+   At least two members of the Committee should have access to this vault at any given time.
+
+   (Agreed `2020-06-26`__.)
+
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.9k7wgfaxak2d
