@@ -1,5 +1,6 @@
 
-#Call for proposals: Inclusion, Diversity, and Empowerment
+# Call for proposals: Inclusion, Diversity, and Empowerment
+
 We recognize that contributing to open source projects is a privilege not available to everyone and that the Astropy Project community is highly white, predominantly male, and is homogeneous in several other ways, too. In our [code of conduct](https://www.astropy.org/code_of_conduct.html), we committed to being an inclusive and welcoming community, but clearly it’s not enough to write down a commitment, there needs to be action too. Hence, we urge all Astropy community members to take action to broaden participation in the Project at all levels and we want to empower those actions.
 
 Often, such actions require resources and thus the Project asks for proposals from members of the community for up to $15,000 for any action that helps with inclusion, support, and empowerment of underrepresented or marginalized groups in the Astropy community. We are looking for proposals that lead to concrete actions soon, preferably in the next six months. 
