@@ -19,14 +19,14 @@ celebrations.
 
 Proposal Lead: Lia Corrales (@eblur)
 
-Attendees: Please indicate if you would like to attend this year on
-behalf of the Astropy
+Attendees: The following people would like to attend the conference
+this year on behalf of the Astropy
 
-1. 
+1. Kelle Cruz
 
-2. 
+2. Erik Tollerud
 
-3. 
+3. Robel Geda
 
 4. 
 
@@ -53,6 +53,6 @@ other contribution to the Astropy project.
 * Postdoc ($310)
 * Professional ($430)
 
-We anticipate 2 postdoctoral and 2 professional attendees to rise to
-the call, for a total of $1480. Adjustments will be made in this PR,
-depending on the amount of interest. We anticipate approval by September 15.
+We anticipate at least 4 professional attendees to rise to the call,
+for a total of $1720. Adjustments will be made in this PR, depending
+on the amount of interest. We anticipate approval by September 15.
