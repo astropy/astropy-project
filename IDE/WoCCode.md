@@ -43,10 +43,7 @@ prioritizes most marginalized demographics.
 
 We operate under the principle that supporting the most marginalized
 in our communities supports the well-being of all members of the
-Astropy community. While the Astropy project has shown considerable
-diversity in its international demographics, the majority of non-US
-participants are still overwhelmingly European (white), male, and from
-privileged classes. This program seeks to engage with people from
+Astropy community. This program seeks to engage with people from
 groups that are marginalized in the United States, the Global South
 (Central America, Latin America, Africa, and less-privileged classes
 of Southeast Asia), or Global North (European, Northern Asia,
@@ -95,6 +92,13 @@ more effectively to the Astropy code base and community.
 
 ## Budget
 
+When possible, and based on the rules and regulations of their
+employers, WoCCode participants will be compensated with an
+honararium. If compensation is not possible, participants may
+volunteer their time to WoCCode. The budget summary below assumes that
+all participants will be able to receive money, to arrive at the
+maximum possible cost for the program.
+
 Slack moderators will receive an honorarium of $500, for their work in
 moderating the Slack forums, answering questions, and arranging for
 guest speakers.
@@ -109,7 +113,7 @@ such, monetary compensation is one of the most important ways to
 support underrepresented groups in our fields. For engagement in the
 program, participants will receive a $200 honorarium.
 
-Guest speakers will receive compensation of $300 for a one-hour
+Guest speakers will receive an honararium of $300 for a one-hour
 webinar given to the program participants. This is based on the
 industry standard of $150 per hour compensation, anticipating a total
 of two hours for preparing and giving the webinar talk.
