@@ -56,7 +56,7 @@ Anyone can join the astropy slack workspace and join any number of channels, unl
 
 - gsoc-mentors: Same restriction as analogous mailing list
 
-Posting to all channels is open to call workspace members and shall
+Posting to all channels is open to all workspace members and shall
 not be restricted. The coordination committee can implement a "cool
 down" period following the same rules as established for email lists
 above.
