@@ -49,6 +49,7 @@ their content is not public:
 
 
 ## Astropy Slack channels
+
 Anyone can join the Astropy Slack workspace and join any number of channels, unless specifically restricted. The following channels are restricted:
 
 - gsoc-mentors: Same restriction as analogous mailing list
