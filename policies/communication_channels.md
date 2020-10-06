@@ -22,23 +22,26 @@ members of certain committees.
 ## Email communication geared towards project members
 
 Mailing lists are maintained as Google groups or through other list
-servers. Unless specifically restricted, anyone worldwide can
-subscribe to these lists, and previous posts are publicly
-available. List membership is required to post messages to prevent
-spam.  In order to be as open as possible, none of these lists shall
-be moderated and nor will posts by group members be otherwise
-restricted. However, the Coordination Committee can implement a "cool
-down" period of no more than 48 hours if they deem it necessary to
-maintain a respectful and welcoming atmosphere. During this period,
-posting may be moderated or otherwise restricted by the Coordination
-Committee or their designee. The beginning and end of such a period has to be announced
-by the Coordination Committee on the affected mailing list. The
-Coordination Committee shall not implement a "cool down" within a week
-of any scheduled Astropy vote unless in the most obvious cases of Code
-of Conduct violations.
+servers.  Two examples of such lists are astropy@python.org, geared
+towards users, and astropy-dev@..., which is intended for more
+technical developer discussions.  Unless specifically restricted,
+anyone worldwide can subscribe to these lists, and previous posts are
+publicly available. List membership is required to post messages to
+prevent spam.  In order to be as open as possible, none of these lists
+shall be moderated and nor will posts by group members be otherwise
+restricted. However, the Coordination Committee or the ombdbusperson
+can implement a "cool down" period of no more than 48 hours if they
+deem it necessary to maintain a respectful and welcoming
+atmosphere. During this period, posting may be moderated or otherwise
+restricted by the Coordination Committee or their designee. The
+beginning and end of such a period has to be announced by the
+Coordination Committee on the affected mailing list. The Coordination
+Committee shall not implement a "cool down" within a week of any
+scheduled Astropy vote unless in the most obvious cases of Code of
+Conduct violations.
 
 
-The following email lists / aliases are restricted in memebership and
+The following email lists / aliases are restricted in membership and
 their content is not public:
 
 - astropy-core-maintainers: Membership: Anyone with commit rights to the github/astropy/astropy repository
@@ -48,13 +51,13 @@ their content is not public:
 - finance@astropy.org: Finance Committee
 
 
-## Astropy Slack channels
+## Astropy Slack team
 
-Anyone can join the Astropy Slack workspace and join any number of channels, unless specifically restricted. The following channels are restricted:
+Anyone can join the Astropy Slack workspace and join any number of
+channels, unless specifically restricted (following the same rules as
+restricted email lists).      
 
-- gsoc-mentors: Same restriction as analogous mailing list
-
-Posting to all channels is open to all workspace members and shall
+Posting to all public channels is open to all workspace members and shall
 not be restricted. The Coordination Committee can implement a "cool
 down" period following the same rules as established for email lists
 above.
