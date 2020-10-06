@@ -31,7 +31,7 @@ restricted. However, the Coordination Committee can implement a "cool
 down" period of no more than 48 hours if they deem it necessary to
 maintain a respectful and welcoming atmosphere. During this period,
 posting may be moderated or otherwise restricted by the Coordination
-Committee. The beginning and end of such a period has to be announced
+Committee or their designee. The beginning and end of such a period has to be announced
 by the Coordination Committee on the affected mailing list. The
 Coordination Committee shall not implement a "cool down" within a week
 of any scheduled Astropy vote unless in the most obvious cases of Code
