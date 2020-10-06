@@ -14,7 +14,7 @@ details of building and running a library like Astropy. Therefore, some
 communication channels that are more geared towards users and others
 to developers. Also, in a project this size, certain issues that
 arise require privacy (e.g. personal or financial information is
-legally protected in many contries). Thus, there are communication
+legally protected in many countries). Thus, there are communication
 channels geared towards or exclusively for developers, maintainers, or
 members of certain committees.
 
