@@ -41,7 +41,7 @@ of Conduct violations.
 The following email lists / aliases are restricted in memebership and
 their content is not public:
 
-- astropy-core-maintainer: Membership: Anyone with commit rights to the github/astropy/astropy repository
+- astropy-core-maintainers: Membership: Anyone with commit rights to the github/astropy/astropy repository
 - astropy-gsoc-mentors-XXX: Membership: Mentors of Astropy GSOC projects and astropy GSOC coordinator, coordination committee
 - coordinators@astropy.org: Coordination Committee
 - confidential@astropy.org: Ombudsperson
