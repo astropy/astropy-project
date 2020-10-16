@@ -1,0 +1,75 @@
+Dear Astropy Community,
+
+The Interim Astropy Finance Committee has made significant progress over
+the last few months. We wanted to take this opportunity to provide you
+with some updates on our work, and reminders about ongoing activities.
+
+- We'd like to remind you about the ongoing call for proposals on the
+  topic of Inclusion, Diversity and Empowerment [1]. We invite members of
+  the community to submit proposals by the end of August, and have
+  allocated funding of up to $15,000 to support them. At time of
+  writing, five proposals have been submitted [2], and we encourage
+  everybody to consider and discuss them on the appropriate pull
+  requests. Questions about the proposal process can be directed to the
+  FAQ [3].
+
+  [1] https://github.com/astropy/project/blob/master/finance/InclusionDiversityEmpowerment.md
+  [2] https://github.com/astropy/project/pulls?q=is%3Apr+is%3Aopen+label%3Ainclusion-diversity-empowerment
+  [3] https://github.com/astropy/project/issues/120
+
+- We are pleased to announce Madison Bray is joining the project again
+  as the Astropy Software Operational Support Specialist.  Madison
+  started on August 1 and will be providing support for issue
+  management, helping with pull requests, and improving the contributor
+  experience. Madison helped set up much of the early infrastructure for
+  the project, and it is our pleasure to welcome them back!
+
+- We have awarded sub-awards to Matt Craig [4] and Adam Ginsburg [5] to
+  support their work on the Astropy project.
+
+  [4] https://github.com/astropy/project/issues/63
+  [5] https://github.com/astropy/project/issues/70
+
+- For the remaining core developer funds, we decided that it was best to
+  share this equally among the core contributors that were interested
+  and able to accept funding for this year.   We were then able to offer
+  support of up to $11,000 to the following contributors: Kelle Cruz,
+  Adrian Price-Whelan, Lia Corrales, Tom Robitaille, Stuart Mumford, Ole
+  Streicher, Derek Homer, Stuart Littlefair, Juan Luis Cano Rodrigues,
+  and Miguel de Val-Barro.  Once finalized, the scopes of work will be
+  posted to issue project/#113 [6].
+
+  [6] https://github.com/astropy/project/issues/113
+
+- In addition, the finance committee has also supported a new contract
+  to include software for Kepler/TESS into the Astropy Ecosystem.
+
+- Finally, we are sorry to announce that Steve Crawford will be stepping
+  back from the Interim Finance Committee as he moves on to other
+  opportunities. The rest of the committee extends our heartfelt thanks
+  to Steve for his contributions, both to this committee and to the
+  wider Astropy project. We couldn't have achieved all the above without
+  him!
+
+The committee is now in the process discussing allocation of funding for
+the second year of the Moore Grant. If you would like to be more
+involved in these discussions, please nominate yourself  to join the
+committee by sending an email to the Coordination Committee:
+coordinators@astropy.org. We are especially interested in nominations of
+folks based from outside the United States or with a diversity of
+experiences.
+
+For more information on our activities, please see the issues labeled
+“finance” in the Astropy project repo [7], or peruse the notes from our
+weekly meetings [8]. You can make suggestions for things that need to be
+funded by opening an issue in https://github.com/astropy/project/, by
+emailing finance@astropy.org, or by joining us in the #finance-committee
+channel on Slack.
+
+[7] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
+[8] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
+
+Cheers,
+
+John
+on behalf of the Interim Astropy Finance Committee
