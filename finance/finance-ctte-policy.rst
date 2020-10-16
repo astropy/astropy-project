@@ -94,6 +94,16 @@ Tracking work in progress
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.4jdhskegwqo5
 
+#. The ``astropy/project`` GitHub issue tracker, together with the ``finance`` label, will be used to provide status on all major committee work.
+   The intention is that these issues are more than a simple “todo list” for the committee, but that they provide a way for the community to see how the various projects the committee are engaged upon are progressing.
+   As such, we expect that most issues will remain open for the duration of the project in question.
+   For example, an issue regarding funding for a conference will remain open until the conference is over and all necessary reporting has been completed.
+   Exceptions may be made on a case-by-case basis for projects which are unusually long or complex, such as funding proposals which might span multiple years.
+
+   (Agreed `2020-10-16`__.)
+
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.nlqigxp8k6c
+
 Access to project resources
 ===========================
 
