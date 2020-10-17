@@ -1,0 +1,68 @@
+Dear Astropy Community,
+
+Once again, the Interim Finance Committee would like to give you some updates
+on our activities over the couple of months.
+
+- The process for selecting Inclusion, Diversity, and Equity in Astropy
+  proposals has been completed [1]. We were delighted with the high-quality of the
+  proposals received, and with the community discussion which resulted. Thanks
+  to everybody who took part!
+
+  Based on this process, two proposals have been funded: one to fund an
+  Astropy intern through Outreachy [2] and the other to develop a peer
+  mentoring network for women of color and other marginalized groups [3].
+  We're really excited to see these projects make progress!
+
+  We very much hope to be able to issue further calls for proposals in this
+  area in the future. Further, we plan to use a development of the
+  collaborative selection process developed here for other funding decisions.
+  Given both of those, we'd love to hear feedback from the community on how
+  our process could be improved.
+
+  [1] https://groups.google.com/g/astropy-dev/c/NDU3dTDDsAc
+  [2] https://github.com/astropy/astropy-project/blob/master/finance/IDEA_2019_outreachy.md
+  [3] https://github.com/astropy/astropy-project/blob/master/finance/IDEA_2019_WoCCode.md
+
+- We're pleased to announce that a proposal entitled “Kicking Off Scientific
+  Software Engineering Learning Resources with the Astropy Learn Project” [4],
+  submitted by Marten van Kerkwijk, Erik Tollerud, and Kelle Cruz to the
+  Dunlap Seed Funding program at the University of Toronto, has been accepted.
+  This provides a total of $31,023 Canadian to develop a set of educational
+  resources around packaging scientific software and to make them available
+  through Learn Astropy [5].
+
+  [4] https://drive.google.com/file/d/1z-mV4YjkHyc6Xe645mO8kkjYlQC6rfgz/view
+  [5] https://learn.astropy.org
+
+- As previously announced [6], the bulk of our funds available for supporting
+  core developers this year have been allocated to core contributors who were
+  interested in and able to accept funding. Statements of work for all of
+  these positions have now been finalized, and are available online [7]. Folks
+  are hard at work, and the Finance Committee has been processing and
+  approving invoices.
+
+  [6] https://groups.google.com/g/astropy-dev/c/qlNMpLpnPXI
+  [7] https://github.com/astropy/astropy-project/issues/113
+
+- The next major project the Interim Finance Committee plans to undertake is
+  to issue a broad call for proposals for projects to make improvements to any
+  part of Astropy, including the core repository, coordinated and affiliated
+  packages, infrastructure, tutorials, workshops, etc. We plan to release this
+  call after the ongoing discussion over APE0 [8] has concluded.
+
+  [8] https://github.com/astropy/astropy-APEs/pull/61
+
+For more information on our activities, please see the issues labelled
+“finance” in the Astropy project repo [9], or read the notes from our weekly
+meetings [10]. You can make suggestions for things that need to be funded by
+opening an issue in https://github.com/astropy/project/, by emailing
+finance@astropy.org, or by joining us in the #finance-committee channel on
+Slack.
+
+[ 9] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
+[10] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
+
+Cheers,
+
+John
+on behalf of the Interim Astropy Finance Committee
