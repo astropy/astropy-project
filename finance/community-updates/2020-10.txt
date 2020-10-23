@@ -3,14 +3,14 @@ Dear Astropy Community,
 Once again, the Interim Finance Committee would like to give you some updates
 on our activities over the couple of months.
 
-- The process for selecting Inclusion, Diversity, and Equity in Astropy
+- The process for selecting Inclusion, Diversity, and Equity in Astropy (IDEA)
   proposals has been completed [1]. We were delighted with the high-quality of the
   proposals received, and with the community discussion which resulted. Thanks
   to everybody who took part!
 
   Based on this process, two proposals have been funded: one to fund an
   Astropy intern through Outreachy [2] and the other to develop a peer
-  mentoring network for women of color and other marginalized groups [3].
+  mentoring network for women of color and other marginalized groups through WoCCode [3].
   We're really excited to see these projects make progress!
 
   We very much hope to be able to issue further calls for proposals in this
@@ -27,7 +27,7 @@ on our activities over the couple of months.
   Software Engineering Learning Resources with the Astropy Learn Project” [4],
   submitted by Marten van Kerkwijk, Erik Tollerud, and Kelle Cruz to the
   Dunlap Seed Funding program at the University of Toronto, has been accepted.
-  This provides a total of $31,023 Canadian to develop a set of educational
+  This provides a total of $CAD 31,023 to develop a set of educational
   resources around packaging scientific software and to make them available
   through Learn Astropy [5].
 
@@ -39,7 +39,7 @@ on our activities over the couple of months.
   interested in and able to accept funding. Statements of work for all of
   these positions have now been finalized, and are available online [7]. Folks
   are hard at work, and the Finance Committee has been processing and
-  approving invoices.
+  approving invoices and NumFocus has been issuing payments.
 
   [6] https://groups.google.com/g/astropy-dev/c/qlNMpLpnPXI
   [7] https://github.com/astropy/astropy-project/issues/113
