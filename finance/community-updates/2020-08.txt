@@ -35,7 +35,7 @@ with some updates on our work, and reminders about ongoing activities.
   and able to accept funding for this year.   We were then able to offer
   support of up to $11,000 to the following contributors: Kelle Cruz,
   Adrian Price-Whelan, Lia Corrales, Tom Robitaille, Stuart Mumford, Ole
-  Streicher, Derek Homer, Stuart Littlefair, Juan Luis Cano Rodrigues,
+  Streicher, Derek Homeier, Stuart Littlefair, Juan Luis Cano Rodrigues,
   and Miguel de Val-Barro.  Once finalized, the scopes of work will be
   posted to issue project/#113 [6].
 
