@@ -47,8 +47,11 @@ on our activities over the couple of months.
 - The next major project the Interim Finance Committee plans to undertake is
   to issue a broad call for proposals for projects to make improvements to any
   part of Astropy, including the core repository, coordinated and affiliated
-  packages, infrastructure, tutorials, workshops, etc. We plan to release this
-  call after the ongoing discussion over APE0 [8] has concluded.
+  packages, infrastructure, tutorials, workshops, etc. In an effort to limit
+  the burden on the community of large-scale governance and planning
+  discussions, we play to release this call after the ongoing discussion over
+  APE0 has concluded. Before we release the call, the community will have the
+  chance to discuss the process we will use for selecting proposals.
 
   [8] https://github.com/astropy/astropy-APEs/pull/61
 
