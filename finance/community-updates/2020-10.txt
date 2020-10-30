@@ -11,7 +11,10 @@ on our activities over the couple of months.
   Based on this process, two proposals have been funded: one to fund an
   Astropy intern through Outreachy [2] and the other to develop a peer
   mentoring network for women of color and other marginalized groups through
-  WoCCode [3].  We're really excited to see these projects make progress!
+  WoCCode [3]. We're really excited to see these projects make progress!
+
+  It's worth noting that two other proposals, which were focused on conference
+  attendance, were funded from the travel budget rather than the IDEA budget.
 
   We very much hope to be able to issue further calls for proposals in this
   area in the future. Further, we plan to use a development of the
@@ -45,14 +48,15 @@ on our activities over the couple of months.
   [6] https://groups.google.com/g/astropy-dev/c/qlNMpLpnPXI
   [7] https://github.com/astropy/astropy-project/issues/113
 
-- The next major project the Interim Finance Committee plans to undertake is
-  to issue a broad call for proposals for projects to make improvements to any
-  part of Astropy, including the core repository, coordinated and affiliated
-  packages, infrastructure, tutorials, workshops, etc. In an effort to limit
-  the burden on the community of large-scale governance and planning
-  discussions, we play to release this call after the ongoing discussion over
-  APE0 has concluded. Before we release the call, the community will have the
-  chance to discuss the process we will use for selecting proposals.
+- The next major project the Interim Finance Committee plans to undertake as
+  part of the Moore grant is to issue a broad call for proposals for projects
+  to make improvements to any part of Astropy, including the core repository,
+  coordinated and affiliated packages, infrastructure, tutorials, workshops,
+  etc. In an effort to limit the burden on the community of large-scale
+  governance and planning discussions, we play to release this call after the
+  ongoing discussion over APE0 has concluded. Before we release the call, the
+  community will have the chance to discuss the process we will use for
+  selecting proposals.
 
   [8] https://github.com/astropy/astropy-APEs/pull/61
 
