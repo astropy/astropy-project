@@ -10,8 +10,8 @@ on our activities over the couple of months.
 
   Based on this process, two proposals have been funded: one to fund an
   Astropy intern through Outreachy [2] and the other to develop a peer
-  mentoring network for women of color and other marginalized groups through WoCCode [3].
-  We're really excited to see these projects make progress!
+  mentoring network for women of color and other marginalized groups through
+  WoCCode [3].  We're really excited to see these projects make progress!
 
   We very much hope to be able to issue further calls for proposals in this
   area in the future. Further, we plan to use a development of the
@@ -20,8 +20,8 @@ on our activities over the couple of months.
   our process could be improved.
 
   [1] https://groups.google.com/g/astropy-dev/c/NDU3dTDDsAc
-  [2] https://github.com/astropy/astropy-project/blob/master/finance/IDEA_2019_outreachy.md
-  [3] https://github.com/astropy/astropy-project/blob/master/finance/IDEA_2019_WoCCode.md
+  [2] https://github.com/astropy/astropy-project/blob/master/finance/proposal-calls/2020-IDEA/IDEA_2020_outreachy.md
+  [3] https://github.com/astropy/astropy-project/blob/master/finance/proposal-calls/2020-IDEA/IDEA_2020_WoCCode.md
 
 - We're pleased to announce that a proposal entitled “Kicking Off Scientific
   Software Engineering Learning Resources with the Astropy Learn Project” [4],
