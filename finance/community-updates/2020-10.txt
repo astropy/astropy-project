@@ -38,15 +38,27 @@ on our activities over the couple of months.
   [4] https://drive.google.com/file/d/1z-mV4YjkHyc6Xe645mO8kkjYlQC6rfgz/view
   [5] https://learn.astropy.org
 
-- As previously announced [6], the bulk of our funds available for supporting
+- NASA has announced a call for proposals for “Support for Source Tools,
+  Frameworks, and Libraries” [6] as part of the ROSES-2020 [7] funding
+  programme. According to the call, they expect to award a total of $1.5M (US)
+  spread over 5–10 different projects. This is a fantastic opportunity for
+  Astropy! Over the next few weeks, the Interim Finance Committee will aim to
+  coordinate a proposal. For now, we invite you to use astropy-project #161
+  [8] to start brainstorming your ideas.
+
+  [6] https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7b958CF134-D655-E512-B5AD-84501D14A0C1%7d&path=&method=init
+  [7] https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bBCEE336B-D550-CCBA-1C8C-7A866DB06F45%7d&path=&method=init
+  [8] https://github.com/astropy/astropy-project/issues/161
+
+- As previously announced [9], the bulk of our funds available for supporting
   core developers this year have been allocated to core contributors who were
   interested in and able to accept funding. Statements of work for all of
-  these positions have now been finalized, and are available online [7]. Folks
-  are hard at work, and the Finance Committee has been processing and
+  these positions have now been finalized, and are available online [10].
+  Folks are hard at work, and the Finance Committee has been processing and
   approving invoices and NumFocus has been issuing payments.
 
-  [6] https://groups.google.com/g/astropy-dev/c/qlNMpLpnPXI
-  [7] https://github.com/astropy/astropy-project/issues/113
+  [ 9] https://groups.google.com/g/astropy-dev/c/qlNMpLpnPXI
+  [10] https://github.com/astropy/astropy-project/issues/113
 
 - The next major project the Interim Finance Committee plans to undertake as
   part of the Moore grant is to issue a broad call for proposals for projects
@@ -54,21 +66,21 @@ on our activities over the couple of months.
   coordinated and affiliated packages, infrastructure, tutorials, workshops,
   etc. In an effort to limit the burden on the community of large-scale
   governance and planning discussions, we play to release this call after the
-  ongoing discussion over APE0 has concluded. Before we release the call, the
-  community will have the chance to discuss the process we will use for
+  ongoing discussion over APE0 [11] has concluded. Before we release the call,
+  the community will have the chance to discuss the process we will use for
   selecting proposals.
 
-  [8] https://github.com/astropy/astropy-APEs/pull/61
+  [11] https://github.com/astropy/astropy-APEs/pull/61
 
 For more information on our activities, please see the issues labelled
-“finance” in the Astropy project repo [9], or read the notes from our weekly
-meetings [10]. You can make suggestions for things that need to be funded by
+“finance” in the Astropy project repo [12], or read the notes from our weekly
+meetings [13]. You can make suggestions for things that need to be funded by
 opening an issue in https://github.com/astropy/project/, by emailing
 finance@astropy.org, or by joining us in the #finance-committee channel on
 Slack.
 
-[ 9] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
-[10] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
+[12] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
+[13] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
 
 Cheers,
 
