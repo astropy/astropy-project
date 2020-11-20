@@ -59,6 +59,12 @@ Conduct of meetings
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.gv1zreh6ej2c
 
+#. When non-members of the Committee attend Committee meetings, they will recorded as “attendees” in the running notes.
+
+   (Agreed `2020-11-13`__.)
+
+   __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.en4zm1yo5fh9
+
 Privacy and confidentiality
 ===========================
 
