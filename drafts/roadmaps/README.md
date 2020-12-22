@@ -45,6 +45,12 @@ who wish to contribute, on where to focus their efforts.
 * Communications: Specific to https://astropy.org website and other
   communication channels.
 
+# What about the Affiliated packages
+
+For Affiliated packages that are not owned by the Astropy organization,
+the Astropy Project does not have the authority to set their roadmaps.
+They can, however, use the roadmaps here as a guidance, if they wish.
+
 # How do we enforce a roadmap
 
 TBD (Also see: How do we herd cats, some of them unpaid or not paid by Astropy?)
