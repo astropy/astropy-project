@@ -6,14 +6,14 @@ In the astropy core package the requirements are as follows:
 
 - At least one contributor with relevant expertise must review the pull request
   in detail.
-  - New or updated code is logically correct and achieves the desired effect of
+  - New or updated code is correct and achieves the desired effect of
     either fixing a bug or making an enhancement.
   - New tests or modifications to tests are adequate to cover the code changes.
-    Tests for edge cases exist, if applicable.
+    Tests for edge cases exist, if applicable and judged to be important enough.
   - There are no API changes or the API changes are well-understood and
-    acceptable and beneficial on the whole to the astropy user community.
+    acceptable and beneficial on the whole to the astropy user community, and documented as an API change in the changelog.
   - The expected level of review is detailed, including review and suggestions
-    at the line-by-line level.  Formatting and style are acceptable points for
+    at the line-by-line level (although "I looked and had no comments" is a valid answer).  Formatting and style are acceptable points for
     comment, in particular to maintain the existing coding style of a package and to
     maintain readability of the code base for future developers.
   - Maintainer(s) of subpackages that the contribution affects are required to
@@ -35,7 +35,7 @@ In the astropy core package the requirements are as follows:
   platforms. Even the CI job that is allowed to fail should pass unless
   an known and unrelated failure occurs; i.e., look at the logs even in
   the event of green check mark.
-- A bot checks that the change log mentions the change and PR number and that the change log
+- An automated tool checks that the change log mentions the change and PR number and that the change log
   section used matches the selected release milestone set by the maintainer.
 - Merging the pull request can be done by any core package maintainer once
   approved by relevant maintainers (as described above).  In practice this is
@@ -63,3 +63,4 @@ affiliated package may make their requirements as rigorous as they’d like.
 - Independent review is encouraged but is at the discretion of the package
   maintainer(s).  In particular some packages may be largely developed by a
   single maintainer.
+- For affiated packages with enough contributors, the workflow for the core/coordinated packages is recommended, although not required.
