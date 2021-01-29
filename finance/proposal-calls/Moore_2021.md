@@ -1,7 +1,7 @@
 # Call for Astropy ideas / proposals to be funded in 2021
 
 ## Proposal goals
-Proposals shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, travel to conferences or meetings, talks, menotring, and anything else broadly Project related.
+Proposals shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, travel to conferences or meetings, talks, mentoring, and anything else broadly Project related.
 
 Proposals shall foster the Astropy Project goals of community, shared work, and cooperation and shall be proposed and executed in this manner.
 
