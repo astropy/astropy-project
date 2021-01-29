@@ -30,7 +30,7 @@ We envision a two stage proposal process to enable the community to comment and 
 
 On 2021-03-15, the text for the proposals is frozen but comments are still allowed. Within 7 days of this deadline, the Finance Committee will review all proposals to ensure they are compatible with the terms of the currently available funding sources and should be included in the proposals to be voted on.
 
-Voting: Voting is done by simply adding a "thumps up" to the proposal PR. Any number of proposals can be voted up by a single person. Proposals are ranked by number of "thumbs up". The finance commitee reserves the right to discount "thumbs up" from github accounts without any contributions to Astropy repositories.
+Voting: Voting is done by simply adding a "thumbs up" to the proposal PR. Any number of proposals can be voted up by a single person. Proposals are ranked by number of "thumbs up". The finance commitee reserves the right to discount "thumbs up" from github accounts without any contributions to Astropy repositories.
 
 The CoCo and the Finance Committee will select proposals following the ranking taking into account the requirements of the available grant funding (e.g. if none of the highest ranking proposals deals with spectroscopy, this money reserved for spectroscopy can be awarded to the highest ranking spectroscopy proposal, even if that means that other, higher ranked proposals won't be executed).
 
