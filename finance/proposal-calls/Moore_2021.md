@@ -49,9 +49,8 @@ Examples of constructive comments are
 
 If you are worried about your comments being construed as non-constructive, you are welcome to send your feedback directly to the Finance Committee at finance@astropy.org or ask on Slack. You are also welcome to use the “thumbs down” vote without adding comments.  If you have any concerns about this process and the ensuing discussion that you would prefer to discuss privately, contact Ombudsperson at confidential@astropy.org.
 
-
 ### Voting and decision
-Voting is done by simply adding a "thumps up" to the project PR. Any number of projects can be voted up by a single person. Projects are ranked by number of "thumbs up". The finance commitee reserves the right to discount "thumbs up" from github accounts without any contributions to Astropy repositories.
+Voting is done by simply adding a "thumbs up" to the project PR. Any number of projects can be voted up by a single person. Projects are ranked by number of "thumbs up". The finance commitee reserves the right to discount "thumbs up" from github accounts without any contributions to Astropy repositories.
 
 The CoCo and the Finance Committee will select projects following the ranking taking into account the requirements of the available grant funding (e.g. if none of the highest ranking projects deals with spectroscopy, this money reserved for spectroscopy can be awarded to the highest ranking spectroscopy project, even if that means that other, higher ranked projects won't be executed).
 
