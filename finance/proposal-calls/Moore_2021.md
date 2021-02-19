@@ -1,9 +1,9 @@
 # Call for Astropy ideas / projects to be funded in 2021
 
 ## Goals
-Projects and ideas funded through this process shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, travel to conferences or meetings, talks, mentoring, and anything else broadly Project related. This does not have to be a new initiative, but can be ongoing work (e.g. maintain the CI), but cannot include work that is already otherwise paid for (e.g. if you have a NASA grant to maintain the CI, you cannot bill for the same work twice).
+Projects and ideas funded through this process shall improve The Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, travel to conferences or meetings, talks, mentoring, and anything else broadly Project related. This does not have to be a new initiative, but can be ongoing work (e.g. maintain the CI), but cannot include work that is already otherwise paid for (e.g. if you have a NASA grant to maintain the CI, you cannot bill for the same work twice).
 
-Suggested projects shall foster the Astropy Project goals of community, shared work, and cooperation and shall be proposed and executed in this manner.
+Suggested projects shall foster the Astropy Project goals of an open and inclusive community, shared work, and cooperation and shall be proposed and executed in this manner.
 
 Total funding for this call is coming from the Moore grant and 200,000 $ are available in total in the period spring 2021 to spring 2022.
 
@@ -15,7 +15,7 @@ Project suggetions need to clearly identify what the funding is used for (e.g. "
 
 - Source of money: Moore grant
 - Specific area: Most of the money can be distributed to any area deemed important by the community. However, we do have specific budgets for work related to spectroscopy (22500 US $), mentoring contributors (15000 US $), and first contributor workshops (12000 US $).
-- Restrictions: This is a world-wide call, open to all current and future contributors to the Astropy project. (The only restriction is that money cannot be transferred to countries that the United States does not allow banking transactions with, e.g. North Korea).
+- Restrictions: This is a world-wide call, open to all past, current, and future contributors to the Astropy project. (The only restriction is that money cannot be transferred to countries that the United States does not allow banking transactions with, e.g. North Korea).
 
 ## Process
 ### Suggestion
@@ -23,8 +23,9 @@ Project ideas should be posted as pull requests to github.com/astropy/astropy-pr
 The goal is to make this process as easy as possible on everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below.
 We envision a two stage process to enable the community to comment and improve ideas, teams with similar ideas can merge to avoid duplicated work, etc..
 
+- Discussion can start as soon as PRs are posted
 - 2021-03-20: Draft Deadline (after this date, no new projects)
-- Two week discussion period during which proposals can be modified
+- Two week dedicated discussion and idea modification period
 - 2021-04-03: Deadline for finalized text
 - Finance Committee reviews project ideas for compatibility with grant conditions
 - 2021-04-10 to 2021-04-24: Discussion and voting
@@ -39,7 +40,7 @@ We want to stay true to the "radical transparency" ethos of the Project and thus
 Example of non-constructive comments are
 
 - “This is not worth our time.”
-- “Person X has never really done anything I think is good.”
+- “Person X has never really done anything that I think is good.”
 
 Examples of constructive comments are
 
@@ -50,11 +51,11 @@ Examples of constructive comments are
 If you are worried about your comments being construed as non-constructive, you are welcome to send your feedback directly to the Finance Committee at finance@astropy.org or ask on Slack. You are also welcome to use the “thumbs down” vote without adding comments.  If you have any concerns about this process and the ensuing discussion that you would prefer to discuss privately, contact the ombudsperson at confidential@astropy.org.
 
 ### Voting and decision
-Voting is done by adding a "thumbs up" to a dedicated comment that will be added to the project PR discussion once the voting period has opened. Any number of projects can be voted up by a single person. The Interim Finance Committee reserves the right to discount "thumbs up" from github accounts without any contributions to Astropy repositories.
+Voting is done by adding a "thumbs up" to a dedicated comment that will be added to the project PR discussion once the voting period has opened. Any number of projects can be voted up by a single person. The Interim Finance Committee reserves the right to discount votes from GitHub accounts without any contributions to Astropy repositories.
 
 The CoCo and the Finance Committee will select projects following the community up/down votes and taking into account the requirements of the available grant funding (e.g. if none of the highest ranking projects deals with spectroscopy, the money reserved for spectroscopy can be awarded to the highest ranking spectroscopy project, even if that means that other, higher ranked projects won't be executed).
 
-*Rationale: This is similar to how e.g. ESO or HST proposals as awarded. Technically, the TACs suggest a list of proposals for the director, who is free to pick in any way they like. However, the TAC ranking is followed unless there are strong reasons against it (e.g. a scheduling requirement cannot be accommodated). This process is well accepted in the community and thus it makes sense to follow it here.*
+*Rationale: This is similar to how e.g. ESO or HST proposals as awarded. Technically, the TACs suggest a list of proposals for the director, who is free to pick in any way they like. However, the TAC ranking is followed unless there are strong reasons against it (e.g. a scheduling requirement cannot be accommodated). This process is well accepted in the astro community and thus it makes sense to follow it here.*
 
 ## Who will be paid to do work?
 Money can be used for travel, infrastructure, equipment etc, but in many cases, money will be used to pay people to do work for Astropy. In that case, the following approaches can be used:
