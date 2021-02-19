@@ -3,7 +3,7 @@
 ## Goals
 Projects and ideas funded through this process shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, travel to conferences or meetings, talks, menotring, and anything else broadly Project related. This does not have to be a new initiative, but can be ongoing work (e.g. maintain the CI), but cannot include work that is already otherwise paid for (e.g. if you have a NASA grant to maintain the CI, you cannot bill for the same work twice).
 
-Projects suggestionsshall foster the Astropy Project goals of community, shared work, and cooperation and shall be proposed and executed in this manner.
+Suggested projects shall foster the Astropy Project goals of community, shared work, and cooperation and shall be proposed and executed in this manner.
 
 Total funding for this call is coming from the Moore grant and 200,000 $ are available in total in the period spring 2021 to spring 2022.
 
@@ -14,8 +14,8 @@ Project suggetions need to clearly identify what the funding is used for (e.g. "
 ## Details
 
 - Source of money: Moore grant
-- Specific area: Most of the money can be distributed to any area deemed important to the community. A specific fraction is reserved for work related to spectroscopy (22500 US $) and mentoring (15000 US $).
-- Restrictions: This is a world-wide call, open to all current and future contributors to the Astrop project. (The only restriction is that money cannot be transferred to countries that the United States does not allow banking transaction with, e.g. North Korea).
+- Specific area: Most of the money can be distributed to any area deemed important to the community. A specific fraction is reserved for work related to spectroscopy (22500 US $), mentoring contributors (15000 US $), and first contributor workshops (12000 US $).
+- Restrictions: This is a world-wide call, open to all current and future contributors to the Astropy project. (The only restriction is that money cannot be transferred to countries that the United States does not allow banking transactions with, e.g. North Korea).
 
 ## Process
 ### Suggestion
