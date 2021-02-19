@@ -84,8 +84,7 @@ currency: US $
 
 Include overheads, fringe etc. if money is paid as sub-grant (note that the Moore grant caps overhead at 15%).
 
-Travel:
-Conference Registrations:
-Salary:
-=====
-TOTAL: 
+- Travel:
+- Conference Registrations:
+- Salary / contractor fees etc.: 
+- TOTAL
