@@ -69,7 +69,7 @@ Note: The Interim Finance Committee realizes that this process may lead to a num
 
 
 ## Template for project suggestion
-
+```
 ### Title
 
 ### Project team
@@ -87,5 +87,6 @@ Include overheads, fringe etc. if money is paid as sub-grant (note that the Moor
 
 - Travel:
 - Conference Registrations:
-- Salary / contractor fees etc.: 
+- Salary / contractor fees etc.:
 - TOTAL
+```
