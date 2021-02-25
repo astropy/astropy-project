@@ -15,7 +15,7 @@ Project suggetions need to clearly identify what the funding is used for (e.g. "
 
 - Source of money: Moore grant
 - Specific area: Most of the money can be distributed to any area deemed important by the community. However, we do have specific budgets for work related to spectroscopy (22500 US $), mentoring contributors (15000 US $), and first contributor workshops (12000 US $).
-- Restrictions: This is a world-wide call, open to all past, current, and future contributors to the Astropy project. (The only restriction is that money cannot be transferred to countries that the United States does not allow banking transactions with, e.g. North Korea).
+- Restrictions: This is a world-wide call, open to all past, current, and future contributors to the Astropy project. (Because the funding is held in a US bank account and administered by a US-based institution, the proposed work cannot be done in a United States embargoed country or otherwise be prohibited by US sanctions or export controls, see https://home.treasury.gov/policy-issues/financial-sanctions/sanctions-programs-and-country-information for a list).
 
 ## Process
 ### Suggestion
