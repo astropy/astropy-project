@@ -13,7 +13,7 @@ with some updates on our work, and reminders about ongoing activities.
   requests. Questions about the proposal process can be directed to the
   FAQ [3].
 
-  [1] https://github.com/astropy/project/blob/master/finance/InclusionDiversityEmpowerment.md
+  [1] https://github.com/astropy/project/blob/main/finance/InclusionDiversityEmpowerment.md
   [2] https://github.com/astropy/project/pulls?q=is%3Apr+is%3Aopen+label%3Ainclusion-diversity-empowerment
   [3] https://github.com/astropy/project/issues/120
 

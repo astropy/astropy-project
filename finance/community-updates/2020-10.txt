@@ -23,8 +23,8 @@ on our activities over the couple of months.
   our process could be improved.
 
   [1] https://groups.google.com/g/astropy-dev/c/NDU3dTDDsAc
-  [2] https://github.com/astropy/astropy-project/blob/master/finance/proposal-calls/2020-IDEA/IDEA_2020_outreachy.md
-  [3] https://github.com/astropy/astropy-project/blob/master/finance/proposal-calls/2020-IDEA/IDEA_2020_WoCCode.md
+  [2] https://github.com/astropy/astropy-project/blob/main/finance/proposal-calls/2020-IDEA/IDEA_2020_outreachy.md
+  [3] https://github.com/astropy/astropy-project/blob/main/finance/proposal-calls/2020-IDEA/IDEA_2020_WoCCode.md
 
 - We're pleased to announce that a proposal entitled “Kicking Off Scientific
   Software Engineering Learning Resources with the Astropy Learn Project” [4],
