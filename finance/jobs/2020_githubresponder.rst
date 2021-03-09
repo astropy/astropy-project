@@ -62,4 +62,4 @@ with it and ensure that someone will do the work described below even
 if volunteers are not available.  If you have suggestions on the
 process of job ads and spending grant money in general, please contact
 the interim finance committee at finance@astropy.org or use the issue
-tracker of https://github.com/astropy/project .
+tracker of https://github.com/astropy/astropy-project .

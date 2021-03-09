@@ -130,7 +130,7 @@ use the singular term *editor*, although multiple people may share this role
 
 3. Once the reviewer accepts, the editor sends the reviewer an email with detailed
    review instructions (which includes a link to the
-   [review guidelines](https://github.com/astropy/project/blob/main/affiliated/affiliated_package_review_guidelines.md>)),
+   [review guidelines](https://github.com/astropy/astropy-project/blob/main/affiliated/affiliated_package_review_guidelines.md>)),
    using the [template](#templatereviewinstructions) at the bottom of this document.
 
 4. The editor then leaves a message on the pull request proposing the affiliated package saying:
@@ -230,7 +230,7 @@ Repository:
 
 You can find our review guidelines and instructions at the following address:
 
-  https://github.com/astropy/project/blob/main/affiliated/affiliated_package_review_guidelines.md
+  https://github.com/astropy/astropy-project/blob/main/affiliated/affiliated_package_review_guidelines.md
 
 Thanks!
 

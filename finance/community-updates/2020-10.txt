@@ -78,11 +78,11 @@ on our activities over the couple of months.
 For more information on our activities, please see the issues labelled
 “finance” in the astropy-project repo [12], or read the notes from our weekly
 meetings [13]. You can make suggestions for things that need to be funded by
-opening an issue in https://github.com/astropy/project/, by emailing
+opening an issue in https://github.com/astropy/astropy-project/, by emailing
 finance@astropy.org, or by joining us in the #finance-committee channel on
 Slack.
 
-[12] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
+[12] https://github.com/astropy/astropy-project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
 [13] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
 
 Cheers,
