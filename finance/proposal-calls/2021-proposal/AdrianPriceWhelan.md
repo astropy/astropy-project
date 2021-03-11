@@ -11,19 +11,19 @@ Adrian Price-Whelan
 
 ### Project Summary
 
-Gala is one of two specialized Galactic dynamics Astropy affiliated packages
-(with Galpy). Community consensus is that having two packages is beneficial to
-the community, as they naturally provide validation and checks on one another
-for implementations of detailed dynamical machinery. However, users who use both
-packages have requested to have enhanced interoperability between the packages.
-This proposal aims to fund a developer (the *developer*), mentored by the
-proposer (@adrn), to firstly improve interoperability between these two
-packages. Upon completion of this work, the *developer* would then work on
-improving interoperability between gala and other dynamics community tools like
-AMUSE and Agama (not yet Astropy affiliated packages). Once this work is
-completed, the *developer* will have been introduced to much of the internals of
-gala: The third work package will leverage this expertise to work on new
-development within Gala.
+[Gala](https://gala.adrian.pw) is one of two specialized Galactic dynamics
+Astropy affiliated packages (with [Galpy](https://docs.galpy.org/)). Community
+consensus is that having two packages is beneficial to the community, as they
+naturally provide validation and checks on one another for implementations of
+detailed dynamical machinery. However, users who use both packages have
+requested to have enhanced interoperability between the packages. This proposal
+aims to fund a developer (the *developer*), mentored by the proposer (@adrn), to
+firstly improve interoperability between these two packages. Upon completion of
+this work, the *developer* would then work on improving interoperability between
+gala and other dynamics community tools like AMUSE and Agama (not yet Astropy
+affiliated packages). Once this work is completed, the *developer* will have
+been introduced to much of the internals of gala: The third work package will
+leverage this expertise to work on new development within Gala.
 
 
 ### Project / work
