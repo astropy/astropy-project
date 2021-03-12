@@ -20,19 +20,20 @@ Project suggetions need to clearly identify what the funding is used for (e.g. "
 ## Process
 ### Suggestion
 Project ideas should be posted as pull requests to github.com/astropy/astropy-project/ with the initial title text "Funding 2021:".
+Please open the PR to add a file in the following directory: finance/proposal-calls/2021-proposal/
 The goal is to make this process as easy as possible on everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below.
 We envision a two stage process to enable the community to comment and improve ideas, teams with similar ideas can merge to avoid duplicated work, etc..
 
 - Discussion can start as soon as PRs are posted
-- 2021-03-20: Draft Deadline (after this date, no new projects)
+- 2021-04-03: Draft Deadline (after this date, no new projects)
 - Two week dedicated discussion and idea modification period
-- 2021-04-03: Deadline for finalized text
+- 2021-04-17: Deadline for finalized text
 - Finance Committee reviews project ideas for compatibility with grant conditions
-- 2021-04-10 to 2021-04-24: Discussion and voting
+- 2021-04-24 to 2021-05-08: Discussion and voting
 
 *Rationale: We aim to achieve community consensus before the vote. Proposers may combine ideas and teams or withdraw suggested projects during the discussion period.*
 
-On 2021-04-03, the text for the projects is frozen but comments are still allowed. Within 7 days of this deadline, the Finance Committee will review all projects to ensure they are compatible with the terms of the currently available funding sources and should be included in the list to be voted on.
+On 2021-04-17, the text for the projects is frozen but comments are still allowed. Within 7 days of this deadline, the Finance Committee will review all projects to ensure they are compatible with the terms of the currently available funding sources and should be included in the list to be voted on.
 
 ### Discussion
 We want to stay true to the "radical transparency" ethos of the Project and thus we are asking the community to comment on these funding requests publicly. At the same time, we want to ensure that the conversations stay as constructive as possible to foster the Astropy Project’s commitment to maintaining a positive and welcoming culture. Thus, here we provide some example language that might help commenters stay constructive with their comments:
@@ -87,6 +88,6 @@ Include overheads, fringe etc. if money is paid as sub-grant (note that the Moor
 
 - Travel:
 - Conference Registrations:
-- Salary / contractor fees etc.:
+- Salary / contractor fees etc. (give sum here, details about contract, payment method (contract/sub-award) etc. can be worked out with the finance committee later)
 - TOTAL
 ```
