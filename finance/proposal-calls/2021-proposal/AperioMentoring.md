@@ -86,4 +86,5 @@ proposal in the next cycle for evaluation by the community.
 ### Budget
 
 The total budget request is for $15k, which is for 100 hours of contractor work
-at $150 per hour.
+at $150 per hour, split up as 3 days of work (24 hours) each for phases one and
+three and one hour a week for phase 2 (52 hours).
