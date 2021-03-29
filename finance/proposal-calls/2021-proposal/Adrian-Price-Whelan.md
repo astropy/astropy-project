@@ -5,7 +5,8 @@ Adrian Price-Whelan
 
 ### Project Summary
 
-Continue role as astropy core maintainer and leader of educational resources infrastructure development.
+Continue role as astropy core maintainer and leader of educational resources
+infrastructure development.
 
 
 ### Project / work
@@ -37,5 +38,6 @@ co-organizer for the second meeting block (May 2021).
 
 ### Budget
 
-The total budget request is for $12,000, which is for 2 hours/week of work at
-$120/hour (rate negotiable).
+Target budget: $24,000 for 4 hours/week of work at $120/hour (rate negotiable).
+Minimum budget: $12,000 for 2 hours/week of work at $120/hour (rate negotiable).
+
