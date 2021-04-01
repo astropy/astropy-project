@@ -7,6 +7,7 @@ We will continue maintenance of astroquery, particularly handling the increased 
 
 ### Project / work
 
+Continue roles as astroquery maintainers:
  * Respond to issues
  * Review pull requests
  * Forward issues to the appropriate parties when upstream issues are noted
@@ -19,7 +20,7 @@ Include overheads, fringe etc. if money is paid as sub-grant (note that the Moor
 
 - Salary:
 
- * Adam Ginsburg: 1 person-month, ~$16000 with overhead (can determine a more precise number)
+ * Adam Ginsburg: 1/12th FTE (1 month effort), $19000 including overheads (though this may need to be renegotiated re: Moore limitations)
  * Brigitta Sipocz: $???
  * Clara Brasseur: $???
 
