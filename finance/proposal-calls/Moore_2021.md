@@ -25,7 +25,7 @@ The goal is to make this process as easy as possible on everyone, so we impose a
 We envision a two stage process to enable the community to comment and improve ideas, teams with similar ideas can merge to avoid duplicated work, etc..
 
 - Discussion can start as soon as PRs are posted
-- 2021-04-03: Draft Deadline (after this date, no new projects)
+- April 5th, 12:00 UTC: Draft Deadline (after this date, no new projects)
 - Two week dedicated discussion and idea modification period
 - 2021-04-17: Deadline for finalized text
 - Finance Committee reviews project ideas for compatibility with grant conditions
