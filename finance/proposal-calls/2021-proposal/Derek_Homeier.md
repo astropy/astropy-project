@@ -1,5 +1,3 @@
-### Title
-
 ### Project team
 
 Derek Homeier
@@ -22,6 +20,9 @@ to support and contributor's issues
 
 #### Continue role as astropy.io.ascii maintainer.
 
+- Ensure continued functionality and potential extension of C interface wrt.
+  new architectures.
+
 #### Support for Software Operations in responding to support requests:
 
 - Monitor Facebook Python in Astronomy group, Slack channels, mailing list and Github issues
@@ -34,12 +35,19 @@ to support and contributor's issues
 - astropy.modeling: API documentation; clarifying use of models when operating
   on sampled vs. binned data, as kernels for convolution etc.
 
+- astropy.io.fits; spectral data formats and WCS-related issues
+
 - astropy.cosmology (no current maintainer)
 
 #### Contribute to specutils development
 
 - Identify specutils-specific work packages in the Spectroscopy Roadmap and work
-  on them, including connection to more advanced analysis and modeling capabilities.
+  on them.
+
+- Connection to more advanced analysis and modeling capabilities, e.g.
+  [lineutils](https://linetools.readthedocs.io/en/latest/).
+
+- Further improved support of file formats, in particular beyond FITS.
 
 ### Budget
 currency: US $
