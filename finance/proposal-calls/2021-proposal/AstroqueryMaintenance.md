@@ -21,7 +21,7 @@ Include overheads, fringe etc. if money is paid as sub-grant (note that the Moor
 - Salary:
 
  * Adam Ginsburg: 1/12th FTE (1 month effort), $19000 including overheads (though this may need to be renegotiated re: Moore limitations)
- * Brigitta Sipocz: $???
+ * Brigitta Sipocz: covered under PR [#192](https://github.com/astropy/astropy-project/pull/192)
  * Clara Brasseur: 1/12th FTE (1 month effort), $15000 including overheads
 
 - TOTAL
