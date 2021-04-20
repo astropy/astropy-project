@@ -40,6 +40,9 @@ which includes:
 * astropy-helpers (until the end of the astropy 4.0 LTS cycle)
 * astropy-bot (including the baldrick package)
 * auto-release infrastructure (such as the automated building of wheels)
+* benchmarks
+* stale bot
+* support for larger datasets in astropy-data
 
 In addition to fixing issues with these, we will continue to work on trying to
 simplify the maintenance burden for the infrastructure by adopting wherever
