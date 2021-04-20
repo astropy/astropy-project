@@ -1,7 +1,7 @@
 ### Hire specreduce / specutils developer
 
 ### Project team
-Moritz Guenther (@hamogu) for this strawmen proposal
+Moritz Guenther (@hamogu), Erik Tollerud (@eteq), Tim Pickering (@tepickering) 
 
 ### Project Summary
 *The Moore budget earmarks 22500 $ specifically for spectroscopy development. I submit this proposal to ensure that there is at least one spectroscopy proposal,and promise to oversee the work to the best of my abilities, but I'm happy to recind it if more detailed proposals are submitted.*
