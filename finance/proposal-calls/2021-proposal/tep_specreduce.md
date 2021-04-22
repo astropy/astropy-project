@@ -37,4 +37,4 @@ currency: US $
 
 - Minimum Salary for maintainance and documentation: $12,000 for 2 hours/week for 50 weeks at $120/hour (negotiable)
 
-- Sub-award also possible to cover my existing salary. This would allow 1-3 months of sustained, focused effort.
+- Sub-award also possible to cover a my existing salary for a set period of time. This would allow 1-3 months of sustained, focused effort.
