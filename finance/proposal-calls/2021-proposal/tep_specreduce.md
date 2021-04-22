@@ -4,7 +4,7 @@ Timothy E. Pickering
 
 ### Project Summary
 
-Continue role as specreduce maintainer and work on making it a truly viable alternative for reducing Optical/IR spectroscopic data.
+Expand role as specreduce maintainer and work on making it a truly viable alternative for reducing Optical/IR spectroscopic data.
 
 ### Project / work
 
