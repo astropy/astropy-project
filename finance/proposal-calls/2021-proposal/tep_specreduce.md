@@ -22,7 +22,7 @@ Continue role as specreduce maintainer and work on making it a truly viable alte
 
 - Continue working with the [PypeIt](https://pypeit.readthedocs.io/en/latest/) project to help bring it more in line with Astropy standards (e.g. the work I have already done to improve its packaging and testing). Identify methods and algorithms used by PypeIt that would be appropriate to port to specreduce.
 
-- Liaise with other spectroscopic data reduction initiatives such as those at Gemini and LCOGT. Work with them to both help focus specreduce development effort to meet their needs, but also fold in existing work into specreduce where possible.
+- Liaise with other spectroscopic data reduction initiatives such as those at Gemini and LCOGT. Work with them to both help focus specreduce development effort to meet their needs, but also fold existing work into specreduce where possible.
 
 #### Documentation and examples for spectroscopic reduction in python
 
