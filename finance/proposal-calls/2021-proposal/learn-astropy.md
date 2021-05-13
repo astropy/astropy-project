@@ -98,8 +98,27 @@ Sub-award to UM:
 * Undergraduate work-study: 110 hours of work at $15 per hour = $1,650
 * Total: $12,650
 
-Independent contractor work for David Shupe: per workshop, 30 hours of
+Independent contractor work for David Shupe (workshops): per workshop, 30 hours of
 work at $100 per hour; two workshops per year = $6000
 
-Independent contractor work for Mariana Meireles: 10 hours of work at
+Independent contractor work for Mariana Meireles (Community Survey): 10 hours of work at
 $100 per hour = $1000
+
+### Potential budget ranges
+
+Minimal budget ($7,400):
+* Corrales Summer Salary, 0.25 months = $3,400
+* Gabela administrative support, 20 hours = $1,000
+* Shupe workshop support, $50 per hour = $3,000
+
+Medium budget ($13,100)
+* Corrales Summer Salary, 0.5 months = $6,700
+* Gabela administrative support, 20 hours = $1,000
+* Shupe workshop support, $75 per hour = $4,500
+* Undergraduate work-study, 60 hours of work at $15 per hour = $900
+
+Maximum budget -- see above. Based on new activity by NumFOCUS DISC,
+we may decide to delay any detailed demographic study within the
+Astropy community for a different year. In that case, the finance
+committee may remove the Community Survey line item, which reduces the
+total budget request to $18,650.
