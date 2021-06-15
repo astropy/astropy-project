@@ -13,9 +13,9 @@ with some updates on our work, and reminders about ongoing activities.
   requests. Questions about the proposal process can be directed to the
   FAQ [3].
 
-  [1] https://github.com/astropy/project/blob/master/finance/InclusionDiversityEmpowerment.md
-  [2] https://github.com/astropy/project/pulls?q=is%3Apr+is%3Aopen+label%3Ainclusion-diversity-empowerment
-  [3] https://github.com/astropy/project/issues/120
+  [1] https://github.com/astropy/astropy-project/blob/main/finance/InclusionDiversityEmpowerment.md
+  [2] https://github.com/astropy/astropy-project/pulls?q=is%3Apr+is%3Aopen+label%3Ainclusion-diversity-empowerment
+  [3] https://github.com/astropy/astropy-project/issues/120
 
 - We are pleased to announce Madison Bray is joining the project again
   as the Astropy Software Operational Support Specialist.  Madison
@@ -27,8 +27,8 @@ with some updates on our work, and reminders about ongoing activities.
 - We have awarded sub-awards to Matt Craig [4] and Adam Ginsburg [5] to
   support their work on the Astropy project.
 
-  [4] https://github.com/astropy/project/issues/63
-  [5] https://github.com/astropy/project/issues/70
+  [4] https://github.com/astropy/astropy-project/issues/63
+  [5] https://github.com/astropy/astropy-project/issues/70
 
 - For the remaining core developer funds, we decided that it was best to
   share this equally among the core contributors that were interested
@@ -39,7 +39,7 @@ with some updates on our work, and reminders about ongoing activities.
   and Miguel de Val-Barro.  Once finalized, the scopes of work will be
   posted to issue project/#113 [6].
 
-  [6] https://github.com/astropy/project/issues/113
+  [6] https://github.com/astropy/astropy-project/issues/113
 
 - In addition, the finance committee has also supported a new contract
   to include software for Kepler/TESS into the Astropy Ecosystem.
@@ -62,11 +62,11 @@ experiences.
 For more information on our activities, please see the issues labeled
 “finance” in the Astropy project repo [7], or peruse the notes from our
 weekly meetings [8]. You can make suggestions for things that need to be
-funded by opening an issue in https://github.com/astropy/project/, by
+funded by opening an issue in https://github.com/astropy/astropy-project/, by
 emailing finance@astropy.org, or by joining us in the #finance-committee
 channel on Slack.
 
-[7] https://github.com/astropy/project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
+[7] https://github.com/astropy/astropy-project/issues?q=is%3Aissue+label%3A%22finance+%3Amoneybag%3A%22
 [8] https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
 
 Cheers,

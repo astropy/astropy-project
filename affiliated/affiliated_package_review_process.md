@@ -26,7 +26,7 @@ Astropy Project, open a pull request to the
 [astropy.github.com](https://github.com/astropy/astropy.github.com)
 repository, modifying the ``affiliated/registry.json`` file to add details
 about your own package. If you are not comfortable with git, you can do this by using
-[an editor](https://github.com/astropy/astropy.github.com/edit/master/affiliated/registry.json).
+[an editor](https://github.com/astropy/astropy.github.com/edit/main/affiliated/registry.json).
 If you get a message saying **You need
 to fork this repository to propose changes** then click on the green button
 to confirm the forking:
@@ -130,7 +130,7 @@ use the singular term *editor*, although multiple people may share this role
 
 3. Once the reviewer accepts, the editor sends the reviewer an email with detailed
    review instructions (which includes a link to the
-   [review guidelines](https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md>)),
+   [review guidelines](https://github.com/astropy/astropy-project/blob/main/affiliated/affiliated_package_review_guidelines.md>)),
    using the [template](#templatereviewinstructions) at the bottom of this document.
 
 4. The editor then leaves a message on the pull request proposing the affiliated package saying:
@@ -230,7 +230,7 @@ Repository:
 
 You can find our review guidelines and instructions at the following address:
 
-  https://github.com/astropy/project/blob/master/affiliated/affiliated_package_review_guidelines.md
+  https://github.com/astropy/astropy-project/blob/main/affiliated/affiliated_package_review_guidelines.md
 
 Thanks!
 
@@ -248,7 +248,7 @@ ecosystem by a member of the Astropy community as well as myself, and I have
 synthesized the results of the review here.
 
 You can find out more about our review criteria in
-[Reviewing affiliated packages](https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md).
+[Reviewing affiliated packages](https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md).
 For each of the review categories below we have listed the score and have
 included some comments when the score is not green.
 
@@ -256,7 +256,7 @@ included some comments when the score is not green.
 
 <table>
 <tr><td><b>Functionality/Scope</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#functionality-functionality">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#functionality-functionality">
 <img src="https://img.shields.io/badge/Out%20of%20scope-red.svg" alt="Out of scope">
 <img src="https://img.shields.io/badge/Specialized%20package-brightgreen.svg" alt="Specialized package">
 <img src="https://img.shields.io/badge/General%20package-brightgreen.svg" alt="General package">
@@ -265,7 +265,7 @@ included some comments when the score is not green.
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Integration with Astropy ecosystem</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#integration-with-astropy-ecosystem--ecointegration">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#integration-with-astropy-ecosystem--ecointegration">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
 <img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
 <img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
@@ -274,7 +274,7 @@ included some comments when the score is not green.
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Documentation</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#documentation-documentation">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#documentation-documentation">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
 <img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
 <img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
@@ -283,7 +283,7 @@ included some comments when the score is not green.
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Testing</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#testing-testing">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#testing-testing">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
 <img src="https://img.shields.io/badge/Orange-orange.svg" alt="Orange">
 <img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
@@ -292,7 +292,7 @@ included some comments when the score is not green.
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Development status</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#development-status-devstatus">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#development-status-devstatus">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
 <img src="https://img.shields.io/badge/Heavy%20development-orange.svg" alt="Heavy Development">
 <img src="https://img.shields.io/badge/Functional%20but%20unmaintained-orange.svg" alt="Functional but unmaintained">
@@ -303,7 +303,7 @@ included some comments when the score is not green.
 <tr><td colspan=2><i>No further comments</i></td></tr>
 
 <tr><td><b>Python 3 compatibility</b></td><td>
-<a href="https://github.com/astropy/astropy-procedures/blob/master/documents/affiliated_package_review_guidelines.md#python-3-compatibility-python3">
+<a href="https://github.com/astropy/astropy-procedures/blob/main/documents/affiliated_package_review_guidelines.md#python-3-compatibility-python3">
 <img src="https://img.shields.io/badge/Red-red.svg" alt="Red">
 <img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green">
 </a></td></tr>

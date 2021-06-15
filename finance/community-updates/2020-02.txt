@@ -21,7 +21,7 @@ comments and suggestions.
 
 First, we've established a wiki page:
 
-  https://github.com/astropy/project/wiki/Financial-Management
+  https://github.com/astropy/astropy-project/wiki/Financial-Management
 
 That page has the full charge to and membership of the committee, as well as
 links to key resources and information about how to contact us. We'll make sure
@@ -32,10 +32,10 @@ publicly available — we welcome your comments on them:
 
   https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit?usp=sharing
 
-We track the committee's business in the astropy/project repository. You can see
+We track the committee's business in the astropy/astropy-project repository. You can see
 what we're working on, or file issues for us to think about, here:
 
-  https://github.com/astropy/project/issues?q=is%3Aissue+is%3Aopen+label%3A%22finance+%3Amoneybag%3A%22
+  https://github.com/astropy/astropy-project/issues?q=is%3Aissue+is%3Aopen+label%3A%22finance+%3Amoneybag%3A%22
 
 We will also aim to send a very brief summary of our activities and approved
 expenditures to the astropy-dev list every couple of months.

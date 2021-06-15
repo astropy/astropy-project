@@ -76,4 +76,4 @@ Any other requests for funding should be made via an email to finance@astropy.or
 
 The Finance Committee will make every effort to ensure that this policy remains accurate and up-to-date. From time to time the Finance Committee may need to revise this policy. Any major changes to this policy will be communicated to the community through the usual communication channels in an expedited manner.
 
-If you have suggestions to improve these policies, please open an issue or pull request in https://github.com/astropy/project/. 
+If you have suggestions to improve these policies, please open an issue or pull request in https://github.com/astropy/astropy-project/. 

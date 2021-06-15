@@ -5,12 +5,12 @@ Interim Finance Committee Policies
 This document records policies adopted by the `Astropy Interim Finance Committee`_ (hereafter “the Committee”).
 It is a “living document” which is expected to evolve over time.
 
-.. _Astropy Interim Finance Committee: https://github.com/astropy/project/wiki/Financial-Management#interim-finance-committee
+.. _Astropy Interim Finance Committee: https://github.com/astropy/astropy-project/wiki/Financial-Management#interim-finance-committee
 
 Role and responsibilities of the Committee
 ==========================================
 
-#. The Committee is responsible for executing the charge described at https://github.com/astropy/project/wiki/Financial-Management.
+#. The Committee is responsible for executing the charge described at https://github.com/astropy/astropy-project/wiki/Financial-Management.
 
    (Agreed `2019-12-20`__)
 
@@ -30,7 +30,7 @@ Role and responsibilities of the Committee
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.fwmv8h9ysndt
 
-#. The Committee will allocate funding as recommended by the Astropy Coordination Committee, and will consider funding requests submitted according to the policy documented at https://github.com/astropy/project/blob/master/finance/funding_requests.md.
+#. The Committee will allocate funding as recommended by the Astropy Coordination Committee, and will consider funding requests submitted according to the policy documented at https://github.com/astropy/astropy-project/blob/main/finance/funding_requests.md.
    This policy may be evolve over time.
 
    (Agreed `2020-04-24`__.)
@@ -100,14 +100,14 @@ Funding proposals that are written on behalf of the Astropy Project should be pu
 Tracking work in progress
 =========================
 
-#. All hiring activities will be tracked by means of issues in the ``astropy/project`` GitHub repository.
+#. All hiring activities will be tracked by means of issues in the ``astropy/astropy-project`` GitHub repository.
    The issue description will contain a brief description of the scope of work.
 
    (Agreed `2020-03-06`__.)
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.4jdhskegwqo5
 
-#. The ``astropy/project`` GitHub issue tracker, together with the ``finance`` label, will be used to provide status on all major committee work.
+#. The ``astropy/astropy-project`` GitHub issue tracker, together with the ``finance`` label, will be used to provide status on all major committee work.
    The intention is that these issues are more than a simple “todo list” for the committee, but that they provide a way for the community to see how the various projects the committee are engaged upon are progressing.
    As such, we expect that most issues will remain open for the duration of the project in question.
    For example, an issue regarding funding for a conference will remain open until the conference is over and all necessary reporting has been completed.
