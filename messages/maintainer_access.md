@@ -1,16 +1,19 @@
 Hello {NAME},
 
-{some information about why they are getting access now}
+You have been nominated as {role} and the Coordinating Committee enthusiastically accepted this nomination! We would be thrilled if you are able to accept this nomination. {More context might be necessary for some people - fill it in here}
 
-You can see the formal description of the subpackage maintainers role at http://www.astropy.org/team.html.  But there are some other guidelines to keep in mind, which I'm describing here.  In general you should only merge PRs that are in the domain of your subpackage(s).  This is a guideline rather than a firm rule: if you see something that's straightforward and obvious (e.g., a minor typo fix that's already been approved and the tests have passed but no one hit the merge button), you should feel free to help with that sort of thing even in other packages. Similarly, in areas where there's conflict/uncertainty, it's best to seek consensus from multiple maintainers, or if absolutely necessary the Coordination Committee... but in cases where there's no obvious reason to question it (particularly if the lead is the PR author), it is also fine to merge things when it seems reasonable.
+You can see the formal description of the maintainers role at http://www.astropy.org/team.html. If you have any uncertainty or if there is extended debate about merging a PR, seek consensus from other maintainers in the Project, or if absolutely necessary, the Coordination Committee.
 
-Additionally, if you haven't already, you should familiarize yourself with the developer guidelines for Astropy: https://docs.astropy.org/en/latest/#developer-documentation, particularly the basic development workflow: https://docs.astropy.org/en/latest/development/workflow/development_workflow.html and the guidelines on when to squash or rebase: https://docs.astropy.org/en/latest/development/when_to_rebase.html. Please respond indicating you've seen these so we're sure you're aware of them.
+If you would like to accept this nomination, we ask that you familiarize yourself with the following Project guidelines:
 
-You should also feel free to help with labeling new PRs or issues as they come in - that's a task all of the subpackage maintainers share, since only people with write privileges can do it. You should also feel free to review other PRs throughout the package.  Don't feel at all shy about these tasks, even outside your subpackage(s) - the Project values such contributions from all!
+* [Developer guidelines for Astropy](https://docs.astropy.org/en/latest/#developer-documentation)
+* [Basic development workflow](https://docs.astropy.org/en/latest/development/workflow/development_workflow.html)
+* [Guidelines on when to squash or rebase](https://docs.astropy.org/en/latest/development/when_to_rebase.html)
+* [Astropy Project Code of Conduct](https://www.astropy.org/code_of_conduct.html)
 
-Finally, we ask that you confirm (in reply to this message) that you have read and agree to abide by the Astropy Project Code of Conduct: https://www.astropy.org/code_of_conduct.html.
+If you accept, please respond indicating that you've reviewed (or plan to review) the developer documentation and that you have read and agree to abide by the Code of Conduct. After we receive that email from you, we will make an announcement and there will be a two week period of comment. After that period is over, your name will be added to the team webpage and you will be given the appropriate Github permissions.
 
-Congratulations, and thanks for your contributions!
+Congratulations on the nomination and thanks for your contributions! We very much hope you accept it. We're very happy to answer any questions you may have about the role.
 
 For the coordinating committee,
 {YOUR NAME}
