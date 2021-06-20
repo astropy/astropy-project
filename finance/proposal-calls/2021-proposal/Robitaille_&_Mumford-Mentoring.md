@@ -1,6 +1,12 @@
-# Astropy Maintainer Mentoring Program Proposal
+# Result
 
-## Project team
+Project was approved for $15,000 of funding.
+
+# Proposal
+
+## Astropy Maintainer Mentoring Program Proposal
+
+### Project team
 
 The grant will go to [Aperio Software Ltd.](https://aperiosoftware.com), and the
 following people will be working on the project:
@@ -31,12 +37,12 @@ This will reduce the projects reliance on the current small number of people in
 critical roles. This mentoring program is *not* aiming to recruit more
 contributors at this time.
 
-## Project Work Plan
+### Project Work Plan
 
 This project is split into three phases. At each phase we will actively solicit
 feedback from the Astropy community to continually improve the program.
 
-### Phase 1: Design Program and Produce Documentation
+#### Phase 1: Design Program and Produce Documentation
 
 In this phase we will design the program and develop all the documentation
 needed for all participants, this will include:
@@ -51,10 +57,10 @@ needed for all participants, this will include:
     a maintainer role.
   * Guidelines for when mentees might exit the program without "graduating" to a
     maintainer role.
-    
-### Phase 2: Implement and Run the Mentor Program for the first year
 
-In this phase, the program will be run and coordinated for one year. 
+#### Phase 2: Implement and Run the Mentor Program for the first year
+
+In this phase, the program will be run and coordinated for one year.
 
 Running the programme for the first year will involve:
 
@@ -73,7 +79,7 @@ new technology possible (instead relying on existing solutions), with the focus
 on learning what works for the Astropy community and what can be improved and
 automated in the future.
 
-### Phase 3: Review and Improvements
+#### Phase 3: Review and Improvements
 
 Towards the end of the first year of running the program a review of how well
 the program has achieved its objectives will be performed in collaboration with

@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $18,000 of funding.
+
+# Proposal
+
 ### Hire specreduce / specutils developer
 
 ### Project team

@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $28,800 of funding.
+
+# Proposal
+
 Astropy Core release manager
 ============================
 

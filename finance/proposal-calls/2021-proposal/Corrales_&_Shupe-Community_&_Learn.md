@@ -1,6 +1,12 @@
-# Learn Astropy Maintenance Funding Proposal
+# Result
 
-## Project Team
+Project was approved for $10,611 of funding.
+
+# Proposal
+
+## Learn Astropy Maintenance Funding Proposal
+
+### Project Team
 
 This funding proposal is for a sub-award to University of Michigan
 that will support the following people in the Learn Astropy Project:
@@ -14,14 +20,14 @@ We are also requesting funding for independent contractors:
 * David Shupe (IPAC) - workshop leader and content maintainer
 * Mariana Meireles - community study consultant
 
-## Project description
+### Project description
 
 This funding request covers ongoing maintenance of Learn Astropy
 activities as well as some crucial tasks needed to bring the Learn
 Astropy tutorials library into convergence with the latest releases of
 Astropy.
 
-### Learn Astropy project maintenance
+#### Learn Astropy project maintenance
 
 Lia Corrales is the primary person responsible for coordinating the
 project by scheduling Learn Astropy telecons and maintaining the Learn
@@ -52,7 +58,7 @@ for future improvement. This is a useful input that can seed new
 tutorial ideas and recruit new tutorial content developers and Astropy
 contributors. We anticipate hiring 1-2 students for 6 hours per week.
 
-### Astropy Workshop maintenance and growth
+#### Astropy Workshop maintenance and growth
 
 David Shupe is the primary person responsible for soliciting and
 coordinating volunteers for Astropy Workshops offered at meetings of
@@ -69,7 +75,7 @@ instructions; maintaining the astropy-workshop repository and
 reviewing pull requests for updated content; and communicating with
 workshop registrants prior to and during each workshop.
 
-### Astropy community survey and demographics
+#### Astropy community survey and demographics
 
 Mariana Meireles is a software engineer at QuantStack developing tools
 for the NumFOCUS ecosystem, focusing on Jupyter products. Prior to
@@ -88,11 +94,11 @@ learning materials), and performance. This will be a small project
 that will dovetail with the demographic studies undertaken by the
 NumFocus DISC community; we anticipate approximately 10 hours of work.
 
-## Budget
+### Budget
 
 The total requests sum to $19,650
 
-Sub-award to UM: 
+Sub-award to UM:
 * Corrales Summer Salary, 0.75 months = $10,000 (including fringe)
 * Administrator: 20 hours of work at $50 per hour = $1,000
 * Undergraduate work-study: 110 hours of work at $15 per hour = $1,650
@@ -104,7 +110,7 @@ work at $100 per hour; two workshops per year = $6000
 Independent contractor work for Mariana Meireles (Community Survey): 10 hours of work at
 $100 per hour = $1000
 
-### Potential budget ranges
+#### Potential budget ranges
 
 Minimal budget ($7,400):
 * Corrales Summer Salary, 0.25 months = $3,400

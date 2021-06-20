@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $13,478.40 of funding.
+
+# Proposal
+
 ### Project team
 
 Derek Homeier

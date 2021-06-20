@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $12,000 of funding.
+
+# Proposal
+
 ### Copy Edit the Astropy Documentation and Improve the Style Guide
 
 ### Project Team

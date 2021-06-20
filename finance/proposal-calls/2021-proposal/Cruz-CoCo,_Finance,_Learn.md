@@ -1,10 +1,16 @@
+# Result
+
+Project was approved for $14,000 of funding.
+
+# Proposal
+
 ### Project team
 
 Kelle Cruz
 
 ### Project Summary
 
-Provide leadership in the areas of fiscal oversight and implementation, community engagement, and educational resuources.
+Provide leadership in the areas of fiscal oversight and implementation, community engagement, and educational resources.
 
 ### Project / work
 
@@ -32,7 +38,7 @@ Continue role as Learn Astropy Coordinator
 Continue in Role as Community Engagement Coordinator
  - Assist with establishment of new Discourse forum
  - Moderate the Python in Astronomy Facebook group.
- - Give talks about the Project 
+ - Give talks about the Project
  - Find other people to give talks
  - Organize slides for re-use.
 
@@ -40,7 +46,7 @@ Participate in annual coordination meetings
 
 ### Budget
 
-The total budget request is for $20k, which is for $14k of summer salary to be issued as subaward to Hunter College. 
+The total budget request is for $20k, which is for $14k of summer salary to be issued as subaward to Hunter College.
 To provide budgeting flexibility, I also include a minimum request of $8k, which is for $5,600 of summer salary.
 
 | Item | Requested Amount |
