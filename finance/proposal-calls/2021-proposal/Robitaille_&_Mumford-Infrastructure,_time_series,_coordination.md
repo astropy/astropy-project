@@ -1,3 +1,9 @@
+# Results
+
+Project was approved for $43,200 of funding.
+
+# Proposal
+
 Infrastructure and core/coordinated package maintenance
 =======================================================
 

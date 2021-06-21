@@ -1,7 +1,12 @@
+# Result
+
+Project was approved for $18,000 of funding.
+
+# Proposal
+
 ### Project team
 
 Adrian Price-Whelan
-
 
 ### Project Summary
 
@@ -35,9 +40,7 @@ Start role as participant in the roadmap working group.
 Organizer of and participant in 2021 coordination meeting; will continue role as
 co-organizer for the second meeting block (May 2021).
 
-
 ### Budget
 
 Target budget: $24,000 for 4 hours/week of work at $120/hour (rate negotiable).
 Minimum budget: $12,000 for 2 hours/week of work at $120/hour (rate negotiable).
-

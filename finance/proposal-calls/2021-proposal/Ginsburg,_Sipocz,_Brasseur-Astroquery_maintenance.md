@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $27,200 of funding.
+
+# Proposal
+
 ### Astroquery Maintenance
 
 ### Adam Ginsburg, Brigitta Sipocz, Clara Brasseur

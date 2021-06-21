@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $8,500 of funding.
+
+# Proposal
+
 ### Project team
 
 Ole Streicher <olebole@debian.org>/[@olebole](https://github.com/olebole)
@@ -9,7 +15,7 @@ Packaging and maintenance of the Astropy ecosystem for Debian and Ubuntu
 ### Project / work
 
  * keep Astropy in Debian and Ubuntu up to date and in good shape
- 
+
    - maintain distribution specific patches for Astropy and other packages
     (policy, tests, metadata etc.)
 
@@ -21,7 +27,7 @@ Packaging and maintenance of the Astropy ecosystem for Debian and Ubuntu
  * maintain the Astropy related infrastructure in Debian
 
    - maintain required dependencies
-   
+
    - follow changes in environment (dependencies, policy); react on new
      incompatibilities and requirements
 

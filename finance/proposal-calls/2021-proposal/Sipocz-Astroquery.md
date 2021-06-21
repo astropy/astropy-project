@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $15,552 of funding.
+
+# Proposal
+
 Astroquery community manager and infrastructure refactoring
 ===========================================================
 
@@ -17,8 +23,8 @@ This proposal is fund new community initiatives for astroquery as well as the lo
 
 ### Project / work
 
-#### 
-* Community management 
+####
+* Community management
     * New: Organize community calls. Contributors expressed large interest for these type of calls, and indeed pilot calls were well received and were very productive.
     * Organize and participate and astroquery workshop. Such workshop generated large interest, but hasn't materialized due to lock down.
 
@@ -28,7 +34,7 @@ This proposal is fund new community initiatives for astroquery as well as the lo
     * CD infrastructure has to be fixed
     * Package module structure is agreed to be refactored to ensure better user experience with ever growing number of modules
     
-* Continue as maintainer with special focus on 
+* Continue as maintainer with special focus on
     * reviews of big PRs
     * oversee CD/CI, perform manual releases, coordinate with packagers
     * communicate with external development teams

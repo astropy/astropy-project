@@ -1,3 +1,9 @@
+# Result
+
+Project was approved for $24,975 of funding.
+
+# Proposal
+
 ### Title
 
 Guides, `ccdproc` and packaging

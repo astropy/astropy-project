@@ -1,4 +1,10 @@
-# Astropy ecosystem integration testing
+# Result
+
+Project was approved for $14,400 of funding.
+
+# Proposal
+
+## Astropy ecosystem integration testing
 
 ### Project team
 
