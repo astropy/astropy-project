@@ -5,8 +5,8 @@
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
-- [Infrastructure, Documentation](#Infrastructure,-Documentation)
-- [Government, Management, Personnel](#Government,-Management,-Personnel)
+- [Infrastructure, Documentation](#Infrastructure-Documentation)
+- [Government, Management, Personnel](#Government-Management-Personnel)
 
 
 ## Status Legend
