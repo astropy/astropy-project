@@ -6,7 +6,7 @@
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
 - [Infrastructure, Documentation](#Infrastructure-Documentation)
-- [Government, Management, Personnel](#Government-Management-Personnel)
+- [Government, Management, and Personnel](#government-management-and-personnel)
 
 
 ## Status Legend
