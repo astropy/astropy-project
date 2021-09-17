@@ -126,3 +126,12 @@ Access to project resources
    (Agreed `2020-06-26`__.)
 
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.9k7wgfaxak2d
+
+Rates and charges
+=================
+
+#. When contracting with an external entity for a project member's effort, an additional 30% will normally be added to the basic cost to cover general project expenses.
+
+   (Agreed `2021-09-17`__.)
+
+   __ https://docs.google.com/document/d/1OpSEtJC0jQINTB-YNexxgnHX7-J6HRSkiPKYWBSCOfg/edit#bookmark=id.gkt3aebktlyb
