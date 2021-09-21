@@ -149,10 +149,10 @@ use the singular term *editor*, although multiple people may share this role
 
    * If the package is not ready to be accepted:
        * The original author has six months to respond to any of the points in the review,
-         e.g. implement suggested changes to code or documentation,
-         and the editor may decide that the package is ready to be accepted as affiliate
-	 package at this point. The editor may extend the time to implement changes up to one
-	 year at their discretion.
+         e.g., implement suggested changes to code or documentation,
+         and the editor may decide that the package is ready to be accepted as affiliated
+	  package at this point. The editor may extend the time to implement changes up to one
+	  year at their discretion.
        * If decision to not accept stands after that time, the decision is posted to the 
          pull request and it is closed.
    * If the package is accepted:
