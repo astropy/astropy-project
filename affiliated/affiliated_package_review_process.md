@@ -147,11 +147,14 @@ use the singular term *editor*, although multiple people may share this role
    based on the results of the review. The editor then posts the review
    including the final decision (accept or reject) on the original pull request.
 
-   * If the package is rejected:
-       * The original author has a month to respond to any of the points in the review,
-         and the editor may decide to change the decision.
-       * If decision to reject stands after a month, the decision is posted to the pull request
-         and it is closed.
+   * If the package is not ready to be accepted:
+       * The original author has six months to respond to any of the points in the review,
+         e.g., implement suggested changes to code or documentation,
+         and the editor may decide that the package is ready to be accepted as affiliated
+	  package at this point. The editor may extend the time to implement changes up to one
+	  year at their discretion.
+       * If decision to not accept stands after that time, the decision is posted to the 
+         pull request and it is closed.
    * If the package is accepted:
        * The editor sends a reply to the astropy-dev email to publish the decision:
 
@@ -331,7 +334,7 @@ the areas above that weren't “green” yet.
 **Summary/Decision**: Thanks for your work on this package! At the moment, we
 found some issues in some of the review areas. As per the review guidelines, we
 therefore won't be able to accept this package as an affiliated package yet.
-We will leave this pull request open for a month in case you would like to
+We will leave this pull request open for six months in case you would like to
 respond to the comments and/or address any of them.
 
 *In all cases:*
