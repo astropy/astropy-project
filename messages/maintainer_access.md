@@ -1,6 +1,6 @@
 Hello {NAME},
 
-You have been nominated as {role} and the Coordinating Committee enthusiastically accepted this nomination! We would be thrilled if you are able to accept this nomination. {More context might be necessary for some people - fill it in here}
+You have been nominated as {role} and the Coordinating Committee has enthusiastically accepted this nomination! We would be thrilled if you are able to accept this nomination. {More context might be necessary for some people - fill it in here}
 
 You can see the formal description of the maintainers role at http://www.astropy.org/team.html. If you have any uncertainty or if there is extended debate about merging a PR, seek consensus from other maintainers in the Project, or if absolutely necessary, the Coordination Committee.
 
