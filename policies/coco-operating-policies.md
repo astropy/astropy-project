@@ -87,13 +87,6 @@ Used for private, informal conversations among CoCo members. A new channel is cr
 each time CoCo membership changes. There is a strong expectation of privacy and
 messages should not be shared without express permission of the sender.
 
-*Other Project Emails (e.g. confidential@astropy.org)*
-
-As with the coordinators list, there is generally an expectation of privacy from those
-who send to these emails, although that varies with the email.
-`confidential@astropy.org` has particular status in that it goes direct to the
-Project Ombudsperson.
-
 ## CoCo membership history
 
 ### CoCo3 (Elected Sep 2021)
