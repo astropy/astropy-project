@@ -17,7 +17,7 @@ All meetings are held remotely (using Astropy’s Zoom) except when CoCo members
 *Frequency*
 
 Meeting frequency can vary depending on required workload with the assent of
-the current CoCo.  The minimum expected rate is monthly
+the current CoCo.  The minimum expected rate is monthly.
 
 *Quorum*
 
