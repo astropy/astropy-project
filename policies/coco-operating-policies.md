@@ -21,7 +21,7 @@ the current CoCo.  The minimum expected rate is monthly
 
 *Quorum*
 
-There is currently no formal quorum for meeting or decisions. CoCo1 assumed 2,
+CoCo1 assumed 2,
 and CoCo2 generally informally required 3 although 2 was sometimes sufficient
 for urgent or unlikely-to-be-controversial decisions. Coco3 uses a quorum of
 3, however, members not present can leave a note in the agenda to ask to hold
