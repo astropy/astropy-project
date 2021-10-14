@@ -11,7 +11,7 @@ If you would like to accept this nomination, we ask that you familiarize yoursel
 * [Guidelines on when to squash or rebase](https://docs.astropy.org/en/latest/development/when_to_rebase.html)
 * [Astropy Project Code of Conduct](https://www.astropy.org/code_of_conduct.html)
 
-If you accept, please respond indicating that you've reviewed (or plan to review) the developer documentation and that you have read and agree to abide by the Code of Conduct. After we receive that email from you, we will make an announcement and there will be a two week period of comment. After that period is over, your name will be added to the team webpage and you will be given the appropriate Github permissions.
+If you accept, please respond indicating that you've reviewed the developer documentation and that you have read and agree to abide by the Code of Conduct. After we receive that email from you, we will make an announcement and there will be a two week period of comment. After that period is over, your name will be added to the team webpage and you will be given the appropriate Github permissions.
 
 If you are not already, we also enourage you to join the [astropy-dev mailing list](https://groups.google.com/g/astropy-dev), and start trying to attend the monthly developer telecons.
 
