@@ -1,5 +1,5 @@
 This document describes the process for adding new people to named roles. This
-document is *not* about how people are nominated for a rolein the first place,
+document is *not* about how people are nominated for a role in the first place,
 but rather the process by which they are added once nominated. The
 process itself is in the hands of the Coordination Committee according to
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).
@@ -30,7 +30,6 @@ The process is:
    final decision based on any feedback.
 6. If the appointment is confirmed, the nominee is added to the roles page
    (i.e., the PR created in step 4 can be merged).
-7. If a maintainer, the nominee receives the necessary Github or other
-   permissions.
+7.  The nominee receives the necessary Github or other permissions for the new role.
 8. The Coordination Committee member sends a confirmation message to the nominee
    to complete the process.
