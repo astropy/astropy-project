@@ -39,7 +39,7 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 
 ## Hardware and Performance
 
-- :large_orange_diamond: Improve Astropy ecosystem stability in High-Performance Computing environments, for example, and expand options for compatibility with read-only filesystems.
+- :large_orange_diamond: Improve Astropy ecosystem stability in High-Performance Computing environments, and expand options for compatibility with read-only filesystems.
 
 - :large_orange_diamond: Improve support for ARM Macs.
 
@@ -63,7 +63,7 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 
 - :large_orange_diamond: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors.
 
-- :large_orange_diamond: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFocus communities, including understanding the demographics of our communities in order to measure the effectiveness of our efforts.
+- :large_orange_diamond: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFocus communities, and improved our understanding the demographics of our communities in order to measure the effectiveness of these efforts.
 
 ## Infrastructure, Documentation
 
