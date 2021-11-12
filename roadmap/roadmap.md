@@ -55,7 +55,7 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 
 - :large_orange_diamond: Expand the number and diversity of user support resources, including establishing a user-focused forum on Discourse.
 
-- :large_orange_diamond: Generate and ingest guides and/or series of tutorials that demonstrate Astropy Project functionality in the context of astronomical research, especially focusing on spectroscopy tasks.
+- :large_orange_diamond: Generate and ingest guides and/or a series of tutorials that demonstrate Astropy Project functionality in the context of astronomical research, especially focusing on spectroscopy tasks.
 
 - :red_square: Develop tutorials suitable for use in university astronomy courses. 
 
