@@ -1,6 +1,6 @@
 Dear Astropy Community,
 
-THe Finance Committee would like to give you some updates on our
+The Finance Committee would like to give you some updates on our
 activities over the last year or so.
 
 # NASA funding
@@ -17,7 +17,7 @@ The proposal was successful, and has provides a further $634,590 to
 support the fantastic work being undertaken on Astropy. The Finance
 Committee will arrange processes for disbursing the funds which are
 consistent with the goals of the proposal and based on the model we've
-adopting for assigning Moore funding over the past couple of years.
+adopted for assigning Moore funding over the past couple of years.
 
 This is a huge milestone for the project: it shows that we've
 successfully used the Moore funding to build a solid set of processes
@@ -29,11 +29,11 @@ the financial viability of the project into the future.
 
 # Gemini contract
 
-The Science User Support Department at Gemini Observatory has funded an
+The Science User Support Department at Gemini Observatory has funded
 Simon Conseil as an Astropy contractor to provide maintenance
 and development that benefits both the Astropy and DRAGONS projects on a
 part-time basis (averaging 5 hours per week over a period of a year or
-two). The details of the work are described in the SOW [2].
+two). The details of the work are described in the statement of work [2].
 
 Having major facilities like Gemini invest in Astropy is another sign of
 both the critical role that the project plays in astronomical
@@ -60,10 +60,10 @@ possible.
 # Meetings, workshops, and other travel
 
 We've supported project members to participate in and represent Astropy
-at a number of fantastic conferences and workshops over the last year.
+at a number of conferences and workshops over the last year.
 These include:
 
-- Three project members were funded to (vrirtually) attended ADASS XXX,
+- Three project members were funded to (virtually) attended ADASS XXX,
   where Brigitta Sipocz spoke on “astroquery: a community driven
   collaboration of data providers and data consumers”. [4]
 
@@ -75,7 +75,7 @@ These include:
   workshops entitled “Introduction to Astropy” and “Astronomical
   Research with Astropy”. [6]
 
-- We also supported three project memnbers to participate in the SciPy
+- We also supported three project members to participate in the SciPy
   2021 conference and workshop. [7]
 
 The links below provide more information and take-away messages from
@@ -91,7 +91,7 @@ each of these meetings.
 One of the first acts of the recently-elected Coordination Committee
 (“CoCo3”) was to confirm the Finance Committee, with its current
 members, as a part of standing project organization and to remove the
-work “interim” from its title. We're now just the “Astropy Finance
+“interim” from its title. We're now just the “Astropy Finance
 Committee”! 🎉
 
 Cheers,
