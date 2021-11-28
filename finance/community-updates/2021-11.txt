@@ -52,10 +52,27 @@ in detail here, but we're delighted to report that most many of the projects
 are now well underway.
 
 We except to organize similar processes to distribute Moore and NASA funding
-in future years. We welcome your feedback on how to continue to improve our
-approach to make this as transparent and effective as possible.
+in future years. We intend to keep improving our approach to make this as as
+transparent and effective as possible. To that end, We conducted a survey of
+the community to solicit your views [4]. This showed that:
+
+- There's a roughly even split between folks who like the established way of
+  voting (“thumbs up on GitHub”) and those who prefer an anonymous system;
+
+- There may be an opportunity to introduce more nuance to the voting (e.g.
+  by assigning priorities);
+
+- There's broad support for paying people to work on Astropy through an
+  institution;
+
+- The community places a roughly even priority on bringing in new people and
+  supporting existing maintainers.
+
+We will fold these results into our future plans, and continue to welcome your
+feedback at any time.
 
 [3] https://groups.google.com/g/astropy-dev/c/c1M2F7rZoF4/m/nbNdg1OsAAAJ
+[4] https://groups.google.com/g/astropy-dev/c/odnYnaBCZKI
 
 # Meetings, workshops, and other travel
 
@@ -64,27 +81,27 @@ number of conferences and workshops over the last year. These include:
 
 - Three project members were funded to (virtually) attended ADASS XXX, where
   Brigitta Sipocz spoke on “astroquery: a community driven collaboration of
-  data providers and data consumers”. [4]
+  data providers and data consumers”. [5]
 
 - Three project members hosted the “Astropy and NumFocus Sponsored Projects”
   booth in the Virtual Exhibit Hall at AAS 237. Project members also
   provided two workshops: “Introduction to Astropy” and “Research with
-  Astropy”. [5]
+  Astropy”. [6]
 
 - Similarly, three project members paricipated in AAS 238, again hosting
   workshops entitled “Introduction to Astropy” and “Astronomical Research
-  with Astropy”. [6]
+  with Astropy”. [7]
 
 - We also supported three project members to participate in the SciPy 2021
-  conference and workshop. [7]
+  conference and workshop. [8]
 
 The links below provide more information and take-away messages from each of
 these meetings.
 
-[4] https://github.com/astropy/astropy-project/issues/141
-[5] https://github.com/astropy/astropy-project/issues/140
-[6] https://github.com/astropy/astropy-project/issues/201
-[7] https://github.com/astropy/astropy-project/issues/210
+[5] https://github.com/astropy/astropy-project/issues/141
+[6] https://github.com/astropy/astropy-project/issues/140
+[7] https://github.com/astropy/astropy-project/issues/201
+[8] https://github.com/astropy/astropy-project/issues/210
 
 # No longer an Interim Finance Committee
 
