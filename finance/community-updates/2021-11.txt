@@ -14,7 +14,7 @@ educational materials, and better support for affiliated packages. The
 full text (with some personal details redacted) is available at [1].
 
 The proposal was successful, and has provides a further $634,590 to
-support the fantastic work being undertaken on Astropy. The Finance
+support the fantastic work being undertaken by the Astropy Project. The Finance
 Committee will arrange processes for disbursing the funds which are
 consistent with the goals of the proposal and based on the model we've
 adopted for assigning Moore funding over the past couple of years.
@@ -22,18 +22,16 @@ adopted for assigning Moore funding over the past couple of years.
 This is a huge milestone for the project: it shows that we've
 successfully used the Moore funding to build a solid set of processes
 and a governance structure which enables us to obtain funding from more
-“traditional” academic sources. This is a great step towards ensuring
+“traditional” funding sources. This is a great step towards ensuring
 the financial viability of the project into the future.
 
 [1] https://drive.google.com/file/d/18JsTRahNWnvign6ao6BP_OkINHnP8g3n/view
 
 # Gemini contract
 
-The Science User Support Department at Gemini Observatory has funded
-Simon Conseil as an Astropy contractor to provide maintenance
-and development that benefits both the Astropy and DRAGONS projects on a
-part-time basis (averaging 5 hours per week over a period of a year or
-two). The details of the work are described in the statement of work [2].
+The Science User Support Department at Gemini Observatory has provided funding to the Astropy Project
+for maintenance and development work that benefits both the Astropy and DRAGONS projects. We've enlisted Simon Conseil as a part-time contractor (averaging 5 hours per week over a period of a year or
+two) to do this work. The details of the work are described in the statement of work [2].
 
 Having major facilities like Gemini invest in Astropy is another sign of
 both the critical role that the project plays in astronomical
@@ -68,7 +66,7 @@ These include:
   collaboration of data providers and data consumers”. [4]
 
 - Three project members hosted the “Astropy and NumFocus Sponsored
-  Projects” booth in the Virtual Exhibit Hall at AAS 237, while also ran
+  Projects” booth in the Virtual Exhibit Hall at AAS 237. Project members also provided
   two workshops: “Introduction to Astropy” and “Research with Astropy”. [5]
 
 - Similarly, three project members paricipated in AAS 238, again hosting
