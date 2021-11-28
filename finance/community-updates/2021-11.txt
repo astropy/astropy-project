@@ -5,79 +5,81 @@ activities over the last year or so.
 
 # NASA funding
 
-In January of this year, several members of the project submitted a
-proposal to the NASA ROSES-2020 call, section E.7 (Support for Open
-Source Tools, Frameworks, and Libraries). The proposal included a mix of
-Project-wide infrastructure improvements, targeted work on specific
-areas of the code that are in need of support, enhancements to the our
-educational materials, and better support for affiliated packages. The
-full text (with some personal details redacted) is available at [1].
+In January of this year, several members of the project submitted a proposal
+to the NASA ROSES-2020 call, section E.7 (Support for Open Source Tools,
+Frameworks, and Libraries). The proposal included a mix of Project-wide
+infrastructure improvements, targeted work on specific areas of the code
+that are in need of support, enhancements to the our educational materials,
+and better support for affiliated packages. The full text (with some
+personal details redacted) is available at [1].
 
-The proposal was successful, and has provides a further $634,590 to
-support the fantastic work being undertaken by the Astropy Project. The Finance
+The proposal was successful, and has provides a further $634,590 to support
+the fantastic work being undertaken by the Astropy Project. The Finance
 Committee will arrange processes for disbursing the funds which are
 consistent with the goals of the proposal and based on the model we've
 adopted for assigning Moore funding over the past couple of years.
 
-This is a huge milestone for the project: it shows that we've
-successfully used the Moore funding to build a solid set of processes
-and a governance structure which enables us to obtain funding from more
-“traditional” funding sources. This is a great step towards ensuring
-the financial viability of the project into the future.
+This is a huge milestone for the project: it shows that we've successfully
+used the Moore funding to build a solid set of processes and a governance
+structure which enables us to obtain support from more “traditional” sources
+of finance. This is a great step towards ensuring the financial viability of
+the project into the future.
 
 [1] https://drive.google.com/file/d/18JsTRahNWnvign6ao6BP_OkINHnP8g3n/view
 
 # Gemini contract
 
-The Science User Support Department at Gemini Observatory has provided funding to the Astropy Project
-for maintenance and development work that benefits both the Astropy and DRAGONS projects. We've enlisted Simon Conseil as a part-time contractor (averaging 5 hours per week over a period of a year or
-two) to do this work. The details of the work are described in the statement of work [2].
+The Science User Support Department at Gemini Observatory has provided
+funding to the Astropy Project for maintenance and development work that
+benefits both the Astropy and DRAGONS projects. We've enlisted Simon Conseil
+as a part-time contractor (averaging 5 hours per week over a period of a
+year or two) to do this work. The details of the work are described in the
+statement of work [2].
 
 Having major facilities like Gemini invest in Astropy is another sign of
-both the critical role that the project plays in astronomical
-infrastructure worldwide, and of the increasing level of trust displayed
-in the project's responsible and sustainable governance.
+both the critical role that the project plays in astronomical infrastructure
+worldwide, and of the increasing level of trust displayed in the project's
+responsible and sustainable governance.
 
 [2] https://docs.google.com/document/d/1sKiFr5ypS3prkEqEu3s5nEejs0bD93cF7ihXSz3RdZM/edit
 
 # Distribution of Moore funds
 
-We organized a process to select and distribute funds from the Moore
-grant to a variety of projects, suggested and selected by the project
-membership. We've announced results in detail in the past [3] so we
-won't reiterate them in detail here, but we're delighted to report that
-most many of the projects are now well underway.
+We organized a process to select and distribute funds from the Moore grant
+to a variety of projects, suggested and selected by the project membership.
+We've announced results in detail in the past [3] so we won't reiterate them
+in detail here, but we're delighted to report that most many of the projects
+are now well underway.
 
-We except to organize similar processes to distribute Moore and NASA
-funding in future years. We welcome your feedback on how to continue to
-improve our approach to make this as transparent and effective as
-possible.
+We except to organize similar processes to distribute Moore and NASA funding
+in future years. We welcome your feedback on how to continue to improve our
+approach to make this as transparent and effective as possible.
 
 [3] https://groups.google.com/g/astropy-dev/c/c1M2F7rZoF4/m/nbNdg1OsAAAJ
 
 # Meetings, workshops, and other travel
 
-We've supported project members to participate in and represent Astropy
-at a number of conferences and workshops over the last year.
-These include:
+We've supported project members to participate in and represent Astropy at a
+number of conferences and workshops over the last year. These include:
 
-- Three project members were funded to (virtually) attended ADASS XXX,
-  where Brigitta Sipocz spoke on “astroquery: a community driven
-  collaboration of data providers and data consumers”. [4]
+- Three project members were funded to (virtually) attended ADASS XXX, where
+  Brigitta Sipocz spoke on “astroquery: a community driven collaboration of
+  data providers and data consumers”. [4]
 
-- Three project members hosted the “Astropy and NumFocus Sponsored
-  Projects” booth in the Virtual Exhibit Hall at AAS 237. Project members also provided
-  two workshops: “Introduction to Astropy” and “Research with Astropy”. [5]
+- Three project members hosted the “Astropy and NumFocus Sponsored Projects”
+  booth in the Virtual Exhibit Hall at AAS 237. Project members also
+  provided two workshops: “Introduction to Astropy” and “Research with
+  Astropy”. [5]
 
 - Similarly, three project members paricipated in AAS 238, again hosting
-  workshops entitled “Introduction to Astropy” and “Astronomical
-  Research with Astropy”. [6]
+  workshops entitled “Introduction to Astropy” and “Astronomical Research
+  with Astropy”. [6]
 
-- We also supported three project members to participate in the SciPy
-  2021 conference and workshop. [7]
+- We also supported three project members to participate in the SciPy 2021
+  conference and workshop. [7]
 
-The links below provide more information and take-away messages from
-each of these meetings.
+The links below provide more information and take-away messages from each of
+these meetings.
 
 [4] https://github.com/astropy/astropy-project/issues/141
 [5] https://github.com/astropy/astropy-project/issues/140
@@ -87,10 +89,9 @@ each of these meetings.
 # No longer an Interim Finance Committee
 
 One of the first acts of the recently-elected Coordination Committee
-(“CoCo3”) was to confirm the Finance Committee, with its current
-members, as a part of standing project organization and to remove the
-“interim” from its title. We're now just the “Astropy Finance
-Committee”! 🎉
+(“CoCo3”) was to confirm the Finance Committee, with its current members, as
+a part of standing project organization and to remove the “interim” from its
+title. We're now just the “Astropy Finance Committee”! 🎉
 
 Cheers,
 
