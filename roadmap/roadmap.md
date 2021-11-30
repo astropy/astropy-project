@@ -1,6 +1,8 @@
 # The Astropy Roadmap
 
+- [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
+- [Project Board](#Roadmap-2021-Project-Board)
 - [Functionality](#Functionality)
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
@@ -8,6 +10,9 @@
 - [Infrastructure, Documentation](#Infrastructure-Documentation)
 - [Government, Management, and Personnel](#government-management-and-personnel)
 
+## Introduction
+
+This Roadmap captures high level actionable items that we as a project aim to undertake to improve the health and stability of the Astropy project. The Roadmap itself is a static document while the project board is a living document that links the roadmap to specific issues and efforts. The Roadmap document will be revisited regularly at the Astropy coordination meetings, to keep track of progress and write new versions as needed.
 
 ## Status Legend
 
@@ -17,12 +22,12 @@
 
 ### Orange :large_orange_diamond:    
 - Item is already defined (e.g., issue, APE exists), but not sufficiently underway.
-- Needs more people and/or resources to make it happen. 
+- Attempts to secure the necessary resources are underway. 
   - *For example, funding applied for, but not awarded.*
   
 ### Red :red_square:  
 - Consensus of the community is that the item is a priority.
-- Item won’t happen without more people/resources.
+- Attempts to secure the necessary resources have not yet been started.
   - *For example, there’s no one available to write a funding proposal or lead recruitment efforts.*
   
 ## Roadmap 2021 Project Board
