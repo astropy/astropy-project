@@ -1,7 +1,7 @@
 Dear Astropy Community,
 
-The Finance Committee would like to give you some updates on our
-activities over the last year or so.
+The Finance Committee would like to give you some updates on our activities
+over the last year or so.
 
 # NASA funding
 
@@ -88,7 +88,7 @@ number of conferences and workshops over the last year. These include:
   provided two workshops: “Introduction to Astropy” and “Research with
   Astropy”. [6]
 
-- Similarly, three project members paricipated in AAS 238, again hosting
+- Similarly, three project members participated in AAS 238, again hosting
   workshops entitled “Introduction to Astropy” and “Astronomical Research
   with Astropy”. [7]
 
