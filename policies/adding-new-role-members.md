@@ -6,8 +6,8 @@ process itself is in the hands of the Coordination Committee according to
 
 Note some of the steps below are highlighted as specific for maintainers.
 Maintainers are the people who keep a package or sub-package working. In
-particular, they  review and merge PRs, keep track of what's going on and
-organize ideas for  future development (see
+particular, they review and merge PRs, keep track of what's going on and
+organize ideas for future development (see
 https://www.astropy.org/team.html#Subpackage_maintainer
 for details). Therefore, a maintainer requires particular Github permissions,
 which is highlighted in the process below.
@@ -30,6 +30,7 @@ The process is:
    final decision based on any feedback.
 6. If the appointment is confirmed, the nominee is added to the roles page
    (i.e., the PR created in step 4 can be merged).
-7.  The nominee receives the necessary Github or other permissions for the new role.
-8. The Coordination Committee member sends a confirmation message to the nominee
+7. The nominee receives the necessary GitHub or other permissions for the new role.
+8. The nominee gets added to the astropy-core-maintainers mailing list.
+9. The Coordination Committee member sends a confirmation message to the nominee
    to complete the process.
