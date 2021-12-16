@@ -12,5 +12,5 @@ If you are adding or removing someone from a team please check that the list of 
 - [ ] PR to the Team page
 - [ ] email to the community
 - [ ] privileges and/or permissions updated 
-- [ ] added to mailing list
+- [ ] added to core maintainer mailing list
 
