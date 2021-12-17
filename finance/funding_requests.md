@@ -70,7 +70,7 @@ Contracts should be reviewed at least yearly. If necessary, renewals or extensio
 
 ## Supplies, hardware, laptops
 
-In general, Astropy does not provide supplies for Project members. However, if there is a project-motivated need for a purchase of supplies (for example, a laptop), the Finance Committee will evaluate those requests on a case-by-case basis.
+In general, Astropy does not provide supplies for Project members. However, if there is a project-motivated need for a purchase of supplies (for example, a laptop for a defined Astropy purpose), the Finance Committee will evaluate those requests on a case-by-case basis.
 
 
 ## Other Requests for Funding
