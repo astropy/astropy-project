@@ -68,6 +68,11 @@ Payment will be made to the contractor directly from NumFOCUS, typically within 
 
 Contracts should be reviewed at least yearly. If necessary, renewals or extensions can be requested via email to finance@astropy.org.
 
+## Supplies, hardware, laptops
+
+In general, Astropy does not provide supplies for Project members. However, if there is a project-motivated need for a purchase of supplies (for example, a laptop for a defined Astropy purpose), the Finance Committee will evaluate those requests on a case-by-case basis.
+
+
 ## Other Requests for Funding
 
 Any other requests for funding should be made via an email to finance@astropy.org. Please include your name, an explanation of the funding being requested, and a budget. Funding requests will be reviewed for approval by the Finance Committee and feedback will be provided including the next steps if appropriate. 
