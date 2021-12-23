@@ -34,8 +34,11 @@ We welcome feedback, questions, and comments on this committee's activities via 
 
 - Comment on the running notes linked above.
 - Message in [#finance-committee](https://astropy.slack.com/archives/CRE40TXTK) on Slack.
-- Email to finance@astropy.org.
 - Make an issue in the [astropy-project repo](https://github.com/astropy/astropy-project/issues).
+- Email to finance@astropy.org.
+
+Note that none of these communications channels provide an expectation of privacy: the first three are self-evidently public, while the e-mail address forwards to a Google Group where your message may be archived and we cannot guarantee that it will not be disclosed in the future.
+If you need to discuss a private matter with the committee, please reach out to them in a Slack direct message.
 
 ## Policies
 
