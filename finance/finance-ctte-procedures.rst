@@ -15,6 +15,7 @@ When a member of the committee joins the committee, the following steps are requ
 * Add write access to the running notes
 * Add write access to financial spreadsheets
 * Addition of name to `astropy team page <https://www.astropy.org/team.html>`_.
+* Add member to `github team "Finance Committee" <https://github.com/orgs/astropy/teams/finance-committee>`_
 
 
 Removing a Member from the Committee
