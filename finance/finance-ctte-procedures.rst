@@ -1,13 +1,13 @@
-####################################
-Interim Finance Committee Procedures
-####################################
+############################
+Finance Committee Procedures
+############################
 
-This document contains procedures for the Astropy Interim Finance Committee. Note this is distinct from the `policies document <finance-ctte-policies.rst>_, in that this one is more focused on specific procedures/technical aspects rather than policy guidelines.
+This document contains procedures for the Astropy Finance Committee. Note this is distinct from the `policies document <finance-ctte-policies.rst>_, in that this one is more focused on specific procedures/technical aspects rather than policy guidelines.
 
 Adding a Member to the Committee
 ================================
 
-When a member of the committee joins the committee, the following steps are required:
+When a member joins the committee, the following steps are required:
 
 * Confirmation the member is aware of these steps, and has read the Code of Conduct
 * Adding the member to the astropy finance google group/email list
@@ -15,6 +15,7 @@ When a member of the committee joins the committee, the following steps are requ
 * Add write access to the running notes
 * Add write access to financial spreadsheets
 * Addition of name to `astropy team page <https://www.astropy.org/team.html>`_.
+* Make sure Coco has added member to `github team "Finance Committee" <https://github.com/orgs/astropy/teams/finance-committee>`_
 
 
 Removing a Member from the Committee
