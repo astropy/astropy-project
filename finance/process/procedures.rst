@@ -2,7 +2,8 @@
 Finance Committee Procedures
 ############################
 
-This document contains procedures for the Astropy Finance Committee. Note this is distinct from the `policies document <finance-ctte-policies.rst>_, in that this one is more focused on specific procedures/technical aspects rather than policy guidelines.
+This document contains procedures for the Astropy Finance Committee.
+Note this is distinct from the `policies document <policies.rst>`_, in that this one is more focused on specific procedures/technical aspects rather than policy guidelines.
 
 Adding a Member to the Committee
 ================================
