@@ -1,6 +1,6 @@
 # Phase II funding proposals
 
-*This is a draft document for how the Interim Finance Committee envisions the process of distributing grant money (e.g. from the Moore grant) within the Astropy project. This is a general template and the finance committee will change the details for individual calls. In particular, the actually available funding and details of the grant and grant rules that limit the work that could be proposed will need to be filled in. This template is written with the current Moore grant in mind.*
+*This is a draft document for how the Finance Committee envisions the process of distributing grant money (e.g. from the Moore grant) within the Astropy project. This is a general template and the finance committee will change the details for individual calls. In particular, the actually available funding and details of the grant and grant rules that limit the work that could be proposed will need to be filled in. This template is written with the current Moore grant in mind.*
 
 ## Proposal goals
 Proposals shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, and anything else broadly Project related. 
