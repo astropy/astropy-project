@@ -106,7 +106,11 @@ it exists) and see how the package fares:
 </tr>
 <tr>
 <td><img src="https://img.shields.io/badge/Green-brightgreen.svg" alt="Green"></td>
-<td>Extensive documentation, including at least: motivation/scope of package, installation instructions, usage examples, API documentation. In terms of infrastructure, the documentation should be automatically built on readthedocs.org. If appropriate, one or more tutorials should be included in the Astropy tutorials at http://tutorials.astropy.org.</td>
+<td>Extensive documentation, including at least: motivation/scope of package, installation instructions, 
+usage examples, and API documentation. 
+A preferred method of citation of this package and citations to relevant papers and software included where appropriate. 
+In terms of infrastructure, the documentation should be automatically built on readthedocs.org. 
+If appropriate, one or more tutorials should be included in the Astropy tutorials at http://tutorials.astropy.org.</td>
 </tr>
 </table>
 
