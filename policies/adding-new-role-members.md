@@ -14,24 +14,26 @@ which is highlighted in the process below.
 
 The process is:
 
-1. A Coordination Committee member sends a message to the person
-   nominated, making sure they understand the role, its responsibilities, and
-   confirming that the nominee agrees. Suggested text of that message is
-   [here](https://github.com/astropy/astropy-project/blob/main/messages/maintainer_access.md).
-2. The nominee should also be asked (generally but not necessarily in the
-   message above) to confirm they agree the Code of Conduct, and that they are
-   aware of maintainer guidelines if the role is a maintainer role.
-3. If the nominee does not accept, the process stops here.
-4. If the nominee does accept, a message is sent to the community, starting
-   a two-week clock on the feedback period [as required by APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst#responsibilities-and-authority).
-   The Coordination Committee member overseeing the process should make a PR at
-   this time adding the member to the roles page as a place for public comment.
-5. Once the two week period has elapsed, the coordination committee makes a
-   final decision based on any feedback.
-6. If the appointment is confirmed, the nominee is added to the roles page
-   (i.e., the PR created in step 4 can be merged).
-7.  The nominee receives the necessary Github or other permissions for the new role.
-8. The Coordination Committee member sends a confirmation message to the nominee
-   to complete the process.
-9. Add nominee to astropy-core-maintainers mailing list. (The name of the list is historic, today it
-   is used for all team roles.)
+1.  A Coordination Committee member discusses the nomination with people currently in that 
+    role (e.g. current maintainers for that subpackage)
+2.  A Coordination Committee member sends a message to the person
+    nominated, making sure they understand the role, its responsibilities, and
+    confirming that the nominee agrees. Suggested text of that message is
+    [here](https://github.com/astropy/astropy-project/blob/main/messages/maintainer_access.md).
+3.  The nominee should also be asked (generally but not necessarily in the
+    message above) to confirm they agree the Code of Conduct, and that they are
+    aware of maintainer guidelines if the role is a maintainer role.
+4.  If the nominee does not accept, the process stops here.
+5.  If the nominee does accept, a message is sent to the community, starting
+    a two-week clock on the feedback period [as required by APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0. rst#responsibilities-and-authority).
+    The Coordination Committee member overseeing the process should make a PR at
+    this time adding the member to the roles page as a place for public comment.
+6.  Once the two week period has elapsed, the coordination committee makes a
+    final decision based on any feedback.
+7.  If the appointment is confirmed, the nominee is added to the roles page
+    (i.e., the PR created in step 4 can be merged).
+8.  The nominee receives the necessary Github or other permissions for the new role.
+9.  The Coordination Committee member sends a confirmation message to the nominee
+    to complete the process.
+10. Add nominee to astropy-core-maintainers mailing list. (The name of the list is historic, today it
+    is used for all team roles.)
