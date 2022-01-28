@@ -13,7 +13,7 @@ If you would like to accept this nomination, we ask that you familiarize yoursel
 
 If you accept, please respond indicating that you've reviewed the developer documentation and that you have read and agree to abide by the Code of Conduct. After we receive that email from you, we will make an announcement and there will be a two week period of comment. After that period is over, your name will be added to the team webpage and you will be given the appropriate Github permissions.
 
-If you are not already, we also enourage you to join the [astropy-dev mailing list](https://groups.google.com/g/astropy-dev), and start trying to attend the monthly developer telecons.
+If you are not on the list already, we also encourage you to join the [astropy-dev mailing list](https://groups.google.com/g/astropy-dev), and start trying to attend the monthly developer telecons.
 
 Congratulations on the nomination and thanks for your contributions! We very much hope you accept it. We're very happy to answer any questions you may have about the role.
 
