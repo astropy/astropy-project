@@ -6,9 +6,12 @@ example, the running notes doc documents how it is meant to be used itself.
 This document instead is meant to describe procedure, and where necessary,
 policy, for how the CoCo operates.
 
-Note also: [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst)
-lays out the role, election, and philosophy for the CoCo, and that content is not
+## Processes and Responsibilities
+- The primary responsibilities, election, and philosophy of the CoCo are described in
+[APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst). That content is not 
 duplicated here.
+- Maintaining roles. [[Process]](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-role-members.md)
+- Reviewing and finalizing Astropy Proposals for Enhancement (APEs). [[Process]](https://github.com/astropy/astropy-APEs#finalizing-apes)
 
 ## Meeting Details
 
