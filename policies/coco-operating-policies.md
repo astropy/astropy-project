@@ -87,6 +87,10 @@ Used for private, informal conversations among CoCo members. A new channel is cr
 each time CoCo membership changes. There is a strong expectation of privacy and
 messages should not be shared without express permission of the sender.
 
+## GitHub Privileges 
+
+CoCo members typically have owner privileges of the Astropy organization, but it is not mandatory. The accounts which have owner privileges must have two-factor authentication enabled. 
+
 ## CoCo membership history
 
 ### CoCo3 (Elected Sep 2021)
