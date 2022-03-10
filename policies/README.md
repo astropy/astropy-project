@@ -1,0 +1,1 @@
+This directory holds documents of policies for the Astropy Project.  For example, rules for who gets certain rights or permissions and what the expectations are if they do.
