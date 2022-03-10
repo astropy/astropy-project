@@ -89,7 +89,7 @@ messages should not be shared without express permission of the sender.
 
 ## GitHub Privileges 
 
-CoCo members typically have owner priviliges of the Astropy organization, but it is not mandatory. The accounts which have owner priviliges must have two-factor authentication enabled. 
+CoCo members typically have owner privileges of the Astropy organization, but it is not mandatory. The accounts which have owner privilieges must have two-factor authentication enabled. 
 
 ## CoCo membership history
 
