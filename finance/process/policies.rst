@@ -91,7 +91,7 @@ Privacy and confidentiality
    __ https://docs.google.com/document/d/193ERJ6wMNPaNjGSWbS94KHGnojpZ_zwXxWTi9L2etSo/edit#bookmark=id.bwbxtdjn2
 
 
-Funding proposals that are written on behalf of the Astropy Project should be public, and comments should be solicited from the community before the proposal is submitted, unless there are specific reasons why this is not possible.
+#. Funding proposals that are written on behalf of the Astropy Project should be public, and comments should be solicited from the community before the proposal is submitted, unless there are specific reasons why this is not possible.
 
    (Agreed `2020-10-02`__.)
 
