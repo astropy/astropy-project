@@ -47,6 +47,15 @@ Role and responsibilities of the Committee
 Conduct of meetings
 ===================
 
+#. Attendance at or participation in Committee meetings is by invitation only.
+
+   This is necessary to respect the privacy of persons whose personal details may be discussed at the meeting.
+   Anybody is welcome to ask for an invitation to a particular meeting by contacting the Committee through any of its advertised communication channels.
+   
+   (Agreed `2022-04-04`__.)
+   
+   __ https://docs.google.com/document/d/1OpSEtJC0jQINTB-YNexxgnHX7-J6HRSkiPKYWBSCOfg/edit#bookmark=id.vs8m2dhor4y7
+
 #. Committee meetings will be organized by a moderator.
 
    The moderator will moderate the discussion in the meeting and make sure the agenda is followed.
