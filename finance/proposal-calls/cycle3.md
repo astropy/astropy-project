@@ -3,14 +3,14 @@
 
 # What is different from the previous cycle?
 
-This cycle now includes funding from the NASA ROSES proposal, not just the Moore Grant. Process-wise, most of the below is similar to the Cycle II (at the time called “Phase II”), with some additional context and minor practical changes based on how Phase II progressed. The main difference in this cycle is the “hiring process” mentioned below. Concretely, in this cycle you can now propose a project that you do not necessarily wish to execute yourself, but that you would like Astropy to find someone to do the work. We hope this will serve both to get work done that our current community does not enjoy doing, as well as serving to expand our community. 
+This cycle includes funding from both NASA ROSES and Moore Foundation. Process-wise, most of the below is similar to the Cycle II (at the time called “Phase II”), with some additional context and minor practical changes based on how Phase II progressed. The main difference in this cycle is the “hiring process” mentioned below. Specifically, in this cycle **_you can now request funding for a project that you do not necessarily wish to execute yourself, but that you would like Astropy to find someone to do the work._** We hope this will serve both expand our community and get desired work done that our current community does not have the capacity to execute.  
 
 
 # Funding goals
 
-Funding requests (FR) shall improve the Astropy Project. This includes code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, and anything else broadly Project related.
+Funding requests (FR) shall improve the Astropy Project. This includes work on code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, and anything else broadly Project related.
 
-FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be proposed and executed in this manner.
+FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
 
 FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (US) to add Klingon Standard Time to astropy.time" or "organize astropy workshop to engage amateur astronomer community in Antarctica")
 
@@ -39,7 +39,7 @@ The Finance Committee assumes responsibility for ensuring that all awards made a
 
 Funding Requests (FRs) should be posted as pull requests to github.com/astropy/astropy-project/ with the initial title text "Phase 3 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. 
 
-We envision a two stage FR process to enable the community to comment and improve ideas, teams with similar ideas can merge to avoid duplicated work, etc.
+We envision a two stage FR process to enable the community to discuss and improve ideas, teams with similar ideas to merge, etc.
 
 
 
