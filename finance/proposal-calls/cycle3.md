@@ -17,7 +17,7 @@ FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (U
 
 # Funding amount
 
-We anticipate a maximum of **$400k** (US) to be available for this funding cycle. This is significantly larger than previous cycles. This means this cycle may be limited more by the available time of current community members rather than by the amount of funding available.  We therefore urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process that is new in this cycle (outlined below).
+We anticipate a maximum of **$400k** (US) to be available for this funding cycle. This is significantly larger than previous cycles. This means that approved funding requests in this cycle may be limited more by the available time of current community members rather than by the amount of funding available.  We therefore urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process that is new in this cycle (outlined below).
 
 
 # What can the funding be used for?
@@ -43,7 +43,7 @@ We envision a two stage FR process to enable the community to discuss and improv
 
 
 
-* July 1: **_Draft_** FR Deadline (after this date, no new requests will be accepted)
+* July 1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Six week iteration and discussion period during which draft FRs can be fleshed out and modified
 * Aug 12: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
