@@ -87,4 +87,4 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](cycle3/template.md). We also include an [example](cycle3/example_draft_FR.md) that is an acceptable **Draft** FR (due July 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 12). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
+The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due July 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 12). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
