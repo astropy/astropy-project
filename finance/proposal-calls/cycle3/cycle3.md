@@ -43,11 +43,11 @@ We envision a two stage FR process to enable the community to discuss and improv
 
 
 
-* July 1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
+* July 8: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Six week iteration and discussion period during which draft FRs can be fleshed out and modified
-* Aug 12: Finalized FRs are due
+* Aug 19: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
-* Aug 22: voting begins.
+* Aug 29: voting begins.
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate.
 
