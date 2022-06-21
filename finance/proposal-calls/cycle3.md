@@ -37,7 +37,7 @@ The Finance Committee assumes responsibility for ensuring that all awards made a
 
 # Funding Request process
 
-Funding Requests (FRs) should be posted as pull requests to github.com/astropy/astropy-project/ with the initial title text "Phase 3 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. 
+Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Phase 3 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. Please place the file with your FR at https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3 (the same location as the template).
 
 We envision a two stage FR process to enable the community to discuss and improve ideas, teams with similar ideas to merge, etc.
 
@@ -87,4 +87,4 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](https://drive.google.com/file/d/1nuxr46o3Xr-vTsyMh7-bnK5LCBHXnPS5/view?usp=sharing). We also include an [example](https://drive.google.com/file/d/1X3OV9Ftmd5Sep7w7rTvHMHv9dbf9ENzm/view?usp=sharing) that is an acceptable **Draft** FR (due July 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 12). You can refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
+The following is a template proposal: [template.md](cycle3/template.md). We also include an [example](cycle3/example_draft_FR.md) that is an acceptable **Draft** FR (due July 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 12). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
