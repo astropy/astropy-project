@@ -1,7 +1,7 @@
 # Cycle III funding requests and ideas
 
 
-# What is different from the previous cycle?
+# Changes relative to the previous cycle
 
 This cycle includes funding from both NASA ROSES and Moore Foundation. Process-wise, most of the below is similar to the Cycle II (at the time called “Phase II”), with some additional context and minor practical changes based on how Phase II progressed. The main difference in this cycle is the “hiring process” mentioned below. Specifically, in this cycle **_you can now request funding for a project that you do not necessarily wish to execute yourself, but that you would like Astropy to find someone to do the work._** We hope this will serve both expand our community and get desired work done that our current community does not have the capacity to execute.  
 
@@ -78,7 +78,7 @@ Examples of constructive comments are:
 If you are worried about your comments being perceived as inappropriate, you are welcome to send your feedback directly to the Finance Committee at finance@astropy.org or ask on Slack. You are also welcome to use the “thumbs down” vote without adding comments. If you have any concerns about this process and the ensuing discussion that you would prefer to discuss privately, contact the ombudsperson at confidential@astropy.org.
 
 
-# Hiring Process
+# Open hire process
 
 New in Cycle III, FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
 
