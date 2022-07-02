@@ -46,6 +46,7 @@ details:
       "repo_url": "URL to the repository",
       "pypi_name": "PyPI name if it exists, set to an empty string otherwise",
       "description": "A few sentence description of your package",
+      "coordinated": false,
       "review": {
          "functionality": "To be filled out by the reviewer",
          "ecointegration": "To be filled out by the reviewer",
