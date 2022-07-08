@@ -1,0 +1,18 @@
+### Title
+Continue specreduce (and specutils) development
+
+### Project Team
+This is an open hire, to be overseen by Erik Tollerud (@eteq), with likely contributions from Tim Pickering (@tepickering)
+
+### Project Description
+This is to continue development that was begun in the previous cycle on building out pieces of specreduce.  Some specific areas that could be tackled by a developer in the coming cycle include:
+* ccdproc workflow (i.e., using ccdproc but in a convenient way that feeds into other specreduce steps - either a notebook or a wrapper class)
+* Generic manual wavelength calibration classes (i.e. analogs to "identify" from iraf, should use previous specreduce tools for this where possible)
+* Automatic wavelength calibration using existing templates (i.e. "reidentify", or "full template" from pypeit)
+* flux calibration classes/wrapper functions (note this may be best implemented in specutils, although that requires additional discussion to decide)
+* implementation of example notebooks doing the above on real data
+* Support for / workflows with multi-object spectrographs
+* Continued/expanded outreach to observatories and software projects (e.g. PypeIt) to improve integration and workflows
+
+### Approximate Budget
+Up to 50000 USD, to be fleshed out when the above is
