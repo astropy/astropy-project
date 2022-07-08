@@ -4,7 +4,6 @@ Complete effort on gui-editable reginos
 ### Project Team
 Adam Ginsburg
 Derek Homeier
-David Stansby
 Aperio
 
 ### Project Description
