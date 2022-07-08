@@ -3,7 +3,7 @@
 ### Project Team
 This project will put bounties on specific issues, that can be collecrted by anyone (which includes people without previous involvement in astropy) who writes a PR that closes that issue.
 
-The progam is organized by: Moritz Guenther (@hamogu), your..name..here..
+The progam is organized by: Moritz Guenther (@hamogu), Erik Tollerud (@eteq) your..name..here..
 
 ### Project Description
 Address long-standing bugs or missing features that volunteers don't address.
