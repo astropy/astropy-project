@@ -107,3 +107,11 @@ carry out the work here would be 2h/week per person (so 4h/week in total), which
 gives a total of **USD 28800**, although this would then likely cover mostly the
 infrastructure work and not the maintenance of the packages and sub-packages
 mentioned above
+
+# Extension
+
+As of 20 July 2022, not all the approved funding had been used, with 172 hours
+($25,800) left. Both project participants will use the remaining funding until
+31 December 2022, to continue work on the items listed above (excluding
+coordination work since T. Robitaille is no longer a member of the Coordination
+Committee).
