@@ -94,3 +94,14 @@ proposal in the next cycle for evaluation by the community.
 The total budget request is for $15k, which is for 100 hours of contractor work
 at $150 per hour, split up as 3 days of work (24 hours) each for phases one and
 three and one hour a week for phase 2 (52 hours).
+
+# Extension
+
+As of 20 July 2022, not all the approved funding had been used, with 79 hours
+($11,850) left. Phase 1 described above is mostly complete but the extension
+until 31 December 2022 will be used to finalize this, present it to the
+community, and implement feedback, and to then start Phase 2 (running the
+mentoring program). The program will be run for a few months with this funding,
+and a Cycle 3 proposal will request funding to continue running the mentoring
+program beyond this.
+
