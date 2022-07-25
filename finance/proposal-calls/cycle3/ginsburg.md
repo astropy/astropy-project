@@ -17,3 +17,5 @@ Currency: US $10,500
 - $953.90 overhead (at Moore's upper limit of 10%; UF standard is 52.5%)
 
 Should be awarded using the same mechanism as in previous cycles (subaward).
+
+This requested budget, 1 CM of effort, is the minimum viable.
