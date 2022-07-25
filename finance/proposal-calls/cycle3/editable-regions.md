@@ -29,3 +29,5 @@ The main work is to complete the above PRs and write new documentation
 Currency: US $20,000 estimated.
 
 All will be used to cover effort by Aperio team members.
+
+The minimum allocation to make this effort viable is $5,000, which accounts for ~10h of ramp-up time for an individual to dig into and understand the present state of PRs, plus ~40h of effort to make appropriate changes, assuming an hourly rate of $100/h
