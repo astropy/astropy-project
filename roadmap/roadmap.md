@@ -1,4 +1,5 @@
 # The Astropy Roadmap
+**Latest revision: April 2022**
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
@@ -12,7 +13,7 @@
 
 ## Introduction
 
-This Roadmap captures high level actionable items that we as a project aim to undertake to improve the health and stability of the Astropy project. The Roadmap itself is a static document while the project board is a living document that links the roadmap to specific issues and efforts. The Roadmap document will be revisited regularly at the Astropy coordination meetings, to keep track of progress and write new versions as needed.
+This Roadmap captures high level actionable items that we as a project aim to undertake to improve the health and stability of the Astropy project. The Roadmap itself is a static document, while specific issues and efforts can be linked through [meta issues](#Roadmap-Meta-Issues). The Roadmap document will be revisited regularly at the Astropy coordination meetings, to keep track of progress and write new versions as needed.
 
 ## Status Legend
 
@@ -30,23 +31,21 @@ This Roadmap captures high level actionable items that we as a project aim to un
 - Attempts to secure the necessary resources have not yet been started.
   - *For example, there’s no one available to write a funding proposal or lead recruitment efforts.*
   
-## Roadmap 2021 Project Board
+## Roadmap Meta Issues
 
-Issues relevant to the Roadmap goals can be added and organized on the [Astropy Roadmap 2021 Project Board](https://github.com/orgs/astropy/projects/7). The goal of the project board is to give a current overview of the status of our progress and provide access to the details of the work associated with roadmap items. It will be updated continuously.
+Meta issues in this repository associated with Roadmap items can be found [here](https://github.com/astropy/astropy-project/issues?q=is%3Aopen+is%3Aissue+label%3ARoadmap). Work done anywhere in the project that is relevant to the Roadmap can be tied to the appropriate meta issue for visibility.
 
 ## Functionality
 
 - :large_orange_diamond: Provide next-generation spectroscopic reduction, analysis, and visualization tools usable by individual researchers and larger surveys.
 
-- :large_orange_diamond: Improve support and validation for input/output of standard file formats used in Astronomy including FITS, ASDF, HDF5, and ECSV as well as compression handling and enhanced support for large tables.
+- :large_orange_diamond: Improve support and validation for input/output of standard file formats used in Astronomy including FITS and HDF5 as well as compression handling and enhanced support for large tables.
 
 - :large_orange_diamond: Improve interoperability and compatibility, while reducing duplication, amongst Astropy-affiliated packages and other community standard software.
 
 ## Hardware and Performance
 
 - :large_orange_diamond: Improve Astropy ecosystem stability in High-Performance Computing environments, and expand options for compatibility with read-only filesystems.
-
-- :large_orange_diamond: Improve support for ARM Macs.
 
 - :red_square: Improve and/or maintain interoperability with performant I/O file formats and libraries such as HDF5 and Dask.
 
@@ -58,7 +57,7 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 
 - :large_orange_diamond: Expand and build on workshop offerings by recruiting and training more facilitators and expanding the geographic diversity of meetings where we offer workshops. 
 
-- :large_orange_diamond: Expand the number and diversity of user support resources, including establishing a user-focused forum on Discourse.
+- :green_circle: Expand the number and diversity of user support resources, including establishing a user-focused forum on Discourse.
 
 - :large_orange_diamond: Generate and ingest guides and/or a series of tutorials that demonstrate Astropy Project functionality in the context of astronomical research, especially focusing on spectroscopy tasks.
 
@@ -70,6 +69,8 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 
 - :large_orange_diamond: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFocus communities, and improved our understanding the demographics of our communities in order to measure the effectiveness of these efforts.
 
+- :large_orange_diamond: Better understand Astropy user community through a NumPy-like user survey (see [this summary](https://numpy.org/user-survey-2020-details/) of their results).
+
 ## Infrastructure, Documentation
 
 - :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
@@ -79,10 +80,6 @@ Issues relevant to the Roadmap goals can be added and organized on the [Astropy 
 - :red_square: Implement integration testing for core, coordinated, and infrastructure packages.
 
 ## Government, Management, and Personnel
-
-- :green_circle: Continue to establish, document, and implement a formal governance structure and hold first elections under APE0.
-
-- :green_circle: Continue to have funds and processes available to support efforts needed by core maintainers.
 
 - :large_orange_diamond: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external personnel.
 
