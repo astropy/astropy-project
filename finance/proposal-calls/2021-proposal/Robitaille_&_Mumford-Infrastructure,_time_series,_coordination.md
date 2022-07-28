@@ -112,6 +112,6 @@ mentioned above
 
 As of 20 July 2022, not all the approved funding had been used, with 172 hours
 ($25,800) left. Both project participants will use the remaining funding until
-31 December 2022, to continue work on the items listed above (excluding
+28 February 2023, to continue work on the items listed above (excluding
 coordination work since T. Robitaille is no longer a member of the Coordination
 Committee).
