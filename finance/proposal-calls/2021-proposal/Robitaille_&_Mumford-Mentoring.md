@@ -99,7 +99,7 @@ three and one hour a week for phase 2 (52 hours).
 
 As of 20 July 2022, not all the approved funding had been used, with 79 hours
 ($11,850) left. Phase 1 described above is mostly complete but the extension
-until 31 December 2022 will be used to finalize this, present it to the
+until February 28, 2023 will be used to finalize this, present it to the
 community, and implement feedback, and to then start Phase 2 (running the
 mentoring program). The program will be run for a few months with this funding,
 and a Cycle 3 proposal will request funding to continue running the mentoring
