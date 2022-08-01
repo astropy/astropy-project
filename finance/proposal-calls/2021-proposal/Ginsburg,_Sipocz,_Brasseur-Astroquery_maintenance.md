@@ -31,3 +31,19 @@ Include overheads, fringe etc. if money is paid as sub-grant (note that the Moor
  * Clara Brasseur: 1/12th FTE (1 month effort), $15000 including overheads
 
 - TOTAL
+
+# Extension
+
+Extension requested for Clara Brasseur
+
+### Work to be completed
+
+Ongoing Astroquery maintenance (see original description). Specifically completing the additon of all module documentation to our automated testing.
+
+### New end date
+
+February 28, 2023
+
+### Budget to be carried over
+
+$13,000
