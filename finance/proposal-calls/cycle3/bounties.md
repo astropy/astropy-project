@@ -18,11 +18,22 @@ We'll in particular see if the community is interested in earning the bug bounti
 
 To this end we will select the following issues, which are over 3 years old, look reasonably self-contained, and could be addressed (i.e. don't need work on several other issues before they can be addressed) by a variety of developers (i.e. they may be complex in programming, but don't require APEs or decision on API that only the maintainers can make):
 
-- issue xxx: 500 $ for PR and 125 $ for review
-- issue yyy: 1000 $ for PR and 250 $ for review
--
+- https://github.com/astropy/astropy/issues/4112 - 300 $ + 75 $ for review
+- https://github.com/astropy/astropy/issues/3720 - 300 $+ 75 $ for review
+- https://github.com/astropy/astropy/issues/4121 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/4610 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/1803 - 3000 $ + 750 $ for review
+- https://github.com/astropy/astropy/issues/1783 - 1600 $  + 400 $ for review
+- https://github.com/astropy/astropy/issues/3214 - 300 $ + 75 $ for review
+- https://github.com/astropy/astropy/issues/3081 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/6848 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/6618 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/6617 - 600 $ + 150 $ for review
+- https://github.com/astropy/astropy/issues/6583 - 3000 $ + 750 $ for review
+- https://github.com/astropy/astropy/issues/6549 - 1600 $ + 400 $ for review
+- https://github.com/astropy/astropy/issues/6548 - 1600 $ + 400 $ for review
 
-(please suggest issues for this list during the discussion phase)
+(please suggest further issues for this list during the discussion phase)
 
 Bounties should be set high-enough to attract developers to complex, long-standing issues and give a reasonable rate of return. However, it is impossible to know in advance exactly how much work a specific PR will bring, and the point of this funding request is to try out bounties on a number of issues and see if our (i.e. the people contributing to the list above) intuition works.
 
@@ -35,8 +46,8 @@ We do not want this proposal to increase the workload for volunteer reviewers, s
 
 ### Approximate Budget
 
-about 20000 $
+10000 $ to 20000 $
 
-(exact sum to be calculated beased on the list of issues with a bounty that will be collected in the discussion phase.)
+It is to be expected that developers will selectively pick and choose and not all issues will be worked on. We will keep a running tally of the funding; this program simply ends when it runs out of money.
 
 This is a pilot program to work out how it works - we want to more than a handful of issues to make sure we have enough uptake to work out the proccess, but not so much money that we have a big problem if it's not working out.
