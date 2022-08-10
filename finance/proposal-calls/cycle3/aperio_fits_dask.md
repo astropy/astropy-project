@@ -69,10 +69,34 @@ Some relevant issues:
 
 While this is one of the largest performance issues in `io.fits`, this project
 is also proposing to increase the integration of Dask with `io.fits` which will
-enable significant performance improvements when using FITS files with
-distributed compute.
+enable significant performance improvements when using FITS files with dask.
+
+This proposal is focusing on images in FITS files, so both uncompressed images
+and compressed images (which are stored in binary tables underneath), and
+proposes to add an option to `io.fits` to read both these types of FITS arrays
+directly into Dask arrays.
+
+While the proposal team has significant experience with reading various data
+formats into Dask arrays, for example FITS images and CASA images and tables.
+A proportion of the development time for this section of the proposal will be
+devoted to researching the most effective method of loading FITS files into Dask
+arrays.
+
+Currently it is
+[possible](https://github.com/sunpy/sunpy/issues/2715#issuecomment-413286821) to
+load an image into a Dask array, via the "delayed" functionality in Dask. In
+this case, the file is opened when reading a chunk of data from the array, and
+then closed again afterwards.
+This approach works well for a lot of use cases, but is complex, it would be a
+lot better if this were integrated into `io.fits` directly.
+
+For compressed images, Dask integration would allow you to process the
+compressed chunks of the image in parallel (either on a single machine or
+distributed), as if each compressed tile of the image was a dask chunk then it
+can be parallelised over using the various dask schedulers.
+
+This proposal is to get an initial implementation of both of these read use
+cases integrated into `io.fits`, and in the process to document any future
+improvements that could be made to enhance performance.
 
 ### Approximate Budget
-
-Money in return for the sacrifice of sanity required to rework large chunks of
-`io.fits`. /s
