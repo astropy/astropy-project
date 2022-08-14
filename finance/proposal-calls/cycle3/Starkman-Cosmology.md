@@ -52,3 +52,4 @@ Planned interoperability improvements for `astropy.cosmology`:
 ### Approximate Budget
 
 Target budget: $12,000 for 2 hours/week of work at $120/hour (rate negotiable).
+Minimum budget: $6,000 for 2 hours/week of work at $60/hour.
