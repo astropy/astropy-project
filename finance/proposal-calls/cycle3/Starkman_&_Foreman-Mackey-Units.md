@@ -85,6 +85,7 @@ smooth transition and long-term support for the current Quantity framework.
 
 For NS:
 Target budget: $8,400 for 70 hours of work at $120/hour (rate negotiable).
+Minimum budget: $5,950 for 70 hours of work at $85/hour.
 
 For DFM:
 Dan Foreman-Mackey is graciously donating his time and expertise.
