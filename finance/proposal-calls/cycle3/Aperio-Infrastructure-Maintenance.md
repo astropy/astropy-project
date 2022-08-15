@@ -92,7 +92,7 @@ v1.0.0 of the package during the funding cycle.
 
 ### Budget
 
-Project participants will ideally work 16h/week on this project in total -
-assuming 48 weeks (to account for holidays!) gives a total of **USD 115,200**
+Project participants will ideally work 12h/week on this project in total -
+assuming 48 weeks (to account for holidays!) gives a total of **USD 86,400**
 assuming an hourly rate of USD 150/hour. The minimum useful budget to carry out
-the work here would be 8h/week in total, which gives a total of **USD 57,600**.
+some of the work here would be 6h/week in total, which gives a total of **USD 43,200**.
