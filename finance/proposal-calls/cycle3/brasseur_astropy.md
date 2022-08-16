@@ -13,6 +13,7 @@ Create more learning materials for the Astropy Project.
   - Advanced FITS file manipulation
   - Accessing and visualizing data with Astroquery and Astropy
 - Travel to Astro Hack Week 2022
+  - I will be giving a tutorial presentation on coding best practices and open source software
 
 ### Approximate Budget
 Currency: US $6600
