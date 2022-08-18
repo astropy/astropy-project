@@ -41,6 +41,9 @@ are features that the Learn Astropy team has identified, in rough priority:
   Python API symbols.
 - Website UX improvements and features, from search UI improvements,
   notifications for new/updated content, contributor documentation.
+- Coordinating with infrastructure service providers, specifically
+  [Algolia](https://www.algolia.com), and establishing
+  open source plans or applying for funding as needed.
 - Communications and collaboration with the Learn Astropy team, including
   telecons and GitHub issues/pull requests.
 
