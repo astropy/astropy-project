@@ -7,6 +7,10 @@ Learn Astropy Full Stack Developer
 - Jonathan Sick, of the [J.Sick Codes](https://www.jsick.codes) astronomy DevOps
   software studio, and Astropy team member in the Learn Astropy
   infrastructure role.
+- The [Learn Team](https://www.astropy.org/team.html) provides collaborative
+  guidance and oversight for this project, but is not funded in this proposal.
+  Kelle Cruz's leadership role is covered in
+  [285](https://github.com/astropy/astropy-project/pull/285).
 
 ### Project Description
 
