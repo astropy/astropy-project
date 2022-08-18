@@ -52,8 +52,7 @@ are features that the Learn Astropy team has identified, in rough priority:
 Budget is for hourly labor at a suggested rate of US$120/hour. Given an expected
 commitment of 16 hours a month, the expected estimated total is US$24,000.
 
-This estimate is based on historical levels of commitment in 2021.
-This number could realistically fluctuate month to month, and could increase
-depending on the completion of other projects towards the end of 2022 if
-mutually desired. Minimum estimate is US$11,500 given about 8 hours a month;
-maximum estimate is $30,000 given about 20 hours a month.
+The minimal budget request is US$11,000. At this level, which would be
+equivalent to about 8 hours of development a month, some lower-priority projects
+could be de-scoped to focus on a single high priority project, such indexing
+third-party sources.
