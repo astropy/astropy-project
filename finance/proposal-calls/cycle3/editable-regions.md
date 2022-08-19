@@ -1,5 +1,5 @@
 ### Title
-Complete effort on gui-editable reginos
+Complete effort on gui-editable regions
 
 ### Project Team
 Adam Ginsburg
