@@ -17,10 +17,14 @@ Some tasks the holder of this role would take on include:
 * Help publicizing Learn Astropy resources
 * Coordinating website content refresh and updates with web site maintainers
 * Community and/or User Survey
+* Coordinate update to the Astropy Code of Conduct
 * More regular updates on a blog or the main Astropy website
 * New community-oriented initiatives as they come up
 
 Which of these a particular candidate takes on may depend on their background knowledge and skillset.
+
+### Selection Process
+Our selection process would be informed by the [resources provided by the Center for Scientific Collaboration and Community Engagement (CSCCE)](https://www.cscce.org/resources/hiring-becoming-a-community-manager/). The CSCCE hosts an active Slack workspace with over 450 members and we plan to use that community for recruiting and adverisement, in addition to posting to the AAS Job Register. 
 
 Selection criteria for a hire would include:
 * Experience working with or in open source projects analogous to Astropy
