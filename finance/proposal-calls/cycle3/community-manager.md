@@ -30,5 +30,4 @@ Selection criteria for a hire would include:
 
 
 ### Approximate Budget
-Roughly 24960 USD, based on 10% time over a year for someone at $120/hr.
-test
+The budget has flexibility. Our minimum request is for $15,000/year to find someone to take the lead on only a few of the above listed tasks. At the high end, with $60,000/year, we could find someone to spending approximately 50% time on Astropy and to make progress on most of the tasks.
