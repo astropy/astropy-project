@@ -68,13 +68,15 @@ Example projects:
 
 ### Approximate Budget
 Currency: US $84,000
+Minimum to be viable: US $64,000 (approx. $60/hour)
+Maximum: Up to a full time appointment (approx. $160,000)
 
 **Position**: Research Software Engineer
 
-Budget breakdown:
+Budget breakdown (nominal):
 - Travel: $8000
 - Conference Registrations: $1000
-- Salary / contractor fees etc.: $75000
+- Salary / contractor fees etc.: $75000 (approx. $80/hour)
 - TOTAL = $84000
 
 **Position**: Manager of Research Software Engineer
