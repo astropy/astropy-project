@@ -92,8 +92,8 @@ Python rather than using the `cfitsio` C library to do it. This will have the
 side effect of significantly reducing the compile time complexity of Astropy, as
 the bundled cfitsio library could then be removed from the core package (as it
 was only used for the compression). We expect that we would address all of the
-points in this issue during development of a native Python tile [de]compression
-package.
+points in this issue during development of a tile [de]compression package
+independent of cfitsio.
 
 Some relevant issues:
 
