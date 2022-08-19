@@ -4,7 +4,7 @@ Complete effort on gui-editable regions
 ### Project Team
 Adam Ginsburg
 Derek Homeier
-Aperio
+Aperio Software
 
 ### Project Description
 The ["Linking CASA to the astropy ecosystem"](https://science.nrao.edu/facilities/alma/science_sustainability/Spectral_Cube_and_Radio_Beam_Ginsburg.pdf)
