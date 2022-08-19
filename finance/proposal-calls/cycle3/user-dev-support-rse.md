@@ -70,9 +70,9 @@ Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md
 
 
 ### Approximate Budget
-Currency: US $84,000
-Minimum to be viable: US $64,000 (approx. $60/hour)
-Maximum: Up to a full time appointment (approx. $160,000)
+- Currency: US $84,000
+- Minimum to be viable: US $64,000 (approx. $60/hour)
+- Maximum: Up to a full time appointment (approx. $160,000)
 
 **Position**: Research Software Engineer
 
