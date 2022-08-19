@@ -56,11 +56,14 @@ Example projects:
   Astropy documentation to this theme as well, as a way of reducing custom
   infrastructure and sharing infrastructure with other projects. Relevant issues:
   [#11520](https://github.com/astropy/astropy/issues/11520)
-* *Implement robust benchmark reporting for pull requests*: This project would enable a
-  way of evaluating the performance impact of pull requests by tracking and benchmarking
-  existing performance of common tasks (see, for example, the old
-  [astropy-benchmarks](https://github.com/astropy/astropy-benchmarks)).
-* *Implement integration testing for core, coordinated, and infrastructure packages*:
+* *Implement robust benchmark reporting for pull requests* ([drawn from the Astropy
+Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md)): This
+  project would enable a way of evaluating the performance impact of pull requests by
+  tracking and benchmarking existing performance of common tasks (see, for example, the
+  old [astropy-benchmarks](https://github.com/astropy/astropy-benchmarks)).
+* *Implement integration testing for core, coordinated, and infrastructure packages*
+([drawn from the Astropy
+  Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md)):
   Ensure that coordinated and infrastructure packages have integration tests that check
   the joint usage of Astropy and these other packages together, rather than individually
   (as is often the case now).
