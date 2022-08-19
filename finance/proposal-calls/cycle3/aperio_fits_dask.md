@@ -97,9 +97,9 @@ package.
 
 Some relevant issues:
 
-* https://github.com/astropy/astropy/issues/3895
-* https://github.com/astropy/astropy/issues/11633
-* https://github.com/astropy/astropy/issues/9238
+* Compressed HDU enhancements [#3895](https://github.com/astropy/astropy/issues/3895)
+* Writing compressed FITS files is slow when multi-threaded [#11633](https://github.com/astropy/astropy/issues/11633)
+* Refactor FITS compressed image headers (CompImageHeader) [#9238](https://github.com/astropy/astropy/issues/9238)
 
 
 #### Dask Integration with reading FITS files
