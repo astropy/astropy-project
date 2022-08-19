@@ -131,7 +131,13 @@ lot better if this were integrated into `io.fits` directly. For example, somethi
 
 ```python
 hdulist = fits.open(filepath, use_dask=True)
-hdulist[0].data
+hdulist
+```
+```
+[<astropy.io.fits.hdu.image.DaskPrimaryHDU object at 0x7f1824914c10>, <astropy.io.fits.hdu.table.DaskCompImageHDU object at 0x7f1824914ee0>]
+```
+```python
+hdulist[1].data
 ```
 ```
 dask.array<reshape, shape=(4, 490, 1000, 2560), dtype=float64, chunksize=(1, 1, 1000, 2560), chunktype=numpy.ndarray>
@@ -148,3 +154,22 @@ cases integrated into `io.fits`, and in the process to document any future
 improvements that could be made to enhance performance.
 
 ### Approximate Budget
+
+For part one, we would request a total of 150h @ $150/hour broken up into:
+
+* 100h for removing the cfitsio dependency on `CompImageHDU`. This includes
+  reimplementing or adapting the C implementation of the tile (de)compression
+  algorithms, and modifying `CompImageHDU` to use the new astropy versions of
+  these algorithms rather than parsing all the data to `cfitsio` for loading.
+* 50h for implementing a new lazy-loading property on `CompImageHDU` which
+  allows users to load parts of the whole compressed image array without having
+  to load and decompress the whole array.
+
+For part two, we request another 100h @ $150/hour to implement prototype loaders
+for FITS Image HDUs making use of Dask. At the end of part two we expect to have
+at least one approach to efficiently loading FITS data into Dask, suitable for
+large scale parallelisation, and a plan of how these prototypes could be
+improved upon and merged into astropy core.
+
+Our minimal budget is the 150h requested for part one, which would mean leaving
+all the Dask work to another proposal.
