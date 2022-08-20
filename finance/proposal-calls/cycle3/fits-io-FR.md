@@ -14,3 +14,7 @@ Note an open hire of this sort would be expected to continue in another year if 
 
 ### Approximate Budget
 Exact scope would be kept flexible (see emphasis above of not overwhelming maintainers). At a fiducial hourly rate of ~$120/hr and an assumption of ~2 issues per month over a year (assuming about half of the issues could be reviewed by a generalist and half by a specialist, keeping it to one review a month for @saimn at max), and assuming 4hr per issue, a starting estimate might be $11520
+
+#### Minimum budget
+
+In principle the true minimum is a *single* issue - ~$480k. But in practice the minimum.is whatever recoups the time spent on the seaexy as part of the open call.
