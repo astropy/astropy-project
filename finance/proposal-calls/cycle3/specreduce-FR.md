@@ -15,4 +15,6 @@ This is to continue development that was begun in the previous cycle on building
 * Continued/expanded outreach to observatories and software projects (e.g. PypeIt) to improve integration and workflows
 
 ### Approximate Budget
-Up to 50000 USD, to be fleshed out when the above is
+
+* @tepickering should be able to allocate $10000 to focus on wavelength calibration, following successful work on the trace object
+* Up to $40000 as an open call for a developer to work on any of the other items above.
