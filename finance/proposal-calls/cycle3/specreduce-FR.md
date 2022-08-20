@@ -2,7 +2,7 @@
 Continue specreduce (and specutils) development
 
 ### Project Team
-This is an open hire, to be overseen by Erik Tollerud (@eteq), with likely contributions from Tim Pickering (@tepickering)
+This is part work by @tepickering and partly an open call to be overseen by Erik Tollerud (@eteq)
 
 ### Project Description
 This is to continue development that was begun in the previous cycle on building out pieces of specreduce.  Some specific areas that could be tackled by a developer in the coming cycle include:
