@@ -18,3 +18,7 @@ This is to continue development that was begun in the previous cycle on building
 
 * @tepickering should be able to allocate $10000 to focus on wavelength calibration, following successful work on the trace object
 * Up to $40000 as an open call for a developer to work on any of the other items above.
+
+### minimum budget
+
+The $10k above for @tepickering would ensure at least some progress would continue on major specreduce steps 
