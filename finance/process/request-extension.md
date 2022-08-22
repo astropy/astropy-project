@@ -11,6 +11,7 @@ The PR should add a new section to the existing proposal text which specifies:
   In particular, please be sure to note if the full scope of the original proposal is *not* expected to be completed during the extension.
 - The funds that will be spent during the extension.
 - The new end date for the project.
+- The PR description should give a brief explanation for the reason of the delay. (If this involves confidential matters, it can instead say "the reasons have been communicated to the Astropy Finance Committee" or similar.)
 
 Note that this mechanism can only be used to extend the period of performance of an approved proposal: this is not the appropriate mechanism to propose an increase in the amount of funding required to complete the work.
 Additional funding should be requested by creating an [entirely new funding proposal](https://github.com/astropy/astropy-project/blob/main/finance/process/request-funding.md#contract-work).
