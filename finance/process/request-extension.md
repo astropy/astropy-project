@@ -4,7 +4,7 @@ In general, projects financially supported by Astropy are subject to contracts o
 Under normal circumstances, we expect the work to be completed within that period.
 However, we recognize that this is sometimes impossible and that an extension may be necessary.
 
-In order to request an extension to an approved proposal, the entity (person or organization) responsible for carrying out the work should open a new pull request to update the approved proposal as stored in the [astropy-project repository](https://github.com/astropy/astropy-project).
+In order to request an extension to an approved proposal, the entity (person or organization) responsible for carrying out the work should open a new pull request to update the document describing the approved proposal as stored in the [astropy-project repository](https://github.com/astropy/astropy-project).
 The PR should add a new section to the existing proposal text which specifies:
 
 - What work will be undertaken during the period covered by the extension.
