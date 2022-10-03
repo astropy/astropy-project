@@ -51,3 +51,6 @@ We do not want this proposal to increase the workload for volunteer reviewers, s
 It is to be expected that developers will selectively pick and choose and not all issues will be worked on. We will keep a running tally of the funding; this program simply ends when it runs out of money.
 
 This is a pilot program to work out how it works - we want to more than a handful of issues to make sure we have enough uptake to work out the proccess, but not so much money that we have a big problem if it's not working out.
+
+### Approved Budget
+$20,000
