@@ -27,3 +27,6 @@ Job would be posted internally and advertised widely via the AAS Job Register. T
 This budget is flexible. In order to accomlish a minimal amount of work and just support the existing user workshop at AAS Meetings, $5000 might be enough to recruit someone. To support someone to lead the effort to expand to more conferences, recruit and train new facilitators, and to make progress towards an contributor workshop, I estimate the necessary budget to be $12,000/year.
 
 This budget is just for the person's effort and does not include travel.
+
+### Approved Budget
+$12,000
