@@ -22,3 +22,6 @@ This is to continue development that was begun in the previous cycle on building
 ### minimum budget
 
 The $10k above for @tepickering would ensure at least some progress would continue on major specreduce steps 
+
+### Approved Budget
+$50,000
