@@ -33,3 +33,6 @@ scheme and make updates to the documentation as required. The funding
 would cover work from 1 March 2023 to 31 December 2023, i.e. 43 weeks,
 and so we are requesting 43h or USD 6,450 assuming an hourly rate of
 USD 150/hour (this is also our minimum useful budget).
+
+### Approved Budget
+$6,450
