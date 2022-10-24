@@ -18,3 +18,6 @@ Exact scope would be kept flexible (see emphasis above of not overwhelming maint
 #### Minimum budget
 
 In principle the true minimum is a *single* issue - ~$480k. But in practice the minimum.is whatever recoups the time spent on the seaexy as part of the open call.
+
+### Approved Budget
+$11,520.00
