@@ -51,3 +51,6 @@ TOTAL:  6,550 USD
 5000 USD: International student travel and accommodation + venue/school costs
 200 USD: 4 wireless internet access points (via mobile data)
 TOTAL: 11,550 USD
+
+#### Approved Budget
+$11,550 USD
