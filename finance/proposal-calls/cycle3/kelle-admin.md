@@ -46,3 +46,6 @@ To provide budgeting flexibility, I also include a minimum request of $16.6k, wh
 |   Summer Fringe (27.3%) | $3,173 |
 |   F&A (12.5%) | $1,850 |
 | **TOTAL** | **$16,647** |
+
+### Approved Budget
+$25,000
