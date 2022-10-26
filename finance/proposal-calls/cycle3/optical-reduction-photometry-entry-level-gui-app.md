@@ -40,3 +40,6 @@ Currency: US $40,000
 
 This is a really rough ballbark estimate, all salary/contractor.
 
+### Approved budget
+
+$32,000.
