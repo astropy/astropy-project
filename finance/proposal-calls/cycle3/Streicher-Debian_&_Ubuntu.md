@@ -63,3 +63,7 @@ USD 150/hour, this would sum up to an estimated total of USD 14,400.
 This would also be the reasonable maximum, covering the real work that
 is done. I would estimate a useful minimum by USD 9,000 (equivalent to
 5 hours per month).
+
+### Approved Funding
+
+$14,400.00.
