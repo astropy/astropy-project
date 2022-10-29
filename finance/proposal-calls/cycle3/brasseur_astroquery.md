@@ -30,11 +30,10 @@ Currency: US $7500
 
  * Salary: 6375 (1/24 FTE, 1/2 month developer time)
  * Overhead: 1125 (%15)
+
+Minimum viable budget: $5000
+A lower award would simply limit the amount of time for enhancement work.
  
 ### Approved Budget
  
 $7,500
-
-
-Minimum viable budget: $5000
-A lower award would simply limit the amount of time for enhancement work.
