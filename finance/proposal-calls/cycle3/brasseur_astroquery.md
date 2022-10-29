@@ -30,6 +30,10 @@ Currency: US $7500
 
  * Salary: 6375 (1/24 FTE, 1/2 month developer time)
  * Overhead: 1125 (%15)
+ 
+### Approved Budget
+ 
+$7,500
 
 
 Minimum viable budget: $5000
