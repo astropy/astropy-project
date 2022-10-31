@@ -70,7 +70,7 @@ As always, don't hesitate to reach out if you have questions.
 # Applying for Funding
 
 Although the Cycle 3 proposal process has now been completed, it's still
-possible to apply to the Finance Committee for funding. We welcome requests
+possible to apply to the Finance Committee for funding. We welcome requests at any time
 following the guidelines at [6].
 
 [6] https://github.com/astropy/astropy-project/blob/main/finance/process/request-funding.md
