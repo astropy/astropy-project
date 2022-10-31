@@ -19,3 +19,6 @@ Currency: US $10,500
 Should be awarded using the same mechanism as in previous cycles (subaward).
 
 This requested budget, 1 CM of effort, is the minimum viable.
+
+### Approved Budget
+$14,700.00
