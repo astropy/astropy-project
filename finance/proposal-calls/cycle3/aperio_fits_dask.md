@@ -173,3 +173,6 @@ improved upon and merged into astropy core.
 
 Our minimal budget is the 150h requested for part one, which would mean leaving
 all the Dask work to another proposal.
+
+### Approved Budget
+$22,500.00
