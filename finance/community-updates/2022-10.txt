@@ -33,8 +33,8 @@ and suggestions for how it might be improved in the future.
 
 # Keeping Track of Work in Progress
 
-The Finance Committee uses GitHub issues to keep track of all the various ways
-in which we are allocating funds. If you would like to know where the
+The Finance Committee uses GitHub issues to discuss and track the progress of the various funded
+activities. If you would like to know where the
 Project's funds are being spent, check out the “finance” label in the
 astropy-project issue tracker [2].
 
