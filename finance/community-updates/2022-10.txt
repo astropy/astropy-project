@@ -4,12 +4,12 @@ The Finance Committee would like to give you some updates on our activities
 over the several months.
 
 
-# Cycle III Funding Results
+# Cycle 3 Funding Results
 
 We recently completed the proposal process for allocating the next round of
 funding for projects and other major expenses. This is the first time we have
 been able to allocate money from our NASA ROSES-2020 grant as well as our
-grant from the Moore foundation.
+grant from the Moore Foundation.
 
 A total of 22 proposals were received, of which 20 were allocated funds.
 Although our budget didn't quite stretch to supporting all projects at their
@@ -18,13 +18,13 @@ funding request, and — in many cases — substantially more.
 
 The full list of proposals funded in this process is available at [1]. Each
 proposal has been allocated a dedicated Finance Committee member who will guide
-project team through the process of getting started and claiming funds.
+the project team through the process of getting started and claiming funds.
 
 We're excited to be able to fund so many amazing projects! Thanks to those
 who submitted proposals and to everybody who took part in the discussion and
 voting process, and many congratulations to the successful project teams!
 
-The Finance Committee welcomes feedback on the funding process. Please feel
+Finally, the Finance Committee welcomes feedback on the funding process. Please feel
 free to reach out to us — see the contact details below — with your thoughts
 and suggestions for how it might be improved in the future.
 
@@ -39,7 +39,7 @@ Project's funds are being spent, check out the “finance” label in the
 astropy-project issue tracker [2].
 
 For previous funding rounds, we've used a single issue to keep track of all
-the various projects [3]. During Cycle III, we plan to use a single issue per
+the various projects [3]. During Cycle 3, we plan to use a single issue per
 project; watch out for these appearing over the next few days.
 
 [2] https://github.com/astropy/astropy-project/labels/finance%20%3Amoneybag%3A
@@ -69,7 +69,7 @@ As always, don't hesitate to reach out if you have questions.
 
 # Applying for Funding
 
-Although the Cycle III proposal process has now been completed, it's still
+Although the Cycle 3 proposal process has now been completed, it's still
 possible to apply to the Finance Committee for funding. We welcome requests
 following the guidelines at [6].
 
@@ -81,7 +81,7 @@ following the guidelines at [6].
 You can learn more about the Finance Committee's business and how you can get
 in touch in the astropy-project repository [7]. In particular, you can keep
 track of what we're working on by following our running notes [8], or reach
-out to us on Slack (#finance-committee), by filing a GitHub issue, or by mail
+out to us on Slack (#finance-committee), by filing a GitHub issue, or by e-mail
 to finance@astropy.org. We'd love to hear from you!
 
 [7] https://github.com/astropy/astropy-project/tree/main/finance
