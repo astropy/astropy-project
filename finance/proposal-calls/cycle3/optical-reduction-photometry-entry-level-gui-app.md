@@ -1,6 +1,6 @@
 ### Title
 
-Develop a Jupyter widget-based app for reducing and performing stellar photomtery on optical images
+Develop a Jupyter widget-based app for reducing and performing stellar photometry on optical images
 
 ### Project Team
 
