@@ -28,7 +28,7 @@ The Finance Committee welcomes feedback on the funding process. Please feel
 free to reach out to us — see the contact details below — with your thoughts
 and suggestions for how it might be improved in the future.
 
-[1] https://github.com/astropy/astropy-project/issues?q=label%3A%22funding-approved+💵%22+label%3A%22cycle3%22+
+[1] https://github.com/astropy/astropy-project/pulls?q=label%3A%22funding-approved+💵%22+label%3A%22cycle+3%EF%B8%8F⃣%22+type%3Apr
 
 
 # Keeping Track of Work in Progress
