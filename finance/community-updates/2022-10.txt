@@ -24,8 +24,8 @@ We're excited to be able to fund so many amazing projects! Thanks to those
 who submitted proposals and to everybody who took part in the discussion and
 voting process, and many congratulations to the successful project teams!
 
-Finally, the Finance Committee welcomes feedback on the funding process. Please feel
-free to reach out to us — see the contact details below — with your thoughts
+Finally, the Finance Committee welcomes feedback on the funding process. Please
+feel free to reach out to us — see the contact details below — with your thoughts
 and suggestions for how it might be improved in the future.
 
 [1] https://github.com/astropy/astropy-project/pulls?q=label%3A%22funding-approved+💵%22+label%3A%22cycle+3%EF%B8%8F⃣%22+type%3Apr
@@ -33,10 +33,10 @@ and suggestions for how it might be improved in the future.
 
 # Keeping Track of Work in Progress
 
-The Finance Committee uses GitHub issues to discuss and track the progress of the various funded
-activities. If you would like to know where the
-Project's funds are being spent, check out the “finance” label in the
-astropy-project issue tracker [2].
+The Finance Committee uses GitHub issues to discuss and track the progress of
+the various funded activities. If you would like to know where the Project's
+funds are being spent, check out the “finance” label in the astropy-project
+issue tracker [2].
 
 For previous funding rounds, we've used a single issue to keep track of all
 the various projects [3]. During Cycle 3, we plan to use a single issue per
@@ -51,7 +51,7 @@ project; watch out for these appearing over the next few days.
 Over the spring and summer of this year, NumFOCUS — the organization that
 manages our accounts — switched to using Open Collective [4] for handling
 budgeting and invoicing. This new system is a substantial step forward — it's
-easier to use and more transparent than its predecessor.
+easier to use and more transparent than “Rocket”, its predecessor, was.
 
 All invoices must now be submitted through Open Collective. This process is
 straightforward, but it is important that you know which of our various
@@ -70,8 +70,8 @@ As always, don't hesitate to reach out if you have questions.
 # Applying for Funding
 
 Although the Cycle 3 proposal process has now been completed, it's still
-possible to apply to the Finance Committee for funding. We welcome requests at any time
-following the guidelines at [6].
+possible to apply to the Finance Committee for funding. We welcome requests
+at any time following the guidelines at [6].
 
 [6] https://github.com/astropy/astropy-project/blob/main/finance/process/request-funding.md
 
