@@ -98,3 +98,6 @@ Dan Foreman-Mackey is graciously donating his time and expertise.
 [xarray]: https://docs.xarray.dev/en/stable/index.html
 [JAX]: https://jax.readthedocs.io/en/latest/notebooks/quickstart.html
 [zarr]: https://zarr.readthedocs.io/en/stable/
+
+### Approved Budget
+$8,400
