@@ -49,4 +49,4 @@ that level should allow continuation of maintainer and editorial work in all 3
 formal team positions as well as some contribution to NDData development.
 
 ### Approved Budget
-$42,240
+$42,240 (Moore)
