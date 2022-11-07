@@ -96,3 +96,6 @@ Project participants will ideally work 12h/week on this project in total -
 assuming 48 weeks (to account for holidays!) gives a total of **USD 86,400**
 assuming an hourly rate of USD 150/hour. The minimum useful budget to carry out
 some of the work here would be 6h/week in total, which gives a total of **USD 43,200**.
+
+### Approved Budget
+$86,400
