@@ -18,13 +18,16 @@ Create more learning materials for the Astropy Project.
 ### Approximate Budget
 Currency: US $6600
 
-- Travel: £1500
+- Travel: Â£1500
 
-- Salary: £3400
-- Overhead: £600
+- Salary: Â£3400
+- Overhead: Â£600
 
-- TOTAL £5500
+- TOTAL Â£5500
 
 **Minimum viable budget:** $3000
 
 Less money would simply mean fewer notebook tutorials.
+
+### Approved Budget
+$6,600
