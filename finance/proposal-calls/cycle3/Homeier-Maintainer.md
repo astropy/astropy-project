@@ -47,3 +47,6 @@ and moderation of the Discourse, Slack and Facebook user support groups would be
 largely taken over by the community engagement coordinator position, when filled,
 that level should allow continuation of maintainer and editorial work in all 3
 formal team positions as well as some contribution to NDData development.
+
+### Approved Budget
+$42,240
