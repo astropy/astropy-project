@@ -56,3 +56,6 @@ The minimal budget request is US$11,000. At this level, which would be
 equivalent to about 8 hours of development a month, some lower-priority projects
 could be de-scoped to focus on a single high priority project, such indexing
 third-party sources.
+
+### Approved Budget
+$24,000
