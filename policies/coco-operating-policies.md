@@ -101,7 +101,7 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 - Kelle Cruz - term ends at 2024 election
 - Moritz Gunther - term ends at 2023 election
 - Derek Homeier - term ends at 2025 election
-- Pey Lian Lime - term ends at 2025 election
+- Pey Lian Lim - term ends at 2025 election
 - Erik Tollerud - term ends at 2023 election
 
 ### CoCo3 (Elected Sep 2021)
