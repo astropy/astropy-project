@@ -113,7 +113,7 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 - Erik Tollerud - Two year term
 
 ### CoCo2 (appointed upon Perry’s voluntary departure)
-#### 2013? – 2021
+#### 2016 – 2021
 
 - Tom Aldcroft
 - Kelle Cruz
@@ -121,8 +121,7 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 - Erik Tollerud
 
 ### CoCo1 (elected as a single slate)
-#### 2008? - 2013?
+#### 2011 - 2016
 - Perry Greenfield
 - Tom Robitaille
 - Erik Tollerud
-
