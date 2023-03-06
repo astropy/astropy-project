@@ -1,7 +1,5 @@
 name: Add maintainer checklist
 description: Reminder to check list of steps when modifying team
-title: ""
-labels: ""
 body:
   - type: markdown
     attributes:
