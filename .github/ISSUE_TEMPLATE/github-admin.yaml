@@ -1,6 +1,5 @@
 name: Astropy Github Organisation Administration
 description: Request that an Astropy GitHub org admin performs some action.
-title: ""
 labels: "github-admin"
 body:
   - type: textarea
