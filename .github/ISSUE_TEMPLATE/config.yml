@@ -1,1 +1,5 @@
 blank_issues_enabled: true
+contact_links:
+  - name: Question/Help/Support
+    url: https://www.astropy.org/help.html
+    about: "Other ways to contact Astropy Project"

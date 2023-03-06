@@ -1,0 +1,10 @@
+name: Astropy Github Organisation Administration
+description: Request that an Astropy GitHub org admin performs some action.
+title: ""
+labels: "github-admin"
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: >-
+        A clear and concise description of what you are requesting from Astropy GitHub org admin.

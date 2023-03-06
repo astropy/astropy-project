@@ -1,0 +1,42 @@
+name: Request funding (contract)
+description: Submit a public request for contract funding from Astropy
+title: "Request for Contract"
+labels: "finance :moneybag:,funding :pray:"
+body:
+  - type: markdown
+    attributes:
+      value: >-
+        Thanks for taking the time to fill out this contract request!
+        Please read [Guidelines for Requesting Funding](https://github.com/astropy/astropy-project/blob/main/finance/process/request-funding.md)
+        carefully before submitting this request.
+        This is a public repository, please scrub out sensitive information.
+  - type: textarea
+    attributes:
+      label: Full name
+      description: Name of contractor
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Email
+      description: Contact email of contractor
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: SOW
+      description: Statement of Work (SOW)
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Hourly rate
+      description: Proposed hourly rate and currency
+    validations:
+      required: true
+  - type: textarea
+    attributes:
+      label: Total work hours
+      description: Total number of hours needed to complete SOW
+    validations:
+      required: true
