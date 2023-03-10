@@ -67,7 +67,7 @@ Meta issues in this repository associated with Roadmap items can be found [here]
 
 - :large_orange_diamond: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors.
 
-- :large_orange_diamond: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFocus communities, and improved our understanding the demographics of our communities in order to measure the effectiveness of these efforts.
+- :large_orange_diamond: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improved our understanding the demographics of our communities in order to measure the effectiveness of these efforts.
 
 - :large_orange_diamond: Better understand Astropy user community through a NumPy-like user survey (see [this summary](https://numpy.org/user-survey-2020-details/) of their results).
 
@@ -86,7 +86,3 @@ Meta issues in this repository associated with Roadmap items can be found [here]
 - :red_square: Define and document the process for categorization of core, coordinated, and affiliated packages.
 
 - :red_square: Improve the process for recruiting and onboarding maintainers, paying particular attention to packages that are lacking maintainers.
-
-  
-
-
