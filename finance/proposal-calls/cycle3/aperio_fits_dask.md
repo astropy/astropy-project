@@ -175,4 +175,5 @@ Our minimal budget is the 150h requested for part one, which would mean leaving
 all the Dask work to another proposal.
 
 ### Approved Budget
-$22,500.00
+Initially $22,500.00, with a further $15,000.00 to be released on sucessful
+completion of part 1.
