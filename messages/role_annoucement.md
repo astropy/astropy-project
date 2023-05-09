@@ -1,6 +1,6 @@
 Text for announcement to astropy-dev mailing list
 
-The Coco proposes to [select as appropriate]
+The CoCo proposes to [select as appropriate]
 - add/remove the following roles to the list of roles on the Astropy project:
 - add/remove the following people for role XXX in the Astropy project:
 
