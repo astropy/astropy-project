@@ -80,6 +80,6 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 - :green_circle: Adopt the NumFOCUS Code of Conduct (CoC) and build a community ombuds/CoC team to curate the guidelines and enforce them.
 
-- :large_orange_diamond: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external personnel.
+- :large_orange_diamond: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external help.
 
 - :red_square: Document the process for taking on a formal role in the Astropy project and recruit for unfilled maintainer positions.
