@@ -36,7 +36,7 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 - :large_orange_diamond: Provide next-generation spectroscopic reduction, analysis, and visualization tools usable by individual researchers and larger surveys.
 
-- :large_orange_diamond: Improve support and validation for input/output of standard file formats used in Astronomy by improving the unified i/o system.
+- :large_orange_diamond: Improve support and validation for input/output of standard file formats used in Astronomy by improving the unified I/O system.
 
 - :large_orange_diamond: Improve interoperability and compatibility, while reducing duplication, amongst Astropy-affiliated packages and other community standard software.
 
