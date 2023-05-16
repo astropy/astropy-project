@@ -8,7 +8,7 @@ This document is in reverse chronological order.
 
 ### Functionality
 
-- Compression support for FITS and HDF5
+- Compression support for FITS and HDF5.
 
 ### Learn and User Support
 
