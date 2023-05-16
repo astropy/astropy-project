@@ -15,7 +15,6 @@
 
 This Roadmap captures high level actionable items that we as a project aim to undertake to improve the health and stability of the Astropy project. The Roadmap itself is a static document, however it will be revisited regularly at the Astropy coordination meetings, to keep track of progress and write new versions as needed.
 
-
 ## Status Legend
 
 ### Green :green_circle:
