@@ -50,7 +50,7 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 - :green_circle: Generate and ingest guides and/or a series of tutorials that demonstrate Astropy Project functionality in the context of astronomical research.
 
--  :large_orange_diamond:Update Astropy website: rework the Team page, and improve the visibility of Astropy Learn
+-  :large_orange_diamond: Update Astropy website: Rework the Team page and improve the visibility of Astropy Learn.
 
 - :large_orange_diamond: Expand and build on workshop offerings by recruiting and training more facilitators and expanding the geographic diversity of meetings where we offer workshops. 
 
