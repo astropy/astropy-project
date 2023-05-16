@@ -56,7 +56,7 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 - :large_orange_diamond: Expand the number and diversity of active user support resources.
 
-- :red_square: Deveop tutorials that demonstrate the use of Astropy for spectroscopy tasks.
+- :red_square: Develop tutorials that demonstrate the use of Astropy for spectroscopy tasks.
 
 - :red_square: Develop/harvest tutorials suitable for use in university astronomy courses. 
 
