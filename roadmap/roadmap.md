@@ -66,7 +66,7 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 - :large_orange_diamond: Better understand Astropy user community through a NumPy-like user survey (see [this summary](https://numpy.org/user-survey-2020-details/) of their results).
 
-- :red_square: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improved our understanding the demographics of our communities in order to measure the effectiveness of these efforts.
+- :red_square: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improve our understanding of the demographics of our communities in order to measure the effectiveness of these efforts.
 
 ## Infrastructure, Documentation
 
