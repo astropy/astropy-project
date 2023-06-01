@@ -4,6 +4,18 @@ This document is a list of former Astropy Roadmap items that have been removed b
 They are listed by the date of the revision they were first removed from.
 This document is in reverse chronological order.
 
+## May 2023
+
+### Functionality
+
+- Compression support for FITS and HDF5.
+
+### Learn and User Support
+
+- Improve discoverability of documentation and educational materials by overhauling the Learn website, including implementing an integrated search functionality and building an example gallery.
+
+- Establish a user-focused forum on Discourse.
+
 ## April 2022
 
 ### Functionality
