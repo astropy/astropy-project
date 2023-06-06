@@ -12,4 +12,4 @@ Name
 
 [1] https://github.com/astropy/astropy-APEs/blob/main/APE0.rst
 [2] LINK TO PR HERE
-[3] Technically, APE0 only requires the two-week long comment period for additions, but following the same spirit, the Coco also invites comments for removal unless the person in a role explicitly requested to be removed or did not respond to consecutive role surveys.
+[3] Technically, APE0 only requires the two-week long comment period for additions, but following the same spirit, the CoCo also invites comments for removal unless the person in a role explicitly requested to be removed or did not respond to consecutive role surveys.
