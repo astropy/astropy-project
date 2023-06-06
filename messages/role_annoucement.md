@@ -8,7 +8,7 @@ See https://www.astropy.org/team for a list of current roles. Following APE 0 [1
 
 Sincerely,
 Name
-(for the Coco)
+(for the CoCo)
 
 [1] https://github.com/astropy/astropy-APEs/blob/main/APE0.rst
 [2] LINK TO PR HERE
