@@ -26,7 +26,7 @@ Nevertheless, there are a number of other Astropy objects that can benefit from 
 
 - the remaining coordinate frames
   - frames derived from BaseEclipticFrame
-- remaining BaseRADecFrames (LSR, LSRD, LSRK, TETE, TEME)
+  - remaining BaseRADecFrames (LSR, LSRD, LSRK, TETE, TEME)
 - the PSF models in photutils
 
 The work includes writing schemas and converters for these data types, writing tests and documentation.
