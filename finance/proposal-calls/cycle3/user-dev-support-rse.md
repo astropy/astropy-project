@@ -4,40 +4,45 @@ Research Software Engineer: User and Developer Support
 
 ### Project Team
 
-- Adrian Price-Whelan
-- TBD (please add your name if you would be interested in helping manage or coordinate
-  this role!)
+- Moritz Guenther
+- Adrian Price-Whelan (original plan)
+
 
 ### Project Description
 
-A research software engineer (RSE) position with an equivalent ~50% FTE appointment to
+A research software engineer (RSE) position  \to
 tackle both user-facing and developer-facing support issues, as identified and
 prioritized by the Astropy community and infrastructure teams. The RSE would have a
 "manager" who is an existing Astropy contributor with existing knowledge of the Astropy
 core package, ecosystem, infrastructure packages, and community. The RSE is expected to
 eventually work independently, but with feedback from the Manager and Astropy community.
+We envision about an equivalent ~50% FTE appointment, but that can be scaled up or down
+based on the available budget.
 
 ### Project / Work
+
+The Astropy Project is seeking to hire a full-time or part-time research software engineer to develop and implement new features that the community has identified as high priorities in the roadmap but that the volunteer contributors do not have the capacity to deliver, as well as address smaller, but long-standing bugs and issues in the astropy core package and the coordinated packages.
 
 The broad scope of work for the RSE includes any efforts to support both Astropy users
 and contributors, including, for a few general examples, update the Astropy core
 documentation theme, automate release procedures for infrastructure packages, or
 implement more specific projects related to Astropy core subpackages (some examples
-given below).
+given below). In particular, the RSE shall tackle a number of long-standing issues and
+bugs as listed in the issue trackers for the core package and the coordinated packages;
+more bugs and issues are available than can be addressed by this position, so the
+choice of which ones to address will be guided by community input, and the experience
+and expertise of the RSE, under the manager's supervision. To reduce the burden on volunteer
+maintainers, the funded manager will perform a first review where appropriate, to keep the
+effort needed for the sub-package maintainers to a minimum.
 
 The RSE position is distinct from the Software Operational Support Specialist (SOSS)
 position in that the RSE is expected to take on and complete discrete *projects*, rather
 than provide continuous support (e.g., monitoring issues, helping new contributors,
 etc., as was included in the SOSS scope of work).
 
-The exact projects that the RSE tackles and detailed implementation plans should be
-discussed, prioritized, and fleshed out by the Astropy community and RSE together if
-this funding request is accepted. A few possible projects are included below as
-examples, some drawn from the [Astropy
-Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md), but
-these should not be considered as the exact plan of work for the RSE — the RSE will work
-independently, so some aspects of project priority will stem from their expertise and
-interest.
+On the other hand, the RSE shall work on the items listed on [Astropy
+Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md), that the
+community has already prioritized, but not yet found the resources to implement.
 
 Example projects:
 * *Restructure the Astropy developer documentation*: The current developer documentation
@@ -49,13 +54,6 @@ Example projects:
   documentation they need to make a contribution. Relevant issues:
   [#11620](https://github.com/astropy/astropy/issues/11620),
   [#11621](https://github.com/astropy/astropy/issues/11621)
-* *Explore switching the Astropy documentation theme to the Pydata theme*: Many other
-  software packages that work with NumFOCUS have switched to using the [Pydata sphinx
-  theme](https://pydata-sphinx-theme.readthedocs.io/en/stable/). This project would pick
-  up where Madison Bray left off in exploring whether it makes sense to switch the
-  Astropy documentation to this theme as well, as a way of reducing custom
-  infrastructure and sharing infrastructure with other projects. Relevant issues:
-  [#11520](https://github.com/astropy/astropy/issues/11520)
 * *Implement robust benchmark reporting for pull requests* ([drawn from the Astropy
 Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md)): This
   project would enable a way of evaluating the performance impact of pull requests by
@@ -84,4 +82,5 @@ Budget breakdown (nominal):
 
 **Position**: Manager of Research Software Engineer
 
-Unfunded, but could be a funded position.
+- Moritz Guenther, funded by sub-award to MIT
+- $23,155.29 for 0.1 FTE (1 day/week for 0.5 years)
