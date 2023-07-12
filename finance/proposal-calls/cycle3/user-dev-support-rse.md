@@ -10,7 +10,7 @@ Research Software Engineer: User and Developer Support
 
 ### Project Description
 
-A research software engineer (RSE) position  \to
+A research software engineer (RSE) position to
 tackle both user-facing and developer-facing support issues, as identified and
 prioritized by the Astropy community and infrastructure teams. The RSE would have a
 "manager" who is an existing Astropy contributor with existing knowledge of the Astropy
@@ -24,8 +24,7 @@ based on the available budget.
 The Astropy Project is seeking to hire a full-time or part-time research software engineer to develop and implement new features that the community has identified as high priorities in the roadmap but that the volunteer contributors do not have the capacity to deliver, as well as address smaller, but long-standing bugs and issues in the astropy core package and the coordinated packages.
 
 The broad scope of work for the RSE includes any efforts to support both Astropy users
-and contributors, including, for a few general examples, update the Astropy core
-documentation theme, automate release procedures for infrastructure packages, or
+and contributors,
 implement more specific projects related to Astropy core subpackages (some examples
 given below). In particular, the RSE shall tackle a number of long-standing issues and
 bugs as listed in the issue trackers for the core package and the coordinated packages;
