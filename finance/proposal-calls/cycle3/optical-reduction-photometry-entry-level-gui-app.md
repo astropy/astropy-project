@@ -43,3 +43,7 @@ This is a really rough ballbark estimate, all salary/contractor.
 ### Approved budget
 
 $32,000.
+
+### Extended budget
+
+The Finance Committee approved an extension of $26,025 to a total budget of $58,025.
