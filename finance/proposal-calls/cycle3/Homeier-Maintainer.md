@@ -50,3 +50,7 @@ formal team positions as well as some contribution to NDData development.
 
 ### Approved Budget
 $42,240 (Moore)
+
+### Extesion
+
+The Finance Committee agreed to increase the approved bydget by $14,400 to a total of $56,640.
