@@ -67,19 +67,16 @@ Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md
 
 
 ### Approximate Budget
-- Currency: US $84,000
-- Minimum to be viable: US $64,000 (approx. $60/hour)
-- Maximum: Up to a full time appointment (approx. $160,000)
+- Currency: US $98,155.29
 
 **Position**: Research Software Engineer
 
 Budget breakdown (nominal):
-- Travel: $8000
-- Conference Registrations: $1000
-- Salary / contractor fees etc.: $75000 (approx. $80/hour)
-- TOTAL = $84000
+
+- Contractor fees: $75000 (approx. $80/hour)
+- TOTAL = $75000
 
 **Position**: Manager of Research Software Engineer
 
 - Moritz Guenther, funded by sub-award to MIT
-- $23,155.29 for 0.1 FTE (1 day/week for 0.5 years)
+- $23,155.29 for 0.1 FTE (This time is distributed over the same time that the RSE is active. If the RSE contracts runs for, e.g. 6 months, 0.1 FTE is equivalent to 1 day/week for 0.5 year.)
