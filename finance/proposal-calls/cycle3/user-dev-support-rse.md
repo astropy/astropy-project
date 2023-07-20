@@ -21,7 +21,7 @@ based on the available budget.
 
 ### Project / Work
 
-The Astropy Project is seeking to hire a full-time or part-time research software engineer to develop and implement new features that the community has identified as high priorities in the roadmap but that the volunteer contributors do not have the capacity to deliver, as well as address smaller, but long-standing bugs and issues in the astropy core package and the coordinated packages.
+The Astropy Project is seeking to hire a full-time or part-time research software engineer on a fixed-time contract to develop and implement new features that the community has identified as high priorities in the roadmap but that the volunteer contributors do not have the capacity to deliver, as well as address smaller, but long-standing bugs and issues in the astropy core package and the coordinated packages.
 
 The broad scope of work for the RSE includes any efforts to support both Astropy users
 and contributors,
