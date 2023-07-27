@@ -65,7 +65,7 @@ Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md
   [#11620](https://github.com/astropy/astropy/issues/11620),
   [#11621](https://github.com/astropy/astropy/issues/11621)
 
-#### Mananger
+#### Manager
 Together with the RSE role, there will be a funded manager position filled by an experienced member of the astropy project with commit permissions in the main repository. The manager will be responsible for the following tasks:
 
 - Onboarding the RSE to the project and the community.
