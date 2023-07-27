@@ -55,7 +55,7 @@ Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md
   Ensure that coordinated and infrastructure packages have integration tests that check
   the joint usage of Astropy and these other packages together, rather than individually
   (as is often the case now).
-  * *Restructure the Astropy developer documentation*: The current developer documentation
+* *Restructure the Astropy developer documentation*: The current developer documentation
   pages have a wealth of content aimed at both new contributors and expert technical
   engineers, but it is mixed and hard for contributors with different skill levels to
   easily find the content most appropriate for them. The goal of this project is to
