@@ -17,16 +17,12 @@ a duty primarily performed at the moment by the Coordination Committee.
 Temporary permissions should instead use the "collaborator" feature on Github to
 make it clear that these permissions are temporary in nature.
 
-Regardless of access level, even if it is temporary,
-[GitHub two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
-must be enabled for the affect user accounts.
-
 Additionally, the granter of permissions (usually the Coordination Committee)
 should send a message to the new recipient of write permissions listing the
 responsibilities and expectations that go with this - a template for this email
 is available [in this repo](../messages/maintainer_access.md). That message may
 contain a prompt for a response, which should be cc-ed/forwarded to
-coordinators@astropy.org .
+`coordinators[at]astropy.org`.
 
 ## Access levels
 
@@ -40,6 +36,9 @@ repository via the **Astropy Core Maintainers** GitHub team.
 Coordinated package maintainers receive **admin access** to the coordinated
 package repositories via the **<package name> maintainers** GitHub team (e.g.,
 'astroquery maintainers').
+
+Lower priviledge access (e.g., write, triage) could be assigned to additional
+contributors as separate teams (e.g., 'Astroquery Triage').
 
 ### Core package release coordinators
 
@@ -74,7 +73,10 @@ which might not cover all cases, other ways include:
 
 ### Automated access
 
-(TODO: Fill in info from the automated invite bot that Matt Craig deployed.)
+We have an automated workflow to
+[invite organization members based on merged PRs](https://github.com/astropy/astropy-tools/actions/workflows/update_org_members.yml).
+However, we are open to suggestions on how to improve it
+over at [astropy-tools GitHub Issue 178](https://github.com/astropy/astropy-tools/issues/178).
 
 ### Manual request
 
