@@ -61,10 +61,11 @@ credentials (or the shared password manager to access the credentials).
 As with GitHub access above, members may opt out but the majority and training
 rules also apply here.
 
-Regardless of access level, the members are always bound by
+In general, the use of owner access requires permission of the rest of the Coordination
+Committee. Furthermore, regardless of access level, the members are always bound by
 [APE 0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).
-For example, a Coordination Committee member cannot delete or transfer
-a repository without first obtaining concensus from the community.
+For example, the Coordination Committee, let alone just one of its members, cannot
+delete or transfer a repository without first obtaining consensus from the community.
 
 ## Other ways to gain access
 
