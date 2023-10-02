@@ -46,4 +46,4 @@ $32,000.
 
 ### Extended budget
 
-The Finance Committee approved an extension of $26,025 to a total budget of $58,025.
+The Finance Committee approved an extension, resulting in a total budget of $58,723.
