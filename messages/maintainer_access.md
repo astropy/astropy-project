@@ -10,6 +10,7 @@ If you would like to accept this nomination, we ask that you familiarize yoursel
 * [Basic development workflow](https://docs.astropy.org/en/latest/development/workflow/development_workflow.html)
 * [Guidelines on when to squash or rebase](https://docs.astropy.org/en/latest/development/when_to_rebase.html)
 * [Astropy Project Code of Conduct](https://www.astropy.org/code_of_conduct.html)
+* [GitHub two-factor authentication](https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/about-two-factor-authentication)
 
 If you accept, please respond indicating that you've reviewed the developer documentation and that you have read and agree to abide by the Code of Conduct. After we receive that email from you, we will make an announcement and there will be a two week period of comment. After that period is over, your name will be added to the team webpage and you will be given the appropriate Github permissions.
 
