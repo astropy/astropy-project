@@ -1,9 +1,9 @@
-# Cycle III funding requests and ideas
+# Cycle 4 funding requests and ideas
 
 
 # Changes relative to the previous cycle
 
-This cycle includes funding from both NASA ROSES and Moore Foundation. Process-wise, most of the below is similar to the Cycle II (at the time called “Phase II”), with some additional context and minor practical changes based on how Phase II progressed. The main difference in this cycle is the “hiring process” mentioned below. Specifically, in this cycle **_you can now request funding for a project that you do not necessarily wish to execute yourself, but that you would like Astropy to find someone to do the work._** We hope this will serve both expand our community and get desired work done that our current community does not have the capacity to execute.  
+TBD ...
 
 
 # Funding goals
@@ -43,11 +43,11 @@ We envision a two stage FR process to enable the community to discuss and improv
 
 
 
-* July 8: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
+* DATE1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Six week iteration and discussion period during which draft FRs can be fleshed out and modified
-* Aug 19: Finalized FRs are due
+* DATE1+6wk: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
-* Aug 29: voting begins.
+* DATE1+7wk+a few days: voting begins.
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate.
 
@@ -57,6 +57,15 @@ After that, voting members of the Astropy Project (as of the start of the vote) 
 
 The Coordination and Finance Committees will select FRs following the ranking by the members, taking into account the discussion, available effort level to implement, and any restrictions associated with the available funds.
 
+# Post-request process
+
+Once selection is completed, an FR that is *not* selected does not continue further, although it can always be re-proposed.  It is also possible that if more funds become available before the next cycle, a proposal may be accepted later but with a revised timieline.
+
+If an FR *is* selected, 🎉! Now the work begins. 
+
+Once a proposal is accepted, the finance committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc.  At the same time, the Coordination Committee will assign a COTR for that FR.  
+
+DESCRIPTION OF PROCESS FROM CYCLE 3, BUT WITH THE COTR RESPONSIBILITIES ADDED
 
 # Fostering constructive discussion
 
