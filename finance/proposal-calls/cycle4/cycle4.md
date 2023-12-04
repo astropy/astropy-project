@@ -17,7 +17,7 @@ FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (U
 
 # Funding amount
 
-We anticipate a maximum of **$400k** (US) to be available for this funding cycle. This is significantly larger than previous cycles. This means that approved funding requests in this cycle may be limited more by the available time of current community members rather than by the amount of funding available.  We therefore urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process that is new in this cycle (outlined below).
+We anticipate a maximum of **TBD** (US) to be available for this funding cycle. This is significantly larger than previous cycles. This means that approved funding requests in this cycle may be limited more by the available time of current community members rather than by the amount of funding available.  We therefore urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process that is new in this cycle (outlined below).
 
 
 # What can the funding be used for?
@@ -25,8 +25,6 @@ We anticipate a maximum of **$400k** (US) to be available for this funding cycle
 Money can be used for travel, subscriptions, etc, in addition to direct financial support to  individuals.
 
 The funds come from two grants: a [Moore Foundation Data-Driven Discovery Grant](https://www.moore.org/grant-detail?grantId=GBMF8435) and a NASA ROSES grant.
-
-
 
 * Both grants include funds for basic maintenance and development on all aspects of the Project. 
 * The Moore grant has a focus on mentoring and spectroscopy, 
@@ -67,6 +65,11 @@ Once a proposal is accepted, the finance committee will assign a committee membe
 
 DESCRIPTION OF PROCESS FROM CYCLE 3, BUT WITH THE COTR RESPONSIBILITIES ADDED
 
+Given the added administrative complexity of sub-awards, FRs for subawards are best done with periods of performance longer than a year if possible.
+
+Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
+
+
 # Fostering constructive discussion
 
 We want to stay true to the "radical transparency" ethos of the Project and thus we are asking the community to comment on these funding requests publicly. At the same time, we want to ensure that the conversations stay as constructive as possible to foster the Astropy Project’s commitment to maintaining a positive and welcoming culture. Thus, here we provide some example language that might help commenters stay constructive with their comments.
@@ -91,9 +94,11 @@ If you are worried about your comments being perceived as inappropriate, you are
 
 New in Cycle III, FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
 
-We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. To further help with recruitment, we may partner with [Quansight](https://www.quansight.com/open-source-support), a consulting firm with expertise in the open source scientific python ecosystem. The exact details and scope of this depend on how many proposals in this Cycle are open hire requests.
+We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. To further help with recruitment, we may partner with a consulting firm with expertise in the open source scientific python ecosystem. The exact details and scope of this depend on how many proposals in this Cycle are open hire requests.
 
 
 # Template and examples
+
+TEMPLATE NEEDS UPDATING FOR POP AND ANYTHING COTR-RELATED
 
 The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due July 8) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 19). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
