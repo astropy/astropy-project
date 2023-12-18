@@ -4,6 +4,9 @@
 # Changes relative to the previous cycle
 
 TBD ...
+* COTR exist, are needed for each FR
+* Only one funding source
+* PoP should be specified, can be longer (should be for subcontracts)
 
 
 # Funding goals
@@ -17,29 +20,36 @@ FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (U
 
 # Funding amount
 
-We anticipate a maximum of **TBD** (US) to be available for this funding cycle. This is significantly larger than previous cycles. This means that approved funding requests in this cycle may be limited more by the available time of current community members rather than by the amount of funding available.  We therefore urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process that is new in this cycle (outlined below).
+We anticipate a maximum of **TBD** (US) to be available for this funding cycle.  We urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process (outlined below).
+
+# Period of Performance
+
+Each FR should specify how long the project will last (the "Period of Performance"). A project can be anywhere from 1-3 years. For ongoing projects longer periods of performance are better, as that lowers the administrative overhead of the project. In particular, FRs for subawards are best done with longer periods of performance e.g. 3 years.
+
+Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
 
 
 # What can the funding be used for?
 
 Money can be used for travel, subscriptions, etc, in addition to direct financial support to  individuals.
 
-The funds come from two grants: a [Moore Foundation Data-Driven Discovery Grant](https://www.moore.org/grant-detail?grantId=GBMF8435) and a NASA ROSES grant.
+The funds currently come from a NASA ROSES grant. It includes the following general areas:
 
-* Both grants include funds for basic maintenance and development on all aspects of the Project. 
-* The Moore grant has a focus on mentoring and spectroscopy, 
-* The NASA grant has a focus on support for project-wide infrastructure, affiliated packages, and Learn.
+* Basic maintenance and development on all aspects of the Project 
+* Project-wide infrastructure
+* Affiliated packages
+* Astropy Learn and Community Engagement
 
 The Finance Committee assumes responsibility for ensuring that all awards made are consistent with any applicable funding agency rules.
 
 
 # Funding Request process
 
-Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Phase 3 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. Please place the file with your FR at https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3 (the same location as the template).
+Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 4 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. Please place the file with your FR at https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4 (the same location as the template).
 
 We envision a two stage FR process to enable the community to discuss and improve ideas, teams with similar ideas to merge, etc.
 
-
+TBD: THE DATES NEED UPDATING FOR CYCLE 4
 
 * DATE1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Six week iteration and discussion period during which draft FRs can be fleshed out and modified
@@ -64,8 +74,6 @@ If an FR *is* selected, 🎉! Now the work begins.
 Once a proposal is accepted, the finance committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc.  At the same time, the Coordination Committee will assign a COTR for that FR.  
 
 DESCRIPTION OF PROCESS FROM CYCLE 3, BUT WITH THE COTR RESPONSIBILITIES ADDED
-
-Given the added administrative complexity of sub-awards, FRs for subawards are best done with periods of performance longer than a year if possible.
 
 Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
 
