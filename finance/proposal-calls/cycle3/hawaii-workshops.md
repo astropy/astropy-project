@@ -2,7 +2,7 @@
 
 ### Project Team
 
-The project team will be Pey Lian Lim (@pllim), Matt Craig (@mwcraig), Eric Jeschke (@ejeschke), and Wilfred Gee (@wtgee)
+The project team will be Pey Lian Lim (@pllim, STScI), Matt Craig (@mwcraig, MSUM), Eric Jeschke (@ejeschke, Subaru), and Jennie Berghuis (@jplolo, Gemini North)
 
 ### Project Description
 
@@ -11,11 +11,10 @@ We propose to hold a series of one-day Astropy workshops/open consultation with 
 The goal of the workshops is threefold:
 
 + Increase the adoption of astropy (both core astropy and affiliated packages) in the workflow of the Hawaiian observatories.
-+ Encourage participation of observatory scientists and developers in the development of astropy and affiliated packages. 
++ Encourage participation of observatory scientists and developers in the development of astropy and affiliated packages.
 + Identify priority areas for Astropy development to facilitate adoption of Astropy packages.
 
 ### Project / Work
-
 
 #### Pre-workshop planning
 
@@ -25,21 +24,30 @@ If this proposal is given a tentative go-ahead we will survey Subaru, Gemini, Ke
 + workflows they are currently using other software for that they would like to replace or supplement with Astropy packages,
 + areas where they would use Astropy packages if further development were done to meet their needs.
 
-That survey will be completed by mid-September 2023 or within 4 weeks of initial approval, whichever comes first. Dates will be set and the agenda formalized by mid-October 2023.
+#### Pre-workshop inquiry results
 
-#### Proposed workshops 
+The following observatories were invited to participate. The response from each, if any, is also below. All counts are approximate.
 
-We propose to deliver a series of one-day workshops during one week in February 2024 at four of the major Hawaiian observatories.
++ *Subaru*: 10 people interested
++ *Keck*: 15 people
++ *CFHT*: A handful will attend an event held at Keck headquarters.
++ *Gemini*: 3-4 software engineers, happy to come to another observatory if too small for their own
++ *SMA*: A small number of engineers would participate, willing come to another observatory.
 
-The rough outline of each day will be
+#### Proposed workshops
+
+We propose to deliver two large workshops, one in Hilo at Subaru and one in Waimea at Keck, with a less formal training session and opportunities for one-on-one help the next day at each observatory.
+
+The rough outline of each workshop day will be
 
 + Brief overview of astropy and affiliated packages (30 minutes)
 + More detailed presentation on those areas that the observatories have indicated are of greatest interest to them (2 hours)
 + Lunch (1 hour)
-+ Office hours/"code along" help with astronomers and developers to facilitate moving towards an Astropy-based workflow (3 hours)
++ Deeper dive into additional topics identified in the morning session (1 hour)
++ Office hours/"code along" help with astronomers and developers to facilitate moving towards an Astropy-based workflow (2 hours)
 
 ### Approximate Budget
-Currency: US $
+Currency: US $9,654
 The approximate budget should be specified in USD. However, we are open to spending funds worldwide. Budgets should be converted to USD using a plausible exchange rate.
 
 Include overheads, fringe, etc. if money is paid as sub-grant (note that the Moore grant caps overhead at 15%).
@@ -53,6 +61,9 @@ Include overheads, fringe, etc. if money is paid as sub-grant (note that the Moo
 
 - TOTAL: $9,654
 
-Please note that we would happily accept budget items other than travel, conference registration, and staff.
+Notes:
 
-[1] The GSA does not provide a per diem rate for Hawaii. It recommends using the [Department of Defense rate](https://www.defensetravel.dod.mil/pdcgi/pd-rates/opdrates5ap.cgi?country=HAWAII&date=07-01-23&military=NO&submit2=CALCULATE).
+- The airfare, car rental, and hotel may a bit less than what is listed above depending on the travel dates.
+- Hosting observatories have agreed to provide space for workshops and lunch for presenters.
+
+[1] The GSA does not provide a per diem rate for Hawaii. It recommends using the [Department of Defense rate](https://www.defensetravel.dod.mil/pdcgi/pd-rates/opdrates5ap.cgi?country=HAWAII&date=01-01-24&military=NO&submit2=CALCULATE).
