@@ -100,7 +100,7 @@ If you are worried about your comments being perceived as inappropriate, you are
 
 # Open hire process
 
-New in Cycle III, FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
+FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
 
 We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. To further help with recruitment, we may partner with a consulting firm with expertise in the open source scientific python ecosystem. The exact details and scope of this depend on how many proposals in this Cycle are open hire requests.
 
