@@ -4,9 +4,10 @@
 # Changes relative to the previous cycle
 
 TBD ...
-* COTR exist, are needed for each FR
-* Only one funding source
-* PoP should be specified, can be longer (should be for subcontracts)
+* COTR wording needs proofreading
+* Dates need updating
+* Budget amount
+* Template needs updating
 
 
 # Funding goals
@@ -71,11 +72,29 @@ Once selection is completed, an FR that is *not* selected does not continue furt
 
 If an FR *is* selected, 🎉! Now the work begins. 
 
-Once a proposal is accepted, the finance committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc.  At the same time, the Coordination Committee will assign a COTR for that FR.  
+Once a proposal is accepted, the finance committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc.  At the same time, the Coordination Committee will assign a COTR (see below) for that FR.
 
-DESCRIPTION OF PROCESS FROM CYCLE 3, BUT WITH THE COTR RESPONSIBILITIES ADDED
+The following general steps follow whan an FR is selected:
+
+1. The FR is assigned a final budget and funding source, and the PR is merged.
+2. A new tracking issue is created for the FR (by the finance committee member contact), which includes identifying the COTR.
+3. Work updates are given in the tracking issue, although out-of-band clarifications/conversations with the finance committee contact or COTR are welcome. It is the responsibility of the COTR to ensure these updates happen (although they don't necessarily need to be done by the COTR themselves).
+4. As work is completed, the funded personnel or their institutional representative submit invoices via OpenCollective (exact details of this will be clarified for each issue as details vary from person-to-institution).
+5. The issue is closed when the FR's work is completed, the budget is exhausted, or the period of performance expires.
 
 Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
+
+# COTRs
+
+New this Cycle, all proposals will be assined a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
+
+COTR's key responsibilities include:
+
+* Technical expertise: They are experts in the contract's specific area, evaluating the contractor's performance with their technical knowledge.
+* Contract compliance: COTRs monitor and ensure the contractor follows contract terms, reviewing deliverables to meet expected Astropy community standards.
+* Performance evaluation: COTRs assess contractor performance, verifying the work meets contract expectations.
+* Issue resolution: COTRs play a role in resolving issues or disputes, collaborating with the finance committee, the Coordination Committee, and the broader Astropy Project.
+* Communication and reporting: Acting as a liaison, COTRs ensure transparent communication, and reporting progress and issues (see above).
 
 
 # Fostering constructive discussion
