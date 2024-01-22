@@ -127,6 +127,4 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-TEMPLATE NEEDS UPDATING FOR POP AND ANYTHING COTR-RELATED
-
 The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due July 8) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 19). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
