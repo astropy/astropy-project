@@ -3,11 +3,12 @@
 
 # Changes relative to the previous cycle
 
+The primary changes for this Cycle relative to Cycle 3 are a single funding source (NASA), and the addition of the COTR role (see below).
+
 TBD ...
 * COTR wording needs proofreading
 * Dates need updating
 * Budget amount
-* Template needs updating
 
 
 # Funding goals
@@ -77,7 +78,7 @@ Once a proposal is accepted, the finance committee will assign a committee membe
 The following general steps follow whan an FR is selected:
 
 1. The FR is assigned a final budget and funding source, and the PR is merged.
-2. A new tracking issue is created for the FR (by the finance committee member contact), which includes identifying the COTR.
+2. A new tracking issue is created for the FR (by the finance committee member contact), which includes the budget, PoP, and identifies the assigned COTR.
 3. Work updates are given in the tracking issue, although out-of-band clarifications/conversations with the finance committee contact or COTR are welcome. It is the responsibility of the COTR to ensure these updates happen (although they don't necessarily need to be done by the COTR themselves).
 4. As work is completed, the funded personnel or their institutional representative submit invoices via OpenCollective (exact details of this will be clarified for each issue as details vary from person-to-institution).
 5. The issue is closed when the FR's work is completed, the budget is exhausted, or the period of performance expires.
