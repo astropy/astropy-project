@@ -87,11 +87,11 @@ Note that if your proposal has a longer Period of Performance than one year, fun
 
 # COTRs
 
-New this Cycle, all proposals will be assined a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
+New this Cycle, all proposals will be assigned a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
 
 COTR's key responsibilities include:
 
-* Technical expertise: They are experts in the contract's specific area, evaluating the contractor's performance with their technical knowledge.
+* Technical expertise: COTRs are experts in the contract's specific area, evaluating the contractor's performance with their technical knowledge.
 * Contract compliance: COTRs monitor and ensure the contractor follows contract terms, reviewing deliverables to meet expected Astropy community standards.
 * Performance evaluation: COTRs assess contractor performance, verifying the work meets contract expectations.
 * Issue resolution: COTRs play a role in resolving issues or disputes, collaborating with the finance committee, the Coordination Committee, and the broader Astropy Project.
