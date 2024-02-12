@@ -51,13 +51,11 @@ Funding Requests (FRs) should be posted as pull requests to https://github.com/a
 
 We envision a two stage FR process to enable the community to discuss and improve ideas, teams with similar ideas to merge, etc.
 
-TBD: THE DATES NEED UPDATING FOR CYCLE 4
-
-* DATE1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
-* Six week iteration and discussion period during which draft FRs can be fleshed out and modified
-* DATE1+6wk: Finalized FRs are due
+* March 1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
+* Three week iteration and discussion period during which draft FRs can be fleshed out and modified
+* March 22: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
-* DATE1+7wk+a few days: voting begins.
+* March 29 - April 5: voting period
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate.
 
