@@ -3,12 +3,7 @@
 
 # Changes relative to the previous cycle
 
-The primary changes for this Cycle relative to Cycle 3 are a single funding source (NASA), and the addition of the COTR role (see below).
-
-TBD ...
-* COTR wording needs proofreading
-* Dates need updating
-* Budget amount
+The primary changes for this Cycle relative to Cycle 3 are a single funding source (NASA), the possible periods of performance (they can now extend up to 3 years), and the addition of the COTR role (see below).
 
 
 # Funding goals
@@ -22,7 +17,7 @@ FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (U
 
 # Funding amount
 
-We anticipate a maximum of **TBD** (US) to be available for this funding cycle.  We urge the community to **aim high**, either by ambitious and/or expensive proposals for their own work, or by bringing in new members via the “open hire” process (outlined below).
+We anticipate a maximum of **$325,000** (US) to be available for this funding cycle. Note that this budget is for the next two years, but we emphasize that we are accepting proposals for up to three years in periods of performance. We anticipate the opportunity for more funding in that time, and FRs with three-year-long projects will help us with new funding proposals covering that time.  So we encourage the community to aim high and propose projects that might be more ambitious than the two-year budget, as it will tangible help us get budget to cover the remainder.
 
 # Period of Performance
 
