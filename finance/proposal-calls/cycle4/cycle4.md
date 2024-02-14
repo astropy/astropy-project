@@ -52,9 +52,9 @@ We envision a two stage FR process to enable the community to discuss and improv
 * Finance Committee reviews for compatibility with legal conditions
 * March 29 - April 5: Voting period
 
-We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate.
+We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate. Discussion is open to anyone; it is not restricted to voting members.
 
-At the second deadline, the text for the FRs is frozen but comments are still welcome. Discussion is open to anyone; it is not restricted to voting members. Within 7 business days of this deadline, the Finance Committee will review all requests to ensure they are compatible with the terms of the currently available funding sources and should be included in the FRs to be voted on.
+At the second deadline, the text for the FRs is frozen but comments are still welcome. Within 5 business days of this deadline, the Finance Committee will review all requests to ensure they are compatible with the terms of the currently available funding sources and should be included in the FRs to be voted on.
 
 After that, voting members of the Astropy Project (as of the start of the vote) vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
