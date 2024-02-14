@@ -17,18 +17,18 @@ FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (U
 
 # Funding amount
 
-We anticipate a maximum of **$325,000** (US) to be available for this funding cycle. Note that this budget is for the next two years, but we emphasize that we are accepting proposals for up to three years in periods of performance. We anticipate the opportunity for more funding in that time, and FRs with three-year-long projects will help us with new funding proposals covering that time.  So we encourage the community to aim high and propose projects that might be more ambitious than the two-year budget, as it will tangible help us get budget to cover the remainder.
+We anticipate a maximum of **$325,000** (US) to be available for this funding cycle. Note that this budget is for the next two years, but we emphasize that we are accepting proposals for up to three years in periods of performance. We anticipate the opportunity for more funding in that time, and FRs with three-year-long projects will help us with new funding proposals covering that time.  So we encourage the community to aim high and propose projects that might be more ambitious than the two-year budget, as it will tangibly help us get budget to cover the remainder.
 
 # Period of Performance
 
-Each FR should specify how long the project will last (the "Period of Performance"). A project can be anywhere from 1-3 years. For ongoing projects longer periods of performance are better, as that lowers the administrative overhead of the project. In particular, FRs for subawards are best done with longer periods of performance e.g. 3 years.
+Each FR should specify how long the project will last (the "Period of Performance"). A project can be anywhere from 1-3 years. For ongoing projects, longer periods of performance are better, as that lowers the administrative overhead of the project. In particular, FRs for subawards are best done with longer periods of performance e.g. 3 years.
 
 Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
 
 
 # What can the funding be used for?
 
-Money can be used for travel, subscriptions, etc, in addition to direct financial support to  individuals.
+Money can be used for travel, subscriptions, etc, in addition to direct financial support to individuals.
 
 The funds currently come from a NASA ROSES grant. It includes the following general areas:
 
@@ -44,19 +44,19 @@ The Finance Committee assumes responsibility for ensuring that all awards made a
 
 Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 4 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template below. Please place the file with your FR at https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4 (the same location as the template).
 
-We envision a two stage FR process to enable the community to discuss and improve ideas, teams with similar ideas to merge, etc.
+We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, etc.
 
 * March 1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified
 * March 22: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
-* March 29 - April 5: voting period
+* March 29 - April 5: Voting period
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate.
 
 At the second deadline, the text for the FRs is frozen but comments are still welcome. Discussion is open to anyone; it is not restricted to voting members. Within 7 business days of this deadline, the Finance Committee will review all requests to ensure they are compatible with the terms of the currently available funding sources and should be included in the FRs to be voted on.
 
-After that, voting members of the Astropy Project (as of the start of the vote) vote on the FRs using thumbs up/down on a dedicated comment.  Every voting member of the Astropy Project has equal voting rights.
+After that, voting members of the Astropy Project (as of the start of the vote) vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
 The Coordination and Finance Committees will select FRs following the ranking by the members, taking into account the discussion, available effort level to implement, and any restrictions associated with the available funds.
 
@@ -93,7 +93,7 @@ COTR's key responsibilities include:
 
 # Fostering constructive discussion
 
-We want to stay true to the "radical transparency" ethos of the Project and thus we are asking the community to comment on these funding requests publicly. At the same time, we want to ensure that the conversations stay as constructive as possible to foster the Astropy Project’s commitment to maintaining a positive and welcoming culture. Thus, here we provide some example language that might help commenters stay constructive with their comments.
+We want to stay true to the "radical transparency" ethos of the Project and thus we are asking the community to comment on the FRs publicly. At the same time, we want to ensure that the conversations stay as constructive as possible to foster the Astropy Project’s commitment to maintaining a positive and welcoming culture. Thus, here we provide some example language that might help commenters stay constructive with their comments.
 
 Example of non-constructive comments are:
 
@@ -101,8 +101,6 @@ Example of non-constructive comments are:
 * “Person X has never really done anything that I think is good.”
 
 Examples of constructive comments are:
-
-
 
 * “This is probably not a good way to spend Project funds because package abc already provides the same functionality.”
 * “It's not clear to me the value that this would bring to the Project. Do the proposers have a way of assessing impact?"
@@ -120,4 +118,4 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due July 8) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (Aug 19). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
+The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due March 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (March 22). You can also refer to successful Cycle II **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal).
