@@ -71,12 +71,12 @@ Once a proposal is accepted, the finance committee will assign a committee membe
 The following general steps follow whan an FR is selected:
 
 1. The FR is assigned a final budget and funding source, and the PR is merged.
-2. A new tracking issue is created for the FR (by the finance committee member contact), which includes the budget, PoP, and identifies the assigned COTR.
+2. A new tracking issue is created for the FR (by the finance committee member contact), which includes the budget, period of performance, and identifies the assigned COTR.
 3. Work updates are given in the tracking issue, although out-of-band clarifications/conversations with the finance committee contact or COTR are welcome. It is the responsibility of the COTR to ensure these updates happen (although they don't necessarily need to be done by the COTR themselves).
 4. As work is completed, the funded personnel or their institutional representative submit invoices via OpenCollective (exact details of this will be clarified for each issue as details vary from person-to-institution).
 5. The issue is closed when the FR's work is completed, the budget is exhausted, or the period of performance expires.
 
-Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
+Note that if your proposal has a longer period of performance than one year, funds beyond that horizon are contingent on funds from the project being available.
 
 # COTRs
 
@@ -113,7 +113,7 @@ If you are worried about your comments being perceived as inappropriate, you are
 
 FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
 
-We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. To further help with recruitment, we may partner with a consulting firm with expertise in the open source scientific python ecosystem. The exact details and scope of this depend on how many proposals in this Cycle are open hire requests.
+We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. We are in the process of putting together a hiring guide.
 
 
 # Template and examples
