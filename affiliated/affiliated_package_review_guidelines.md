@@ -27,10 +27,10 @@ In addition to the above, here are some Astropy-specific guidelines:
     - [ ] **Out of scope:** Not useful for astronomers, or specific to one project/collaboration. (This is a basis for rejection.)
     - [ ] **Specialized package:** Useful to astronomers working in a very specific domain/field, or with a specific telescope instrument and usable not just by a single collaboration but any astronomers within that domain. Packages such as sncosmo fall into this category.
     - [ ] **General package:** Package that is useful for astronomers across more than a single field/instrument/telescope. Packages such as astroquery or astroplan fall into this category.
-- [ ] *Integration with Astropy ecosystem:*
+- [ ] **Integration with Astropy ecosystem:**
     - [ ] **No integration:** Does not use Astropy or other Astropy Affiliated packages anywhere where it should be possible, and/or uses other libraries instead, or unnecessarily duplicates functionality found in Astropy or other Astropy Affiliated packages. (This is a basis for rejection.)
     - [ ] **Partial integration:** Makes an effort to use Astropy or other Astropy Affiliated packages in places, but still has other places where this could be done.
-    - [ ] *Good integration:* Uses Astropy or other Astropy Affiliated packages wherever possible. Where not, there are good reasons not to.
+    - [ ] **Good integration:** Uses Astropy or other Astropy Affiliated packages wherever possible. Where not, there are good reasons not to.
 ```
 
 For specific actionable items, reviewer or editor are free to open issues on the package repository
