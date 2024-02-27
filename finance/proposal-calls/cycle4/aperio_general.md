@@ -1,0 +1,65 @@
+## Core/coordinated Package Maintenance and Development
+
+### Project team
+
+This proposal is to fund the following people at [Aperio Software](https://aperiosoftware.com):
+
+* Thomas Robitaille
+* Stuart Mumford
+
+This could also fund other individuals working at Aperio Software as required.
+
+### Project Summary
+
+This project covers a number of different areas of work around the Astropy project:
+
+* Maintenance and development of new features in sub-packages in the core astropy package as well as coordinated packages for which we are maintainers
+* Contributions to other parts of the core astropy package and coordinated package ecosystem.
+* Participation in the release team, including carrying out releases in the core package and working on general infrastructure for releases
+* Maintainance and development of the shared OpenAstronomy tooling and infrastructure
+* Moderation and support for Slack/Matrix & Discourse.
+
+### Project / work
+
+#### `astropy.io.fits`
+
+This proposal will fund Tom in his role as a maintainer of `astropy.io.fits`. Our focus will be on continuing to resolve bugs specifically related to the refactoring of the compression module and improve performance, as well as more general maintenance of the sub-package. There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
+
+#### `astropy.visualization.wcsaxes`
+
+We shall continue maintaining the [astropy.visualization.wcsaxes](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package, which is used to make plots of a wide range of different data with any APE 14-compliant WCS.
+We will work on some of the [open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Avisualization.wcsaxes) as well as new issues that come up, and will also investigate ways of improving the performance of the plotting.
+
+#### `astropy.timeseries`
+
+We shall continue maintaining the [astropy.timeseries](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package as required.
+
+#### reproject
+
+The [reproject](https://github.com/astropy/reproject) coordinated package, implements different image reprojection algorithms. As well as continuing general maintainance of this project we expect to continue the development work undertaken with the previous funding. The main areas of development for reproject in this funding cycle will be further and deeper integration of [dask](https://www.dask.org) into reproject to improve performance and memory usage when reprojecting large data.
+
+#### astropy-healpix
+
+[astropy-healpix](https://github.com/astropy/astropy-healpix) is a stable package which requires minimal maintanance. As part of this proposal we shall continue to triage issues, review pull requests and do releases as needed.
+
+#### OpenAstronomy shared infrastructure
+
+The OpenAstronomy project holds some infrastructure projects shared between Astropy, SunPy and other packages. As part of this proposal we shall continue to contribute to and maintain the following projects:
+* https://github.com/OpenAstronomy/github-actions-workflows
+* https://github.com/OpenAstronomy/build-python-dist
+* https://github.com/OpenAstronomy/sphinx-changelog
+* https://github.com/OpenAstronomy/publish-wheels-anaconda
+
+Including collaborating with the Scientific Python project on reducing duplication with their efforts.
+
+#### Participation in general Astropy development
+
+In addition to the specific core sub-packages and coordinated packages mentioned above, we plan to continue contributing in a more general way to the Astropy ecosystem and community. We will respond to issues that we can help with, contribute bug fixes for bugs we encounter or are qualified to fix, help maintain features we have added in the past, participate in developer and other relevant calls when possible, and participate in discussions on the mailing list and in Slack.
+
+#### Moderation and support for Slack/Matrix & Discourse
+
+We shall continue to support the administraion and moderation of the Discourse, slack and Matrix community spaces.
+
+### Budget
+
+We request funding to cover 12h/week in total - assuming 48 weeks (to account for holidays!) this gives a total of **USD 86,400 per year** assuming an hourly rate of USD 150/hour. If the budget allows, we would like to request funding for up to three years. If this is not possible, then we would be open to a two year contract. If the budget needs to be reduced further, the minimum useful funding would be to cover 8h/week, which would mean **$57,600 per year**.
