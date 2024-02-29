@@ -13,7 +13,7 @@ This could also fund other individuals working at Aperio Software as required.
 
 This project covers a number of different areas of work around the Astropy project:
 
-* Maintenance and development of new features in sub-packages in the core astropy package as well as coordinated packages for which we are maintainers
+* Maintenance and development of new features in sub-packages in the core astropy package as well as coordinated packages for which Robitaille and Mumford are maintainers
 * Contributions to other parts of the core astropy package and coordinated package ecosystem.
 * Participation in the release team, including carrying out releases in the core package and working on general infrastructure for releases
 * Maintainance and development of the shared OpenAstronomy tooling and infrastructure
@@ -23,16 +23,15 @@ This project covers a number of different areas of work around the Astropy proje
 
 #### `astropy.io.fits`
 
-This proposal will fund Tom in his role as a maintainer of `astropy.io.fits`. Our focus will be on continuing to resolve bugs specifically related to the refactoring of the compression module and improve performance, as well as more general maintenance of the sub-package. There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
-
-#### `astropy.visualization.wcsaxes`
-
-We shall continue maintaining the [astropy.visualization.wcsaxes](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package, which is used to make plots of a wide range of different data with any APE 14-compliant WCS.
-We will work on some of the [open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Avisualization.wcsaxes) as well as new issues that come up, and will also investigate ways of improving the performance of the plotting.
+This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023. The focus of this work will be to continue to resolve bugs  related to the refactoring of the compression module and improve performance, as well as more general maintenance of the sub-package. There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
 
 #### `astropy.timeseries`
 
-We shall continue maintaining the [astropy.timeseries](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package as required.
+Robitaille will continue co-maintaining the [astropy.timeseries](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package as required.
+
+#### `astropy.visualization.wcsaxes`
+
+Robitaille and Mumford will continue to maintain the [astropy.visualization.wcsaxes](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package, which is used to make plots of a wide range of different data with any APE 14-compliant WCS. We will work on some of the [open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Avisualization.wcsaxes) as well as new issues that come up, and will also investigate ways of improving the performance of the plotting.
 
 #### reproject
 
@@ -42,15 +41,19 @@ The [reproject](https://github.com/astropy/reproject) coordinated package, imple
 
 [astropy-healpix](https://github.com/astropy/astropy-healpix) is a stable package which requires minimal maintanance. As part of this proposal we shall continue to triage issues, review pull requests and do releases as needed.
 
+#### Release team
+
+Robitaille is a member of the Astropy project release team, which is responsible for carrying out releases of the core package as well as coordinating release infrastructure across the project. Part of the funding will therefore be used to continue supporting these efforts.
+
 #### OpenAstronomy shared infrastructure
 
-The OpenAstronomy project holds some infrastructure projects shared between Astropy, SunPy and other packages. As part of this proposal we shall continue to contribute to and maintain the following projects:
+The OpenAstronomy project holds some infrastructure projects shared between Astropy, SunPy and other packages. As part of this proposal we will continue to contribute to and maintain the following projects:
 * https://github.com/OpenAstronomy/github-actions-workflows
 * https://github.com/OpenAstronomy/build-python-dist
 * https://github.com/OpenAstronomy/sphinx-changelog
 * https://github.com/OpenAstronomy/publish-wheels-anaconda
 
-Including collaborating with the Scientific Python project on reducing duplication with their efforts.
+This will include collaborating with the Scientific Python project on reducing duplication with their efforts.
 
 #### Participation in general Astropy development
 
@@ -58,7 +61,7 @@ In addition to the specific core sub-packages and coordinated packages mentioned
 
 #### Moderation and support for Slack/Matrix & Discourse
 
-We shall continue to support the administraion and moderation of the Discourse, slack and Matrix community spaces.
+We will continue to support the administraion and moderation of the Discourse, slack and Matrix community spaces.
 
 ### Budget
 
