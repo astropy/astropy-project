@@ -23,21 +23,34 @@ This project covers a number of different areas of work around the Astropy proje
 
 #### `astropy.io.fits`
 
-This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023.
-In addition to as general maintenance of the sub-package, the focus of this work will be to continue to resolve bugs related to the refactoring of the compression module and to continue to improve performance.
-There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
+This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023. The priorities for this work will be:
+* Resolving bugs related to the refactoring of the image compression module and work on improving
+  performance to be on par or better than the performance of the previous module.
+* Continue work on the refactoring of ``CompImageHDU`` to inherit from ``ImageHDU``, and once
+  completed, carry out extensive testing with real-world data and code to make sure the new code
+  is robust. Once these changes are released to users, address bug reports related to this change.
+* Triage and start addressing other existing issues. At the time of writing, there are currently over
+  [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone.
 
 #### `astropy.timeseries`
 
-Robitaille will continue co-maintaining the [astropy.timeseries](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package as required.
+Robitaille will continue co-maintaining the [astropy.timeseries](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package as required. The priorities will be:
+* Improving performance and memory usage
+* Encouraging adoption in other packages and investigating how the sub-package can be improved to facilitate this
+* Exploring how to provide functionality to cater for data cubes with a time axis rather than just plain time series tables.
 
 #### `astropy.visualization.wcsaxes`
 
-Robitaille and Mumford will continue to maintain the [astropy.visualization.wcsaxes](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package, which is used to make plots of a wide range of different data with any APE 14-compliant WCS. We will work on some of the [open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Avisualization.wcsaxes) as well as new issues that come up, and will also investigate ways of improving the performance of the plotting.
+Robitaille and Mumford will continue to maintain the [astropy.visualization.wcsaxes](https://docs.astropy.org/en/stable/visualization/wcsaxes/) sub-package, which is used to make plots of a wide range of different data with any APE 14-compliant WCS. The priorities for this sub-package will be:
+* Improving performance; very little effort has been made to date to make ``WCSAxes`` as fast as possible, focusing instead on providing good support for APE-14-compliant WCSes. However, there are a number of use cases where performance is becoming a bottleneck (for example in interactive visualizations), so we will focus on profiling and improving performance across the sub-package.
+* Fixing issues that have ben reported by users. There are currently over 40 [open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Avisualization.wcsaxes), so we will focus on bringing this number down and improving the stability and reliability of the sub-package overall.
 
 #### reproject
 
-The [reproject](https://github.com/astropy/reproject) coordinated package, implements different image reprojection algorithms. As well as continuing general maintainance of this project we expect to continue the development work undertaken with the previous funding. The main areas of development for reproject in this funding cycle will be further and deeper integration of [dask](https://www.dask.org) into reproject to improve performance and memory usage when reprojecting large data.
+The [reproject](https://github.com/astropy/reproject) coordinated package, implements different image reprojection algorithms. The main areas for future development are:
+* Continuing work on integrating the use of [dask](https://www.dask.org) into reproject to improve performance and memory usage when reprojecting large data, and ensure that this can be used for real-world applications of reprojecting and mosaicking larger-than-memory datasets.
+* Fixing issues reported by users, in particular ensuring that reproject works properly for state-of-the-art high resolution data (e.g. https://github.com/astropy/reproject/issues/199).
+* Exploring other reprojection algorithms that could be integrated into reproject.
 
 #### astropy-healpix
 
