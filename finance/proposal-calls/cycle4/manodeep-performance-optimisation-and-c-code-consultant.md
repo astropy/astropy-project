@@ -53,7 +53,8 @@ In the second case, it may be that even creating micro-benchmarks for computatio
 functions like convolution/match-coords are useful additions to the benchmark CI jobs. 
 
 ### Approximate Budget
-I have guess-timated 24 hours as the time required to solve one 
+
+I have guesstimated 24 hours as the time required to solve one 
 performance issue, broken down as 16 hours (i.e., 2 work-days) for finding 
 potential solutions, 6 hours for response to feedback + iterating + getting 
 to optimal solution by consensus, and finally 2 hours to get PR approved and 
@@ -62,21 +63,24 @@ merged.
 I have tentatively estimated 20 hrs/yr to review existing (15 hrs) and new (5 hrs) 
 C code for performance issues.
 
-```
-Proposed budget: Two known performance issues + two unknown
-Salary (performance): 4 issues/yr * 24 hrs/issue * USD 150/hr = USD 14.4k/yr
-Salary (C code review): 20 hrs/yr * USD 150/hr = USD 3k/yr
-Travel to USA: International airfare + lodging + incidentals for 1 week = USD 5k/yr
-Partial salary during travel: 1 week/yr * 20 hrs/week * USD 150/hr = USD 3k/yr
-Total: USD 25.4k/yr
-```
+Proposed budget for fixing two known and two unknown performance issues.
 
-```
-Minimum feasible budget: One known performance issue + one unknown
-Salary (performance issues): 2 issues/yr * 24 hrs/issue * USD 150/hr = USD 7.2k/yr
-Salary (C code review): 20 hrs/yr * USD 150/hr = USD 3k/yr
-Total: USD 10.2k/yr
-```
+| Item                               | Breakdown                                        | Cost                |
+|------------------------------------|--------------------------------------------------|----------------------
+| Salary (python performance)        | 4 issues/yr * 24 hrs/issue * USD 150/hr          | USD 14.4k/yr        |
+| Salary (C-code review)             |                  20 hrs/yr * USD 150/hr          | USD    3k/yr        |
+| Travel to USA                      | Airfare (2k) + hotel (1.5k) + Incidentals (0.5k) | USD    4k/yr        |
+| Partial salary (during travel)     |    1 week/yr * 20 hrs/week * USD 150/hr          | USD    3k/yr        |
+| **Total**                          |                                                  | **USD 24.4k/yr**    |
+
+Minimum feasible budget for fixing one known and one unknown performance issue.
+
+| Item                               | Breakdown                                      | Cost                |
+|------------------------------------|------------------------------------------------|----------------------
+| Salary (python performance)        | 2 issues/yr * 24 hrs/issue * USD 150/hr        | USD   7.2k/yr       |
+| Salary (C-code review)             |                  20 hrs/yr * USD 150/hr        | USD    3k/yr        |
+| **Total**                          |                                                | **USD 10.2k/yr**    |
+
 
 I am happy to work through and iterate on the budget as deemed necessary. 
 
