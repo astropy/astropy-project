@@ -23,7 +23,9 @@ This project covers a number of different areas of work around the Astropy proje
 
 #### `astropy.io.fits`
 
-This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023. The focus of this work will be to continue to resolve bugs  related to the refactoring of the compression module and improve performance, as well as more general maintenance of the sub-package. There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
+This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023.
+In addition to as general maintenance of the sub-package, the focus of this work will be to continue to resolve bugs related to the refactoring of the compression module and to continue to improve performance.
+There are currently over [160 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone, and therefore no shortage of work.
 
 #### `astropy.timeseries`
 
