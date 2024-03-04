@@ -4,8 +4,10 @@ Spectroscopy Development Busy Week
 
 ### Project Team
 
-Kyle Westfall, Tim Pickering, Kelle Cruz, Debora Pelliccia, Ricky
-O'Steen, Camilla Pacifici, [others welcome!]
+Kyle Westfall (UCO), Tim Pickering (MMT), Kelle Cruz (Hunter), Debora
+Pelliccia (UCO), Ricky O'Steen (STScI), Camilla Pacifici (STScI),
+Timothy Ellsworth-Bowers (Lowell), Stephanie Juneau (NOIRLab), [others
+welcome!]
 
 ### Project Description
 
