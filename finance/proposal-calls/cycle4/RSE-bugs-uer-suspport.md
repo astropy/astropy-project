@@ -36,7 +36,7 @@ Astropy has > 1200 open issues, some of them more than a decade old. This is a c
 
 While astropy clearly thrives with those bugs and issues, each of them represents at least one user
 who was stopped in their work and found this annoying enough to open an issue. We know anecdotally, that
-many users who do no think of themselves as "developers" don't open issues on github (e.g. they might not 
+many users who do not think of themselves as "developers" don't open issues on github (e.g. they might not 
 even have an account) so each bug probably represents several or more users who have run
 into a problem. For a smooth user experience, we should close out bugs and fill in feature requests
 where we can.
@@ -50,9 +50,9 @@ choice of which ones to address will be guided by community input.
 
 Astropy has few required dependencies, but changes in new versions of pytest, numpy-dev, or sphinx can make
 CI on all new PRs fail. In coordination with Pay Lian and others, Clément
-did significant work to keep astroy up-to-date with numy-dev in the transition to numpy 2.0 so far. While that
+did significant work to keep astropy up-to-date with numy-dev in the transition to numpy 2.0 so far. While that
 is mostly done, he will support changes in pytest or future numpy version as they come up. How much work
-this is and when it's required is hard to predict, but having Clément available with a significant
+this is and when it's required is hard to predict, but having Clément available with a significant number
 of hours per week to fix these things as they come up eases the development process for all
 other contributors, in particular occasional volunteer developers who might not be used to diagnose
 CI failures that have nothing to do with their own changes.
