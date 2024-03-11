@@ -30,6 +30,9 @@ This grant is to fund my work as part of the Astropy Coodination Committee, and 
 
 Minimum viable budget: $17,000 for 50 hours per year at $120/hr for 2.5 years plus the travel money.
 
+**Notes**
+- This contract be under the Aperio umbrella for at least the first year.
+
 ### Period of Performance
 
 2.5 years starting in May 2024.
