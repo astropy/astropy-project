@@ -20,11 +20,9 @@ Some specific areas that we expect to tackle during the coming cycle include:
 * Expand outreach to and collaboration with EPRV spectroscopy community
 
 ### Approximate Budget
-Currency: US $53000
+Currency: US $46000
 
 - Salary: US $46000 ($23000/yr based on 4 hours/week for 48 weeks at current contracted rate of $120/hour)
-- Travel: US $7000 ($2500 SPIE 2024 to present paper on specreduce; $2500 ADASS 2024; $2000 ADASS 2025)
-
 
 ### Period of Performance
 2 years starting May 2024
