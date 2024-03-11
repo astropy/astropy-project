@@ -14,6 +14,9 @@ and framework of the package.
 
 ### Project / Work
 
+Developing the next-generation spectroscopic reduction, analysis, and visualization tools
+has long been on the [Astropy Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) 
+but progress has been slow.
 The Specreduce package currently sees contribution by a few software developers 
 scattered in different places. 
 Unfortunately, the organization is not efficient, architectural discussions are rerely
@@ -28,7 +31,8 @@ Shanahan and Conroy at the Space Telescope Science Institute. Pacifici is a Proj
 Scientist who coordinates the work on the Space Telescope side for the suite of data analysis tools
 developed there. Ogle is a Scientist and spectroscopy expert.
 Tollerud, Conroy, and Pickering have been involved in architectural and framework discussions, 
-but none of them can devote enough time to the project to converge on decision.
+but none of them can devote enough time to the project to converge on decision. 
+Cruz has been helping to bring interested parties together and to facilitate discussions.
 Others...
 
 Here is a list of improvements and new features to be tackled in the future:
