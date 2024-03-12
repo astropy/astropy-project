@@ -12,15 +12,16 @@ I request partial buy-out from my professorship at UofT to be able to work one
 day a week on projects that are too large for the time I can currently commit
 for astropy.  Specifically, I propose,
 
-- To enhance Masked and Distribution such that they can be used in all the
-  main astropy classes (Time, Representation, Frame, and SkyCoord).
+- To ensure Masked and Distribution can be used in all the main astropy classes
+  (Time, Representation, Frame, and SkyCoord).
 - Use the new numpy dtype machinery to deal with units, thus speeding up units
-  conversions and facilitating Quantity becoming a container class that can
-  handle not just ndarray but any type of array, i.e., also dask, jax, etc.
+  conversions.
+- Facilitate Quantity becoming a container class that can handle not just
+  ndarray but any type of array, i.e., also dask, jax, etc.
 - Extend the same machinery to Masked and Distribution so that all main astropy
   classes can use arbitrary array classes.
-- Introduce a new Variable class that tracks uncertainties and their correlations
-  analytically (based on ideas from the uncertainties package).
+- Finish my implementation of a Variable class that tracks uncertainties and
+  their correlations analytically (based on the uncertainties package).
 
 ### Project / Work
 
@@ -35,9 +36,13 @@ In particular, while I found time to enable the use of Masked with Quantity
 and Time, the logical extension to coordinates is still missing.  Similarly,
 Distribution now works well with Quantity, but not with Time and the various
 classes underlying coordinates.  Solving this will allow masks and (implicit)
-error propagation on all astropy core classes.  Furthermore, an attempt to
-introduce a Variable class that tracks uncertainties and covariances has been
-stalled for almost a decade.  All these require focussed time.
+error propagation on all astropy core classes.  Furthermore, an
+[PR](https://github.com/astropy/astropy/pull/3715) to introduce a Variable
+class that tracks uncertainties and covariances (based on the [uncertainties
+package](https://pythonhosted.org/uncertainties/), but extended it to deal
+natively with arrays), has been stalled for almost a decade.  All these
+require focussed time to finish the implementation, writing tests, documenting
+proper usage, etc.
 
 An exciting development at numpy has been the new dtype machinery, which
 allows much easier design of user data types.  So far, the main application
@@ -58,15 +63,22 @@ astropy, so that it can be used more generally.
 
 Using unit-carrying data types should also make it easier (though is not
 required) for Quantity to support other array classes (dask, jax, etc.), as
-suggested in APE 25. This will help deal with larger data sets (dask) and gain
-us GPU acceleration (jax).  The nice things is that if Quantity is able to use
-other array types than ndarray, then this will nearly automatically extend to
-coordinates (since those use quantities almost exclusively). A bit more of an
-obstacle will be Time, though there a user dtype to hold the two parts of the
-JD (or indeed a proper quad-precision float) may help similarly: make the
-implementation a lot cleaner, and allow other array types than ndarray.  Also,
-once Quantity is done, it will be easy to extend it to Masked and Distribution
-(and possibly Variable), as those are basically container classes already.
+proposed in [APE 25](https://github.com/astropy/astropy-APEs/pull/91). This
+will help deal with larger data sets (dask) or use GPU acceleration(jax).
+The [APE 25 report](https://github.com/nstarman/astropy-APEs/blob/units-quantity-2.0/APE25/report.pdf)
+lays out in detail how this could work.  My proposal here is to implement it,
+write proper tests, ensure there are no performance regressions, and of course
+document it all.  A nice benefit of the approach laid out in APE 25 is that it
+will be very easy to extend it to Masked and Distribution (and possibly
+Variable), as those basically are already the type of container classes that
+APE 25 envisions.
+
+A nice things of Quantity being able to use other array types than ndarray is
+that this will nearly automatically extend to coordinates (since those use
+quantities almost exclusively; I foresee little more work than adjusting
+tests!).  Time will be slightly more work, as it works directly with ndarray,
+but also here the path is straightforward: I can just follow my earlier work
+on ensuring Time can work with Masked.
 
 I should perhaps add that the different projects can be separated relatively
 easily, and do not have a very obvious order.  Hence, I can give priority to
@@ -79,9 +91,9 @@ regular employment at the University of Toronto correspondingly.  At a
 standard rate of USD 150/hour (which happens to be roughly my current salary)
 for 8 hours per week and 45 weeks, this corresponds to USD $54000 per year.
 
-Note: so far I have done nothing beyond asking my Chair whether a reduction,
-including of teaching, might be possible in principle.  I will ask for details
-if this proposal is deemed interesting.
+Note: While I have asked my Chair whether a reduction, including of teaching,
+might be possible in principle.  I will ask for details if this proposal is
+deemed interesting.
 
 ### Period of Performance
 
