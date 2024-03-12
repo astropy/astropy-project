@@ -76,8 +76,6 @@ We expect that he will pick up one or two items from the new roadmap.
 Budget breakdown (nominal):
 
 - Contractor fees: $98000 (approx. $90/hour for 20 h/ week for 12 months)
-- Travel to Astropy Coordination meeting: 2000 $ (train or flight, hotel, meals)
-- TOTAL = $100,000
 
 ### Period of Performance
 1 year
