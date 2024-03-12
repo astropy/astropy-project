@@ -23,12 +23,11 @@ This grant is to fund my work as part of the Astropy Coodination Committee, and 
 
 ### Approximate Budget
 
-**Total:** US $24,500
+**Total:** US $22,500
 
 - Salary: $22,500 for 75 hours per year at $120/hr to cover the remaining 2.5 years of my CoCo term.
-- Travel: $2,000 to cover the 2025 Astropy Coordination Meeting
 
-Minimum viable budget: $17,000 for 50 hours per year at $120/hr for 2.5 years plus the travel money.
+Minimum viable budget: $17,000 for 50 hours per year at $120/hr for 2.5 years
 
 **Notes**
 - This contract be under the Aperio umbrella for at least the first year.
