@@ -91,9 +91,9 @@ regular employment at the University of Toronto correspondingly.  At a
 standard rate of USD 150/hour (which happens to be roughly my current salary)
 for 8 hours per week and 45 weeks, this corresponds to USD $54000 per year.
 
-Note: While I have asked my Chair whether a reduction, including of teaching,
-might be possible in principle.  I will ask for details if this proposal is
-deemed interesting.
+Note: I have confirmed with my Chair that a reduction, including of teaching,
+is possible in principle, but am still in the process of finding out how this
+would work in practice.
 
 ### Period of Performance
 
