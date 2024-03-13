@@ -49,10 +49,8 @@ The Community Manager will help grow and foster Astropy's diverse community of u
 
 ### Approximate Budget
 The community manager will offer 50% of their time.
-- Hourly rate: $50/hr
-- Hours per month= 80 hrs
-- 12 Monthly invoices of $4000 per month
-- Total Budget: $48000/yr
+- 12 Monthly invoices of between $3000-$3300 per month
+- Total Budget: Range of $36000/yr-40000/yr
 
 ### Period of Performance
 
