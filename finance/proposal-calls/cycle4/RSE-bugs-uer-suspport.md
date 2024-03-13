@@ -75,7 +75,9 @@ We expect that he will pick up one or two items from the new roadmap.
 
 Budget breakdown (nominal):
 
-- Contractor fees: $98000 (approx. $90/hour for 20 h/ week for 12 months)
+- Contractor fees: $93600 (approx. $90/hour for 20 h/ week for 12 months)
+
+Minimum viable amount: There is no really a floor to bug fixing - every bug helps. However, if amount granted is insufficient to support Clement for a a significant amount of time (a few months) he will have to find a different job as soon as possible. We thus suggest a minimum of $50000 (~6 months).
 
 ### Period of Performance
 1 year
