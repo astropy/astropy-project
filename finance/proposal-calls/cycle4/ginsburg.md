@@ -14,15 +14,14 @@ On astroquery, my role is primary maintainer of the spectral line databases and 
 ### Project / Work
 This proposal includes maintenance work and supervision of any enhancement projects on the above-mentioned packages
 
-### Approximate Budget
-Currency: US $10,500
-- $10294 to cover 1 CM of effort by Ginsburg.  
-- $4118 for fringe/benefits
-- $1441 overhead (at Moore's upper limit of 10%; UF standard is 52.5%)
+This is a 3-year proposal, budgeting for effort at 1 calendar month per year.
 
+### Approximate Budget
+Currency: US $46,048 direct
+- $14,910 y1, 15357 y2, 15817 y3 to cover 1 CM of effort by Ginsburg (including fringe).
+- IDC 52.5% $7828, 8062, 8304 in years 1, 2, and 3, respectively
 Should be awarded using the same mechanism as in previous cycles (subaward).
 
-This requested budget, 1 CM of effort, is the minimum viable.
 
 ### Proposed Budget
-$15,853
+$70,278
