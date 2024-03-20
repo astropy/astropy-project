@@ -55,10 +55,25 @@ Comments and advice on how to actually achieve the above are welcome!
 
 ### Approximate Budget
 
-We would aim to provide full travel support (airfare, hotel, meals, etc)
-for ~20 attendees for a 5 day workshop, hosted at one of the attendees
-home institutions (e.g., we could host it at UCO/UCSC in Santa Cruz).  A
-rough estimate is ~$3000 per person, or ~$60k total.
+At minimum, the budget should support catering for lunches and coffee
+breaks during the busy week.  A rough estimate is $4000, assuming ~$40
+per person per day for 20 attendess and a 5-day busy week.  In this
+minimum funding scenario, all attendees would be reimbursed for their
+other meals (breakfast, dinner), hotel, and airfare by their home
+institutions.
+
+At maximum, the budget would additionally provide full travel support
+for the attendees (airfare, hotel, meals).  A rough estimate is $60k,
+assuming $3000 per person for a 5-day busy week and a US-domestic flight
+for 20 attendees.
+
+The budget therefore ranges from $4k - $64k.
+
+The extent of this range largely depends on the number of attendees and
+the level of travel reimbursement provided.  Note that I haven't
+included venue rental fees in this estimate, under the assumption that
+the busy week can be hosted at someone's home institution at no cost
+(e.g., we could host it at UCO/UCSC in Santa Cruz).
 
 ### Period of Performance
 
