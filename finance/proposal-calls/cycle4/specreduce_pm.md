@@ -54,7 +54,7 @@ to judge on project management, coding, and community engagement abilities.
 
 ### Approximate Budget
 
-For an independent contractor, 25 hours a month for 12 month at $150/hour = $45,000
+For an independent contractor, 25 (~6 hours a week, minimum) to 34 (~1 day a week, maximum) hours a month for 12 months at $150/hour = $45,000 to $61,200.
 
 ### Period of Performance
 
