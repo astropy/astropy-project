@@ -35,12 +35,12 @@ can be involved if needed:
 The latest version of specutils includes useful common analysis tasks for
 astronomical spectra. 
 To realise its potential as a fully-fledged contributor to scientific workflows,
-spectutils would greatly benefit from the addition of a generic capability for
+specutils would greatly benefit from the addition of a generic capability for
 advanced users to supply their own tailored algorithms (i.e. code) to be used in place of
 the defaults. 
 We would like to add this capability to specutils, allowing users to apply
-advanced analysis and algorithms to specutils spectra via a regularlised
-interface.  This interface would be analagous to how astroquery provides a
+advanced analysis and algorithms to specutils spectra via a regularised
+interface.  This interface would be analogous to how astroquery provides a
 regularised interface to access VO and other web services.  It will provide the
 opportunity for the community to contribute their own algorithms, e.g. relating
 to large community spectroscopic surveys, or other generic methods. This would go
