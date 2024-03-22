@@ -57,8 +57,8 @@ our team to ingest spectra into Data Central.
 1. An example contributed algorithm will be provided, namely a Fast Fourier
 Transform (FFT) cross-correlation.  This consists of two steps:
 
-   2. Interpolating the spectra and templates to a common (log) wavelength binning;
-   2. Computing the FFTs, inverting the combined result, and shifting the output
+   1. Interpolating the spectra and templates to a common (log) wavelength binning;
+   1. Computing the FFTs, inverting the combined result, and shifting the output
 such that it aligns with the redshift bins.  We will adapt existing code
 developed by our team when porting the MARZ redshifting code 
 (Hinton et al. 2016, A&C, 15, 61) from Javascript to Python. The code has been
