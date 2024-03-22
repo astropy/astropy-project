@@ -76,19 +76,19 @@ may then request automatic reductions of queried spectra via our Pipeline As a
 Web Service (PAWS) system.
 
 1. Addition of the Cone of Darkness algorithm involves porting the C++ code and 
-tests to astroquery such that any input catalogue (also obtained with astroquery) 
+tests to astropy such that any input catalogue (also obtained with astroquery) 
 may be used to select sky positions. High proper motion stars may be excluded 
 with an optional GAIA DR3 query.
 
 
 ### Approximate Budget
 This funding application is to cover staff time. We estimate 420 hours of effort
-are required to complete this project, which at an hourly rate of USD$145/hour 
-gives a budget of USD$60,900.
+are required to complete this project which, at an hourly rate of USD$155/hour 
+gives a budget of USD$65,100.
 
-This effort estimate will be refined, and the minimum useful time to carry out
-some of the proposed work will be determined and added here during the iteration
-period.
+The minimum useful time to carry out a portion of this work is estimated to be
+210 hours (USD$32,550). This would exclude Part 2 of the project outline above -
+i.e. the incorporation of Cone of Darkness.
 
 
 ### Period of Performance
