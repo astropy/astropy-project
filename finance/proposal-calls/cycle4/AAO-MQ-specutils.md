@@ -69,13 +69,25 @@ We are keen to make substantial contributions to specutils in the future.
 
 ### Approximate Budget
 This funding application is to cover staff time. We estimate 630 hours of effort
-are required to complete this project, which at an hourly rate of USD$140/hour 
-gives a budget of USD$88,200.
+are required to complete this project, which at an hourly rate of USD$155/hour
+gives a budget of USD$97,650.
 
-This effort estimate will be refined, and the minimum useful time to carry out
-some of the proposed work will be determined and added here during the iteration
-period.
+#### Minimum useful time
 
+The absolute minimum useful time on this project would be 210 hours, which would
+only allow us to implement the FFT-based redshifting. However, no code
+templating capability would be included, which undercuts the value of the
+redshifting code as an important example of a case study algorithm. Furthermore,
+the redshifting code would be a minimal implementation with no integration with
+any existing specutils or astropy classes, no support for the conversion to
+logspace of templates or spectra as is required by the FFT algorithms. Nor would
+there be any time for astronomer-focused documentation, making it hard for
+astronomers to use the code. While this very stripped back version may provide
+some value, we would strongly suggest that funding the project in its entirety
+will give much better value for the astropy project, and for astronomer-users of
+specutils.
+
+At the aforementioned rate of USD$155/hour, this would be USD$32,550.
 
 ### Period of Performance
 We expect the period of performance to be two years.
