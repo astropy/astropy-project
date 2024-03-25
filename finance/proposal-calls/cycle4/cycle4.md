@@ -48,9 +48,9 @@ We envision a two stage FR process to enable the community to discuss and improv
 
 * March 1: **_Draft_** FR Deadline (new requests after this date will not be reviewed this cycle)
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified
-* March 22: Finalized FRs are due
+* March 29: Finalized FRs are due
 * Finance Committee reviews for compatibility with legal conditions
-* March 29 - April 5: Voting period
+* March 5 - April 12: Voting period
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period as appropriate. Discussion is open to anyone; it is not restricted to voting members. It is also expected that the Finance Commitee will give feedback regarding budgets and periods of performance during this discussion period.
 
