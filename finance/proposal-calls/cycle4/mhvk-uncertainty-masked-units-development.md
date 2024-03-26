@@ -98,6 +98,6 @@ would work in practice.
 ### Period of Performance
 
 Ideally, this would be for three years (if funding allows and my university
-agrees), but the projects are sufficiently separable that a shorter term or
-one split in, say, half-year parts is useful too (but not fewer hours per
-week, since the goal is to have full days for astropy development only).
+agrees), but the projects are sufficiently separable that a shorter term is
+useful too (but not fewer hours per week, since the goal is to have full days
+for astropy development only).
