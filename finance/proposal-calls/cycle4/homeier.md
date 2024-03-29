@@ -5,9 +5,10 @@ Derek Homeier
 
 ### Project Description
 Ensure core working time availability for work on the Coordination Committee (until end of 2025)
-and as editor for Affiliated package reviews. 
+and as editor for Affiliated Package reviews.
 Continue role as astropy core and io.ascii maintainer and responder
-to user support and contributor's issues; support development of specutils as time allows.
+to user support and contributor's issues; support development of specutils as time allows;
+planned with priority after stepping down as Affiliated Package editor.
 
 ### Project / Work
 
@@ -19,10 +20,11 @@ period tbd.
 
 - Work on SOC for the 2024 Coordination Meeting.
 
-- Participate in HPC and Spectroscopy/NDdata working groups.
+- Participate in HPC and Spectroscopy/NDdata working groups and Spectroscopy Dev telecons.
 
 - Once the Affiliated package management in the pyOpenSci has stabilised, I may ask to
-  step down as editor, which would free up time for increased contributions to `specutils`.
+  step down as editor, which would free up time for increased contributions to `specutils`
+  like expanding support for (WCS-based) non-linear wavelength formats.
   
 #### Continue roles as general (core) and `io.ascii` maintainer.
 
@@ -38,8 +40,8 @@ period tbd.
 ### Approximate Budget
 currency: US $
 
-- External contractor fees: 6 hours weekly for 90 weeks over 2 years, a total of 540 hours
-  (accounting for holidays) @ $120 / hour
+- Salary under independent external contractor agreement: 6 hours weekly for 90 weeks over 2 years,
+  a total of 540 hours (accounting for holidays) @ $120 / hour
 
 - TOTAL: $64,800
 
