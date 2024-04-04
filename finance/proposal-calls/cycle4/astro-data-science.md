@@ -2,19 +2,19 @@
 
 ### Project Team
 
-The team consists of a the members of the Advisory Comittee for the Carpentries Astronomical Data Science curriculum. This group has been meeting semi-annually for the last 2 years in order to oversee the development of these materials. Several members of the committee were heavily engaged in the development of the curriculum via an APS grant. Most of the committee members are trained Carpentries instructors and have delivered workshops using these materials at different venues including the AAS meetings.
+The team consists of a the members of the Advisory Comittee for the Carpentries Astronomical Data Science curriculum. This group has been meeting semi-annually for the last 2 years in order to oversee the development of these materials. All of these members are at the intersection of the Carpentries community, open-source astronomy community, and the astronomical data science community. Most of the committee members are trained Carpentries instructors and have delivered workshops using these materials at different venues including the AAS meetings.
 
 The members of the Advisory Comittee currently are:
-Adam Hughes
-Azalee Bostroem
-Brett Morris
-Ivelina Momcheva
-Meredith Rawls
-Phil Rosenfield
-Rachel McClure
+- **Azalee Bostroem** has been involved with this curriculum since its inception as a co-PI on the APS venture partnership grant which funded its development. She lead the development effort and served as a lesson maintainer for its first year as an official Carpentries Curriculum. She is now the chair of the curriculum advisory committee and organizes and instructs workshops, including at AAS meetings. She will help organize the workshops in this proposal and instruct as needed.
+- **Ivelina Momcheva** helped organized a pilot workshop at STScI and was lead instructor at the summer 2022 AAS meeting workshop. She will help organize the workshops in this proposal.
+- **Adam Hughes** is an astronomer turned data scientist. He has been an instructor at the winter and summer 2022 AAS meeting and a pilot workshop at STScI. He is a potential instructor for the workshops in this proposal.
+- **Meredith Rawls** has served as a helper at the first pilot workshop of this curriculum and as an instructor at the Winter 2022 AAS meeting.  She is a potential instructor for the workshops in this proposal.
+- **Heather Andrews Mancilla** is the secretary of the curriculum advisory committee and helped organize a pilot workshop at the eScience center in Delft. She will help organize the workshops in this proposal.
 
-Azalee Bostroem has organized the winter AAS workshops using this curriculum for the last 4 years. 
--  Begin by introducing the primary project coordinator(s) or organizer(s), highlighting their background in data science, astronomy, and education.
+Additional support: the curriculum lesson maintainers are also potential instructors for these workshops.
+- **Rodolfo Montez** was co-PI of the APS grant that funded this curriculum and part of the team that guided its development. He was an instructor at the first pilot workshop.
+- **Ralf Kotulla** has instructed at the winter 2023 and 2024 AAS workshops. 
+
 - Mention any specific roles of team members, such as curriculum development, logistics, or instruction.
 - Include a brief note on how the team's composition supports the workshop's objectives and how their expertise will ensure the delivery of high-quality training.
 
@@ -32,8 +32,12 @@ The hands-on curriculum leverages two major astronomical datasets: the Gaia sate
 The workshop emphasizes practical skills like crafting complex queries, managing data with Pandas DataFrames and Astropy Tables, and customizing detailed plots. Furthermore, it introduces best practices in creating reproducible workflows and transforming coordinates between common systems, enhancing both the efficiency and impact of astronomical research. This initiative aligns closely with the goals of the Astropy project, promising to enrich the astronomical community's capabilities in data science and open new avenues for discovery and analysis.
 
 More about diversity and inclusion.
+- conferences we're choosing
+- Carpentries: inclusive community, open-access curriculum
 
 More about connection to astropy.
+- introducing astropy and its affiliated packages to a more diverse community, attracting contributers and users from that community
+- astropy packages: coordinates, units, Tables, in the context of an astronomical workflow and big data tools that are coming with surveys that are on the horizon
 
 ### Project / Work
 
@@ -45,16 +49,17 @@ The team required is 2 instructors and 2 helpers. The instructors will be recrui
 
 ### Approximate Budget
 
-Overall organization will be done by the team on our own time. The expenses we request support include:
-
-- Travel:
+Overall organization will be done by the team on our own time. We plan to hold two workshops. For each workshop we assume 50 participants, two instructors, and two helpers. We assume instructors will require airfare, three nights hotel, and M&I, while helpers are assumed to be local. For each workshop, we request  support for:
+Total per workshop: $10,000 
+- Travel: $2000 per instructor ($4000 total)
 - Conference registraion:
-- Materials:
-- Room reservation:
-- Refreshments: 
+    * $725 (professional registration for instructors; $1450 total)
+    * $450 (student registration for helpers; $900 total)
+- Venue (incl. A/V support): $1650
+- Refreshments: $20/person/day ($2000 total)
 
 Currency: US $
-TOTAL: 
+TOTAL: 20,000
 
 ### Period of Performance
 
