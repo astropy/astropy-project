@@ -5,10 +5,10 @@
 The team consists of a the members of the Advisory Comittee for the Carpentries Astronomical Data Science curriculum. This group has been meeting semi-annually for the last 2 years in order to oversee the development of these materials. All of these members are at the intersection of the Carpentries community, open-source astronomy community, and the astronomical data science community. Most of the committee members are trained Carpentries instructors and have delivered workshops using these materials at different venues including the AAS meetings.
 
 The members of the Advisory Comittee currently are:
-- **Azalee Bostroem** has been involved with this curriculum since its inception as a co-PI on the APS venture partnership grant which funded its development. She lead the development effort and served as a lesson maintainer for its first year as an official Carpentries Curriculum. She is now the chair of the curriculum advisory committee and organizes and instructs workshops, including at AAS meetings. She will help organize the workshops in this proposal and instruct as needed.
+- **Azalee Bostroem** is an LSST-DA Catalyst fellow at University of Arizona and has been an instructor with the Carpentries since 2012.  She was a co-PI on the APS venture partnership grant which funded the development of this curriculum, led the development effort, and served as a lesson maintainer for its first year as an official Carpentries Curriculum. She is now the chair of the curriculum advisory committee and organizes and instructs workshops, including at AAS meetings. She will help organize the workshops in this proposal and instruct as needed.
 - **Ivelina Momcheva** helped organized a pilot workshop at STScI and was lead instructor at the summer 2022 AAS meeting workshop. She will help organize the workshops in this proposal.
 - **Adam Hughes** is an astronomer turned data scientist. He has been an instructor at the winter and summer 2022 AAS meeting and a pilot workshop at STScI. He is a potential instructor for the workshops in this proposal.
-- **Meredith Rawls** has served as a helper at the first pilot workshop of this curriculum and as an instructor at the Winter 2022 AAS meeting.  She is a potential instructor for the workshops in this proposal.
+- **Meredith Rawls** is a Research Scientist at the University of Washington who works for Vera C. Rubin Observatory. She develops and validates open-source software and data pipelines for Rubin's upcoming Legacy Survey of Space and Time. She became a certified Carpentries Instructor in 2017, has helped several organizations put on successful software and data science workshops and bootcamps, led an eScience Data Science for Social Good summer project in 2022, and is a tireless advocate for open data in her increasingly urgent work on satellite constellation interference mitigation.has served as a helper at the first pilot workshop of this curriculum and as an instructor at the Winter 2022 AAS meeting.  She is a potential instructor for the workshops in this proposal.
 - **Heather Andrews Mancilla** is the secretary of the curriculum advisory committee and helped organize a pilot workshop at the eScience center in Delft. She will help organize the workshops in this proposal.
 
 Additional support: the curriculum lesson maintainers are also potential instructors for these workshops.
@@ -33,7 +33,7 @@ The workshop emphasizes practical skills like crafting complex queries, managing
 
 More about diversity and inclusion.
 - conferences we're choosing
-- Carpentries: inclusive community, open-access curriculum
+The Foundations of Astronomical Data Science Curriculum is an open-access Carpentries curriculum. At its core, the Carpentries value diversity, inclusivity, access, community, and empowering everyone to build knowledge. Carpentries instructors are trained to use evidence-based techniques to create an inclusive classroom. 
 
 More about connection to astropy.
 - introducing astropy and its affiliated packages to a more diverse community, attracting contributers and users from that community
