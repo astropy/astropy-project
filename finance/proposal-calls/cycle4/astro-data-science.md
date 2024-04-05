@@ -2,7 +2,7 @@
 
 ### Project Team
 
-The team consists of a the members of the Advisory Comittee for the Carpentries Astronomical Data Science curriculum. This group has been meeting semi-annually for the last 2 years in order to oversee the development of these materials. All of these members are at the intersection of the Carpentries community, open-source astronomy community, and the astronomical data science community. Most of the committee members are trained Carpentries instructors and have delivered workshops using these materials at different venues including the AAS meetings.
+The team consists of a the members of the Advisory Comittee for the Carpentries [Astronomical Data Science curriculum](https://datacarpentry.org/astronomy-python/). This group has been meeting semi-annually for the last 2 years in order to oversee the development of these materials. All of these members are at the intersection of the Carpentries community, open-source astronomy community, and the astronomical data science community. Most of the committee members are trained Carpentries instructors and have delivered workshops using these materials at different venues including the AAS meetings.
 
 The members of the Advisory Comittee currently are:
 - **Azalee Bostroem** is an LSST-DA Catalyst fellow at University of Arizona and has been an instructor with the Carpentries since 2012.  She was a co-PI on the APS venture partnership grant which funded the development of this curriculum, led the development effort, and served as a lesson maintainer for its first year as an official Carpentries Curriculum. She is now the chair of the curriculum advisory committee and organizes and instructs workshops, including at AAS meetings. She will help organize the workshops in this proposal and instruct as needed.
@@ -19,8 +19,8 @@ Additional support: the curriculum lesson maintainers are also potential instruc
 
 In this proposal we request funding to carry out two workshops within the next 12 months at conferences which bring together minotiry researchers. The events we are targetting are:
 
-- 2024 NDISTEM Conference organized by SACNAS, Oct 31st - Nov 2nd in Phoenix, AZ
-- NSBP and National Society of Hispanic Physicists 2024 Annual Conference in Houston, TX in November 2024
+- [2024 NDISTEM Conference](https://www.sacnas.org/conference) organized by SACNAS, Oct 31st - Nov 2nd in Phoenix, AZ
+- [NSBP and National Society of Hispanic Physicists 2024 Annual Conference](https://nsbp.org/events/EventDetails.aspx?id=1837931) in Houston, TX, November 13-17, 2024
 
 Our Astronomical Data Science Workshops aim to empower undergraduate students, early-career researchers, and educators in astronomy with critical data science skills, focusing on the Foundations of Astronomical Data Science curriculum. This curriculum is designed to equip learners with the abilities to handle large astronomical datasets, perform advanced database operations such as SQL queries, joins, and filtering, and produce publication-quality data visualizations. Over approximately 10 hours, participants will delve into software packages widely used in data science, including Pandas for data management, Astropy for astronomy-specific tasks, and Astroquery for accessing remote databases.
 
@@ -29,7 +29,6 @@ The hands-on curriculum leverages two major astronomical datasets: the Gaia sate
 The workshop emphasizes practical skills like crafting complex queries, managing data with Pandas DataFrames and Astropy Tables, and customizing detailed plots. Furthermore, it introduces best practices in creating reproducible workflows and transforming coordinates between common systems, enhancing both the efficiency and impact of astronomical research. This initiative aligns closely with the goals of the Astropy project, promising to enrich the astronomical community's capabilities in data science and open new avenues for discovery and analysis.
 
 The proposed workshops, held at events for minority researchers and utilizing open-source curriculum to teach data science skills, actively work to reduce the systemic barriers to entry into the data science field and astronomical research. By providing high-quality, accessible educational opportunities, we aim to empower underrepresented groups with the skills needed to excel in data science and astronomical research with the large surveys comming online in the next few years. At its core, the Carpentries value diversity, inclusivity, access, community, and empowering everyone to build knowledge. Carpentries instructors are trained to use evidence-based techniques to create an inclusive classroom. Supporting this initiative would demonstrate a committed effort to support the professional growth and representation of minority researchers in astronomical data science.
-
 
 The Astronomical Data Science curriculum is designed to integrate core Astropy packages — such as coordinates, units, and Tables — within the context of an astronomical workflow. It also goes includes in-depth use cases of affiliated packages such as astroquery and gala. At the end of Day 1, we will include a session to introduce the Astropy project, discussing how participants can engage with and contribute to the community through various channels, fostering a collaborative and inclusive environment for scientific advancement. By introducing Astropy and its affiliated packages through these workshops, we aim to attract contributors and users from underrepresented groups, thereby enriching the Astropy project with a wider range of insights and experiences. 
 
