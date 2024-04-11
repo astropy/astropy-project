@@ -43,7 +43,13 @@ Across our three person team, we have the domain-specific (open science and OSS)
 How does this benefit Astropy packages / users / community / ...? Short summary.
 
 
-Details here as needed for Astropy community members to understand what is planned.
+### Details here as needed for Astropy community members to understand what is planned: 
+
+Back in 2023, we had originally proposed that we act as a community manager for a period of time in order to build a foundation for the work of an eventual full-time community manager. This was backed-off of as a suitable candidate was found (and our budget reduced), so we've defaulted to a supporting role in the past year. During that work we created and reported on the [community survey](https://astropy-report.orgmycology.com/), worked to develop tooling for the community manager to [observe and track systems](https://github.com/astropy/community_management/tree/main/scripts), coached the community manager weekly, and conducted a DEI Survey (report forthcoming). We're back to support and continue to keep a focus on community engagement and development activities that can enhance the Astropy community. 
+
+In this proposal, roughly half of this proposal (community manager support, qualitative inquiry coaching, and technical skills support) is continued support for the community manager, and the other half is 2-3  projects that our team will lead, seeking to use to build capability and capacity across Astropy. One of those projects, skills mapping, clearly helps define what community development in both developer and user spaces would look like.
+
+The other two optional areas, we'd like to co-create a few activities that are priority areas for the community based on the insights from our survey last year. There is a clear need for Astropy to do more than it is presently doing in areas of concern raised by the community. We're keen to co-create next-steps and tangible actions here. We've observed that this community work is very low on the priority list, and there is a strategic risk for Astropy in continuing to leave it there. With our modest budget, we hope to keep nudging along a few key important areas, and we're keen to co-create what feel most-important to you all at this present moment. 
 
 ### Approximate Budget
 Currency: US $
@@ -60,9 +66,7 @@ Currency: US $
 
 ### Period of Performance
 
-6 Months starting April-September 2024 (could be readily extended if the community sees needs for this support longer-term)
-
-
+6 Months starting May-October 2024 (could be readily extended if the community sees needs for this support longer-term)
 
 # OrgMycology Terms
 
@@ -77,7 +81,6 @@ Cancellation Policy – 50% of our fees may be incurred for cancellation 10 to 5
  
 Any non-refundable expenses such as travel and accommodation that have already been booked will be charged in full.
 
-Travel (if applicable): Passed on at cost.  We are also happy for your team to book any travel or accommodation directly. Efforts will be made to share travel expenses with other clients, and to use Zoom/Teams where appropriate.
 
 ## Risks 
 
