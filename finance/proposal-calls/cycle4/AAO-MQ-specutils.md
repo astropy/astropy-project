@@ -53,19 +53,125 @@ implementation of cross-correlation of spectra using Fast Fourier Transforms.
 1. We plan to introduce into specutils a regularised framework for user contributed
 algorithms.  We have experience in contributing to specutils loaders, used by
 our team to ingest spectra into Data Central.
+   * This framework aims to provide the required interfaces to enable specutils
+     to become what IRAF and EsoRex/EsoReflex provide to astronomers: a
+     trustworthy environment that aims to reduce the amount of code written by
+     individual astronomers, and instead rely on configuration files and short
+     code snippets to drive their reduction and analysis pipelines.
+   * Such a framework will use our experience in developing
+     [PyCPL/PyEsoRex](https://www.eso.org/sci/software/pycpl/)
+     around the ESO Pipelines, which allows for interacting with and developing
+     recipes in Python, meaning that the pipelines can be easily extended and
+     adapted to meet specific science needs, without requiring that astronomers
+     become familiar with the intricate details of the pipelines (or require
+     that they become numerical analysts tracing sources of error introduce due
+     to misuse of numerical algorithms or libraries).
+   * This framework also aims to sit in a similar space as other parts of the
+     astropy ecosystem, such as the astropy I/O registry abstracting over the
+     detecting, reading and writing to files the various astropy classes, or
+     astroquery providing a standardised interface to many data providers. In
+     the same way that the registry framework lets users get a `Spectrum1D` from
+     various files and sources and use it in the same way, this framework would
+     abstract over the choice of algorithms and their parameters, meaning that
+     users would be able to rapidly switch between different algorithms for
+     producing the same result, such as computing the redshift of a galaxy.
+
 
 1. An example contributed algorithm will be provided, namely a Fast Fourier
 Transform (FFT) cross-correlation.  This consists of two steps:
 
    1. Interpolating the spectra and templates to a common (log) wavelength binning;
    1. Computing the FFTs, inverting the combined result, and shifting the output
-such that it aligns with the redshift bins.  We will adapt existing code
-developed by our team when porting the MARZ redshifting code 
-(Hinton et al. 2016, A&C, 15, 61) from Javascript to Python. The code has been
-thoroughly tested and validated, addressing the shortcomings of the original codebase.
+      such that it aligns with the redshift bins.
+
+We will adapt existing code developed by our team when porting the MARZ
+redshifting code (Hinton et al. 2016, A&C, 15, 61) from Javascript to Python.
+The code has been thoroughly tested and validated, addressing the shortcomings
+of the original codebase. The choice to implement the FFT code is due to us
+being familiar with said codebase, and that there are a large number of
+parameters/choices that are available in the algorithm, even though conceptually
+the algorithm is quite simple, thereby providing a useful demonstration of how
+the framework will operate. For example, being able change which templates
+are used in the computation of redshift via a file verses having to modify code
+allows for better traceability of results, as well as allowing for more novice
+users to be able to provide input into the science.
+
+Whilst such a regularised framework sounds quite heavyweight and burdensome,
+that is not what we set out to do. Instead, the framework will aim to be simple
+to use, even for quite novice developers and astronomers. The key aspects are
+the ability to apply the same algorithm across many spectra, the ability to
+run a pipeline with varying choice of parameter on the same spectra, and finally
+to keep track of what choices produced a specific result. A python-like
+pseudo-code design of what the framework might look like is below:
+
+```
+class Algorithm:
+    def __init__(self, config):
+        # process config, check that parameters are valid, do any initial setup
+
+    def run(self, spec):
+        # run the algorithm on a single spectrum, returning a new Spectrum1D
+
+    def run_many(self, spec):
+        # run the algorithm across many spectra
+
+    @classmethod
+    def read_from_file(self, filename):
+        # load the config from a file
+        # it would make sense to allow for various config file formats to be
+        # supported via the I/O registry
+
+    def write_config(self, filename):
+        # write the config to a file
+
+    def new_from_config(self, new_config):
+        # create a new instance where the new config replaces the old config
+        # would allow replacing specific parameters whilst making the algorithm
+        # class effectively immutable
+```
+
+And how a user might use the framework in their code:
+
+```
+redshifter = Redshifter.read_from_file("myconfig.cfg")
+input_dir = Path("input")
+output_dir = Path("output")
+
+for filename in inputdir.glob("input/*.fits):
+    spec = Spectrum1D.load(filename)
+    new_spec = redshifter.run(spec)
+    out_filename = output_dir.joinpath(filename.name)
+    new_spec.write(out_filename)
+```
+
+It would be expected that smaller components would be used to build bigger ones.
+For example, raw spectra are not passed immediately to the FFT cross-correlation
+algorithm, instead there are a bunch of pre-processing steps (relating to how
+lines and the continuum are treated), so you could provide a pre-processing
+algorithm, and then wrap the pre-processing algorithm and the FFT
+cross-correlation as a single redshifting algorithm.
+In many ways, this can be though of as applying a "Configuration-as-Code"
+philosophy to science pipelines, trying to make such pipelines more reproducible.
+
+#### Indicative time estimates of each of the phases
+
+1. Framework design/development: 175 hours
+2. Adding log-wavelength storage support and FFT cross-correlation across the astropy ecosystem (this will
+   touch specutils, ndcube, and astropy, simply because of subclassing, and we
+   need to fully test that there is no accidental re-binning or
+   re-interpolation, which will require the FFT cross-correlation to be
+   developed in parallel): 315
+3. Developing fully-worked examples (including notebooks) showing how to use the
+   new redshifting algorithm: 140 hours
 
 ### Future Work
 We are keen to make substantial contributions to specutils in the future.
+
+Some possible projects that could flow on from this work would include:
+    * Developing examples of how to use the above framework as part of a
+      pipeline using PyEsoRex.
+    * Contributing additional new algorithms, or porting over/wrapping existing
+      algorithms based on our ESO pipelines and 2dfdr.
 
 ### Approximate Budget
 This funding application is to cover staff time. We estimate 630 hours of effort
