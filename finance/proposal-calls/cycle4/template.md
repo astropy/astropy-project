@@ -15,12 +15,12 @@ The approximate budget should be specified in USD. However, we are open to spend
 
 Include overheads, fringe, etc. if money is paid as sub-grant (note that the Moore grant caps overhead at 15%).
 
-- Travel:
-- Conference Registrations:
 - Salary / contractor fees etc. (give sum here, details about contract, payment method (contract/sub-award) etc. can be worked out with the finance committee later)
 - TOTAL
 
-Please note that we would happily accept budget items other than travel, conference registration, and staff.
+Please note that we would happily accept budget items other than the above.
+
+Travel and conference registration should be submitted separately as needed.
 
 ### Period of Performance
 
