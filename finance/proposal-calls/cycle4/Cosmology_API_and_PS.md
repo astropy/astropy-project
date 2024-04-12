@@ -61,6 +61,11 @@ I estimate this project will take fewer than 200 hours. At 100 USD/hour, the bud
 
 USD$ 20,000
 
+For a project only encompassing the first scope, that of direct implementation of the Cosmology API in Astropy Cosmology, we estimate a budget
+of half the total amount:
+
+USD$ 10,000
+
 
 ### Period of Performance
 
