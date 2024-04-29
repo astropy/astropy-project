@@ -1,6 +1,6 @@
 Hi {RECIPIENT_NAME},
 
-I'm writing on behalf of Astropy's Finance Committee regarding the outcome of your recent Funding Request [PR#{PR_NUMBER}](https://github.com/astropy/astropy-project/pull/{PR_NUMBER}).
+I'm writing on behalf of Astropy's Finance Committee regarding the outcome of your recent Funding Request.
 
 We are sorry to report that your proposal could not be funded during this funding Cycle. We will be closing the FR as a result.
 
