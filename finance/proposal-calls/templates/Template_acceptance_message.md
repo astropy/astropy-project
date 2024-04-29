@@ -1,7 +1,8 @@
 Hi {RECIPIENT_NAME},
+
 I'm writing on behalf of Astropy's Finance Committee regarding the outcome of your recent funding request [PR#{PR_NUMBER}](https://github.com/astropy/astropy-project/pull/{PR_NUMBER}). We have opened a new issue [#{ISSUE_NUMBER}](https://github.com/astropy/astropy-project/issue/{ISSUE_NUMBER}) to track the progress.
 
-We are pleased to be able to let you know that, following consultation with the community, we are able to approve this request. **We can currently fund the Year 1 amount of ${DOLLAR} (US) to carry out the project**. Funding beyond this amount will be contingent upon the availability of funds. (We will be using the full budgets of all of the approved requests to craft future grant and funding proposals.) 
+We are pleased to be able to let you know that, following consultation with the community, we are able to approve this request. **We can currently fund the Year 1 amount of ${DOLLAR} (US) to carry out the project**.  Funding beyond this amount will be contingent upon the availability of funds. (We will be using the full budgets of all of the approved requests to craft future grant and funding proposals.) We assume you will be using this full year 1 budget, if that is not the case please contact us immediately.
 
 Ana Gabela and I will be your contacts on the Finance Committee to facilitate this award. Please get in touch with us if you have any questions or concerns. Please do not reach out to NumFOCUS directly.
 
