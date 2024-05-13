@@ -11,9 +11,9 @@ This directory holds documents of policies for the Astropy Project.  For example
   - Bi-weekly closed meetings on Project calendar
   - Private slack channel
 - External Communication
-  - Email: coordinators@astropy.org
+  - Email: coordinators at astropy dot org
   - Github team [@astropy/coordinators](https://github.com/orgs/astropy/teams/coordinators)
-  - Quarterly updates to email lists.
+  - "State of Astropy" presentation at Astropy Coordination Meetings.
 
 ### Finance Committee
 - Policies
@@ -25,8 +25,9 @@ This directory holds documents of policies for the Astropy Project.  For example
   - Weekly closed meetings on Project calendar
   - DM group
 - External Communication
-  - Email: finance@astropy.org
+  - Email: finance at astropy dot org
   - #finance-committee Slack channel
+  - Private Slack channel for confidential items
   - Quarterly-ish updates to email lists.
 
 ### Learn Team
@@ -36,12 +37,9 @@ This directory holds documents of policies for the Astropy Project.  For example
 
 ### Infrastructure/DevOps Team
 - Policies: No formal policies. 
-- Records: [Running Notes](https://docs.google.com/document/d/15JSFh3OMF9Iz6ov3q_xxGO_BL8hRnuse4IMUrqEIvcg/edit)
+- Records: Archival [Running Notes](https://docs.google.com/document/d/15JSFh3OMF9Iz6ov3q_xxGO_BL8hRnuse4IMUrqEIvcg/edit)
 - Communication (all open):
-  - Regular open meetings on Project calendar
   - #infrastructure Slack channel
   - Github team: [@astropy/devops-maintainers](https://github.com/orgs/astropy/teams/devops-maintainers) 
     (this group only contains a subset of those who attend the tag-ups)
   - Open issues/PRs on relevant Astropy org GitHub repos and tag @astropy/devops-maintainers.
-
-
