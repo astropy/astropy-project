@@ -11,6 +11,9 @@
 - [Infrastructure, Documentation](#Infrastructure-Documentation)
 - [Government, Management, and Personnel](#government-management-and-personnel)
 
+
+See the [Roadmap Completed Items](COMPLETED.md) page for items that have been completed and removed from the roadmap.
+
 ## Introduction
 
 This Roadmap captures high level actionable items that we as a project aim to undertake to improve the health and stability of the Astropy project. The Roadmap itself is a static document, however it will be revisited regularly at the Astropy coordination meetings, to keep track of progress and write new versions as needed.
