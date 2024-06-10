@@ -3,7 +3,6 @@
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
-- [Project Board](#Roadmap-2021-Project-Board)
 - [Functionality](#Functionality)
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
