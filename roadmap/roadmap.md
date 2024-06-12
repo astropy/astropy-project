@@ -3,13 +3,15 @@
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
-- [Project Board](#Roadmap-2021-Project-Board)
 - [Functionality](#Functionality)
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
 - [Infrastructure, Documentation](#Infrastructure-Documentation)
 - [Government, Management, and Personnel](#government-management-and-personnel)
+
+
+See the [Roadmap Completed Items](COMPLETED.md) page for items that have been completed and removed from the roadmap.
 
 ## Introduction
 
