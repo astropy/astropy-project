@@ -108,9 +108,9 @@ As a commnunity driven project the long term health and development of the Astro
 
 This category encompasses goals related to governing and managing the people of the Astropy Project to facilitate reaching the goals described elsewhere in this document.
 
-- :large_orange_diamond: Adopt the NumFOCUS Code of Conduct (CoC) and build a community ombuds/CoC team to curate the guidelines and enforce them.
-
 - :green_circle: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external labor.
+
+- :large_orange_diamond: Adopt the NumFOCUS Code of Conduct (CoC) and build a community ombuds/CoC team to curate the guidelines and enforce them.
 
 - :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled Team positions.
 
