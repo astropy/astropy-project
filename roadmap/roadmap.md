@@ -1,13 +1,14 @@
 # The Astropy Roadmap
-**Latest revision: May 2023**
+**Latest revision: June 2024**
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
 - [Functionality](#Functionality)
+- [Infrastructure, Documentation](#Infrastructure-Documentation)
+- [Interoperability and compatibility](#Interoperability-and-compatibility)
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
-- [Infrastructure, Documentation](#Infrastructure-Documentation)
 - [Government, Management, and Personnel](#government-management-and-personnel)
 
 
@@ -36,52 +37,81 @@ This Roadmap captures high level actionable items that we as a project aim to un
 
 ## Functionality
 
-- :large_orange_diamond: Provide next-generation spectroscopic reduction, analysis, and visualization tools usable by individual researchers and larger surveys.
+The core product of the Project is high quality Astronomical software, including both the common core package and affiliated packages. This category encompasses goals having to do with this core Project functionality.
 
-- :large_orange_diamond: Improve support and validation for input/output of standard file formats used in Astronomy by improving the unified I/O system.
+- :green_circle: Provide next-generation spectroscopic analysis tools usable by individual researchers and larger surveys.
 
-- :large_orange_diamond: Improve interoperability and compatibility, while reducing duplication, amongst Astropy-affiliated packages and other community standard software.
+- :green_circle: Add quantity support for non-NumPy arrays.
+
+- :large_orange_diamond: Provide next-generation spectroscopic reduction tools usable by individual researchers and larger surveys.
+
+
+## Infrastructure, Documentation
+
+Underlying all Astropy packages is critial infrastucture that ensures high quality, well-documented software is released. This category emcompasses goals having to do with this infrastructure and documentation.
+
+
+- :green_circle: Implement robust performance benchmark reporting.
+
+- :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
+
+- :large_orange_diamond: Revive dashboards for developers (CI status etc) and community (PR trends etc).
+
+
+## Interoperability and compatibility
+
+One of the core principles of the Astropy Project is to "foster an ecosystem of interoperable astronomy packages." This category encompasses goals related to that principle of interoperability and compatibility.
+
+- :green_circle: Improve support and validation for input/output of standard file formats used in Astronomy by improving the unified I/O system: allowing user added classes/formats, and implementing GWCS.
+
+- :red_square: Unify unit packages.
+    
 
 ## Hardware and Performance
+
+Astronomers perform their work in a variety of computing environments with a variety of requirements. This category encompasses goals related to supporting the performance and hardware needs of Astropy Project users, as well as  anticipating future needs and requirements.
 
 - :large_orange_diamond: Improve and/or maintain interoperability with performant I/O file formats and libraries such as HDF5 and Dask.
 
 - :red_square: Improve support for using Astropy tools in heterogeneous computing environments such as cloud environments or GPU systems.
 
+- :red_square: Add basic pyscript/webassembly support in Astropy.
+
+
 ## Learn and User Support
+
+The Astropy Project cannot succeed in its core objectives without a robust user onboarding and support system.  This category is for items related to the Astropy Learn ecosystem and other user support related improvements.
 
 - :green_circle: Generate and ingest guides and/or a series of tutorials that demonstrate Astropy Project functionality in the context of astronomical research.
 
--  :large_orange_diamond: Update Astropy website: Rework the Team page and improve the visibility of Astropy Learn.
+-  :large_orange_diamond: Update Astropy website to improve the visibility of Astropy Learn and overall reflect the Project as a whole, not just the core package.
 
-- :large_orange_diamond: Expand and build on workshop offerings by recruiting and training more facilitators and expanding the geographic diversity of meetings where we offer workshops. 
+- :large_orange_diamond: Develop tutorials that demonstrate the use of Astropy for spectroscopy tasks.
 
-- :large_orange_diamond: Expand the number and diversity of active user support resources.
+- :red_square: Expand and build on workshop offerings, including online and increased geographic coverage.
 
-- :red_square: Develop tutorials that demonstrate the use of Astropy for spectroscopy tasks.
+- :red_square: Develop/harvest tutorials suitable for use in university astronomy courses.
 
-- :red_square: Develop/harvest tutorials suitable for use in university astronomy courses. 
 
 ## Community Building and Sustainability
 
-- :large_orange_diamond: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors.
+As a commnunity driven project the long term health and development of the Astropy community is an intrinsic part of the Project. This category encompasses goals related to growing and maintining that community, and ensuring it adheres to the core principles of inclusion and consensus-building.
 
-- :large_orange_diamond: Better understand Astropy user community through a NumPy-like user survey (see [this summary](https://numpy.org/user-survey-2020-details/) of their results).
+- :green_circle: Better understand Astropy user community through a NumPy-like user survey (see [this summary](https://numpy.org/user-survey-2020-details/) of their results).
+
+- :large_orange_diamond: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors.
 
 - :red_square: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improve our understanding of the demographics of our communities in order to measure the effectiveness of these efforts.
 
-## Infrastructure, Documentation
-
-- :green_circle: Implement integration testing for core, coordinated, and infrastructure packages.
-
-- :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
-
-- :red_square: Implement robust performance benchmark reporting.
 
 ## Government, Management, and Personnel
 
+This category encompasses goals related to governing and managing the people of the Astropy Project to facilitate reaching the goals described elsewhere in this document.
+
 - :large_orange_diamond: Adopt the NumFOCUS Code of Conduct (CoC) and build a community ombuds/CoC team to curate the guidelines and enforce them.
 
-- :large_orange_diamond: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external labor.
+- :green_circle: Develop a process for recruiting, selecting, and managing personnel to complete Project priorities that require external labor.
 
-- :red_square: Document the process for taking on a formal role in the Astropy project and recruit for unfilled Team positions.
+- :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled Team positions.
+
+- :large_orange_diamond: Implement a strategic planning role.
