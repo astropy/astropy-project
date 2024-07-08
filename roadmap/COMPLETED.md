@@ -6,7 +6,7 @@ This document is in reverse chronological order.
 
 ## June 2024
 
-### Infrastructure,  Documentation
+### Infrastructure, Documentation
 
 - Implement integration testing for core, coordinated, and infrastructure packages.
 
