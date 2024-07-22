@@ -53,9 +53,9 @@ Underlying all Astropy packages is critical infrastructure that ensures high qua
 
 - :green_circle: Implement robust performance benchmark reporting.
 
-- :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
+- :green_circle: Revive dashboards for developers (CI status etc) and community (PR trends etc).
 
-- :large_orange_diamond: Revive dashboards for developers (CI status etc) and community (PR trends etc).
+- :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
 
 
 ## Interoperability and compatibility
