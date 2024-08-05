@@ -4,6 +4,13 @@ This document is a list of former Astropy Roadmap items that have been removed b
 They are listed by the date of the revision they were first removed from.
 This document is in reverse chronological order.
 
+## June 2024
+
+### Infrastructure, Documentation
+
+- Implement integration testing for core, coordinated, and infrastructure packages.
+
+
 ## May 2023
 
 ### Functionality
