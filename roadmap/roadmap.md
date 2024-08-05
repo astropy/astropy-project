@@ -55,7 +55,7 @@ Underlying all Astropy packages is critical infrastructure that ensures high qua
 
 - :green_circle: Revive dashboards for developers (CI status etc) and community (PR trends etc).
 
-- :large_orange_diamond: Improve documentation for infrastructure setup, as well as the developer documentation.
+- :green_circle: Improve documentation for infrastructure setup, as well as the developer documentation.
 
 
 ## Interoperability and compatibility
@@ -95,7 +95,7 @@ The Astropy Project cannot succeed in its core objectives without a robust user 
 
 ## Community Building and Sustainability
 
-As a commnunity-driven project, the long term health and development of the Astropy community is an intrinsic part of the Project. This category encompasses goals related to growing and maintaining that community, and ensuring that it adheres to the core principles of inclusion and consensus-building.
+As a community-driven project, the long term health and development of the Astropy community is an intrinsic part of the Project. This category encompasses goals related to growing and maintaining that community, and ensuring that it adheres to the core principles of inclusion and consensus-building.
 
 - :green_circle: Better understand Astropy user community through user surveys (Organization mycologey reports: [Astropy Community Engagement](https://astropy-report.orgmycology.com), [Community views on diversity, equity, and inclusion in the Astropy project](https://astropy-dei.orgmycology.com)).
 
