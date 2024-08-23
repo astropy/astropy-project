@@ -13,7 +13,7 @@ which is highlighted in the process below.
 
 The process is:
 
-1. A voting member sends a message to the person nominated, making sure they
+1. A voting member or maintainer in a related role sends a message to the person nominated (with the CoCo in the cc), making sure they
    understand the role, its responsibilities, and confirming that the nominee agrees. 
    ([suggested text](https://github.com/astropy/astropy-project/blob/main/messages/maintainer_access.md)).
 2. The nominee should also be asked (generally but not necessarily in the
