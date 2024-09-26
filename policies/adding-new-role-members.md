@@ -13,9 +13,10 @@ which is highlighted in the process below.
 
 The process is:
 
-1. A Coordination Committee member sends a message to the person
-   nominated, making sure they understand the role, its responsibilities, and
-   confirming that the nominee agrees. 
+1. A voting member or maintainer in a related role, after consulting with other members in
+   related roles, sends a message to the person nominated (with the Coordination Committee
+   in the cc), making sure they understand the role, its responsibilities, and confirming
+   that the nominee agrees.
    ([suggested text](https://github.com/astropy/astropy-project/blob/main/messages/maintainer_access.md)).
 2. The nominee should also be asked (generally but not necessarily in the
    message above) to confirm they agree the Code of Conduct, and that they are
@@ -23,7 +24,10 @@ The process is:
 3. If the nominee does not accept, the process stops here.
 4. If the nominee does accept, a PR is made adding the member to the roles page as a 
    place for public comment.
-5. A message linking to the PR is sent to the community by a Coordination Committee member, starting a two-week clock on    the feedback period [as required by APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst#responsibilities-and-authority).
+5. A message linking to the PR is sent to the community
+   ([suggested text](https://github.com/astropy/astropy-project/blob/main/messages/role_annoucement.md)),
+   starting a two-week clock on the feedback period
+   [as required by APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst#responsibilities-and-authority).
 6. Once the two week period has elapsed, the Coordination Committee makes a
    final decision based on any feedback.
 7. If the appointment is confirmed, the PR from Step 4 is merged and the nominee is added to the [roles page](https://www.astropy.org/team).
