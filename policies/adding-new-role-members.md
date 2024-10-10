@@ -19,7 +19,7 @@ The process is:
    that the nominee agrees.
    ([suggested text](https://github.com/astropy/astropy-project/blob/main/messages/maintainer_access.md)).
 2. The nominee should also be asked (generally but not necessarily in the
-   message above) to confirm they agree the Code of Conduct, and that they are
+   message above) to confirm they agree to abide by the Code of Conduct, and that they are
    aware of guidelines relevant to the role.
 3. If the nominee does not accept, the process stops here.
 4. If the nominee does accept, a PR is made adding the member to the roles page as a 
