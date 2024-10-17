@@ -1,0 +1,38 @@
+%% Fill out here the definitions for all the project's relevant variables:
+%% name, contributors, address, etc.
+
+%% Comment this out to remove the DRAFT watermark
+\usepackage{draftcopy}
+
+%% Declare here the actual values of the various terms for each agreement
+
+% Official name of the project, e.g. ``NumPy''
+\renewcommand{\project}{\textbf{The Astropy Project}}
+
+% All the names of the contributors of the project which will sign the document
+% Every name listed here will also have to be listed in the final signature
+% section
+\renewcommand{\contributors}{\textbf{Perry Greenfield, Thomas P. Robitaille, Erik J. Tollerud, Tom Aldcroft, and James E. H. Turner}}
+
+% Name given to the signatories group, such as ``NumPy developers''
+\renewcommand{\signatories}{\textbf{Astropy developers}}
+
+% Name given to the fiscal management team for the project, e.g. ``NumPy fiscal
+% team''
+\renewcommand{\fiscalteam}{\textbf{Astropy Fiscal Team}}
+
+% Size of the project's fiscal management team
+\renewcommand{\teamsize}{\textbf{5 members}}
+
+% Mailing address for the leadership body, can be the personal address
+% of one of the members
+
+% Note: to prevent the posting of private mailing address to a public github
+% repo, we can read this from a file named address.tex which should NOT be
+% committed to git.
+\IfFileExists{address.tex}{
+\input{address} }
+
+% Date at which the agreement becomes enforceable
+\renewcommand{\agreementdate}{\textbf{DD day of MM, 20YY}}
+

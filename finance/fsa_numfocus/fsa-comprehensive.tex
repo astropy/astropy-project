@@ -1,0 +1,377 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Template for Fiscal Sponsorship Agreement.
+
+% This document was derived from the one used by the Software Conservancy.  Any
+% issues with the current version should be reported to NumFOCUS, as the
+% Software Conservancy is not responsible in any way for NumFOCUS' use.
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[english,letterpaper,12pt]{article}
+
+%% Packages
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{babel}
+\usepackage{mathpazo}
+\usepackage{enumitem}
+\usepackage{parskip}
+\usepackage{fancyhdr}
+\usepackage[verbose, twoside, dvips,
+              paperwidth=8.5in, paperheight=11in,
+              left=1in, right=1in, top=1.25in, bottom=.75in,
+           ]{geometry}
+
+\usepackage{color}
+\definecolor{darkorange}{rgb}{.71,0.21,0.01}
+
+%% Formatting
+\pagestyle{fancy}
+
+\lhead{}
+\rhead{}
+\chead{}
+
+\cfoot{\thepage}
+\lfoot{}
+\rfoot{Initials: \rule{0.25\textwidth}{0.2mm}}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+%% Command definitions
+% Define a \fix{...} command to easily highlight notes for ourselves during
+% discussion.
+\newcommand{\fix}[1]{
+  \textcolor{darkorange} { \textbf{***FIX***} #1 } }
+
+%% We declare a series of macros with placeholder names here, that will be
+%% re-defined by each project in its own definitions file.  In principle, this
+%% file should never be modified unless a project negotiates specific changes,
+%% so any changes to this file will stand out as modifications to the substance
+%% of the agreement and not simply filling in data.
+
+%% Do NOT modify these definitions here!! They are meant only to declare the
+%% commands for the first time, they will get their actual values in the
+%% definitions file loaded below.
+
+% Official name of the project, e.g. ``NumPy''
+\newcommand{\project}{\textbf{PROJECT NAME}}
+
+% All the names of the contributors of the project which will sign the document
+% Every name listed here will also have to be listed in the final signature
+% section
+\newcommand{\contributors}{\textbf{CONTRIBUTOR-NAMES}}
+
+% Name given to the signatories group, such as ``NumPy developers''
+\newcommand{\signatories}{\textbf{SIGNATORIES}}
+
+% Name given to the fiscal management team for the project, e.g. ``NumPy fiscal
+% team''
+\newcommand{\fiscalteam}{\textbf{FISCAL-TEAM-NAME}}
+
+% Size of the project's fiscal management team
+\newcommand{\teamsize}{\textbf{3 or 5 members [Project MUST decide]}}
+
+% Mailing address for the leadership body, can be the personal address
+% of one of the members
+\newcommand{\leadershipaddress}{\textbf{MAILING ADDRESS}}
+
+% Date at which the agreement becomes enforceable
+\newcommand{\agreementdate}{\textbf{DD day of MM, 20YY}}
+
+% Signatures for contributors
+\newcommand{\contributorsig}[1]{
+By: \hspace{0.95em}\rule{0.50\textwidth}{0.2mm} \hfill{}Date: \rule{0.25\textwidth}{0.2mm}
+
+\hspace{2.5em} #1
+
+\vspace{2ex}
+}
+
+%% Load the actual values of the macro definitions for each project
+\input{definitions}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+\begin{center}
+\textsc{\Huge Fiscal Sponsorship Agreement}{\Huge {} } 
+\par\end{center}
+
+\bigskip{}
+
+This Agreement is made by and between the NumFOCUS Foundation (``NumFOCUS'')
+and \contributors{} (the ``\signatories{}'') on behalf of the project known as
+\project{} (the ``Project'') (each, a ``Party''; together, ``the Parties'').
+NumFOCUS is a Texas nonprofit public benefit corporation located in Austin,
+Texas, which has received recognition of exemption from federal income tax under
+Section 501(c)(3) of the Internal Revenue Code (IRC) and classification as a
+public charity under IRC Sections 509(a)(1) and 170(b)(1)(A)(vi).
+
+\textsc{Whereas:}
+
+\begin{enumerate}[label=\Alph*.,ref=\S \Alph*]
+
+\item NumFOCUS’ organizational purpose and charitable goal is to promote the
+  use of accessible and reproducible computing in science and technology
+  through educational programs, support of reproducible scientific research,
+  and promotion of open-source software development, collaborative research
+  tools and documentation.
+
+\item The purpose of the Project is to produce, distribute, document, and
+  improve software and/or documentation that can be freely copied, modified and
+  redistributed, and for which modified versions can also be redistributed
+  (``Open Source Software''), and to facilitate and organize its production,
+  improvement and ease of use.
+
+\item NumFOCUS desires to act as the fiscal sponsor of the Project beginning on
+  the Effective Date (as defined below) to assist the Project in accomplishing
+  its purpose, which NumFOCUS has determined will further NumFOCUS' charitable
+  goals. The \signatories{} desire to manage the Project under the sponsorship
+  of NumFOCUS.
+
+\item NumFOCUS' Board of Directors has approved the establishment of a fund to
+  receive donations of cash and other property earmarked for support of the
+  Project and to make disbursements in furtherance of the Project's mission
+  (the ``Project Fund''). Currently, the principal office of the Project is
+  located at: \leadershipaddress{}.
+
+\end{enumerate}
+
+\medskip{}
+
+\textsc{Now, therefore, the Parties hereby agree as follows:}
+
+\begin{enumerate}[label=\arabic*.,ref=\S~\arabic*]
+\item \textbf{Term of Agreement}. As of the Effective Date, the Project
+joins NumFOCUS, which relationship will continue unless and until
+terminated as set forth in \ref{Termination}. 
+\item \textbf{Project Management and Activities}.
+
+
+\begin{enumerate}[label=\alph*.,ref=\theenumi(\alph*)]
+
+\item \textbf{The \fiscalteam{} Will Manage the Fiscal Interactions of the
+    Project with NumFOCUS}. \label{ProjectManagement} Authority to manage the
+  fiscal decisions made by the Project in regards to all funds held by NumFOCUS
+  is delegated to the \fiscalteam{} as defined in \ref{Representation}.
+  NumFOCUS will only intervene in the program activities to the extent the
+  Project is not in compliance with \ref{OpenSourceSoftware} or
+  \ref{CharitablePurpose} of this Agreement.
+
+\item \textbf{The Project Will Be Open Source
+  Software}. \label{OpenSourceSoftware} NumFOCUS and the \fiscalteam{}
+  agree that any and all software and/or documentation distributed by the
+  Project will be distributed solely as Open Source Software.  NumFOCUS retains
+  the sole right to determine whether Project's software and/or documentation
+  constitutes Open Source Software (as defined herein).
+  
+\item \textbf{Project Not An Agent Of NumFOCUS}. The \signatories{} hereby
+  acknowledge that the Project and the \fiscalteam{} do not and shall not
+  act as an agent for NumFOCUS unless specifically authorized in writing by
+  NumFOCUS to do so.
+
+\end{enumerate}
+
+\item \textbf{Fees}.  In order to defray NumFOCUS' costs of administering the
+  project's funds, NumFOCUS shall deduct an administrative charge equal to a
+  percentage of any donation designated for purposes of the Project, plus any
+  actual processing fees incurred by NumFOCUS for the processing of financial
+  transactions (such as credit card processing fees, bank wires, foreing
+  currency exchange costs, online payment system fees, etc.)  These fees are
+  typically, but not necessarily, on the order of 3\%. The base percentage will
+  be calculated based on the total amount donated to the project during any
+  given year.  The schedule of such administrative charges is as follows:
+
+\begin{enumerate}
+
+\item Total less than \$150,000: 7\% + actual fees.
+
+\item Total between \$150,000 and \$500,000: 6\% + actual fees.
+
+\item Total between \$500,000 and \$1,000,000: 5\% + actual fees.
+
+\item Total exceeding \$1,000,000: 4\% + actual fees.
+
+\end{enumerate}
+
+
+Notwithstanding the above, the \signatories{} agree that should NumFOCUS
+be required to pay any taxes (including but not limited to sales taxes
+and unrelated business taxable income) as the result of any activity
+of the Project and/or activities undertaken by NumFOCUS on the
+Project's behalf, such taxes shall be deducted from the Project Fund.
+
+NumFOCUS will monitor any unrelated business taxable income and
+may require the Project to cease activities generating such income
+if the overall amounts exceed amounts permissible or prudent for NumFOCUS,
+given NumFOCUS' tax exempt status.
+
+\item \textbf{Project Fund/Variance Power}. Beginning on the Effective Date,
+  NumFOCUS shall place all gifts, grants, contributions and other revenues
+  received by NumFOCUS and identified with the Project into a Project Fund to
+  be used for the sole benefit of the Project's mission as that mission may be
+  defined by the \fiscalteam{} from time to time with the approval of
+  NumFOCUS. The \fiscalteam{} will provide to NumFOCUS requests for
+  disbursement of funds in accordance with the project mission. NumFOCUS
+  retains the right to withhold disbursement to the project in the event that
+  project activities violate the NumFOCUS charter.  Additionally, NumFOCUS
+  retains the right to decline incoming funds on behalf of the project in any
+  case where such action would also be in violation of NumFOCUS' charter.
+
+  
+\item \textbf{Project Fund Management / Performance of Charitable
+  Purposes}. \label{CharitablePurpose} All of the assets received by NumFOCUS
+  under the terms of this Agreement shall be devoted to the purposes of the
+  Project, within the tax-exempt purposes of NumFOCUS. The \signatories{} agree
+  not to use its funds or operate in any way which would jeopardize the
+  tax-exempt status of NumFOCUS. No item of revenue shall be earmarked for use
+  in any attempt to influence legislation within the meaning of IRC Section
+  501(c)(3) and no agreement, oral or written, to that effect shall be made
+  between NumFOCUS and any revenue source. NumFOCUS shall not use any portion
+  of the assets to participate or intervene in any political campaign on behalf
+  or in opposition to any candidate for public office, to induce or encourage
+  violations of law or public policy, to cause any private inurement or
+  improper private benefit to occur, nor to take any other action inconsistent
+  with IRC Section 501(c)(3).
+
+\item \textbf{Representation of the Project in
+  NumFOCUS}. \label{Representation}The \signatories{}, each a signatory hereto,
+  hereby establish and comprise the initial members of the \fiscalteam{} to
+  represent the Project in its official communication with NumFOCUS.  The
+  \signatories{} hereby acknowledge that the \fiscalteam{} will be subject
+  to all terms of this Agreement.  On the Effective Date, the \signatories{}
+  hereby transfer all rights, obligations and privileges of this Agreement over
+  to the \fiscalteam{}.
+
+  The \fiscalteam{} shall contain \teamsize{}, and shall designate a single
+  ``Representative'' who will act as the point of contact with NumFOCUS for
+  regular communications.  NumFOCUS reserves the right to request additional
+  information from other members of the \fiscalteam{} beyond the
+  Representative.
+
+  The \fiscalteam{} has discretion on how to nominate and change its
+  members, provided it notify NumFOCUS in writing of any changes made and a new
+  copy of this agreement is signed by the new members at the time of change.
+
+\item \textbf{Conflict of Interest of \fiscalteam{} members}. The \fiscalteam{}
+  shall not consist of a majority of members who are employees of any one
+  for-profit entity or have a significant financial interest in the same.
+  Significant financial interest is defined as receiving income of at least
+  \$5,000 annually, owning Stocks, Bonds, Stock Options or similar instruments
+  with a market value of at least \$5,000, or representing at least 5\% of the
+  total value of the for-profit entity.
+
+  If two (2) or more members have a signifcant financial interest with the same
+  for-profit entity or share an affiliation with a non-profit entity (such as
+  working for the same University), such information must be declared in
+  writing to NumFOCUS. If the NumFOCUS Board of Directors determines by a
+  majority vote that a conflict of interest does exist, they may require the
+  team to change the composition of its \fiscalteam{} within 30 days.
+
+  If NumFOCUS identifies a conflict of interest that is not covered by the
+  language above, NumFOCUS reserves the right to require the team to change the
+  composition of its \fiscalteam{} within 30 days.
+
+\item \textbf{Outstanding Liabilities}. The \signatories{} represent that any
+  liabilities that may be outstanding in connection with the Project have been
+  disclosed to NumFOCUS.
+
+\item \textbf{Termination}. \label{Termination} The \fiscalteam{} or
+  NumFOCUS may terminate this Agreement at any time subject to the following
+  understandings:
+
+\begin{enumerate}[label=\alph*.,ref=\theenumi(\arabic*)]
+
+\item \textbf{Notice and Successor Search}. Either NumFOCUS or the
+  \fiscalteam{} may terminate this Agreement on sixty (60) days' written
+  notice to the other Party, so long as a Successor can be found that meets the
+  following requirements (the ``Successor has Qualified''):
+
+
+\begin{enumerate}[label=\roman*.,ref=\theenumi(\alph{enumii})(\roman*)]
+  
+\item the Successor is another nonprofit corporation which is tax-exempt under
+  IRC Section 501(c)(3),
+  
+\item the Successor is not classified as a private foundation under Section
+  509(a),
+  
+\item the Successor is willing and able to sponsor the Project, and,
+  
+\item the Successor has (a) communicated its willingness to sponsor the Project
+  in writing to NumFOCUS and (b) sent a copy of its 501(c)(3) determination
+  letter to NumFOCUS, and,
+  
+\item the Successor is approved in writing by both Parties by the end of the
+  60-day period, such approval not to be unreasonably withheld.
+  
+\end{enumerate}
+
+\item \textbf{Additional Search Periods}. If the Parties cannot agree on a
+  Successor to sponsor the Project, the \fiscalteam{} shall have an
+  additional 60 days to find a Successor willing and able to sponsor the
+  Project. Any subsequent search periods of any length shall only be granted at
+  NumFOCUS' written permission.
+
+\item \textbf{Transfer to a Successor}. If a Successor has Qualified, the
+  balance of assets in the Project Fund, together with any other assets held or
+  liabilities incurred by NumFOCUS in connection with the Project, shall be
+  transferred to the Successor within thirty (30) days of the approval of the
+  Successor in writing by both Parties or any extension thereof, subject to the
+  approval of any third parties that may be required.
+
+\item \textbf{Termination Without a Successor}. If no Successor is found,
+  NumFOCUS may dispose of Project assets and liabilities in any manner
+  consistent with applicable tax and charitable trust laws.
+
+\item \textbf{\signatories{}' Right to Terminate.}  The \signatories{} hereby
+  acknowledge that they will relinquish any rights to terminate separate from
+  the \fiscalteam{} as of the Effective Date.
+
+\end{enumerate}
+
+\item \textbf{Miscellaneous}. Each provision of this Agreement shall be
+  separately enforceable, and the invalidity of one provision shall not affect
+  the validity or enforceability of any other provision.  This Agreement shall
+  be interpreted and construed in accordance with the laws of the State of
+  Texas. This Agreement constitutes the only agreement, and supersedes all
+  prior agreements and understandings, both written and oral, among the Parties
+  with respect to the subject matter hereof.
+
+\item \textbf{Amendments. }This Agreement may not be amended or modified,
+  except in writing and signed by both NumFOCUS and the entirety of
+  \fiscalteam{}.
+
+\item \textbf{Counterparts / Facsimile}. This Agreement may be executed in two
+  or more counterparts, each of which shall constitute an original, but all of
+  which, when together, shall constitute but one and the same instrument, and
+  shall become effective when one or more counterparts have been signed by each
+  Party hereto and delivered to the other Party.  In lieu of the original, a
+  facsimile transmission or copy of the original shall be as effective and
+  enforceable as the original.
+
+\end{enumerate}
+
+\vfill{}
+
+
+\textsc{In witness whereof}, the Parties have executed this Fiscal
+Sponsorship Agreement effective on the \agreementdate{} (the
+``Effective Date'').
+
+\vspace{3em}
+
+
+By: \hspace{0.95em}\rule{0.50\textwidth}{0.2mm} \hfill{}Date: \rule{0.25\textwidth}{0.2mm}
+
+\hspace{2.5em} \textsc{The NumFOCUS Foundation.}
+
+\hspace{2.5em} Travis E. Oliphant, Chairman.  \\[6ex]
+
+\vspace{2ex}
+
+%% Pull in the actual signatures from the project contributors
+\input{signatures}
+
+\end{document}
