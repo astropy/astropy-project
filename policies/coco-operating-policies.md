@@ -96,6 +96,14 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 
 ## CoCo membership history
 
+### CoCo6 (Election December 2024)
+
+- Clara Brasseur - term ends at 2026 election
+- Derek Homeier - term ends at 2025 election
+- Pey Lian Lim - term ends at 2025 election
+- Aarya Patil - term ends at 2027 election
+- Erik Tollerud - term ends at 2026 election
+
 ### CoCo5 (Election October 2023)
 
 - Clara Brasseur - term ends at 2026 election
