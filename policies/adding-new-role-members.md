@@ -34,4 +34,4 @@ The process is:
 8. The nominee receives the necessary GitHub or other permissions for the new role.
 9. The nominee gets added to the astropy-core-maintainers mailing list.
 10. The Coordination Committee member sends a confirmation message to the nominee
-   to complete the process.
+    to complete the process.
