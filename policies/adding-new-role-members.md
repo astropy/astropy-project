@@ -1,7 +1,7 @@
-This document describes the process for adding new people to named roles. This
-document is *not* about how people are nominated for a role in the first place,
-but rather the process by which they are added once nominated. The
-process itself is in the hands of the Coordination Committee according to
+This document describes the process for adding new people to named roles.
+
+For roles related to CoCo, Ombudsperson, and Voting Members,
+please also see the process laid out in
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).
 
 Maintainers are the people who administer the Project and keep the packages working.
