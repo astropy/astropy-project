@@ -1,6 +1,9 @@
-This document describes the process for adding new people to named roles.
+This document describes the process for adding new people to named roles. This
+document is *not* about new roles are added, which is covered under
+[adding-new-roles.md](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-roles.md).
 
-For roles related to CoCo, Ombudsperson, and Voting Members,
+The process itself is overseen by the Astropy Coordination Committee.
+For roles related to Astropy Coordination Committee, Ombudsperson, and Voting Members,
 please also see the process laid out in
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).
 
@@ -34,4 +37,4 @@ The process is:
 8. The nominee receives the necessary GitHub or other permissions for the new role.
 9. The nominee gets added to the astropy-core-maintainers mailing list.
 10. The Coordination Committee member sends a confirmation message to the nominee
-   to complete the process.
+    to complete the process.
