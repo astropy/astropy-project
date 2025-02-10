@@ -5,7 +5,8 @@ as needed.
 ### For incoming CoCo member(s):
 
 - [ ] Add to Google Shared Drive
-- [ ] Create new Google Doc running notes
+- [ ] Create new Google Doc running notes and update link on policies README
+    - Example: [astropy-project#463](https://github.com/astropy/astropy-project/pull/463)
 - [ ] Give GitHub permissions (must have 2FA enabled)
     - Organization-wide ownership
     - Team: [coordinators](https://github.com/orgs/astropy/teams/coordinators)
