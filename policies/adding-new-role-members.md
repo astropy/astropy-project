@@ -1,5 +1,8 @@
-This document describes the process for adding new people to named roles.
+This document describes the process for adding new people to named roles. This
+document is *not* about new roles are added, which is covered under
+[adding-new-roles.md](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-roles.md).
 
+The process itself is overseen by the Astropy Coordination Committee.
 For roles related to Astropy Coordination Committee, Ombudsperson, and Voting Members,
 please also see the process laid out in
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).

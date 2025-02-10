@@ -7,10 +7,12 @@ This document instead is meant to describe procedure, and where necessary,
 policy, for how the CoCo operates.
 
 ## Processes and Responsibilities
+
 - The primary responsibilities, election, and philosophy of the CoCo are described in
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst). That content is not 
 duplicated here.
-- Maintaining roles. [[Process]](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-role-members.md)
+- Maintaining role categories. [[Process]](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-roles.md)
+- Maintaining role assignments. [[Process]](https://github.com/astropy/astropy-project/blob/main/policies/adding-new-role-members.md)
 - Reviewing and finalizing Astropy Proposals for Enhancement (APEs). [[Process]](https://github.com/astropy/astropy-APEs#finalizing-apes)
 
 ## Meeting Details

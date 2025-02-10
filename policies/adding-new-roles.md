@@ -10,6 +10,8 @@ The process is:
    Project and has clear description of associated responsibilities. If this role has sub-roles,
    those must be clarified as well in the same manner. This new role must be declared Unfilled
    for now (separation of concerns). This new role cannot duplicate any existing roles.
+   If the new role touches or modifies the responsibilities of existing roles, those roles,
+   and how they are affected by the proposed new role, shall also be clarified.
 2. The PR author sends out a notice of this PR to astropy-dev mailing list, with cc to the
    Coordination Committee, starting a two-week clock on the feedback period
    [as required by APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst#responsibilities-and-authority).
