@@ -15,8 +15,6 @@ as needed.
     - Privacy policy regarding Coordinators email list
     - Add to coordinators Google group
 - [ ] Slack: Make new Coordinators channel and invite new CoCo
-- [ ] Update Roles page
-    - Example: [astropy.github.com#508](https://github.com/astropy/astropy.github.com/pull/508) and [astropy.github.com#509](https://github.com/astropy/astropy.github.com/pull/509) (could be done in same PR next time)
 - [ ] Update CoCo Operating Policies with current CoCo membership
     - Example: [astropy-project#323](https://github.com/astropy/astropy-project/pull/323)
 - [ ] Project mailing list(s); Add as owners of the
