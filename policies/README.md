@@ -5,17 +5,19 @@ This directory holds documents of policies for the Astropy Project.  For example
 ## Committee/Team Specifics
 
 ### Coordination Committee
+
 - Policies: [CoCo Operating Policies](coco-operating-policies.md)
-- Records: [Running Notes](https://docs.google.com/document/d/1t7gEE6gIgNUCyObQFq3aYFMcOh4V4m27CNrxBGYwQuw/edit)
+- Records: [Running Notes](https://docs.google.com/document/d/1s0d7uKCUC9V1nMeGEZ0byHBNyeYxCbmmSDu-QZJXP_M/edit?usp=sharing)
 - Internal Communication
   - Bi-weekly closed meetings on Project calendar
-  - Private slack channel
+  - Private Slack channel
 - External Communication
   - Email: coordinators at astropy dot org
   - Github team [@astropy/coordinators](https://github.com/orgs/astropy/teams/coordinators)
   - "State of Astropy" presentation at Astropy Coordination Meetings.
 
 ### Finance Committee
+
 - Policies
   - [Policies](../finance/process/policies.rst)
   - [Procedures](../finance/process/procedures.rst)
@@ -31,11 +33,13 @@ This directory holds documents of policies for the Astropy Project.  For example
   - Quarterly-ish updates to email lists.
 
 ### Learn Team
+
 - Policies: No formal policies.
 - Records: Archival [Running Notes](https://docs.google.com/document/d/1T6FL0_XhnMEtI1Qq_KNZZzD0HNuVR3wHhhDYj9d21z0/edit)
 - Communication (all open): #learn channel on Astropy Slack
 
 ### Infrastructure/DevOps Team
+
 - Policies: No formal policies. 
 - Records: Archival [Running Notes](https://docs.google.com/document/d/15JSFh3OMF9Iz6ov3q_xxGO_BL8hRnuse4IMUrqEIvcg/edit)
 - Communication (all open):
