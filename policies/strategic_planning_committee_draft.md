@@ -32,17 +32,16 @@ i.e., do long-term planning for the Astropy Project as a whole, including:
 Deliverables based on Team page duties:
 
 * Progress reports, as needed. At the very least, annually during Astropy Coordination Meeting.
-* Grant proposals, as needed. At most once a year?
+* Grant proposals, as needed. At most once every few years?
 * Roadmap in https://github.com/astropy/astropy-project/tree/main/roadmap.
 * Project boards?
 * Documentation, communication, or assets necessary to accomplish duties above.
 
 Additional ongoing deliverables proposed by CoCo:
 
-
 * A plan for more support/involvement with radio? NRAO and SKA.
 * A plan for more administrative support, e.g, maintain email lists.
-* A plan for any additional initiatives the committee feels is important for Astropy's future
+* A plan for any additional initiatives the committee feels is important for Astropy's future.
 
 ## Open questions/concerns
 
@@ -52,6 +51,6 @@ Additional ongoing deliverables proposed by CoCo:
 * What if some committee members become inactive but refuse to step down or just MIA?
 * What are the min and max numbers of people for an effective committee here? Probably want to keep it odd to break ties. 
 * Does the group explicitly need a chair to stay organized?
-
+* How does the committee select a liaison to CoCo?
 * What if the committee cannot reach a consensus?
 * How is the initial membership decided?
