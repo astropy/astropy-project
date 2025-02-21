@@ -39,7 +39,6 @@ Deliverables based on Team page duties:
 
 Additional ongoing deliverables proposed by CoCo:
 
-
 * A plan for more support/involvement with radio? NRAO and SKA.
 * A plan for more administrative support, e.g, maintain email lists.
 * A plan for any additional initiatives the committee feels is important for Astropy's future.
