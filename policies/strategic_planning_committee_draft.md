@@ -37,10 +37,12 @@ Deliverables based on Team page duties:
 * Project boards?
 * Documentation, communication, or assets necessary to accomplish duties above.
 
-Additional deliverables proposed by CoCo:
+Additional ongoing deliverables proposed by CoCo:
+
 
 * A plan for more support/involvement with radio? NRAO and SKA.
 * A plan for more administrative support, e.g, maintain email lists.
+* A plan for any additional initiatives the committee feels is important for Astropy's future
 
 ## Open questions/concerns
 
@@ -48,6 +50,8 @@ Additional deliverables proposed by CoCo:
   and no opportunity for fresh prespective?
 * Does governance of this committee need to be added to APE 0?
 * What if some committee members become inactive but refuse to step down or just MIA?
-* What are the min and max numbers of people for an effective committee here? Probably want to keep it odd to break ties. Need a chair?
+* What are the min and max numbers of people for an effective committee here? Probably want to keep it odd to break ties. 
+* Does the group explicitly need a chair to stay organized?
+
 * What if the committee cannot reach a consensus?
 * How is the initial membership decided?
