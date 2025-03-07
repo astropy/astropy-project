@@ -1,6 +1,34 @@
 Are you interested to join Astropy Strategic Planning Committee?
 Here is what to expect.
 
+## Initial membership / Beta test year
+
+* Coordination Commitee will solicit interest from the community.
+* From the interested parties, Coordination Commitee will pick 5 people to form the first committee.
+  One of the committee members must serve as liaison to Coordination Commitee.
+  One of the committee members must serve as liaison to Finance Committee.
+* The first year of the first committee will be the "beta test year."
+
+During the beta test year, this committee should sort out its governance,
+including but not limited to:
+
+* Are 5 people a good number for the committee? If not, what number is?
+* How does committee pick its liaisons?
+* Does the committee need a chairperson? This person does not have to be
+  one of the liaisons.
+* Determine if no term limit and not an elected position, will this committee
+  be hoarded by a few people and no opportunity for fresh prespective?
+* Determine resolution for if some committee members become inactive but refuse
+  to step down or just MIA?
+* Determine a process to pick new members for this committee going forward
+  (with the above two points in mind).
+
+As with other committees (e.g., Finance Committee) except the Coordination Committee,
+the governance of this committee does not need to go into APE 0.
+
+If this committee is unable to reach a consensus, as with other matters in the Project,
+the committee may request Coordination Commitee to step in.
+
 ## Time commitment
 
 * Meet at least monthly. Each meeting could be 30-60 minutes long.
@@ -37,20 +65,11 @@ Deliverables based on Team page duties:
 * Project boards?
 * Documentation, communication, or assets necessary to accomplish duties above.
 
-Additional ongoing deliverables proposed by CoCo:
+Additional ongoing deliverables proposed by Coordination Commitee:
 
-* A plan for more support/involvement with radio? NRAO and SKA.
+* A plan for more support/involvement with radio? Telescopes include but not limited to
+  SKA, SKA pathfinders like ASKAP and LOFAR, ALMA, and a whole panoply of other projects
+  of various sizes (CHIME, DSA-2000, etc.). Organizations include but not limited to
+  NRAO, ESO, and NAOJ.
 * A plan for more administrative support, e.g, maintain email lists.
 * A plan for any additional initiatives the committee feels is important for Astropy's future.
-
-## Open questions/concerns
-
-* If no term limit and not elected position, will this committee be hoarded by a few people
-  and no opportunity for fresh prespective?
-* Does governance of this committee need to be added to APE 0?
-* What if some committee members become inactive but refuse to step down or just MIA?
-* What are the min and max numbers of people for an effective committee here? Probably want to keep it odd to break ties. 
-* Does the group explicitly need a chair to stay organized?
-* How does the committee select a liaison to CoCo?
-* What if the committee cannot reach a consensus?
-* How is the initial membership decided?
