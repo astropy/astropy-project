@@ -145,10 +145,6 @@ Rates and charges
 
    __ https://docs.google.com/document/d/1OpSEtJC0jQINTB-YNexxgnHX7-J6HRSkiPKYWBSCOfg/edit#bookmark=id.gkt3aebktlyb
 
-
-
-git@github.com:astropy/astropy-project.git
-
 Composition of the Committee and Internal Duties
 ================================================
 
