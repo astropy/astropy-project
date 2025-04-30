@@ -56,7 +56,7 @@ Conduct of meetings
    
    __ https://docs.google.com/document/d/1OpSEtJC0jQINTB-YNexxgnHX7-J6HRSkiPKYWBSCOfg/edit#bookmark=id.vs8m2dhor4y7
 
-#. Committee meetings will be organized by a moderator.
+#. Committee meetings will be organized by a moderator.  The chair is typically the moderator although they can pass the role to another as needed with the committee's consent.
 
    The moderator will moderate the discussion in the meeting and make sure the agenda is followed.
 
@@ -144,3 +144,8 @@ Rates and charges
    (Agreed `2021-09-17`__.)
 
    __ https://docs.google.com/document/d/1OpSEtJC0jQINTB-YNexxgnHX7-J6HRSkiPKYWBSCOfg/edit#bookmark=id.gkt3aebktlyb
+
+Composition of the Committee and Internal Duties
+================================================
+
+#. The Finance Committee is composed of 4 people from the Astropy Community and an administrative support person as a non-voting member. The Committee may choose to have a Chair. Decisions that require votes of the Finance Committee (described in `APE 19 <https://github.com/astropy/astropy-APEs/blob/main/APE19.rst>`_) may be made by three committee members; or two members, one of whom is the Chair. In the event of a tie (2 for and 2 against), the committee can defer to the CoCo for a decision or let the item fail. In most circumstances, the Chair should be the primary point of contact with NumFOCUS staff while keeping the entire committee aware of any communications. If none of the Committee members are members of the CoCo, the Chair typically will serve as the liaison to the CoCo.
