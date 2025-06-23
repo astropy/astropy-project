@@ -1,5 +1,5 @@
-# The Astropy Roadmap
-**Latest revision: June 2024**
+## The Astropy Roadmap
+**Latest revision: June 2025**
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
@@ -115,3 +115,12 @@ This category encompasses goals related to governing and managing the teams of t
 - :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled team positions.
 
 - :large_orange_diamond: Define and staff the  strategic planning role.
+
+
+## Fund Raising
+
+The broad goal in this section is to ensure Astropy has funding to support development that volunteers cannot or will not do on their own funding. To ensure project sustainability, this needs to be funding sources that can be maintained over the long term.
+
+- :red_square: Raise funds from governmental sources outside of the US
+- :large_orange_diamond: Raise funds from private foundations to give us independence from political vagaries.
+- :green_circle: Maintain existing funding sources (e.g., NASA)
