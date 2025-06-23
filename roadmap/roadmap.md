@@ -99,7 +99,7 @@ As a community-driven project, the long term health and development of the Astro
 
 - :green_circle: Better understand Astropy user community through user surveys (Organization mycologey reports: [Astropy Community Engagement](https://astropy-report.orgmycology.com), [Community views on diversity, equity, and inclusion in the Astropy project](https://astropy-dei.orgmycology.com)).
 
-- :large_orange_diamond: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors into maintainers.
+- :red_square: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors into maintainers.
 
 - :red_square: Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improve our understanding of the demographics of our communities in order to measure the effectiveness of these efforts.
 
@@ -114,4 +114,4 @@ This category encompasses goals related to governing and managing the teams of t
 
 - :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled team positions.
 
-- :large_orange_diamond: Define and staff the  strategic planning role.
+- :green_circle: Define and staff the  strategic planning role.
