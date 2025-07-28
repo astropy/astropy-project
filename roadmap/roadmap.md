@@ -9,7 +9,7 @@
 - [Hardware and Performance](#Hardware-and-Performance)
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
-- [Governance, Management, and Personnel](#government-management-and-personnel)
+- [Governance, Management, and Personnel](#Governance-Management-and-Personnel)
 
 
 See the [Roadmap Completed Items](COMPLETED.md) page for items that have been completed and removed from the roadmap.
