@@ -114,4 +114,4 @@ This category encompasses goals related to governing and managing the teams of t
 
 - :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled team positions.
 
-- :green_circle: Define and staff the  strategic planning role.
+- :green_circle: Define and staff the strategic planning role.
