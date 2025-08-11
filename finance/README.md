@@ -3,7 +3,9 @@
 ## Contents
 
 - [`community-updates`](https://github.com/astropy/astropy-project/tree/main/finance/community-updates) is an archive of financial updates posted to the `astropy-dev` mailing list.
+- [`fsa_numfocus`](https://github.com/astropy/astropy-project/tree/main/finance/fsa_numfocus) is an archive of Fiscal Sponsorship Agreement (FSA) that Astropy has with NumFOCUS.
 - [`jobs`](https://github.com/astropy/astropy-project/tree/main/finance/jobs) is an archive of job advertisements issued by the Astropy Project.
+- [`large_astropy_proposals`](https://github.com/astropy/astropy-project/tree/main/finance/large_astropy_proposals) is an archive of proposals written by Astropy for large grants; e.g., Moore and NASA ROSES.
 - [`process`](https://github.com/astropy/astropy-project/tree/main/finance/process) documents our processes and policies for financial management. In particular, it provides *guidance for requesting funding*.
 - [`proposal-calls`](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls) records materials related to calls for projects and proposals funded by Astropy.
 
