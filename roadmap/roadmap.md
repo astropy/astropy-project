@@ -132,8 +132,8 @@ This category encompasses goals related to governing and managing the Astropy Pr
 
 ## Fund Raising
 
-The broad goal in this section is to ensure Astropy has funding to support development that volunteers cannot or will not do on their own funding. To ensure project sustainability, this needs to be funding sources that can be maintained over the long term.
+To ensure project sustainability, the Astropy Project needs funding sources that can be maintained over the long term.
 
-- :red_square: Raise funds from governmental sources outside of the US
-- :large_orange_diamond: Raise funds from private foundations to give us independence from political vagaries.
-- :green_circle: Maintain existing funding sources (e.g., NASA)
+- :red_square: Raise funds from governmental sources outside of the US.
+- :large_orange_diamond: Raise funds from private foundations.
+- :green_circle: Maintain existing funding sources (e.g., NASA).
