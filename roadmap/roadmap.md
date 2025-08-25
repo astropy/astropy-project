@@ -1,19 +1,15 @@
 ## The Astropy Roadmap
 **Latest revision: August 2025**
 
-- [The Astropy Roadmap](#the-astropy-roadmap)
-- [Introduction](#introduction)
-- [Status Legend](#status-legend)
-  - [Green :green\_circle:](#green-green_circle)
-  - [Orange :large\_orange\_diamond:](#orange-large_orange_diamond)
-  - [Red :red\_square:](#red-red_square)
-- [Functionality](#functionality)
-- [Infrastructure, Documentation](#infrastructure-documentation)
-- [Interoperability and compatibility](#interoperability-and-compatibility)
-- [Hardware and Performance](#hardware-and-performance)
-- [Learn and User Support](#learn-and-user-support)
-- [Community Building and Sustainability](#community-building-and-sustainability)
-- [Governance, Management, and Personnel](#governance-management-and-personnel)
+- [Introduction](#Introduction)
+- [Status Legend](#Status-Legend)
+- [Functionality](#Functionality)
+- [Infrastructure, Documentation](#Infrastructure-Documentation)
+- [Interoperability and compatibility](#Interoperability-and-compatibility)
+- [Hardware and Performance](#Hardware-and-Performance)
+- [Learn and User Support](#Learn-and-User-Support)
+- [Community Building and Sustainability](#Community-Building-and-Sustainability)
+- [Governance, Management, and Personnel](#Governance-Management-and-Personnel)
 - [Fund Raising](#fund-raising)
 
 
@@ -125,9 +121,7 @@ This category encompasses goals related to governing and managing the Astropy Pr
 
 - :red_square: Recruit for unfilled team positions.
 
-- :large_orange_diamond: Document the process for taking on a formal role in the Astropy project and recruit for unfilled team positions.
-
-- :green_circle: Define and staff the  strategic planning role.
+- :green_circle: Define and staff the strategic planning role.
 
 
 ## Fund Raising
@@ -135,5 +129,7 @@ This category encompasses goals related to governing and managing the Astropy Pr
 To ensure project sustainability, the Astropy Project needs funding sources that can be maintained over the long term.
 
 - :red_square: Raise funds from governmental sources outside of the US.
+
 - :large_orange_diamond: Raise funds from private foundations.
+
 - :green_circle: Maintain existing funding sources (e.g., NASA).
