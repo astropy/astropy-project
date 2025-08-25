@@ -1,5 +1,5 @@
-# The Astropy Roadmap
-**Latest revision: July 2025**
+## The Astropy Roadmap
+**Latest revision: August 2025**
 
 - [Introduction](#Introduction)
 - [Status Legend](#Status-Legend)
@@ -10,6 +10,7 @@
 - [Learn and User Support](#Learn-and-User-Support)
 - [Community Building and Sustainability](#Community-Building-and-Sustainability)
 - [Governance, Management, and Personnel](#Governance-Management-and-Personnel)
+- [Fund Raising](#fund-raising)
 
 
 See the [Roadmap Completed Items](COMPLETED.md) page for items that have been completed and removed from the roadmap.
@@ -121,3 +122,14 @@ This category encompasses goals related to governing and managing the Astropy Pr
 - :red_square: Recruit for unfilled team positions.
 
 - :green_circle: Define and staff the strategic planning role.
+
+
+## Fund Raising
+
+To ensure project sustainability, the Astropy Project needs funding sources that can be maintained over the long term.
+
+- :red_square: Raise funds from governmental sources outside of the US.
+
+- :large_orange_diamond: Raise funds from private foundations.
+
+- :green_circle: Maintain existing funding sources (e.g., NASA).
