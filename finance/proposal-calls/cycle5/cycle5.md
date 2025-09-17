@@ -1,7 +1,9 @@
 TODO: 
 
-*update numbers
-*example FR
+* update numbers
+* example FR
+* add SPOC role
+* clarify matching roadmap is one of the goals
 
 # Cycle 5 funding requests and ideas
 
