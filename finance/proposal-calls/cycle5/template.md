@@ -5,12 +5,13 @@ Describe who is expected to work on the project. If work will be undertaken by a
 
 ### Project Description
 How does this benefit Astropy packages / users / community / ...? Short summary.  
+This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs. 
 
 #### Roadmap Items
 What [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) does this work help address?
 
 ### Project / Work / Deliverables
-Details here as needed for Astropy community members to understand what is planned. This should include a description of expected concrete results or deliverables.
+Details here as needed for Astropy community members to understand what is planned. This should include a description of expected specific results and/or deliverables.
 
 ### Approximate Budget
 Currency: US $
