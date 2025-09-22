@@ -20,7 +20,7 @@ Funding requests may be submitted which include the recruitment and hiring of so
 
 # Funding amount
 
-We anticipate a maximum of **$XXX,XXX** (US) to be available for this funding cycle. Note that this budget is for the next two years, but we emphasize that we are accepting proposals for up to three years in periods of performance. We anticipate the opportunity for the Project to get more funding within the next two years, and FRs with three-year-long projects will help us develop future grant and budget proposals. We encourage the community to aim high and propose projects that might be more ambitious than the two-year budget, as it will tangibly help us get budget to cover the remainder. We also encourage folks who plan to maintain the same effort level and costs over the next three years, to let us know. 
+We anticipate a maximum of **$XXX,XXX** (US) to be available for this funding cycle. 
 
 # Period of Performance
 
