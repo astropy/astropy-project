@@ -14,6 +14,8 @@ The primary change for this Cycle (relative to previous Cycles) is that the [Roa
 # Funding goals
 Funding requests (FR) should address items on the Astropy Project’s Roadmap. In particular, funding will be prioritized for “red” and “orange” roadmap items, which have been identified by the community as being high priority.
 
+FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
+
 Funding requests may be submitted which include the recruitment and hiring of someone to complete the task.
 
 # Funding amount
