@@ -9,17 +9,14 @@ TODO:
 
 # Changes relative to the previous cycle
 
-The primary changes for this Cycle relative to Cycle 4 are ...
-
+The primary change for this Cycle (relative to previous Cycles) is that the [Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) will be used to help determine funding priorities. In addition, the Strategic Planning and Organizing Committee (SPOC) will participate in funding request review, solicitation, and selection as the maintainers of the roadmap. Also, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
 
 # Funding goals
-
-Funding requests (FR) shall improve the Astropy Project. This includes work on code for the core repository, for coordinated or affiliated packages, infrastructure (e.g. testing, CI), tutorials, workshops, notebooks, community engagement, inclusion, diversity and empowerment, and anything else broadly Project related.
+Funding requests (FR) should address items on the Astropy Project’s Roadmap. In particular, funding will be prioritized for “red” and “orange” roadmap items, which have been identified by the community as being high priority.
 
 FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
 
-FRs need to clearly identify how the the funding will be used (e.g. "pay $YYY (US) to add Klingon Standard Time to astropy.time" or "organize astropy workshop to engage amateur astronomer community in Antarctica")
-
+Funding requests may be submitted which include the recruitment and hiring of someone to complete the task.
 
 # Funding amount
 
@@ -27,24 +24,13 @@ We anticipate a maximum of **$XXX,XXX** (US) to be available for this funding cy
 
 # Period of Performance
 
-Each FR should specify how long the project will last (the "Period of Performance"). A project can be anywhere from 1-3 years. For ongoing projects, longer periods of performance are better, as that lowers the administrative overhead of the project. In particular, FRs for subawards are best done with longer periods of performance e.g. 3 years.
-
-Note that if your proposal has a longer Period of Performance than one year, funds beyond that horizon are contingent on funds from the project being available.
-
+The period of performance should be for one year. Ideally, Jan 1,2026--Dec 31, 2026.
 
 # What can the funding be used for?
 
-Money can be used for travel, subscriptions, etc, in addition to direct financial support to individuals.
+Money can be used for travel, subscriptions, etc, in addition to direct financial support to individuals, including individuals based outside of the United States.
 
-The funds currently come from a NASA ROSES grant. It includes the following general areas:
-
-* Basic maintenance and development on all aspects of the Project 
-* Project-wide infrastructure
-* Affiliated packages
-* Astropy Learn and Community Engagement
-
-The Finance Committee assumes responsibility for ensuring that all awards made are consistent with any applicable funding agency rules.
-
+The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fiscal sponsor, and the Finance Committee assumes responsibility for ensuring that all awards made are consistent with any applicable funding agency rules.
 
 # Funding Request process
 
