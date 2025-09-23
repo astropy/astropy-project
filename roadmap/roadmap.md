@@ -123,6 +123,8 @@ This category encompasses goals related to governing and managing the Astropy Pr
 
 - :green_circle: Define and staff the strategic planning role.
 
+- :green_circle: Address Project needs by implementing workflows which work towards aligning spending priorities with the Roadmap 
+while keeping the administrative burden on developers as low as possible. 
 
 ## Fund Raising
 
