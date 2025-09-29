@@ -1,8 +1,6 @@
 TODO: 
-
 * update numbers
 * example FR
-* add SPOC role
   
 # Cycle 5 funding requests and ideas
 
