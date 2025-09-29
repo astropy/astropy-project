@@ -39,7 +39,7 @@ We envision a two stage FR process to enable the community to discuss and improv
   * the SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests. 
   * the Finance Committee will review budgets and may provide feedback and/or request more information. 
 * TBD + 3wk (Nov 1): Finalized FRs are due, two week Voting period begins
-* TBD + 5wk (Nov 17): The SPOC and Finance Committee will work together to select funding requests and allocate budgets based on alignment with the Roadmap, community input, available effort, and available funds.
+* TBD + 5wk (Nov 17): The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
 * TBD + 7 wk (Dec 1): Drafting contracts begins.
 * Jan 1, 2026: Work commences
 
@@ -47,7 +47,7 @@ We aim to achieve broad consensus before the vote. Requesters are encouraged to 
 
 Voting members of the Astropy Project vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
-The Coordination and Finance Committees will select FRs following the ranking by the members, taking into account the discussion, available effort level to implement, and any restrictions associated with the available funds.
+The Coordination and Finance Committees will select FRs based on alignment with the Roadmap, ranking by the members, available effort to implement, and available funds.
 
 # How to Submit a Funding Request
 Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 5 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 5 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/template.md). Please place the file with your FR in the [cycle 5 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/), the same location as the template.
