@@ -47,7 +47,7 @@ We aim to achieve broad consensus before the vote. Requesters are encouraged to 
 
 Voting members of the Astropy Project vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
-The Coordination and Finance Committees will select FRs based on alignment with the Roadmap, ranking by the members, available effort to implement, and available funds.
+The Coordination and Finance Committees will select FRs based on the voting results, alignment with the Roadmap, confirmation of available people to implement, and available funds.
 
 # How to Submit a Funding Request
 Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 5 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 5 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/template.md). Please place the file with your FR in the [cycle 5 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/), the same location as the template.
