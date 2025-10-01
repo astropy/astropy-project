@@ -32,7 +32,7 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 # Funding Request Process Overview
 
-We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap is possible is being addressed.
+We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
 
 * Oct 17, 2025: **_Draft_** FR Deadline
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
