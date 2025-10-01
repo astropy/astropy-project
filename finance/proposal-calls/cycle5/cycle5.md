@@ -36,8 +36,8 @@ We envision a two stage FR process to enable the community to discuss and improv
 
 * Oct 17, 2025: **_Draft_** FR Deadline
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
-  * the SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests. 
-  * the Finance Committee will review budgets and may provide feedback and/or request more information. 
+  * The SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests. 
+  * The Finance Committee will review budgets and may provide feedback and/or request more information. 
 * TBD + 3wk (Nov 7): Finalized FRs are due, two week Voting period begins
 * TBD + 5wk (Nov 24): The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
 * TBD + 7 wk (Dec 8): Announcement of selected FRs. Drafting contracts begins.
