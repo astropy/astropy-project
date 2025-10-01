@@ -1,4 +1,3 @@
-
 # Cycle 5 funding requests and ideas
 
 # Changes relative to the previous cycle
@@ -16,7 +15,7 @@ We anticipate a maximum of **$XXX,XXX** (US) to be available for this funding cy
 
 # Period of Performance
 
-The period of performance should be for one year. Ideally, Jan 1,2026--Dec 31, 2026.
+The period of performance should be for one year. Ideally, Jan 1–Dec 31, 2026.
 
 # What can the funding be used for?
 
@@ -30,14 +29,16 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
 
-* Oct 17, 2025: **_Draft_** FR Deadline
+* Oct 17, 2025: **_Draft_** FR Deadline 
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
   * The SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests. 
   * The Finance Committee will review budgets and may provide feedback and/or request more information. 
-* TBD + 3wk (Nov 7): Finalized FRs are due, two week Voting period begins
-* TBD + 5wk (Nov 24): The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
-* TBD + 7 wk (Dec 8): Announcement of selected FRs. Drafting contracts begins.
+* Nov 7, 2025: Finalized FRs are due, two week Voting period begins
+* Nov 24, 2025: The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
+* Dec 8, 2025: Announcement of selected FRs. Drafting contracts begins.
 * Jan 1, 2026: Work commences
+
+Note that these dates are nominal, and unplanned events like a government shutdown could extend some of the dates/deadlines.
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period, as appropriate. Discussion is open to anyone; it is not restricted to voting members. 
 
