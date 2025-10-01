@@ -3,18 +3,19 @@
 ### Project Team
 Describe who is expected to work on the project. If work will be undertaken by an open hire instead of (or in addition to) other project members, please indicate that here.
 
-### Project Description
-How does this benefit Astropy packages / users / community / ...? Short summary.  
+### Project Description / Scope of Work
+Briefly describe how this work will benefit Astropy packages / users / community. 
+This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs. 
 
 #### Roadmap Items
-What [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) does this work help address?
+List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
 
-### Project / Work / Deliverables
-Details here as needed for Astropy community members to understand what is planned. This should include a description of expected concrete results or deliverables.
+#### Project / Work / Deliverables
+Provide the details of the planned work so that the Astropy community members will understand what is planned. This should include a description of expected specific results and/or deliverables.
 
 ### Approximate Budget
 Currency: US $
-The approximate budget should be specified in USD. However, we are open to spending funds worldwide. Budgets should be converted to USD using a plausible exchange rate.
+The approximate budget should be specified in USD. However, we are open to spending funds internationally. Budgets should be converted to USD using a plausible exchange rate.
 
 Include overheads, fringe, etc. if money is paid as sub-award to an institution.
 
