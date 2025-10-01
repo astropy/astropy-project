@@ -26,7 +26,7 @@ The period of performance should be for one year. Ideally, Jan 1,2026--Dec 31, 2
 
 Money can be used for travel, subscriptions, etc, in addition to direct financial support to individuals, including individuals based outside of the United States.
 
-Funding requests may be submitted which include the recruitment and hiring of someone to complete the task. See below: Open Hire Process.
+Funding requests may be submitted even if they include the recruitment and hiring of another person to complete the task. See below: Open Hire Process.
 
 The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fiscal sponsor, and the Finance Committee assume responsibility for ensuring that all budgets are consistent with any applicable funding agency rules.
 
