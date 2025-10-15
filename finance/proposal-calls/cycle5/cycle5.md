@@ -11,7 +11,7 @@ FRs shall foster the Astropy Project goals of community, shared work, and cooper
 
 # Funding amount
 
-We anticipate a maximum of **$XXX,XXX** (US) to be available for this funding cycle. 
+We anticipate a maximum of **$250,000** (US) to be available for this funding cycle. 
 
 # Period of Performance
 
@@ -29,16 +29,16 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
 
-* Oct 17, 2025: **_Draft_** FR Deadline 
+* Oct 31, 2025: **_Draft_** FR Deadline 
 * Three week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
   * The SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests. 
   * The Finance Committee will review budgets and may provide feedback and/or request more information. 
-* Nov 7, 2025: Finalized FRs are due, two week Voting period begins
-* Nov 24, 2025: The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
-* Dec 8, 2025: Announcement of selected FRs. Drafting contracts begins.
-* Jan 1, 2026: Work commences
+* Nov 21, 2025: Finalized FRs are due, two week Voting period begins
+* Dec 8, 2025: The SPOC and Finance Committee will work together to select funding requests and allocate budgets. 
+* Dec 19, 2025: Announcement of selected FRs. Drafting contracts begins.
+* Jan 1, 2026: Work can commence once contracts are signed.
 
-Note that these dates are nominal, and unplanned events like a government shutdown could extend some of the dates/deadlines.
+Note that these dates are nominal, and unplanned events like extended government shutdowns could extend some of the dates/deadlines.
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period, as appropriate. Discussion is open to anyone; it is not restricted to voting members. 
 
@@ -105,4 +105,4 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR (due March 1) to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline (March 22). You can also refer to successful Cycle II/3/4 **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal), [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3), or  [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4)  .
+The following is a template proposal: [template.md](template.md). We also include an [example](example_draft_FR.md) that is an acceptable **Draft** FR to emphasize that drafts can include minimal information and are meant to be fleshed out and modified based on feedback before the final deadline. You can also refer to successful Cycle II/3/4 **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal), [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3), or  [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4)  .
