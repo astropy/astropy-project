@@ -5,7 +5,7 @@
 The primary change for Cycle 5 (relative to Cycle 4) is that the [Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) will be used to determine funding priorities. In addition, as the maintainers of the roadmap, the Strategic Planning and Organizing Committee (SPOC) will participate in funding request review, solicitation, and selection. Also, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
 
 # Funding goals
-Funding requests (FR) should address items on the Astropy Project’s Roadmap. In particular, funding will be prioritized for “red” and “orange” roadmap items, which have been identified by the community as being high priority.
+Funding requests (FR) which address one or more items on the Astropy Project’s Roadmap will be prioritized, with proposals that include work towards “red” and “orange” roadmap items being prioritized the most, since these have been identified by the community as being the most critical.
 
 FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
 
