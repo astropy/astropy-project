@@ -1,4 +1,4 @@
-### Astropy Workshops tailored to Primarily Undergraduate Institutions (PUIs)
+### Astropy Workshops tailored to custom audiences
 
 ### Project Team
 
@@ -8,11 +8,17 @@ content, and recruit participants.
 
 ### Project Description / Scope of Work
 This project will deliver a series of workshops customized to the needs of
-primarily undergraduate institutions (PUIs). The work will be broken up into a
+three distinct groups; workshop materials will be developed for each group. The groups are:
+
+1. Faculty and students at Primarily Undergraduate Institutions (PUIs)
+2. Members of the AAVSO interested in learning astropy for data analysis
+3. Support astronomers and software developers at large observatories.
+
+
+The work will be broken up into a
 few phases:
 
-1. Needs Assessment: Ask faculty at PUIs to identify the most relevant topics
-and skills for workshops. The groups of faculty that will be asked are those that attended the [SCOPES conference in 2024]() and those that are part of the XXXX in the San Francisco Bay Area.
+1. Needs Assessment: Members of each group will fill out short survey with follow -up interviews as needed to determine what topics are most relevant to them. The folks at PUIs that will be asked are those that attended the [SCOPES conference in 2024](https://sites.google.com/morris.umn.edu/scopes-conference/scopes-home?authuser=0) and those that are part of the [ASTRAL collaboration](https://www.ucobservatories.org/education/astral-astronomy-stem-alliance-with-lick-observatory/) in the San Francisco Bay Area.
 2. Workshop Development: Based on the needs assessment, develop workshop materials
 adapted from the existing astropy tutorial materials.
 3. Workshop Delivery: Deliver the workshops at 3-5 PUIs, either in-person or
@@ -27,24 +33,21 @@ This proposal addresses one of the roadmap items under "Learn and User Support":
 geographic coverage."
 
 #### Project / Work / Deliverables
-
+Three sets of workshop materials tailored to the needs of each target audience. In all three cases there is already workshop materials that can be adapted. The PUI materials will be adapted from the existing astropy tutorials. The AAVSO materials will be adapted from the PUI materials and an earlier version of the AAVSO workshops, with additional focus on time series analysis and variable star data. The observatory support astronomer materials will be adapted from the workshops delivered as part of ALOHA 2024..
 
 ### Approximate Budget
 Currency: US $
-The approximate budget should be specified in USD. However, we are open to spending funds internationally. Budgets should be converted to USD using a plausible exchange rate.
 
-Include overheads, fringe, etc. if money is paid as sub-award to an institution.
+- Salary: $10,000 for workshop development.
+- Estimated travel, lodging and venue (**NOT** included in the total below): $8,000 for travel to PUIs, AAVSO meeting and Hawaii observatories for workshop delivery.
+- TOTAL: $10,000
 
-- Salary / contractor fees etc. (give sum here, details about contract, payment method (contract/sub-award) etc. can be worked out with the finance committee later)
-- TOTAL
 
-Please note that we would happily accept budget items other than the above.
-
-Travel and conference registration should be submitted separately from this funding request, as needed.
 
 ### Period of Performance
 
-List the expected range of time the budget should be allocated for. For Cycle 5, the ideal period of performance is Jan 1, 2026–Dec 31, 2026.
+The period of performance is expected to be Jan 1, 2026–Dec 31, 2026. THe materials will be both developed and workshops delivered during this time.
+
 
 
 
