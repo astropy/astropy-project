@@ -36,7 +36,7 @@ in particular in astropy.io.fits and reproject.
 
 #### `astropy.io.fits`
 
-This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`, continuing funding that was awarded to him to start working on this in 2023. The priorities for this work will be triaging issues to identify the highest priority ones and starting to address some of them. At the time of writing, there are currently over
+This proposal will fund Robitaille for his work co-maintaining `astropy.io.fits`. The priorities for this work will be triaging issues to identify the highest priority ones and starting to address some of them. At the time of writing, there are currently over
   [150 open issues](https://github.com/astropy/astropy/issues?q=is%3Aopen+is%3Aissue+label%3Aio.fits) for the io.fits sub-package alone. In addition to this work, Robitaille will coordinate with other io.fits maintainers to start designing a long-term plan for modernizing the io.fits sub-package and facilitating long-term maintenance and contributions.
 
 #### `astropy.timeseries`
