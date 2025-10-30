@@ -9,7 +9,7 @@ This proposal is to fund the following people at [Aperio Software](https://aperi
 * Thomas Robitaille
 * Stuart Mumford
 
-This could also fund other individuals working at Aperio Software as required.
+This could also fund other individuals working at Aperio Software if required.
 
 ### Project Summary
 
