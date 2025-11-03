@@ -16,7 +16,8 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 - Engage in monthly Spectroscopy dev telecons
 
 ### Approximate Budget
-Cruz summer salary, including fringe and overhead:
+Cruz 2 weeks of summer salary, including fringe and overhead:
+$ 10,562
 
 ### Period of Performance
 Jan 1-–Dec 31, 2026
