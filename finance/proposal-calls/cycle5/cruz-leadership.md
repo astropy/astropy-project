@@ -5,9 +5,11 @@
 - Ana Gabela
 
 ### Project Description / Scope of Work
-- Run the finance commitee which moves money from NumFocus to Astropy Contractors.
-- Participate in the SPOC committee which is trying to get the roadmap implemented. 
- 
+#### Finance Commitee
+Kelle Cruz is the Chair of the Finance Committee and Ana Gabela provides administrative support to the activties of this committee. Together, we are responsible for the day-to-day operations of managing the finances of the project. In particular, we take on the actions needed in order to move money from NumFocus to Astropy Contractors. We also help run the funding request process and travel funding requests.
+
+#### SPOC
+Kelle Cruz is an engaged member of the Strategic Planning and Organizing Committee, which is charged with getting the Roadmap implemented. I am particularly interested in identifying a workflow for systematically tracking progress on roadmap items.
 
 #### Roadmap Items
 - Maintain existing funding sources (e.g., NASA).
