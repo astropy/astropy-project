@@ -29,8 +29,8 @@ Ana's responsibilities will continue to be:
 - Communicating with finance committee members, cotars, and project leads.  
 
 ### Approximate Budget
-Kelle's Budget to Hunter, as summer salary, including fringe and overhead:
-
+Kelle's Budget to Hunter, as 1 month of summer salary, including fringe and overhead:
+- $21,125
 
 Ana's Budget:
 - $7,800 for one year ($650/month)
