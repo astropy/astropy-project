@@ -7,7 +7,8 @@ Kelle Cruz
 Actively participate in specutils development to enhance functionality and usability.
 
 #### Roadmap Items
-List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
+- Provide next-generation spectroscopic analysis tools usable by individual researchers and larger surveys.
+- Improve support for reading and writing spectra using the IVOA SpectrumDM.
 
 #### Project / Work / Deliverables
 - Work on specutils writers to verify metadata is consistent with various datamodels, especially IVOA Spectrum DM1.2
