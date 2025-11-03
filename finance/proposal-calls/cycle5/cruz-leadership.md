@@ -10,7 +10,9 @@
  
 
 #### Roadmap Items
-List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
+- Maintain existing funding sources (e.g., NASA).
+- Define and staff the strategic planning role.
+- Recruit for unfilled team positions.
 
 #### Project / Work / Deliverables
 Kelle's responsibilties include:
