@@ -17,11 +17,10 @@ This proposal includes maintenance work and supervision of any enhancement proje
 This is a 1-year proposal, budgeting for effort at 1 calendar month per year.
 
 ### Approximate Budget
-Currency: US $16,527 direct
-- $25,369 to cover 1 CM of effort by Ginsburg (including fringe & IDC).
-- IDC 53.5%
+Currency: US 
+- Summer salary including fringe and overhead for Ginsburg
 Should be awarded using the same mechanism as in previous cycles (subaward).
 
 
 ### Proposed Budget
-$25,369
+$30,000
