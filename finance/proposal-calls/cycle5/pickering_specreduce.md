@@ -10,7 +10,7 @@ This is to continue specreduce development and outreach that was carried out in 
 
 ### Roadmap Items
 - :large_orange_diamond: Improve support for reading and writing ASDF throughout the Astropy ecosystem (e.g., coordinated packages).
-    - Support for 2D spectroscopic data is still only in draft form for FITS WCS. Serializing the kinds of complicated WCS models that spectroscopy requires requires a more flexible format. ASDF provides this and support for it needs to be expanded within both specreduce and specutils.
+    - Support for 2D spectroscopic data is still only in draft form for FITS WCS. A more flexible format is needed to accurately serialize the kinds of complicated WCS models that spectroscopy requires. ASDF provides this and support for it needs to be expanded within both specreduce and specutils.
 
 ### Project / Work
 Some specific areas that we expect to tackle during the coming cycle include:
