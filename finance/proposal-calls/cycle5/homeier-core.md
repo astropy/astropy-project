@@ -1,4 +1,4 @@
-# Core Maintainer, CoCo and Affiliated Editor support for Derek Homeier
+# Core Maintainer and Affiliated Editor support for Derek Homeier
 
 ### Project Team
 Derek Homeier
@@ -36,10 +36,6 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 
 - Review PRs especially from new/first time contributors.
 
-#### In case I am reelected to the Astropy Coordination Committee for the 2026-2029 term:
-
-- Participate in CoCo telecons and developer meeting organisation as appropriate.
-
 ### Approximate Budget
 currency: US $
 
@@ -49,8 +45,6 @@ currency: US $
 - TOTAL: $32,400
 
 - Minimum viable amount: estimated at $10,800 for 2 hr / week
-
-- In case of election to CoCo7: approx. additional 2 hr / week for $10,800
 
 ### Period of Performance
 Jan 1, 2026-Dec 31, 2026
