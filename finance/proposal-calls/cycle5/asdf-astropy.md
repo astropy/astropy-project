@@ -14,7 +14,7 @@ years at STScI; primary author of Generalized World Coordinate System package
 and general expert on World Coordinate Systems and ASDF.
 
 ### Project Description / Scope of Work
-The Advanced Scientific Data Format (ASDF) wasdeveloped to address shortcomings
+The Advanced Scientific Data Format (ASDF) was developed to address shortcomings
 of the FITS format, like serializing complex WCS transformations or dealing with
 newer types of instrumentation (IFS, MSA), that FITS is effectively incapable of
 handling (Thomas, B., Jenness. T. et al. (2015)). A Python library was developed
@@ -54,6 +54,10 @@ The current developers both have extensive experience writing schemas and
 converters as part of their previous work.
 
 #### Project / Work / Deliverables
+
+This proposal addresses a goal in the Astropy Roadmap, namely
+
+`Improve support for reading and writing ASDF throughout the Astropy ecosystem (e.g., coordinated packages).`
 
 The above listed astropy objects will be serialized as part of asdf-astropy.
 
