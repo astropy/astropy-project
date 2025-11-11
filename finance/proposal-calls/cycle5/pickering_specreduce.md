@@ -22,6 +22,7 @@ Some specific areas that we expect to tackle during the coming cycle include:
 * Support for fiber-based spectrographs, both single and multi-object as well as fiber-based IFUs
 * Continued/expanded outreach to observatories and software projects (e.g. PypeIt & DRAGONS) to improve integration and workflows
 * Expand outreach to and collaboration with EPRV spectroscopy community
+* Participate in spectroscopy and astropy dev calls and tag-ups
 
 ### Approximate Budget
 Currency: US $15360
