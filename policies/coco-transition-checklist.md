@@ -17,7 +17,11 @@ as needed.
 - [ ] Slack: Make new Coordinators channel and invite new CoCo
 - [ ] Update CoCo Operating Policies with current CoCo membership
     - Example: [astropy-project#323](https://github.com/astropy/astropy-project/pull/323)
-- [ ] Project mailing list(s); Add as owners of the
+- [ ] Project mailing list(s) etc.; Add as owners of the
+    - astropy Gsuite group
+      - Check if (after the transition) at least 2 current CoCo members have astropy.org accounts;
+      if necessary, add incoming member(s) (not to be used for email!)
+      - Open ticket with NumFOCUS to add those accounts as required
     - astropy-core-maintainers Google group
     - astropy-dev Google group
 - [ ] Update NumFocus on change of leadership; send them the new names
