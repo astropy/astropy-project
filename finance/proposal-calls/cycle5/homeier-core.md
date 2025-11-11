@@ -10,8 +10,8 @@ work as Affiliated Package editor in the pyOpenSci partnership.
 
 #### Roadmap Items
 List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
-- Governance and Management
-- Functionality
+- Functionality :red_square: Identify and ensure progress on longstanding issues that should be high priority
+  - open issues in `io.ascii`
 - User Support
 - Community Building and Sustainability
 
