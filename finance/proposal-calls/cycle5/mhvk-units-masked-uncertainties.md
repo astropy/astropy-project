@@ -118,16 +118,23 @@ finally finish it.
 I request funding to replace salary equivalent to one day a week, reducing my
 regular employment at the University of Toronto correspondingly.  At a
 standard rate of USD 150/hour for 8 hours per week and 45 weeks, this
-corresponds to USD $54000 per year.
+corresponds to USD $54,000 per year.
+
+I note that my approved cycle 4 proposal was for two years, but the funding
+cycle means that only 16 months were used. Here, I request funding both to
+finish that approved part of my project ($36,000), and in addition request
+funding for another year to finish the whole ($54,000). The total request is
+thus $90,000.
 
 ### Period of Performance
 
 Ideally, I would be covered until June 2027, which is the end of an academic
 year.
 
-I note that the funding provides me with teaching relief, which is for one
-semester of an academic year (where thus more than 1 day/week is spent on
-astropy, while less time is spent when I teach).  So far, the relevant
-semesters have been July-December 2024 and January to June 2026.  It may be
-possible to ensure the next semester will be July to December 2026, so that
-most work is finished in 2026.
+I note that the funding provides me with teaching relief for one semester of
+an academic year. During those semesters I spend more than 1 day/week on
+astropy, while I spend less time when I teach.  The first semester I had
+teaching relief was July-December 2024, and the second will be January-June
+2026 (some of which will thus be covered by funds already paid). I think it
+will be possible to ensure the next semester will be July-December 2026, so
+that most work is finished in 2026.
