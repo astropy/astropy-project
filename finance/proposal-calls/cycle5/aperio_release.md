@@ -18,7 +18,7 @@ This project covers:
 * Participation in the release team, including carrying out releases in the core package and working on general infrastructure for releases
 * Maintenance and development of the shared OpenAstronomy tooling and infrastructure, mainly related to continuous integration and releases
 
-#### Roadmap Items
+### Roadmap Items
 
 Release efforts in general are not mentioned in the roadmap because they have worked well in the last few years and therefore are not a priority for improving. However, it is important that release work be funded, otherwise there will not be any releases of the astropy core package.
 
@@ -26,7 +26,7 @@ Some of the release team work will involve working towards the following roadmap
 
 - :large_orange_diamond: Encourage usage of the core and coordinated package ecosystem more directly (e.g., provide an `astropy-ecosystem` metapackage, or change `astropy` to `astropy-core` and make `astropy` the metapackage).
 
-#### Project / Work / Deliverables
+### Project / Work / Deliverables
 
 #### Release team
 
