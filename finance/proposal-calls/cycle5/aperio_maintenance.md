@@ -69,8 +69,21 @@ In addition to the specific core sub-packages and coordinated packages mentioned
 
 ### Approximate Budget
 
-We request funding to cover 8h/week in total - assuming 48 weeks (to account for holidays!) this gives a total of **USD 57,600 per year** assuming an hourly rate of USD 150/hour.
+The budget consists of two main parts:
+
+* Funding to cover the existing Cycle 4 extension contract which is being
+  charged to ROSES24. This contract was intended to cover previously approved
+  Cycle 4 funding which was not all spent by the end of the original contract.
+  The total amount for this portion is **USD 58,600**. More than half of this
+  amount has already been invoiced for work carried out, and the remainder will
+  likely be used by the end of 2025.
+
+* New funding to cover 8h/week in total in 2026 - assuming 48 weeks (to account
+  for holidays!) this gives a total of **USD 57,600** assuming an hourly rate of
+  USD 150/hour.
+
+The total amount requested is **USD 116,200**.
 
 ### Period of Performance
 
-Jan 1, 2026 to Dec 31, 2026
+Mar 1, 2025 to Dec 31, 2026
