@@ -20,8 +20,9 @@ as needed.
 - [ ] Project mailing list(s) etc.; Add as owners of the
     - astropy Gsuite group
       - Check if (after the transition) at least 2 current CoCo members have astropy.org accounts;
-      if necessary, add incoming member(s) (not to be used for email!)
-      - Open ticket with NumFOCUS to add those accounts as required
+        if necessary, add incoming member(s) (not to be used for email!)
+      - Open ticket with NumFOCUS to add those accounts as required:
+        send email to help@numfocus.org
     - astropy-core-maintainers Google group
     - astropy-dev Google group
 - [ ] Update NumFocus on change of leadership; send them the new names
