@@ -11,9 +11,11 @@ work as Affiliated Package editor in the pyOpenSci partnership.
 #### Roadmap Items
 List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
 - Functionality :red_square: Identify and ensure progress on longstanding issues that should be high priority
-  - open issues in `io.ascii`
+  - open issues in `io.ascii` (not necessarily "red" ones though)
 - User Support
-- Community Building and Sustainability
+  - ensuring continuity through ongoing support, no specific roadmap topics for this
+- Community Building and Sustainability :red_square: Increase the learning and mentoring opportunities for people interested in becoming contributors and helping to develop existing contributors into maintainers.
+  - review first-time and novice contributors' pull request with a focus on continued participation
 
 ### Project / Work
 
@@ -27,7 +29,7 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
   
 #### Continue as `io.ascii` maintainer.
 
-- Revisit possible integration of the faster Numpy `loadtxt` C parser now available.
+- Address open issues; revisit possible integration of the faster Numpy `loadtxt` C parser.
 
 #### Support for Software Operations in responding to support requests:
 
@@ -39,12 +41,12 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 ### Approximate Budget
 currency: US $
 
-- Salary under independent external contractor agreement: 6 hours weekly for 45 weeks,
-  a total of 180 hours (accounting for holidays) @ $120 / hour
+- Salary under independent external contractor agreement: 6 hours weekly for 35 weeks,
+  a total of 210 hours (accounting for holidays) @ $120 / hour
 
-- TOTAL: $32,400
+- TOTAL: $25,200
 
-- Minimum viable amount: estimated at $10,800 for 2 hr / week
+- Minimum viable amount: estimated at $8,400 for 2 hr / week
 
 ### Period of Performance
-Jan 1, 2026-Dec 31, 2026
+Apr 1, 2026-Dec 31, 2026
