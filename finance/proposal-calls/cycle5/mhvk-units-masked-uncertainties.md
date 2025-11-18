@@ -37,7 +37,7 @@ Directly addressed:
 - :large_orange_diamond: Improve interoperability between unit packages (e.g.,
   `astropy.units`, `pint`, `unyt`).
 
-Provides a major requiremeent for:
+Provides a major requirement for:
 
 - :red_square: Support JIT compilation (e.g., numba, JAX, etc.) throughout
   Astropy core and coordinated packages.
@@ -125,6 +125,24 @@ cycle means that only 16 months were used. Here, I request funding both to
 finish that approved part of my project ($36,000), and in addition request
 funding for another year to finish the whole ($54,000). The total request is
 thus $90,000.
+
+Given partial funding, I could do:
+
+- $36,000 (remaining approved in cycle 4): Wrap up making Quantity
+  itself a container class compliant with Array API; implement some of
+  the performance improvements in unit conversion.
+
+- $72,000 (above plus minimum amount for some teaching relief):
+  produce a Quantity replacement without performance regressions,
+  fully integrated in astropy, and fully compliant with the Quantity
+  API; implement full set of performance improvements in units
+  conversion; probably able to ensure Masked can also hold arbitrary
+  Array API compatible arrays, and possibly Time as well.
+
+- $90,000 (full request): ensure Masked, Distribution, and Time all
+  can hold arbitray Array API compatiblle arrays, making astropy as a
+  whole able to deal with JAX, dask, etc., arrays.  Hopefully also
+  produce a properly functioning Variable class.
 
 ### Period of Performance
 
