@@ -9,6 +9,8 @@ Derek Homeier
 List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
 - Functionality
   - :large_orange_diamond: Improve support for reading and writing spectra using the IVOA SpectrumDM.
+- Documentation
+  - :large_orange_diamond: Improve integration of core package and coordinated package documentation.
 
 ### Project / Work
 
@@ -23,14 +25,19 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 
 - Participate in Spectroscopy Dev telecons.
 
+- Correct and improve [loader documentation](https://github.com/astropy/specutils/issues/952)
+
+- Work on [nonlinear multispec formats](https://github.com/astropy/specutils/pull/1199)
 
 ### Approximate Budget
 currency: US $
 
-- Salary under independent external contractor agreement: hours weekly for 45 weeks,
-  a total of tbd. hours (accounting for holidays) @ $120 / hour
+- Salary under independent external contractor agreement: 6 hours weekly for 45 weeks,
+  a total of 270 hours (accounting for holidays) @ $120 / hour
 
-- TOTAL: $
+- TOTAL: $32,400
+
+- Minimum viable amount: any part of the above work package at $5,400 for 1 hr / week
 
 ### Period of Performance
 Jan 1, 2026-Dec 31, 2026
