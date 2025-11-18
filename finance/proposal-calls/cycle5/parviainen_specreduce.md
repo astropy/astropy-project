@@ -69,12 +69,12 @@ Specreduce’s capabilities to support multi-object spectrographs.
   
 ### Approximate Budget
 
-
-The proposed budget assumes an hourly rate of USD 150 and an average workload 
-of three hours per week throughout the 2026 calendar year. This corresponds to 
-156 hours × USD 150 = USD 23,400 in total project cost.
-
+The proposed budget is based on an hourly rate of USD 150 and an anticipated 
+workload of 1–4 hours per week over nine months, from April to December 2026 
+(the first three months are funded by an existing project). This corresponds 
+to a total of 36–144 hours, resulting in an estimated project cost of 
+USD 5,400–21,600.
 
 ### Period of Performance
 
-January 1, 2026 – December 31, 2026
+April 1, 2026 – December 31, 2026
