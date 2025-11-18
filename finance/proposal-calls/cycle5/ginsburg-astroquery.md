@@ -40,4 +40,4 @@ Should be awarded using the same mechanism as in previous cycles (subaward).
 
 
 ### Proposed Budget
-$30,000
+$24,782
