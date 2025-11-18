@@ -30,7 +30,8 @@ Specreduce’s capabilities to support multi-object spectrographs.
   in university astronomy courses."*
   
   - The documentation work will include the creation of fully worked tutorials 
-  and teaching materials, such as the [LHIRES-III tutorial](https://github.com/hpparvi/specreduce_example_lhires/blob/main/example_1.ipynb)  that can be directly used in teaching spectroscopy in a university setting.
+  and teaching materials, such as the [LHIRES-III tutorial](https://github.com/hpparvi/specreduce_example_lhires/blob/main/example_1.ipynb)
+  that can be directly used in teaching spectroscopy in a university setting.
   
 - :red_square: *"Support JIT compilation (e.g., numba, JAX, etc.) throughout 
    Astropy core and coordinated packages."*
@@ -69,11 +70,19 @@ Specreduce’s capabilities to support multi-object spectrographs.
   
 ### Approximate Budget
 
-The proposed budget is based on an hourly rate of USD 150 and an anticipated 
-workload of 1–4 hours per week over nine months, from April to December 2026 
-(the first three months are funded by an existing project). This corresponds 
-to a total of 36–144 hours, resulting in an estimated project cost of 
-USD 5,400–21,600.
+The proposed optimal budget is based on an **hourly rate of USD 150** and an 
+**anticipated workload of three hours per week over nine months**, from April 
+to December 2026 (the first three months of 2026 are covered by existing 
+funding). This corresponds to a total of 108 hours and an **estimated project 
+cost of USD 16,200.**
+
+The project can also be carried out at a reduced or slightly expanded capacity. 
+The minimum viable budget would support a workload of one hour per week, 
+resulting in a total cost of USD 5,400, while a modestly enhanced workload of 
+four hours per week would bring the total to USD 21,600. Although one hour 
+per week would significantly slow the development of new functionality, it 
+would still allow for responsive project management and maintenance.
+
 
 ### Period of Performance
 
