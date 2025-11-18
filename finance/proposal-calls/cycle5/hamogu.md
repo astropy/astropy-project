@@ -51,7 +51,7 @@ Bring X-ray spectroscopy to `specutils` and `astropy.modelling`. Moritz is one o
 ### Approximate Budget
 Budget breakdown (nominal):
 
-- $28,000 for 10% of my time per year
+- $30,000 for 10% of my time per year
 
 (Since this will be a sub-award to MIT, my salary is fixed by MIT and the overhead rate is fixed by agreement between MIT and the US government for NASA grants. We can choose the amount of time funded, but not the hourly rate.)
 
