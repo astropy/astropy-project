@@ -11,7 +11,12 @@ This project requests funding to host a replacement.
 
 #### Roadmap Items
 
-None!?
+🟥 Increase inclusion, diversity, and empowerment efforts within the Astropy Project and NumFOCUS communities, and improve our understanding of the demographics of our communities in order to measure the effectiveness of these efforts.
+
+🟥 Ensure people who contribute are from a broad experience base, including typical astronomers.
+
+Having multiple chat platforms increases the people who are going to be willing or able to contribute to the project.
+Especially, having an option for one which is not controlled by an increasingly hostile corporate entity should give the project some security going forward.
 
 #### Project / Work / Deliverables
 
