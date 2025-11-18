@@ -18,8 +18,8 @@ otherwise commit for astropy.  Specifically, I propose,
 - Extend the same machinery to Masked and Distribution so that all main astropy
   classes can use arbitrary array classes.
 - Also extend the machinery to the internal arrays used by Time.
-- Speed up unit conversion and thus all of astropy by smarter conversion functions
-  and caching.
+- Speed up unit conversion and thus all of astropy by smarter conversion
+  functions and caching.
 - Finish my implementation of a Variable class that tracks uncertainties and
   their correlations analytically (based on the uncertainties package).
 
@@ -120,29 +120,30 @@ regular employment at the University of Toronto correspondingly.  At a
 standard rate of USD 150/hour for 8 hours per week and 45 weeks, this
 corresponds to USD $54,000 per year.
 
-I note that my approved cycle 4 proposal was for two years, but the funding
-cycle means that only 16 months were used. Here, I request funding both to
-finish that approved part of my project ($36,000), and in addition request
-funding for another year to finish the whole ($54,000). The total request is
-thus $90,000.
+I note that my initial cycle 4 proposal was for three years, but that made it
+extend beyond the cycle 4 funding cycle and hence the initial allocation was
+for two years.  With the cycle changing, so far only 16 months have been used.
+Here, I request funding both to complete the two years previously approved
+($36,000), and in addition request funding for the third year required to
+finish the project ($54,000). The total request is thus $90,000.
 
 Given partial funding, I could do:
 
-- $36,000 (remaining approved in cycle 4): Wrap up making Quantity
-  itself a container class compliant with Array API; implement some of
-  the performance improvements in unit conversion.
+- $36,000 (remainder approved in cycle 4): Wrap up making Quantity a container
+  class compliant with Array API; implement some of the performance
+  improvements in unit conversion.
 
-- $72,000 (above plus minimum amount for some teaching relief):
-  produce a Quantity replacement without performance regressions,
-  fully integrated in astropy, and fully compliant with the Quantity
-  API; implement full set of performance improvements in units
-  conversion; probably able to ensure Masked can also hold arbitrary
-  Array API compatible arrays, and possibly Time as well.
+- $72,000 (above plus minimum amount to get partial teaching relief): Produce
+  a Quantity replacement without performance regressions, fully integrated in
+  astropy (i.e., usable inside SkyCoord, etc.), and fully compliant with the
+  Quantity API; implement full set of performance improvements in units
+  conversion; probably able to ensure Masked can also hold arbitrary Array API
+  compatible arrays, and possibly Time as well.
 
-- $90,000 (full request): ensure Masked, Distribution, and Time all
-  can hold arbitray Array API compatiblle arrays, making astropy as a
-  whole able to deal with JAX, dask, etc., arrays.  Hopefully also
-  produce a properly functioning Variable class.
+- $90,000 (full request): Ensure Masked, Distribution, and Time all can hold
+  arbitray Array API compatiblle arrays, making astropy as a whole able to
+  deal with JAX, dask, etc., arrays.  Hopefully also produce a properly
+  functioning Variable class.
 
 ### Period of Performance
 
