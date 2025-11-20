@@ -61,7 +61,7 @@ should be achieved; those beyond depend on the difficutly of 2 and 3. This
 work also presumes that the current maintainers of ds9 are willing to accept
 the required changes for steps 2 and beyond.
 
-### Approximate Budget I am requesting $20,000 to perform this work
+### Approximate Budget I am requesting budget in the range of $18,000 to $22,000 to perform this work
     (approximately 133 hours at $150/hr)
 
 ### Period of Performance The work will be completed within a year
