@@ -23,8 +23,7 @@ Specreduce’s capabilities to support multi-object spectrographs.
   package documentation from a user perspective."*
   
     - A major component of this proposal involves improving the clarity and 
-      structure of the Specreduce documentation.  Ongoing work can be followed in 
-      [Specreduce PR #275](https://specreduce--275.org.readthedocs.build/en/275/).
+      structure of the [Specreduce documentation](https://specreduce.readthedocs.io/en/latest/).
     
 - :large_orange_diamond: *"Develop, host, and index tutorials suitable for use 
   in university astronomy courses."*
