@@ -42,13 +42,15 @@ These roadmap items will be addressed:
 3. Improvement of the calibration and postage stamp features.
 
 ### Approximate Budget
-Currency: US $
+Currency: US $4,500 - $9,000
 
 
 - Salary
-    - Project lead: $1,000
-    - Additional team members who will help with software development and testing: $8,000
-- TOTAL: $9,000
+    - Project lead: $0 - $1,000
+    - Additional team members who will help with software development and testing: $4,500 - $8,000
+- TOTAL: $4,500 - $9,000
+
+*Note*: if funded at the lower end of the range the funding will be directed to the additional team members rather than the project lead.
 
 ### Period of Performance
 
