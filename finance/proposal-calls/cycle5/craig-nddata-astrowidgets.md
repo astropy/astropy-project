@@ -33,14 +33,16 @@ proposal. A object-oriented interface for image combination will be added to
 Additional backends (e.g. `plotly`) may be added if time allows.
 
 ### Approximate Budget
-Currency: US $9,487.50
+Currency: US $5362.5 - $9,487.50
 
-- Contractor salary: $9,487.50
-- TOTAL: $9,487.50
+- Contractor salary: $5362.5 - $9,487.50
+- TOTAL: $5362.5 - $9,487.50
 
 Please see discussion of the budget details in the discussion on the [issue for
 the Cycle 4
 proposal](https://github.com/astropy/astropy-project/issues/411#issuecomment-3207064721).
+
+*Note*: At the lowest end of the budget range the rewrite of the combination machinery in `ccdproc` would be dropped, and further work on implementation of the Array API in NDData would wait until #483 is completed. There would be an additional minor reduction in the effort put towards `astrowidgets`.
 
 ### Period of Performance
 
