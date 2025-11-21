@@ -86,7 +86,7 @@ data. The observatory support astronomer materials will be adapted from the
 workshops delivered as part of [ALOHA 2024](https://github.com/astropy/astropy/wiki/ALOHA-2024).
 
 ### Approximate Budget
-Currency: US $15,000
+Currency: US $8,000 - $15,000
 
 - Salary:
     - One graduate student at Lick Observatory or in ASTRAL to develop workshop
@@ -98,14 +98,14 @@ Currency: US $15,000
     - One project lead (Matt Craig) to oversee the project, help develop
       materials, and do some workshop delivery: $5,000 for 10 days of work.
 
-- TOTAL: $15,000
+- TOTAL: $8,000 - $15,000
 
 Budget breakdown by audience:
 
 - PUI workshops ($10,000)
   - ASTRAL: $6,000 (one graduate student to develop materials, one coordinator)
-  - Upper Midwest: $4,000 (one coordinator per location)
-  - Project lead: $2,000 (material development and delivery)
+  - Upper Midwest: $2,000 - $4,000 (one coordinator per location)
+  - Project lead: $0 - $2,000 (material development and delivery)
 - AAVSO Workshop ($1,5000): Material development and delivery by project lead
 - NSO Workshop ($1,500): Material development and delivery by project lead
 
