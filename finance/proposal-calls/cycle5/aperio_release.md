@@ -55,6 +55,8 @@ the estimated effort is:
 
 This gives a total of 80 hours x USD 150 = USD 12,000
 
+If funding is limited, a minimum useful budget would be 3/4 of this, so **USD 9,000**.
+
 ### Period of Performance
 
 Jan 1, 2026 to Dec 31, 2026
