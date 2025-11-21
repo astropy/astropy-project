@@ -60,11 +60,22 @@ This proposal addresses a goal in the Astropy Roadmap, namely
 `Improve support for reading and writing ASDF throughout the Astropy ecosystem (e.g., coordinated packages).`
 
 The above listed astropy objects will be serialized as part of asdf-astropy.
+The work involves writing
+
+- a schema and a converter for each object
+- tests and documentation
+- updating manifests
+- releasing asdf-astropy
+
+The time for the work is split approximately
+
+PSF models - 1 week
+regions  - 1 week
+coordinate frames - 2 to 3 weeks
 
 ### Approximate Budget
-We are requesting $20,000 (approximately 133 hours at $150/hr) for the
-salaries for the two developers:Perry Greenfield and Nadia Dencheva, who
-will no have any competing professional demands on their available time.
+We are requesting $20,000 ($18,000 - $22,000)for the salaries for the two developers:Perry Greenfield and Nadia Dencheva, who
+will not have any competing professional demands on their available time.
 
 ### Period of Performance
 The work will be completed within a year (2026-01-01 to 2026-12-31)
