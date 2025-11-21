@@ -42,6 +42,10 @@ This project addresses:
 
 This effort may be accomplished at 5-10% FTE over a year.
 
+Total cost for CY2026 at:
+- 5% FTE: $13,717
+- 10% FTE: $27,433
+
 ### Period of Performance
 
 Jan 1, 2026 - Dec 31, 2036
