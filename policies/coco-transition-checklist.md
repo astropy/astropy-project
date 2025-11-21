@@ -11,6 +11,7 @@ as needed.
     - Organization-wide ownership
     - Team: [coordinators](https://github.com/orgs/astropy/teams/coordinators)
 - [ ] Passwords access
+      - Should be invited by a current Password admin
 - [ ] Coordinators mailing list(s)
     - Privacy policy regarding Coordinators email list
     - Add to coordinators Google group
