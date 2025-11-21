@@ -84,6 +84,8 @@ The budget consists of two main parts:
 
 The total amount requested is **USD 116,200**.
 
+If funding was limited, we still request **USD 58,600** of already approved/contracted funds, but could reduce the new funding request to 4h/week (**USD 28,800**), for a total of **USD 87400**.
+
 ### Period of Performance
 
 Mar 1, 2025 to Dec 31, 2026
