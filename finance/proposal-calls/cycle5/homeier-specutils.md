@@ -23,7 +23,7 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 - Investigate more efficient data storage options for inhomogeneous collections,
   such as ragged array/awkward-array.
 
-- Participate in Spectroscopy Dev telecons.
+- Participate in Spectroscopy Dev telecons (12 hrs total).
 
 - Correct and improve [loader documentation](https://github.com/astropy/specutils/issues/952)
 
@@ -37,7 +37,8 @@ currency: US $
 
 - TOTAL: $32,400
 
-- Minimum viable amount: any part of the above work package at $5,400 for 1 hr / week
+- Minimum viable amount: any part of the above work package at $5,400 for 1 hr / week,
+  in roughly the priority of tasks as listed there, but likely not equal workloads.
 
 ### Period of Performance
 Jan 1, 2026-Dec 31, 2026
