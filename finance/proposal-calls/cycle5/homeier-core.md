@@ -41,8 +41,9 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 ### Approximate Budget
 currency: US $
 
-- Salary under independent external contractor agreement: 6 hours weekly for 35 weeks,
-  a total of 210 hours (accounting for holidays) @ $120 / hour
+- Salary under independent external contractor agreement: 6 hours weekly for 35 weeks
+  to start in April or May (until then the work already funded under the ROSES-2024
+  contract should be covered), for a total of 210 hours (accounting for holidays) @ $120 / hour
 
 - TOTAL: $25,200
 
