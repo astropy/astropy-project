@@ -35,31 +35,35 @@ released due to a lack of support from STScI. This first step is to make this
 capability available. 
 
 2. The second step is to make the instrinsic ds9 GUI
-naturally accept ASDF files as easeily as it uses FITS files. This requires
-changes to the internals of ds9, particularly with regard to its user
-interface. 
+naturally accept ASDF files as easeily as it uses FITS files. This initially
+does not require changes to the internals of ds9, particularly with regard
+to its user interface. This is because there are mechanisms for ds9 to
+dynamically load new GUI elements from TCL extensions provided by others.
+(See https://ui.adsabs.harvard.edu/abs/2005ASPC..347..114C/abstract for
+an overview; in addition, the following repository contains examples of
+how this is done. The hope is that with the successful addition of the
+enhancements, the ds9 development team will find it easy to fold these
+into the ds9 codebase.
 
-3. ds9 currently only understands FITS WCS information. I plan to
+3. Expand the ds9 interface to allow introspection
+within an ASDF file showing where images are located so they can be selected
+with the cursor. Initially does not need internal changes to ds9.
+
+4. The previous steps can be generalized to allow a
+mechanism to extend the ds9 interface to handle access to other python
+tools. Likewise probably does not require internal changes to ds9
+
+5. ds9 currently only understands FITS WCS information. I plan to
 modify it to also work with the python GWCS library. Note the previous steps
 bypass this by approximating the GWCS with a SIP fit to the GWCS model).
 There is a subtlety that must be dealt with that affects performance since it
 will likely be necessary to change the event handling when using GWCS to make
-it perform acceptably. 
+it perform acceptably.
 
-4. Expand the ds9 interface to allow introspection
-within an ASDF file showing where images are located so they can be selected
-with the cursor. 
-
-5. The previous steps can be generalized to allow a
-mechanism to extend the ds9 interface to handle access to other python
-tools.
-
-Since steps 2 and later involve understanding the internals of ds9, it is
-difficult to give good estimates of the work involved. This proposal intends
+This proposal intends
 to limit the work to the funds requested. I expect that the first 3 steps
-should be achieved; those beyond depend on the difficutly of 2 and 3. This
-work also presumes that the current maintainers of ds9 are willing to accept
-the required changes for steps 2 and beyond.
+should be achieved; those beyond depend on the difficutly of 2 and 3. 
+Item 5 is considered a stretch goal and requires integration into ds9.
 
 ### Approximate Budget I am requesting budget in the range of $18,000 to $22,000 to perform this work
     (approximately 133 hours at $150/hr)
