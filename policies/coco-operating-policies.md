@@ -98,7 +98,7 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 
 ## CoCo membership history
 
-### CoCo7 (Election December 2024)
+### CoCo7 (Election December 2025)
 
 - Clara Brasseur - term ends at 2026 election
 - Nathaniel Starkman - term ends at 2028 election
