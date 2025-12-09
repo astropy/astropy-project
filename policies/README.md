@@ -7,7 +7,7 @@ This directory holds documents of policies for the Astropy Project.  For example
 ### Coordination Committee
 
 - Policies: [CoCo Operating Policies](coco-operating-policies.md)
-- Records: [Running Notes](https://docs.google.com/document/d/1s0d7uKCUC9V1nMeGEZ0byHBNyeYxCbmmSDu-QZJXP_M/edit?usp=sharing)
+- Records: [Running Notes](https://docs.google.com/document/d/1jyF4B6sCAEgTjJk3-EJZg9EHeSO-e5yKYkviy6WkCCY/edit?usp=sharing)
 - Internal Communication
   - Bi-weekly closed meetings on Project calendar
   - Private Slack channel
