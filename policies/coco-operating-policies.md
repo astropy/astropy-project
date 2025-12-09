@@ -101,8 +101,8 @@ CoCo members typically have owner privileges of the Astropy organization, but it
 ### CoCo7 (Election December 2025)
 
 - Clara Brasseur - term ends at 2026 election
-- Nathaniel Starkman - term ends at 2028 election
 - Aarya Patil - term ends at 2027 election
+- Nathaniel Starkman - term ends at 2028 election
 - Erik Tollerud - term ends at 2026 election
 - Kyle Westfall - term ends at 2028 election
 
