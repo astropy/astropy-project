@@ -38,9 +38,6 @@ Nevertheless, there are a number of other Astropy objects that can benefit
 from serialization. We propose to implement ASDF serialization for other
 commonly used astropy types. We propose to implement ASDF serialization of
 
-- the remaining coordinate frames
-   - frames derived from BaseEclipticFrame
-   - remaining BaseRADecFrames (LSR, LSRD, LSRK, TETE, TEME)
 - photutil PSF models (AiryDiskPSF, CircularGaussianPRF,
 CircularGaussianPSF, GaussianPRF, GaussianPSF, MoffatPSF, GriddedPSFModel)
 - photutil apertures (pixel and sky)
