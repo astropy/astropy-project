@@ -25,16 +25,15 @@ List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadma
 
 - Participate in HPC and Spectroscopy/NDdata working groups and Spectroscopy Dev telecons.
 
-- Further consolidating the new partnership with pyOpenSci on Affiliated packages.
+- Continue as pyOpenSci editor until mid-2026 or until the currently 5 open Affiliated package applications have been reviewed, whichever is longer.
   
 #### Continue as `io.ascii` maintainer.
 
-- Address open issues; revisit possible integration of the faster Numpy `loadtxt` C parser.
+- Address open issues; review pull requests as required.
 
 #### Support for Software Operations in responding to support requests:
 
-- Monitor Openastronomy Discourse, Facebook Python in Astronomy groups, Slack channels, mailing
-  list and Github issues for questions in need of response, identifying potential assignees.
+- Monitor Openastronomy Discourse and Slack channels for questions in need of response.
 
 - Review PRs especially from new/first time contributors.
 
