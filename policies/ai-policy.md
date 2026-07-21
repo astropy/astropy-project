@@ -8,7 +8,10 @@ The following apply to all contributions.
     2. Contributors must be able to explain all changes during review.
     3. **Licensing:** Contributors are responsible for ensuring all submitted code complies with Astropy's licensing, regardless of whether generative AI tools were used.
 2. **Disclosure:** Contributors must disclose whether they leveraged generative AI tools when making changes (including autonomous agents). This also helps downstream citations comply with academic conference policies that may require disclosure of genAI usage.
-3. **Authentic engagement:** The pull request process is collaborative and iterative. Contributors are expected to actively engage with reviewer feedback themselves. Copying and pasting replies to / from a generative AI tool does not count as engaging with the reviewer; contributors are expected to understand the changes they are proposing, not act as message courier for a third party. 
+3. **Authentic engagement:** The pull request process is collaborative and iterative. Contributors are expected to actively engage with reviewer feedback themselves. Copying and pasting replies to / from a generative AI tool does not count as engaging with the reviewer; contributors are expected to understand the changes they are proposing, not act as message courier for a third party.
+
+> [!IMPORTANT]
+> Autonomous workflows ("agents") are not human contributors. Astropy reviewers expect to interact with the human controlling the account, or we will close the PR.
 4. **Consistency with Astropy conventions and existing style:** In the context of Generative AI, this particularly means conveying information (comments, documentation, etc) in a style the Astropy community uses, and that is appropriate and to the point.
 
 > [!NOTE]
