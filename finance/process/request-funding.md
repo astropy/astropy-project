@@ -22,27 +22,19 @@ Send an email to finance@astropy.org with the subject line "Request for Travel F
 * Total Request
 * Itemized Budget
 * Advance needed
+  
+Please see the detailed reimbursement rules in the [NumFocus Travel Policy](https://github.com/user-attachments/files/30557926/Travel.Expense.Policy.pdf)
 
-If you are calculating your request using per diem, the please use the current [US Government per diem rates](https://www.gsa.gov/travel/plan-book/per-diem-rates).
-These rates should be considered maximum values and requests less than that amount can be submitted for reimbursement.
-
-Flights should be booked in economy class.
-If the flight is over 4 hours and the additional cost is less than 20%, a higher class of seating may be booked.
-We encourage travel plans to be optimized for efficiency.
-If additional costs are required, a justification should be submitted for approval.
-Medical reasons are an acceptable justification for higher costs.
-
-In general, you should attempt to minimize the environmental impact of your travel.
+In general, please try to minimize the environmental impact of your travel.
 
 The Finance Committee will aim to provide approval within 1 week of the request.
 
 ### After Travel
 
-Within two weeks of completing your trip you should submit your reimbursement request via the [NumFOCUS Rocket form](https://numfocus.typeform.com/to/oTBLP2).
-You will need to include itemized receipts for all travel costs. You will also need to provide information for your preferred payment method, e.g. bank account and routing number, Paypal account, etc.
+Within two weeks of completing your trip you should submit your reimbursement request via [Open Collective](https://opencollective.com/astropy/projects/roses-24/expenses/new) site. 
+You will need to include itemized receipts for all travel costs, including meals. You will also need to provide information for your preferred payment method, e.g. bank account and routing number, Paypal account, etc.
 
-You should notify the Finance Committee that you have submitted a request via email so that the payment can be approved.
-A member of the Finance Committee will review the request and provide approval to NumFOCUS for the payment.
+Please see the detailed reimbursement rules in the [NumFocus Travel Policy](https://github.com/user-attachments/files/30557926/Travel.Expense.Policy.pdf)
 
 Payment will be made to you directly by NumFOCUS, typically within 30 days after approval.
 
@@ -69,7 +61,7 @@ Once the contract terms are approved the Finance Committee will work with NumFOC
 
 ### Payment for Contractors
 
-Contractors should bill for hours worked by submitting itemized invoices through the [NumFOCUS Rocket form](https://numfocus.typeform.com/to/hdLb0e).
+Contractors should bill for hours worked by submitting itemized invoices through [Open Collective](https://opencollective.com/astropy/projects/roses-24/expenses/new).
 Contractors will need to include a W-9 as applicable and should indicate if the work is related to a specific grant. Invoices should be submitted following the timeline indicated in the contract.
 
 A member of the Finance Committee will review the invoice and provide approval to NumFOCUS for the payment.
