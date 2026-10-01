@@ -8,7 +8,7 @@ please also see the process laid out in
 [APE0](https://github.com/astropy/astropy-APEs/blob/main/APE0.rst).
 
 Maintainers are the people who administer the Project and keep the packages working.
-The roles are described in the [Role Responsibilites](https://www.astropy.org/team.html#role-responsibilities)
+The roles are described in the [Role Responsibilites](https://www.astropy.org/team.html#astropy-project-role-responsibilities)
 section of the [Astropy Team](https://www.astropy.org/team.html) page.
 Often, they review and merge PRs, keep track of what's going on and
 organize ideas for future development. Most roles require particular GitHub permissions,
