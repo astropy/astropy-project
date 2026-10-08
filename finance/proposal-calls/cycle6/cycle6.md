@@ -1,21 +1,22 @@
-# Cycle 5 funding requests and ideas
+# Cycle 6 funding requests and ideas
 
 # Changes relative to the previous cycle
 
-The primary change for Cycle 5 (relative to Cycle 4) is that the [Roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) will be used to determine funding priorities. In addition, as the maintainers of the roadmap, the Strategic Planning and Organizing Committee (SPOC) will participate in funding request review, solicitation, and selection. Also, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
+The primary change for Cycle 6 (relative to Cycle 5) is that the [Roadmap](<link TBD>) has been updated to use a new format with objectives and key results, and funding proposals should indicate, if appropriate, which specific key results they will address. As for Cycle 5, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
 
 # Funding goals
-Funding requests (FR) which address one or more items on the Astropy Project’s Roadmap will be prioritized, with proposals that include work towards “red” and “orange” roadmap items being prioritized the most, since these have been identified by the community as being the most critical.
+
+Funding requests (FR) which address one or more key results on the Astropy Project’s Roadmap will be prioritized, with proposals that include work towards the highest priority objectives being prioritized the most, since these have been identified by the community as being the most critical.
 
 FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
 
 # Funding amount
 
-We anticipate a maximum of **$250,000** (US) to be available for this funding cycle.
+We anticipate a maximum of **$TBD,TBD** (US) to be available for this funding cycle.
 
 # Period of Performance
 
-The period of performance should be for one year. Ideally, Jan 1–Dec 31, 2026.
+The period of performance should be for one year. Ideally, Jan 1–Dec 31, 2027.
 
 # What can the funding be used for?
 
@@ -27,16 +28,16 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 # Funding Request Process Overview
 
-We envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
+As for Cycle 5, we envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
 
-* Oct 31, 2025: **_Draft_** FR Deadline
-* Three week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
+* Nov 6, 2026: **_Draft_** FR Deadline
+* Two week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
   * The SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial round of requests.
   * The Finance Committee will review budgets and may provide feedback and/or request more information.
-* Nov 21, 2025: Finalized FRs are due, two week Voting period begins
-* Dec 8, 2025: The SPOC and Finance Committee will work together to select funding requests and allocate budgets.
-* Dec 19, 2025: Announcement of selected FRs. Drafting contracts begins.
-* Jan 1, 2026: Work can commence once contracts are signed.
+* Nov 20, 2026: Finalized FRs are due, two week Voting period begins
+* Dec 7, 2026: The SPOC and Finance Committee will work together to select funding requests and allocate budgets.
+* Dec 18, 2026: Announcement of selected FRs. Drafting contracts begins.
+* Jan 1, 2027: Work can commence once contracts are signed.
 
 Note that these dates are nominal, and unplanned events like extended government shutdowns could extend some of the dates/deadlines.
 
@@ -47,11 +48,11 @@ Voting members of the Astropy Project vote on the FRs using thumbs up/down on a 
 The Coordination and Finance Committees will select FRs based on the voting results, alignment with the Roadmap, confirmation of available people to implement, and available funds.
 
 # How to Submit a Funding Request
-Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 5 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 5 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/template.md). Please place the file with your FR in the [cycle 5 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5/), the same location as the template.
+Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 6 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). Please place the file with your FR in the [cycle6 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/), the same location as the template.
 
 # Post-request process
 
-Once selection is completed, an FR that is *not* selected does not continue further, although it can always be re-proposed. It is also possible that if more funds become available before the next cycle, a proposal may be accepted later but with a revised timieline.
+Once selection is completed, an FR that is *not* selected does not continue further, although it can always be re-proposed. It is also possible that if more funds become available before the next cycle, a proposal may be accepted later but with a revised timeline.
 
 If an FR *is* selected, 🎉! Now the work begins.
 
@@ -67,7 +68,7 @@ The following general steps follow whan an FR is selected:
 
 # COTRs
 
-As in last Cycle, all proposals will be assigned a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
+As in last two cycles, all proposals will be assigned a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
 
 COTR's key responsibilities include:
 
@@ -95,13 +96,11 @@ Examples of constructive comments are:
 
 If you are worried about your comments being perceived as inappropriate, you are welcome to send your feedback directly to the Finance Committee at finance@astropy.org or ask on Slack. You are also welcome to use the “thumbs down” vote without adding comments. If you have any concerns about this process and the ensuing discussion that you would prefer to discuss privately, contact the ombudsperson at confidential@astropy.org.
 
-
 # Open hire process
 
 FRs can include an “open hire” process to identify people to undertake the activities described. Should such a request be accepted, the Finance Committee will organize a recruitment process to find the right person (or people) to carry out the work. Members of the FR team will be asked to assist in the recruitment and hiring process. The number of open hire requests selected may be limited by Finance Committee staffing availability.
 
 We envision a recruitment process that expands beyond the US Astronomy community and would include the various Research Software Engineering forums in addition to the AAS Job Register. We are in the process of putting together a hiring guide.
-
 
 # Template and examples
 
