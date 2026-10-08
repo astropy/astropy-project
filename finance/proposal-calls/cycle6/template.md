@@ -8,7 +8,7 @@ Briefly describe how this work will benefit Astropy packages / users / community
 This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs. 
 
 #### Roadmap Items
-List which [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) item(s) this work will help address?
+List which objective(s) and key result(s) on the [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) this work will help address.
 
 #### Project / Work / Deliverables
 Provide the details of the planned work so that the Astropy community members will understand what is planned. This should include a description of expected specific results and/or deliverables.
@@ -28,4 +28,4 @@ Travel and conference registration should be submitted separately from this fund
 
 ### Period of Performance
 
-List the expected range of time the budget should be allocated for. For Cycle 5, the ideal period of performance is Jan 1, 2026–Dec 31, 2026.
+List the expected range of time the budget should be allocated for. For Cycle 6, the ideal period of performance is Jan 1, 2027–Dec 31, 2027.

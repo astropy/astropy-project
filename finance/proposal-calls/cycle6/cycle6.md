@@ -20,7 +20,7 @@ The period of performance should be for one year. Ideally, Jan 1–Dec 31, 2027.
 
 # What can the funding be used for?
 
-Money can be used for travel, subscriptions, etc, in addition to direct financial support to individuals, including individuals based outside of the United States.
+Money can be used for travel, subscriptions, etc., in addition to direct financial support to individuals, including individuals based outside of the United States.
 
 Funding requests may be submitted even if they include the recruitment and hiring of another person to complete the task. See below: Open Hire Process.
 
@@ -28,7 +28,7 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 # Funding Request Process Overview
 
-As for Cycle 5, we envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as much of the Roadmap as possible is being addressed.
+As for Cycle 5, we envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the Strategic Planning and Organizing Committee (SPOC) to ensure as much of the Roadmap as possible is being addressed.
 
 * Nov 6, 2026: **_Draft_** FR Deadline
 * Two week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
@@ -45,10 +45,10 @@ We aim to achieve broad consensus before the vote. Requesters are encouraged to 
 
 Voting members of the Astropy Project vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
-The Coordination and Finance Committees will select FRs based on the voting results, alignment with the Roadmap, confirmation of available people to implement, and available funds.
+The SPOC and Finance Committee will select FRs based on the voting results, alignment with the Roadmap, confirmation of available people to implement, and available funds.
 
 # How to Submit a Funding Request
-Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 6 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). Please place the file with your FR in the [cycle6 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/), the same location as the template.
+Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 6 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). Please place the file with your FR in the [Cycle 6 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/), the same location as the template.
 
 # Post-request process
 
@@ -56,9 +56,9 @@ Once selection is completed, an FR that is *not* selected does not continue furt
 
 If an FR *is* selected, 🎉! Now the work begins.
 
-Once a proposal is accepted, the Finance Committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc.  At the same time, the Coordination Committee will assign a COTR (see below) for that FR.
+Once a proposal is accepted, the Finance Committee will assign a committee member contact to ensure invoices are submitted, process is followed, etc. At the same time, the Coordination Committee will assign a COTR (see below) for that FR.
 
-The following general steps follow whan an FR is selected:
+The following general steps follow when an FR is selected:
 
 1. The FR is assigned a final budget and funding source, and the PR is merged.
 2. A new tracking issue is created for the FR (by the finance committee member contact), which includes the budget, period of performance, and identifies the assigned COTR.
@@ -68,22 +68,22 @@ The following general steps follow whan an FR is selected:
 
 # COTRs
 
-As in last two cycles, all proposals will be assigned a COTR (Contracting Officer's Technical Representative).  This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
+As in the last two cycles, all proposals will be assigned a COTR (Contracting Officer's Technical Representative). This concept is borrowed from government funding agencies, although it is to be stressed that Astropy's goal is to make the COTR role as low-overhead as possible.
 
-COTR's key responsibilities include:
+The COTR's key responsibilities include:
 
 * Technical expertise: COTRs are experts in the contract's specific area, evaluating the contractor's performance with their technical knowledge.
 * Contract compliance: COTRs monitor and ensure the contractor follows contract terms, reviewing deliverables to meet expected Astropy community standards.
 * Performance evaluation: COTRs assess contractor performance, verifying the work meets contract expectations.
 * Issue resolution: COTRs play a role in resolving issues or disputes, collaborating with the finance committee, the Coordination Committee, and the broader Astropy Project.
-* Communication and reporting: Acting as a liaison, COTRs ensure transparent communication, and reporting progress and issues (see above).
+* Communication and reporting: Acting as a liaison, COTRs ensure transparent communication and report progress and issues (see above).
 
 
 # Fostering constructive discussion
 
 We want to stay true to the "radical transparency" ethos of the Project and thus we are asking the community to comment on the FRs publicly. At the same time, we want to ensure that the conversations stay as constructive as possible to foster the Astropy Project’s commitment to maintaining a positive and welcoming culture. Thus, here we provide some example language that might help commenters stay constructive with their comments.
 
-Example of non-constructive comments are:
+Examples of non-constructive comments are:
 
 * “This is not worth our time.”
 * “Person X has never really done anything that I think is good.”
@@ -104,4 +104,9 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](template.md). You can also refer to successful Cycle II/3/4 **Finalized** FRs at [this link](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal), [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3), or  [this one](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4)  .
+The following is a template proposal: [template.md](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). You can also refer to successful **Finalized** FRs from previous cycles:
+
+* [Cycle 2](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal)
+* [Cycle 3](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3)
+* [Cycle 4](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4)
+* [Cycle 5](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5)
