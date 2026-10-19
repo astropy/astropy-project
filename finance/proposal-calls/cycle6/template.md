@@ -3,25 +3,32 @@
 **Proposal Category**: Operations/Innovations (delete as appropriate)
 
 ### Project Team
-Describe who is expected to work on the project. If work will be undertaken by an open hire instead of (or in addition to) other project members, please indicate that here.
+Describe who is expected to work on the project. If work will be undertaken by an open hire instead
+of (or in addition to) other project members, please indicate that here.
 
 ### Project Description / Scope of Work
 Briefly describe how this work will benefit Astropy packages / users / community.
-This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs.
+This section, including the below subsections, will be used as the Scope of Work in the resulting
+contracts funding approved FRs.
 
 #### High Priority Objectives
-For _Innovations_ proposals, list which of the [high priority objectives](cycle6.md#high-priority-objectives) this work will help address, if any. _Operations_ proposals can leave this section out.
+For _Innovations_ proposals, list which of the [high priority
+objectives](cycle6.md#high-priority-objectives) this work will help address, if any. _Operations_
+proposals can leave this section out.
 
 #### Project / Work / Deliverables
-Provide the details of the planned work so that the Astropy community members will understand what is planned. This should include a description of expected specific results and/or deliverables.
+Provide the details of the planned work so that the Astropy community members will understand what
+is planned. This should include a description of expected specific results and/or deliverables.
 
 ### Approximate Budget
 Currency: US $
-The approximate budget should be specified in USD. However, we are open to spending funds internationally. Budgets should be converted to USD using a plausible exchange rate.
+The approximate budget should be specified in USD. However, we are open to spending funds
+internationally. Budgets should be converted to USD using a plausible exchange rate.
 
 Include overheads, fringe, etc. if money is paid as sub-award to an institution.
 
-- Salary / contractor fees etc. (give sum here, details about contract, payment method (contract/sub-award) etc. can be worked out with the finance committee later)
+- Salary / contractor fees etc. (give sum here, details about contract, payment method
+  (contract/sub-award) etc. can be worked out with the finance committee later)
 - Travel and conference registration (if needed, list separately from the above)
 - TOTAL
 
@@ -29,4 +36,5 @@ Please note that we would happily accept budget items other than the above.
 
 ### Period of Performance
 
-List the expected range of time the budget should be allocated for. For Cycle 6, the ideal period of performance is Jan 1, 2027–Dec 31, 2027.
+List the expected range of time the budget should be allocated for. For Cycle 6, the ideal period of
+performance is Jan 1, 2027–Dec 31, 2027.
