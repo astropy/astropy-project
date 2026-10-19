@@ -72,8 +72,8 @@ given a higher weight during funding allocations.
 
 We anticipate that for this funding cycle a maximum of **$330,000** (US) will be available for
 effort, split as follows:
-* **$132,000** (US) for Operations proposals
-* **$198,000** (US) for Innovations proposals
+* **$132,000** (US) for _Operations_ proposals
+* **$198,000** (US) for _Innovations_ proposals
 
 In addition, a maximum of **$82,000** (US) will be available for travel. Any travel costs should be
 listed as a separate line item in the proposal budget.
@@ -101,13 +101,13 @@ ideas, to merge teams with similar ideas, and for the SPOC to ensure as many of 
 objectives as possible are being addressed.
 
 * Nov 6, 2026: **_Draft_** FR Deadline
-* Two week iteration and discussion period during which draft FRs can be fleshed out and modified.
+* Two-week iteration and discussion period during which draft FRs can be fleshed out and modified.
   During this time:
   * The SPOC may submit and/or solicit new proposals that fill gaps not addressed by the initial
     round of requests.
   * The Finance Committee will review budgets and may provide feedback and/or request more
     information.
-* Nov 20, 2026: Finalized FRs are due, two week Voting period begins
+* Nov 20, 2026: Finalized FRs are due, two-week voting period begins
 * Dec 7, 2026: The SPOC and Finance Committee will work together to select funding requests and
   allocate budgets.
 * Dec 18, 2026: Announcement of selected FRs. Drafting contracts begins.
@@ -152,10 +152,10 @@ assign a COTR (see below) for that FR.
 The following general steps follow when an FR is selected:
 
 1. The FR is assigned a final budget and funding source, and the PR is merged.
-2. A new tracking issue is created for the FR (by the finance committee member contact), which
+2. A new tracking issue is created for the FR (by the Finance Committee member contact), which
    includes the budget, period of performance, and identifies the assigned COTR.
 3. Work updates are given in the tracking issue, although out-of-band clarifications/conversations
-   with the finance committee contact or COTR are welcome. It is the responsibility of the COTR to
+   with the Finance Committee contact or COTR are welcome. It is the responsibility of the COTR to
    ensure these updates happen (although they don't necessarily need to be done by the COTR
    themselves).
 4. As work is completed, the funded personnel or their institutional representative submit invoices
@@ -178,7 +178,7 @@ The COTR's key responsibilities include:
 * Performance evaluation: COTRs assess contractor performance, verifying the work meets contract
   expectations.
 * Issue resolution: COTRs play a role in resolving issues or disputes, collaborating with the
-  finance committee, the Coordination Committee, and the broader Astropy Project.
+  Finance Committee, the Coordination Committee, and the broader Astropy Project.
 * Communication and reporting: Acting as a liaison, COTRs ensure transparent communication and
   report progress and issues (see above).
 
@@ -229,8 +229,7 @@ process of putting together a hiring guide.
 The following is a template proposal: [template.md](template.md). You can also refer to successful
 **Finalized** FRs from previous cycles:
 
-* [Cycle
-  2](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal)
+* [Cycle 2](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal)
 * [Cycle 3](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3)
 * [Cycle 4](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle4)
 * [Cycle 5](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle5)
