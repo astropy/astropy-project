@@ -2,17 +2,52 @@
 
 # Changes relative to the previous cycle
 
-The primary change for Cycle 6 (relative to Cycle 5) is that the [Roadmap](<link TBD>) has been updated to use a new format with objectives and key results, and funding proposals should indicate, if appropriate, which specific key results they will address. As for Cycle 5, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
+The primary changes for Cycle 6 (relative to Cycle 5) are that:
 
-# Funding goals
+* There are now two main categories of proposals: _Operations_ and _Innovations_. Proposals should indicate which category they fall under. These categories are described below in turn.
+* The original Astropy Roadmap is being replaced by a smaller number of high priority objectives for 2027, and funding proposals should indicate, if appropriate, which objective(s) they aim to address.
 
-Funding requests (FR) which address one or more key results on the Astropy Project’s Roadmap will be prioritized, with proposals that include work towards the highest priority objectives being prioritized the most, since these have been identified by the community as being the most critical.
+As for Cycle 5, due to funding uncertainties, the period of performance and budgets should be just one year, as opposed to multiple years.
 
-FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
+# Proposal categories
+
+This section describes the two main proposal categories. Proposals should indicate which category they fall under at the top under **Proposal Category** (see [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md)).
+
+## Operations
+
+Proposals that request funding to carry out work which is part of the responsibilities of a project role are classified as _Operations_. This is work that is essential to the sustainability and functioning of the project, but is not work that will ever be 'done'. Examples include participating in one of the Astropy committees, maintaining a core sub-package or coordinated package, maintaining testing and documentation infrastructure, and more (a full list of roles and responsibilities can be found on the [Astropy team](https://www.astropy.org/team.html) page). These proposals do not need to be tied to specific high priority objectives.
+
+## Innovations
+
+Proposals that do not fall under the _Operations_ category are classified as _Innovations_. These are typically projects that are to do a project that is time bound and can produce specific deliverables. It does not need to be a completely new project and may have been started in previous cycles, but it is for a specific project rather than to carry out whatever duties fall under a role. Proposals that go towards addressing one or more high priority objectives will be weighted higher during funding allocation.
+
+# High priority objectives
+
+The Strategic Planning and Organizing Committee (SPOC) is currently in the process of organizing objectives and key results for a set of high priority objectives, and will be sending out information about this soon. In the meantime, to help you plan, the eight high priority objectives that have been selected for 2027 based on voting by the Astropy community are:
+
+* Make astropy.units.Quantity a modern part of the Python array ecosystem by supporting any array-API-compliant backend, not just NumPy
+
+* Identify ways in which we can ensure the wellbeing of our community in the age of LLMs
+
+* Identify single points of failures throughout the infrastructure of the Astropy ecosystem
+
+* Create a process to identify and ensure progress on longstanding issues that should be high priority
+
+* Improve the sustainability and maintenance of coordinated and affiliated packages (this is specifically for projects that propose to do things to *improve* the sustainability and maintenance - rather than regular _Operations_ work)
+
+* Identify the barriers to making Astropy work easily in cloud contexts
+
+* Improve and maintain interoperability with performant I/O file formats and libraries
+
+* Provide support for reading and writing spectra using the IVOA SpectrumDM in specutils
+
+As mentioned in **Proposal categories**, for proposals in the _Innovations_ category, proposals which go towards addressing one or more high priority objectives will be given a higher weight during funding allocations.
 
 # Funding amount
 
-We anticipate a maximum of **$TBD,TBD** (US) to be available for this funding cycle.
+We anticipate that for this funding cycle a maximum of:
+* **$TBD,TBD** (US) will be available for Operations proposals
+* **$TBD,TBD** (US) will be available for Innovations proposals
 
 # Period of Performance
 
@@ -40,6 +75,8 @@ As for Cycle 5, we envision a two stage FR process to enable the community to di
 * Jan 1, 2027: Work can commence once contracts are signed.
 
 Note that these dates are nominal, and unplanned events like extended government shutdowns could extend some of the dates/deadlines.
+
+FRs shall foster the Astropy Project goals of community, shared work, and cooperation and shall be described, reviewed, and executed in this manner.
 
 We aim to achieve broad consensus before the vote. Requesters are encouraged to combine ideas and teams, modify, or withdraw FRs during the discussion period, as appropriate. Discussion is open to anyone; it is not restricted to voting members.
 

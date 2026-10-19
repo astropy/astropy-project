@@ -1,11 +1,13 @@
-### Title
+### Your title here
+
+**Proposal Category**: Operations/Innovations (delete as appropriate)
 
 ### Project Team
 Describe who is expected to work on the project. If work will be undertaken by an open hire instead of (or in addition to) other project members, please indicate that here.
 
 ### Project Description / Scope of Work
-Briefly describe how this work will benefit Astropy packages / users / community. 
-This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs. 
+Briefly describe how this work will benefit Astropy packages / users / community.
+This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs.
 
 #### Roadmap Items
 List which objective(s) and key result(s) on the [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) this work will help address.
