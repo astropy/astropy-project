@@ -9,6 +9,8 @@ The primary changes for Cycle 6 (relative to Cycle 5) are that:
 * The original Astropy Roadmap is being replaced by a smaller number of high priority objectives for
   2027, and funding proposals should indicate, if appropriate, which objective(s) they aim to
   address.
+* Only _Innovations_ proposals will be voted on by the community. _Operations_ proposals are still
+  open for public discussion, but will not be voted on.
 
 As for Cycle 5, due to funding uncertainties, the period of performance and budgets should be just
 one year, as opposed to multiple years.
@@ -107,7 +109,7 @@ objectives as possible are being addressed.
     round of requests.
   * The Finance Committee will review budgets and may provide feedback and/or request more
     information.
-* Nov 20, 2026: Finalized FRs are due, two-week voting period begins
+* Nov 20, 2026: Finalized FRs are due, two-week voting period begins (_Innovations_ only)
 * Dec 7, 2026: The SPOC and Finance Committee will work together to select funding requests and
   allocate budgets.
 * Dec 18, 2026: Announcement of selected FRs. Drafting contracts begins.
@@ -123,12 +125,14 @@ We aim to achieve broad consensus before the vote. Requesters are encouraged to 
 teams, modify, or withdraw FRs during the discussion period, as appropriate. Discussion is open to
 anyone; it is not restricted to voting members.
 
-Voting members of the Astropy Project vote on the FRs using thumbs up/down on a dedicated comment.
-Every voting member of the Astropy Project has equal voting rights.
+Voting members of the Astropy Project vote on _Innovations_ FRs using thumbs up/down on a dedicated
+comment. Every voting member of the Astropy Project has equal voting rights. _Operations_ FRs are
+not voted on.
 
-The SPOC and Finance Committee will select FRs based on the voting results, alignment with the high
-priority objectives (for _Innovations_ proposals), confirmation of available people to implement,
-and available funds.
+The SPOC and Finance Committee will select _Innovations_ FRs based on the voting results, alignment
+with the high priority objectives, confirmation of available people to implement, and available
+funds. _Operations_ FRs will be selected based on the needs of the project, confirmation of
+available people to implement, and available funds.
 
 # How to Submit a Funding Request
 Funding Requests (FRs) should be posted as pull requests to
