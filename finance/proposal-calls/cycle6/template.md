@@ -22,11 +22,10 @@ The approximate budget should be specified in USD. However, we are open to spend
 Include overheads, fringe, etc. if money is paid as sub-award to an institution.
 
 - Salary / contractor fees etc. (give sum here, details about contract, payment method (contract/sub-award) etc. can be worked out with the finance committee later)
+- Travel and conference registration (if needed, list separately from the above)
 - TOTAL
 
 Please note that we would happily accept budget items other than the above.
-
-Travel and conference registration should be submitted separately from this funding request, as needed.
 
 ### Period of Performance
 

@@ -21,6 +21,8 @@ Proposals that request funding to carry out work which is part of the responsibi
 
 Proposals that do not fall under the _Operations_ category are classified as _Innovations_. These are typically time-bound projects that produce specific deliverables. It does not need to be a completely new project and may have been started in previous cycles, but it is for a specific project rather than to carry out whatever duties fall under a role.
 
+Each proposal should fall under a single category. If you are planning work that includes both _Operations_ and _Innovations_ components, please submit these as separate proposals.
+
 # High priority objectives
 
 The Strategic Planning and Organizing Committee (SPOC) is currently in the process of organizing objectives and key results for a set of high priority objectives, and will be sending out information about this soon. In the meantime, to help you plan, the eight high priority objectives that have been selected for 2027 based on voting by the Astropy community are:
@@ -45,9 +47,11 @@ _Innovations_ proposals that go towards addressing one or more high priority obj
 
 # Funding amount
 
-We anticipate that for this funding cycle a maximum of:
-* **$TBD,TBD** (US) will be available for Operations proposals
-* **$TBD,TBD** (US) will be available for Innovations proposals
+We anticipate that for this funding cycle a maximum of **$330,000** (US) will be available for effort, split as follows:
+* **$132,000** (US) for Operations proposals
+* **$198,000** (US) for Innovations proposals
+
+In addition, a maximum of **$82,000** (US) will be available for travel. Any travel costs should be listed as a separate line item in the proposal budget.
 
 # Period of Performance
 
