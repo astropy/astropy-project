@@ -11,15 +11,15 @@ As for Cycle 5, due to funding uncertainties, the period of performance and budg
 
 # Proposal categories
 
-This section describes the two main proposal categories. Proposals should indicate which category they fall under at the top under **Proposal Category** (see [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md)).
+This section describes the two main proposal categories. Proposals should indicate which category they fall under at the top under **Proposal Category** (see [Cycle 6 template](template.md)).
 
 ## Operations
 
-Proposals that request funding to carry out work which is part of the responsibilities of a project role are classified as _Operations_. This is work that is essential to the sustainability and functioning of the project, but is not work that will ever be 'done'. Examples include participating in one of the Astropy committees, maintaining a core sub-package or coordinated package, maintaining testing and documentation infrastructure, and more (a full list of roles and responsibilities can be found on the [Astropy team](https://www.astropy.org/team.html) page). These proposals do not need to be tied to specific high priority objectives.
+Proposals that request funding to carry out work which is part of the responsibilities of a project role are classified as _Operations_. This is work that is essential to the sustainability and functioning of the project, but is not work that will ever be 'done'. Examples include participating in one of the Astropy committees, maintaining a core sub-package or coordinated package, and maintaining testing and documentation infrastructure. A full list of roles and responsibilities can be found on the [Astropy team](https://www.astropy.org/team.html) page. These proposals do not need to be tied to specific high priority objectives.
 
 ## Innovations
 
-Proposals that do not fall under the _Operations_ category are classified as _Innovations_. These are typically projects that are to do a project that is time bound and can produce specific deliverables. It does not need to be a completely new project and may have been started in previous cycles, but it is for a specific project rather than to carry out whatever duties fall under a role. Proposals that go towards addressing one or more high priority objectives will be weighted higher during funding allocation.
+Proposals that do not fall under the _Operations_ category are classified as _Innovations_. These are typically time-bound projects that produce specific deliverables. It does not need to be a completely new project and may have been started in previous cycles, but it is for a specific project rather than to carry out whatever duties fall under a role.
 
 # High priority objectives
 
@@ -29,11 +29,11 @@ The Strategic Planning and Organizing Committee (SPOC) is currently in the proce
 
 * Identify ways in which we can ensure the wellbeing of our community in the age of LLMs
 
-* Identify single points of failures throughout the infrastructure of the Astropy ecosystem
+* Identify single points of failure throughout the infrastructure of the Astropy ecosystem
 
 * Create a process to identify and ensure progress on longstanding issues that should be high priority
 
-* Improve the sustainability and maintenance of coordinated and affiliated packages (this is specifically for projects that propose to do things to *improve* the sustainability and maintenance - rather than regular _Operations_ work)
+* Improve the sustainability and maintenance of coordinated and affiliated packages (this is specifically for projects that propose to do things to *improve* the sustainability and maintenance, rather than regular _Operations_ work)
 
 * Identify the barriers to making Astropy work easily in cloud contexts
 
@@ -41,7 +41,7 @@ The Strategic Planning and Organizing Committee (SPOC) is currently in the proce
 
 * Provide support for reading and writing spectra using the IVOA SpectrumDM in specutils
 
-As mentioned in **Proposal categories**, for proposals in the _Innovations_ category, proposals which go towards addressing one or more high priority objectives will be given a higher weight during funding allocations.
+_Innovations_ proposals that go towards addressing one or more high priority objectives will be given a higher weight during funding allocations.
 
 # Funding amount
 
@@ -63,7 +63,7 @@ The funds currently come from a NASA ROSES grant. NumFocus, the Project’s fisc
 
 # Funding Request Process Overview
 
-As for Cycle 5, we envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the Strategic Planning and Organizing Committee (SPOC) to ensure as much of the Roadmap as possible is being addressed.
+As for Cycle 5, we envision a two stage FR process to enable the community to discuss and improve ideas, to merge teams with similar ideas, and for the SPOC to ensure as many of the high priority objectives as possible are being addressed.
 
 * Nov 6, 2026: **_Draft_** FR Deadline
 * Two week iteration and discussion period during which draft FRs can be fleshed out and modified. During this time:
@@ -82,10 +82,10 @@ We aim to achieve broad consensus before the vote. Requesters are encouraged to 
 
 Voting members of the Astropy Project vote on the FRs using thumbs up/down on a dedicated comment. Every voting member of the Astropy Project has equal voting rights.
 
-The SPOC and Finance Committee will select FRs based on the voting results, alignment with the Roadmap, confirmation of available people to implement, and available funds.
+The SPOC and Finance Committee will select FRs based on the voting results, alignment with the high priority objectives (for _Innovations_ proposals), confirmation of available people to implement, and available funds.
 
 # How to Submit a Funding Request
-Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 6 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 6 template](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). Please place the file with your FR in the [Cycle 6 folder](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/), the same location as the template.
+Funding Requests (FRs) should be posted as pull requests to https://github.com/astropy/astropy-project/ with the initial title text "Cycle 6 Funding:". The goal is to make this process as easy as possible for everyone, so we impose a limit of 100 lines assuming 80 char/line. We provide a template: [Cycle 6 template](template.md). Please place the file with your FR in the [Cycle 6 folder](.), the same location as the template.
 
 # Post-request process
 
@@ -141,7 +141,7 @@ We envision a recruitment process that expands beyond the US Astronomy community
 
 # Template and examples
 
-The following is a template proposal: [template.md](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle6/template.md). You can also refer to successful **Finalized** FRs from previous cycles:
+The following is a template proposal: [template.md](template.md). You can also refer to successful **Finalized** FRs from previous cycles:
 
 * [Cycle 2](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/2021-proposal)
 * [Cycle 3](https://github.com/astropy/astropy-project/tree/main/finance/proposal-calls/cycle3)

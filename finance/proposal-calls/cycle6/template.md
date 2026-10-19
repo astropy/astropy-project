@@ -9,8 +9,8 @@ Describe who is expected to work on the project. If work will be undertaken by a
 Briefly describe how this work will benefit Astropy packages / users / community.
 This section, including the below subsections, will be used as the Scope of Work in the resulting contracts funding approved FRs.
 
-#### Roadmap Items
-List which objective(s) and key result(s) on the [roadmap](https://github.com/astropy/astropy-project/blob/main/roadmap/roadmap.md) this work will help address.
+#### High Priority Objectives
+For _Innovations_ proposals, list which of the [high priority objectives](cycle6.md#high-priority-objectives) this work will help address, if any. _Operations_ proposals can leave this section out.
 
 #### Project / Work / Deliverables
 Provide the details of the planned work so that the Astropy community members will understand what is planned. This should include a description of expected specific results and/or deliverables.
