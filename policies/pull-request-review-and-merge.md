@@ -39,6 +39,16 @@ follows these guidelines.
 After successful review, the maintainer(s) will formally approve the pull
 request.
 
+While we welcome pull requests for anyone, pull requests that are purely related
+to code formatting or restructuring without change in functionality (including,
+but not limited to, the use of automated tools) may in some cases be closed
+without review, since these kinds of changes can cause unecessary conflicts with
+other pull requests, or may not line up with the coding style or wishes of the
+current maintainer(s). In these cases, it should be made clear to the contributor
+that we still value their interest in contributing to the project, but point
+them to this policy to explain that we cannot always accept these kinds of
+changes.
+
 ### Additional Checks
 
 Additional checks will be performed to verify that there are no other issues
