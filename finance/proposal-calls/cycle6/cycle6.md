@@ -24,7 +24,7 @@ they fall under at the top under **Proposal Category** (see [Cycle 6 template](t
 
 Proposals that request funding to carry out work which is part of the responsibilities of a project
 role are classified as _Operations_. This is work that is essential to the sustainability and
-functioning of the project, but is not work that will ever be 'done'. Examples include participating
+functioning of the Project, but is not work that will ever be 'done'. Examples include participating
 in one of the Astropy committees, maintaining a core sub-package or coordinated package, and
 maintaining testing and documentation infrastructure. A full list of roles and responsibilities can
 be found on the [Astropy team](https://www.astropy.org/team.html) page. These proposals do not need
@@ -99,7 +99,7 @@ applicable funding agency rules.
 ## Funding Request Process Overview
 
 As in Cycle 5, we envision a two-stage funding request (FR) process to enable the community to discuss and improve
-ideas, to merge teams with similar ideas, and for the SPOC to ensure as many of the high priority
+ideas, to merge teams with similar ideas, and for the SPOC to ensure as many of the high-priority
 objectives as possible are being addressed.
 
 * Nov 6, 2026: **_Draft_** FR Deadline
