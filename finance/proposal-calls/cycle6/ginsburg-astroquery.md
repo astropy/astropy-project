@@ -36,10 +36,10 @@ Role and responsibilities covered by this funding:
 ### Approximate Budget
 Currency: US $
 
-- Summer salary including fringe and overhead for Ginsburg: $24,782
+- Summer salary including fringe and overhead for Ginsburg: $24,782 [2026 number; 2027 number TBD but anticipated ~3-5% higher]
   (1 calendar month; to be awarded via subaward, as in previous cycles)
 - Travel and conference registration: none requested
-- TOTAL: $24,782
+- TOTAL: $24,782 [2026 number; 2027 number TBD but anticipated ~3-5% higher]
 
 ### Period of Performance
 Jan 1, 2027–Dec 31, 2027
