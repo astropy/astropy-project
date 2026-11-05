@@ -16,13 +16,15 @@ This project continues my Cycle 5 work on the `specreduce` package development.
 
 #### Project / Work / Deliverables
 
-* Improve `specreduce`'s wavelength calibration capabilities by implementing a template-matching 
-  approach similar to Pypeit.
-* Improve interoperability with Gemini and add tests and benchmarks that work using Gemini data.
-* Improve `specreduce`'s compatibility with the ASDF format.
-* Continue improving `specreduce` tutorials by adding instrument-specific recipes and walkthroughs.
-* Implement the infrastructure required for reducing multi-object spectrograph data.
-* Implement functionality asked for in the issue tracker based on community interest.
+Continued `specreduce` package development, including:
+
+* Improving `specreduce`'s wavelength calibration capabilities by implementing a template-matching 
+  approach similar to what is implemented in Pypeit,
+* Improving interoperability with Gemini and add tests and benchmarks that work using Gemini data,
+* Improving `specreduce`'s compatibility with the ASDF format,
+* Improving `specreduce` tutorials by adding instrument-specific recipes and walkthroughs,
+* Implementing the infrastructure required for reducing multi-object spectrograph data, and
+* Implementing functionality asked for in the issue tracker based on community interest.
 
 ### Approximate Budget
 Currency: USD $
