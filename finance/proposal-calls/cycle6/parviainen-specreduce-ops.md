@@ -11,18 +11,21 @@ This project continues my work in the `specreduce` package project management an
 
 #### Project / Work / Deliverables
 
-- Continued `specreduce` package project management and maintenance. Including:
-  - improving `specreduce` documentation and tutorials,
-  - reviewing pull requests and managing GitHub issues,
-  - preparing and publishing new releases,
-  - maintaining synchronization between PyPI and Conda distributions,
-  - ensuring alignment with Astropy’s development and contribution guidelines, and
-  - coordinating community contributions.
+Continued `specreduce` package project management and maintenance. Including:
+
+* reviewing pull requests and managing GitHub issues,
+* preparing and publishing new releases,
+* maintaining synchronization between PyPI and Conda distributions,
+* ensuring alignment with Astropy’s development and contribution guidelines, and
+* coordinating community contributions.
 
 ### Approximate Budget
 Currency: USD $
 
-- Salary: $15600 (2h / week for 52 weeks at a rate of $150/hour)
+The proposed optimal budget is based on an **hourly rate of USD 150** and an 
+**anticipated average workload of one hour per week over 12 months**, from January 
+to December 2027. This corresponds to a total of 52 hours and an **estimated project 
+cost of USD 7,800.**
 
 ### Period of Performance
 
