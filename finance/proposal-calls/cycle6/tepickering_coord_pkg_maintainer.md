@@ -10,7 +10,7 @@ Now that `astroplan` has been officially anointed as a coordinated package, it n
 
 #### Project / Work / Deliverables
 - `astroplan`: package maintenance including PR/issue review, keep infrastructure up-to-date with `astropy` standards, release management, community outreach, and communication.
-- `specreduce`: package maintenance and support.
+- `specreduce`: package maintenance and support separate from spectroscopic software development.
 - `specutils`: assist with package maintenance and support as and where needed.
 
 ### Approximate Budget
