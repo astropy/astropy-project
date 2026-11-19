@@ -15,6 +15,7 @@ This project continues my work in the `specreduce` package project management, m
 
 * reviewing pull requests and triaging GitHub issues,
 * preparing and publishing releases, keeping PyPI and conda-forge in sync,
+* improving `specreduce`'s documentation',
 * keeping `specreduce` aligned with Astropy's development guidelines, and
 * coordinating and mentoring community contributions.
 
