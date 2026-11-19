@@ -25,7 +25,7 @@ This project continues my work in the `specreduce` package project management, m
 2. instrument-specific recipes and walkthroughs in the tutorials,
 3. interoperability with Gemini data, including tests and
    benchmarks based on Gemini data,
-4. improved ASDF support for, and contributing to the 2027 objective on 
+4. improved ASDF support, and contributing to the 2027 objective on 
    interoperability with performant I/O formats,
 5. infrastructure for reducing multi-object spectrograph data,
 6. other functionality requested in the issue tracker.
