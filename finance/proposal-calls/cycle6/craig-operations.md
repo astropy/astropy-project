@@ -24,16 +24,17 @@ Deliverables:
   [astropy#15073](https://github.com/astropy/astropy/issues/15073). This should
   wait until the core is closer to Array API adoption, since several of the
   workarounds exist only because `Quantity` lacks Array API support.
-- Make `ccdproc` image combination faster and leaner, addressing
+- Make `ccdproc` image combination faster, addressing
   [ccdproc#645](https://github.com/astropy/ccdproc/issues/645),
   [ccdproc#624](https://github.com/astropy/ccdproc/issues/624),
   [ccdproc#1012](https://github.com/astropy/ccdproc/issues/1012) and
   [ccdproc#1013](https://github.com/astropy/ccdproc/issues/1013). In `reducer`
   I recently cut the time to combine 40 images of 4096×4096 pixels from 228 s
-  to 4 s, with a very low memory limit, by reading
-  each input once and combining in bands
-  ([mwcraig/reducer#193](https://github.com/mwcraig/reducer/pull/193)); related
-  changes roughly halved peak memory
+  to 4 s by reading each input once and combining in bands
+  ([mwcraig/reducer#193](https://github.com/mwcraig/reducer/pull/193)); this
+  speedup applies only to cases where the execution time is dominated by I/O
+  operations in the current implementation, such as when a low memory limit is
+  set for the combination. Related changes roughly halved peak memory
   ([mwcraig/reducer#185](https://github.com/mwcraig/reducer/pull/185),
   [astro-notebooks#18](https://github.com/feder-observatory/astro-notebooks/pull/18)).
   Much of that work can move upstream into `ccdproc`.
@@ -43,10 +44,12 @@ Currency: USD
 
 - Salary: $4,000 (roughly 27 hours at the $150/hour rate of my current
   independent contractor agreement)
-- Travel: $1,500 to sprint and recruit contributors at SciPy 2027. Sprints at
-  SciPy 2026 produced several infrastructure contributions to `astrowidgets`
-  from new contributors.
-- TOTAL: $5,500
+- Travel: $1,500 to sprint and recruit contributors at SciPy 2027. These efforts
+  will not necessarily be focused on `ccdproc` and `nddata` -- any work in
+  astropy-related packages will be invited and supported. The past few SciPy
+  meetings have led to meaningful contributions in several coordinated or
+  affiliated packages.
+- TOTAL: $5,500. This is the minimum viable budget.
 
 ### Period of Performance
 
