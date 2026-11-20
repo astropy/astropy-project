@@ -45,7 +45,9 @@ Based on this, we will then develop and publish criteria to help us flag package
 
 ### Approximate Budget
 
-80h @ USD 150/hour = USD 12,000
+Ideal budget: 80h @ USD 150/hour = USD 12,000
+
+Minimum useful budget: 60h @ USD 150/hour = USD 9,000
 
 ### Period of Performance
 
