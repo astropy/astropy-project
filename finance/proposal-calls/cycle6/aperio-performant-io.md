@@ -38,7 +38,9 @@ At this point, we will open a tracking issue for each format, summarizing the be
 
 ### Approximate Budget
 
-120h @ USD 150/hour = USD 18,000
+Ideal budget: 120h @ USD 150/hour = USD 18,000
+
+Minimum useful budget: 80h @ USD 150/hour = USD 12,000 (this would likely entail completing KR7.1 and KR7.2 but not KR7.3)
 
 ### Period of Performance
 
