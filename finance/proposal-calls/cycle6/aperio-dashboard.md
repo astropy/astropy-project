@@ -47,7 +47,7 @@ Based on this, we will then develop and publish criteria to help us flag package
 
 Ideal budget: 80h @ USD 150/hour = USD 12,000
 
-Minimum useful budget: 60h @ USD 150/hour = USD 9,000
+Minimum useful budget: 60h @ USD 150/hour = USD 9,000 (we would then focus on KR5.1 and would likely not complete KR5.2 and KR5.3)
 
 ### Period of Performance
 
