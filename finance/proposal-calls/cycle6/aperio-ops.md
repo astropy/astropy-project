@@ -34,6 +34,8 @@ This project covers work in the following areas:
 Contractor fees: 62,400 USD - 8h / week @ $150/hour.
 Travel: 1,000 USD to allow travel to work together in person (Petrol or Taxi expenses).
 
+Minimum useful budget: 31,200 USD - 4h / week @ $150/hour and 600 USD for travel
+
 ### Period of Performance
 
 Jan 1, 2027–Dec 31, 2027.
