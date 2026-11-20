@@ -9,8 +9,12 @@ Timothy Pickering
 This a continuation of spectroscopy development and outreach carried out in previous cycles as well tackling two spectroscopy-related high-priority objectives.
 
 #### High Priority Objectives
-- Add read/write support for the IVOA SpectrumDM format to `specutils`.
-- Begin the work of supporting the `Array` interface protocol in `specreduce`. This ties into both the work being done to make `Quanitity` `Array` compliant as well as improving interoperability with performant I/O file formats and libraries that `Array` would facilitate.
+- Add read/write support for the IVOA SpectrumDM format to `specutils`. This proposal will address and complete the following key results from the Astropy roadmap:
+    - **KR8.1**: `specutils` reader for SpectrumDM-compatible `VOTables`, including tests and test data from at least two different archives.
+    - **KR8.2**: `specutils` writer that can write a `Spectrum` object to a SpectrumDM `VOTable` that passes `astropy`'s `VOTable` validator and includes all fields that SpectrumDM marks as mandatory.
+    - **KR8.3**: Reading and writing as in KR8.1 and KR8.2 via the SpectrumDM FITS serialization (including validation), demonstrated with at least one archive-provided file.
+- Begin the work of supporting the `Array` interface protocol in `specreduce`. This ties into both the work being done to make `Quanitity` `Array` compliant as well as improving interoperability with performant I/O file formats and libraries that `Array` would facilitate. This work directly addresses the following key result from the Astropy roadmap:
+    - **KR1.2**: With a backward-compatibility layer in place, the existing test suites of astropy core and all coordinated packages, including `specreduce`, pass with no new failures against the new Quantity.
 
 #### Project / Work / Deliverables
 - A SpectrumDM reader/writer should be a relatively straightforward deliverable. The documentation is all there, but examples of real-world data will need to be collected for testing.
@@ -27,7 +31,9 @@ This a continuation of spectroscopy development and outreach carried out in prev
 ### Approximate Budget
 Currency: USD $
 
-- Salary: $9600 (based on 80 hours at current contracted rate of $120/hour)
+- Salary:
+    - $9600 (full proposal based on 80 hours at current contracted rate of $120/hour)
+    - $4800 (minimum SpectrumDM proposal based on 40 hours at current contracted rate of $120/hour)
 
 Please note that we would happily accept budget items other than the above.
 
