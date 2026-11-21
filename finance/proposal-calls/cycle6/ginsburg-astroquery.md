@@ -40,6 +40,7 @@ Currency: US $
   (1 calendar month; to be awarded via subaward, as in previous cycles)
 - Travel and conference registration: none requested
 - TOTAL: $24,782 [2026 number; 2027 number TBD but anticipated ~3-5% higher]
+- Range: This is the minimum practical amount.
 
 ### Period of Performance
 Jan 1, 2027–Dec 31, 2027
