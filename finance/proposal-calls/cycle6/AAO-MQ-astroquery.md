@@ -83,9 +83,9 @@ platforms.
 This funding application is to cover staff time at USD$188/hour. Recognising the 
 size of the available budget, we propose three possible options for this work:
 
-Option 1: astroquery + pyVO core + pyVO extension: Hours: 451; Budget: $84,500
-Option 2: astroquery + pyVO core: Hours: 336; Budget: $63,000
-Option 3: astroquery only: Hours: 210; Budget: $39,500
+- Option 1: astroquery + pyVO core + pyVO extension: Hours: 451; Budget: $84,500
+- Option 2: astroquery + pyVO core: Hours: 336; Budget: $63,000
+- Option 3: astroquery only: Hours: 210; Budget: $39,500
 
 The minimum useful scope is Option 3. 
 No travel funding is requested.
