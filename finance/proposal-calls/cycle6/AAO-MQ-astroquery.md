@@ -1,5 +1,4 @@
-### Title
-Cycle 6 Funding: Making Australian astronomical datasets accessible 
+### Cycle 6 Funding: Making Australian astronomical datasets accessible 
 
 **Proposal Category**: Innovations
 
@@ -15,7 +14,7 @@ contributions to astropy (including the current OAuth2 PR pyvo#785) but it is
 our first proposal as a team, and we are keen to further contribute to this
 important project not just through this proposal but in the longer term. 
 
-### Project Description
+### Project Description / Scope of Work
 We propose two linked subprojects that open up data users struggle to reach.
 
 1. Australian data in astroquery: astroquery is the touchstone for finding 
@@ -88,7 +87,9 @@ Option 1: astroquery + pyVO core + pyVO extension: Hours: 451; Budget: $84,500
 Option 2: astroquery + pyVO core: Hours: 336; Budget: $63,000
 Option 3: astroquery only: Hours: 210; Budget: $39,500
 
-The minimum useful scope is Option 3. No travel funding is requested.
+The minimum useful scope is Option 3. 
+No travel funding is requested.
+
 TOTAL: USD$84,500 (Option 1)
 
 ### Period of Performance
